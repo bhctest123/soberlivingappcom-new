@@ -28,11 +28,17 @@ const siteTitle = "Sober Living App";
 const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
 
 // Get the current URL (works for both production and staging)
-const currentSite = Astro.url.origin || Astro.site;
-const canonicalURL = canonical || new URL(Astro.url.pathname, currentSite).href;
+// For local dev, use the site from config; for deployed, use the actual URL
+const baseURL = import.meta.env.PROD 
+  ? (Astro.url.origin || Astro.site || 'https://soberlivingapp.com')
+  : 'http://localhost:4321';
+  
+const canonicalURL = canonical || new URL(Astro.url.pathname, baseURL).href;
 
 // Build absolute image URL that works on both staging and production
-const imageURL = image.startsWith('http') ? image : new URL(image, currentSite).href;
+// Ensure the image path starts with a slash
+const imagePath = image.startsWith('/') ? image : `/${image}`;
+const imageURL = image.startsWith('http') ? image : `${baseURL}${imagePath}`;
 ---
 
 <!DOCTYPE html>
@@ -70,6 +76,10 @@ const imageURL = image.startsWith('http') ? image : new URL(image, currentSite).
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={imageURL} />
     <meta name="twitter:image:alt" content={`${fullTitle} - Social share preview`} />
+    
+    <!-- Additional tags for better compatibility -->
+    <meta name="image" content={imageURL} />
+    <meta itemprop="image" content={imageURL} />
     
     <!-- Structured Data -->
     {structuredData && (
