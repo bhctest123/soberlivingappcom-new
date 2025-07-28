@@ -1,16 +1,16 @@
 {
   "seo": {
-    "title": "Sober Living App",
-    "description": "Sober Living App offers all of the tools you need to manage your sober living home, recovery residence, halfway house or transitional housing program.",
-    "ogTitle": "Sober Living App",
-    "ogDescription": "Sober Living App offers all of the tools you need to manage your sober living home, recovery residence, halfway house or transitional housing program.",
+    "title": "Sober Living Software - Manage Your Recovery Residence | Sober Living App",
+    "description": "Leading sober living management software used by 500+ recovery facilities. Automate admissions, billing & operations. 30-day free trial - no setup fees.",
+    "ogTitle": "Sober Living Software - Manage Your Recovery Residence | Sober Living App",
+    "ogDescription": "Leading sober living management software used by 500+ recovery facilities. Automate admissions, billing & operations. 30-day free trial - no setup fees.",
     "ogImage": "https://images.squarespace-cdn.com/content/5a811b28d55b410667f7bf1e/1739615362559-ESSNBATDXCGGS1IKKU5E/ic_sla_logo.png",
     "canonicalUrl": "https://soberlivingapp.com",
     "siteTagLine": "Run your Sober Living Homes like a business",
     "structuredData": {
       "url": "https://soberlivingapp.com",
-      "name": "Sober Living App",
-      "description": "Run your sober living on autopilot. Sober Living App offers all the tools you need to manage your sober living home business.",
+      "name": "Sober Living App - Recovery Residence Management Software",
+      "description": "Leading sober living management software trusted by 500+ recovery facilities nationwide. Automate admissions, billing, housing operations and compliance.",
       "image": "//images.squarespace-cdn.com/content/v1/5a811b28d55b410667f7bf1e/7302c9ca-6a2a-40e4-942f-a0971833d039/ic_sla_logo.png",
       "@context": "http://schema.org",
       "@type": "WebSite"
@@ -25,15 +25,15 @@
       "src": "/images/brand/sober-living-app-icon.png",
       "alt": "Sober Living App Icon"
     },
-    "tagline": "The best software for your homes!",
-    "description": "We simplify and streamline your sober living home operations and revenue cycle performance, saving you time and money. Join thousands of other Recovery Residences by getting started today!",
+    "tagline": "All-in-one sober living management software",
+    "description": "Automate admissions, housing, billing and compliance for your recovery residence. Trusted by 500+ facilities nationwide to increase revenue by 40% while reducing admin time by 60%.",
     "headline": "Run your sober living on autopilot"
   },
   "cta": {
     "primary": {
-      "text": "Get Started",
+      "text": "Start Free 30-Day Trial",
       "href": "https://behavehealth.com/get-started",
-      "subtext": "Want to try it for free?"
+      "subtext": "No setup fees • No credit card required"
     },
     "secondary": {
       "text": "User Log-in",
@@ -123,7 +123,7 @@
     }
   ],
   "socialProof": {
-    "text": "Use our software tools to manage your sober living home, recovery residence, halfway house, or transitional housing program."
+    "text": "Join 500+ recovery facilities using our comprehensive sober living management software to automate operations and increase revenue."
   },
   "appStoreButtons": {
     "apple": {
