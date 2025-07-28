@@ -1,0 +1,24 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Test Blog Page" description="Testing blog layout">
+  <article class="min-h-screen bg-background">
+    <div class="container mx-auto px-4 py-16">
+      <div class="max-w-4xl mx-auto">
+        <h1 class="text-4xl font-bold mb-4">Test Blog Page</h1>
+        <p class="text-lg text-muted-foreground mb-8">This is a test to see if the blog layout is working properly.</p>
+        
+        <div class="prose prose-lg max-w-none">
+          <h2>Test Content</h2>
+          <p>This is a test paragraph to see if the content is displaying correctly.</p>
+          <ul>
+            <li>Test item 1</li>
+            <li>Test item 2</li>
+            <li>Test item 3</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </article>
+</BaseLayout> 

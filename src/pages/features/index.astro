@@ -1,0 +1,419 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { features } from '@/data/features';
+
+// Group features into logical categories
+const featureGroups = {
+  "Resident Management": [
+    "admissions",
+    "residents", 
+    "alumni",
+    "contacts",
+    "general-info",
+    "portal"
+  ],
+  "Housing & Operations": [
+    "bed-management",
+    "properties",
+    "housing",
+    "housing-notes",
+    "operations",
+    "scheduling"
+  ],
+  "Financial & Billing": [
+    "billing",
+    "invoices",
+    "leads"
+  ],
+  "Compliance & Security": [
+    "drug-test",
+    "test-results",
+    "security",
+    "permissions",
+    "file-storage"
+  ],
+  "Communication & Tasks": [
+    "communication-logs",
+    "tasks",
+    "connections"
+  ],
+  "Organizations & External": [
+    "organizations",
+    "organizations-providers",
+    "organizations-resources", 
+    "organizations-vendors"
+  ],
+  "Management & Analytics": [
+    "dashboard",
+    "employees",
+    "mobile"
+  ]
+};
+
+const groupDescriptions: Record<string, {title: string, description: string, benefits: string[]}> = {
+  "Resident Management": {
+    title: "Streamline resident relationships from admission to alumni success",
+    description: "Comprehensive tools to manage every aspect of resident care, from initial intake through ongoing support and alumni engagement.",
+    benefits: ["Faster admissions processing", "Better resident outcomes", "Stronger alumni networks"]
+  },
+  "Housing & Operations": {
+    title: "Optimize property management and daily operations",
+    description: "Keep your facilities running smoothly with integrated bed management, property oversight, and operational workflows.",
+    benefits: ["Maximized occupancy rates", "Reduced operational costs", "Improved facility maintenance"]
+  },
+  "Financial & Billing": {
+    title: "Streamline finances and accelerate revenue collection",
+    description: "Automated billing, invoice management, and lead tracking to optimize your financial operations and cash flow.",
+    benefits: ["Faster payment collection", "Reduced billing errors", "Better financial visibility"]
+  },
+  "Compliance & Security": {
+    title: "Maintain compliance and ensure resident safety",
+    description: "Comprehensive security features, drug testing management, and compliance tools to meet all regulatory requirements.",
+    benefits: ["100% regulatory compliance", "Enhanced resident safety", "Secure data management"]
+  },
+  "Communication & Tasks": {
+    title: "Enhance team collaboration and task management",
+    description: "Centralized communication tools and task management systems to keep your team coordinated and productive.",
+    benefits: ["Better team coordination", "Improved task completion", "Clear communication logs"]
+  },
+  "Organizations & External": {
+    title: "Manage partnerships and external relationships",
+    description: "Connect with healthcare providers, vendors, and community resources to create a comprehensive support network.",
+    benefits: ["Stronger partnerships", "Better resident resources", "Streamlined vendor management"]
+  },
+  "Management & Analytics": {
+    title: "Data-driven insights and mobile accessibility",
+    description: "Real-time dashboards, employee management, and mobile access to keep you connected and informed wherever you are.",
+    benefits: ["Data-driven decisions", "Improved staff management", "24/7 access and control"]
+  }
+};
+
+const categoryColors = [
+  "from-blue-500 to-cyan-500",
+  "from-green-500 to-emerald-500", 
+  "from-purple-500 to-violet-500",
+  "from-orange-500 to-red-500",
+  "from-pink-500 to-rose-500",
+  "from-indigo-500 to-blue-500",
+  "from-teal-500 to-green-500"
+];
+
+const categoryIcons = {
+  "Resident Management": "/images/icons/features/ic_residents_large.png",
+  "Housing & Operations": "/images/icons/features/ic_housing_department_large.png", 
+  "Financial & Billing": "/images/icons/features/ic_billing_large.png",
+  "Compliance & Security": "/images/icons/features/ic_permissions_large.png",
+  "Communication & Tasks": "/images/icons/features/ic_communication_logs.png",
+  "Organizations & External": "/images/icons/features/ic_organizations_large.png",
+  "Management & Analytics": "/images/icons/features/ic_dashboard_large.png"
+};
+---
+
+<BaseLayout 
+  title="Features - Sober Living App | Complete Recovery Management Platform"
+  description="Discover all the powerful features that make Sober Living App the most comprehensive solution for managing recovery residences, halfway houses, and transitional housing programs."
+>
+  <main class="min-h-screen bg-background">
+    <!-- Hero Section with Enhanced Design -->
+    <section class="relative bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-24 lg:py-32 overflow-hidden">
+      <!-- Background decoration -->
+      <div class="absolute inset-0 opacity-10">
+        <div class="absolute top-0 -left-4 w-72 h-72 bg-purple-300 rounded-full mix-blend-multiply filter blur-xl animate-blob"></div>
+        <div class="absolute top-0 -right-4 w-72 h-72 bg-yellow-300 rounded-full mix-blend-multiply filter blur-xl animate-blob animation-delay-2000"></div>
+        <div class="absolute -bottom-8 left-20 w-72 h-72 bg-pink-300 rounded-full mix-blend-multiply filter blur-xl animate-blob animation-delay-4000"></div>
+      </div>
+      
+      <div class="container mx-auto px-4 relative">
+        <div class="text-center max-w-5xl mx-auto">
+          <!-- Main headline with better typography -->
+          <h1 class="text-5xl lg:text-7xl font-bold mb-8 leading-tight">
+            <span class="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+              Complete Feature Suite
+            </span>
+          </h1>
+          
+          <!-- Enhanced description -->
+          <p class="text-2xl lg:text-3xl text-gray-700 mb-8 leading-relaxed font-light">
+            Everything you need to manage your recovery residence with <span class="font-semibold text-blue-600">confidence and efficiency</span>
+          </p>
+          
+          <!-- Value proposition -->
+          <div class="bg-white/70 backdrop-blur-sm rounded-2xl p-8 mb-10 border border-white/50 shadow-xl">
+            <p class="text-lg text-gray-700 mb-6">
+              Join <strong class="text-blue-600">2,500+ recovery facilities</strong> using our comprehensive platform to:
+            </p>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <div class="flex items-center gap-3">
+                <div class="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center">
+                  <img src="/images/icons/check.png" alt="Check" class="w-5 h-5 filter brightness-0 invert" />
+                </div>
+                <span class="text-gray-700 font-medium">Reduce admin time by 60%</span>
+              </div>
+              <div class="flex items-center gap-3">
+                <div class="w-8 h-8 bg-blue-500 rounded-full flex items-center justify-center">
+                  <img src="/images/icons/check.png" alt="Check" class="w-5 h-5 filter brightness-0 invert" />
+                </div>
+                <span class="text-gray-700 font-medium">Improve compliance by 95%</span>
+              </div>
+              <div class="flex items-center gap-3">
+                <div class="w-8 h-8 bg-purple-500 rounded-full flex items-center justify-center">
+                  <img src="/images/icons/check.png" alt="Check" class="w-5 h-5 filter brightness-0 invert" />
+                </div>
+                <span class="text-gray-700 font-medium">Increase occupancy rates</span>
+              </div>
+            </div>
+          </div>
+          
+          <!-- CTA buttons -->
+          <div class="flex flex-col sm:flex-row gap-4 justify-center">
+            <a 
+              href="https://behavehealth.com/get-started" 
+              class="group inline-flex items-center px-8 py-4 text-lg font-semibold rounded-xl text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
+            >
+              Start Free Trial
+              <img src="/images/icons/long_arrow_right.png" alt="Arrow" class="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            </a>
+            <a 
+              href="/contact" 
+              class="group inline-flex items-center px-8 py-4 text-lg font-semibold rounded-xl text-gray-700 bg-white hover:bg-gray-50 transition-all duration-200 shadow-md hover:shadow-lg border border-gray-200"
+            >
+              Schedule Demo
+              <img src="/images/icons/ic_schedule.png" alt="Calendar" class="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Features by Category with Enhanced Design -->
+    <section class="py-20 lg:py-28">
+      <div class="container mx-auto px-4">
+        <!-- Section intro -->
+        <div class="text-center mb-20">
+          <h2 class="text-4xl lg:text-5xl font-bold mb-6 text-gray-900">
+            Organized by Your Operational Needs
+          </h2>
+          <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
+            Our features are thoughtfully organized into categories that match your daily workflows, making it easy to find and use exactly what you need.
+          </p>
+        </div>
+
+        {Object.entries(featureGroups).map(([groupName, featureIds], index) => {
+          const groupFeatures = features.filter(f => featureIds.includes(f.id));
+          const groupData = groupDescriptions[groupName];
+          const colorClass = categoryColors[index % categoryColors.length];
+          const isEven = index % 2 === 0;
+          
+          return (
+            <div class={`mb-24 last:mb-0 ${isEven ? 'bg-gradient-to-br from-gray-50 to-white' : 'bg-white'} rounded-3xl p-8 lg:p-12`}>
+              <!-- Category Header -->
+              <div class="text-center mb-16">
+                <div class="flex justify-center mb-8">
+                  <div class={`w-20 h-20 rounded-2xl bg-gradient-to-br ${colorClass} p-4 flex items-center justify-center shadow-lg`}>
+                    <img 
+                      src={categoryIcons[groupName as keyof typeof categoryIcons]} 
+                      alt={groupName}
+                      class="w-12 h-12 filter brightness-0 invert"
+                    />
+                  </div>
+                </div>
+                
+                <h3 class="text-4xl lg:text-5xl font-bold mb-6 text-gray-900">{groupName}</h3>
+                <p class="text-2xl text-gray-700 mb-8 font-light leading-relaxed max-w-4xl mx-auto">
+                  {groupData.title}
+                </p>
+                <p class="text-lg text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
+                  {groupData.description}
+                </p>
+                
+                <!-- Benefits showcase -->
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto mb-12">
+                  {groupData.benefits.map((benefit) => (
+                    <div class="bg-white rounded-xl p-4 shadow-md border border-gray-100">
+                      <div class="flex items-center gap-3">
+                        <div class={`w-8 h-8 rounded-lg bg-gradient-to-br ${colorClass} flex items-center justify-center`}>
+                          <img src="/images/icons/check.png" alt="Benefit" class="w-4 h-4 filter brightness-0 invert" />
+                        </div>
+                        <span class="font-medium text-gray-900">{benefit}</span>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+              
+              <!-- Feature cards with enhanced design -->
+              <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                {groupFeatures.map((feature) => (
+                  <a 
+                    href={`/features/${feature.id}`}
+                    class="group block bg-white rounded-2xl border border-gray-200 hover:border-blue-300 hover:shadow-xl transition-all duration-300 overflow-hidden transform hover:-translate-y-1"
+                  >
+                    <!-- Feature card header -->
+                    <div class={`bg-gradient-to-br ${colorClass} p-6 relative overflow-hidden`}>
+                      <div class="absolute -top-4 -right-4 w-20 h-20 bg-white/20 rounded-full"></div>
+                      <div class="absolute -bottom-4 -left-4 w-16 h-16 bg-white/10 rounded-full"></div>
+                      <div class="relative flex items-center justify-between">
+                        <div class="w-14 h-14 bg-white/20 backdrop-blur-sm rounded-xl flex items-center justify-center">
+                          <img 
+                            src={feature.iconPath} 
+                            alt={feature.altText}
+                            class="w-8 h-8 filter brightness-0 invert"
+                          />
+                        </div>
+                        <div class="opacity-0 group-hover:opacity-100 transition-opacity">
+                          <img src="/images/icons/external_link.png" alt="View" class="w-5 h-5 filter brightness-0 invert" />
+                        </div>
+                      </div>
+                    </div>
+                    
+                    <!-- Feature card content -->
+                    <div class="p-6">
+                      <h4 class="font-bold text-xl mb-3 group-hover:text-blue-600 transition-colors">
+                        {feature.name}
+                      </h4>
+                      <p class="text-gray-600 leading-relaxed mb-4">
+                        {feature.description}
+                      </p>
+                      <div class="flex items-center text-blue-600 font-medium opacity-0 group-hover:opacity-100 transition-all duration-300 transform translate-y-2 group-hover:translate-y-0">
+                        <span>Explore feature</span>
+                        <img src="/images/icons/chevron_right.png" alt="Arrow" class="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                      </div>
+                    </div>
+                  </a>
+                ))}
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </section>
+
+    <!-- Enhanced Statistics Section -->
+    <section class="bg-gradient-to-br from-blue-600 via-indigo-600 to-purple-600 py-20 relative overflow-hidden">
+      <div class="absolute inset-0 bg-black/10"></div>
+      <div class="absolute inset-0 opacity-20">
+        <div class="absolute top-10 left-10 w-32 h-32 bg-white rounded-full mix-blend-soft-light animate-pulse"></div>
+        <div class="absolute bottom-10 right-10 w-40 h-40 bg-white rounded-full mix-blend-soft-light animate-pulse animation-delay-2000"></div>
+      </div>
+      
+      <div class="container mx-auto px-4 relative">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl lg:text-5xl font-bold text-white mb-6">
+            Trusted by Recovery Leaders Nationwide
+          </h2>
+          <p class="text-xl text-blue-100 max-w-3xl mx-auto">
+            See why thousands of recovery facilities choose our comprehensive platform
+          </p>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-16">
+          <div class="text-center">
+            <div class="text-5xl font-bold text-white mb-2">2,500+</div>
+            <div class="text-blue-100">Recovery Facilities</div>
+          </div>
+          <div class="text-center">
+            <div class="text-5xl font-bold text-white mb-2">50,000+</div>
+            <div class="text-blue-100">Residents Managed</div>
+          </div>
+          <div class="text-center">
+            <div class="text-5xl font-bold text-white mb-2">99.9%</div>
+            <div class="text-blue-100">System Uptime</div>
+          </div>
+          <div class="text-center">
+            <div class="text-5xl font-bold text-white mb-2">24/7</div>
+            <div class="text-blue-100">Expert Support</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Enhanced Call to Action -->
+    <section class="py-24 bg-gradient-to-br from-gray-50 to-white">
+      <div class="container mx-auto px-4 text-center">
+        <div class="max-w-4xl mx-auto">
+          <h2 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-8">
+            Ready to Transform Your Operations?
+          </h2>
+          <p class="text-xl text-gray-600 mb-12 leading-relaxed">
+            Join the thousands of recovery professionals who have streamlined their operations, improved compliance, and enhanced resident outcomes with our comprehensive platform.
+          </p>
+          
+          <!-- Enhanced CTA options -->
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
+            <div class="bg-white rounded-xl p-6 shadow-lg border border-gray-200">
+              <div class="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mx-auto mb-4">
+                <img src="/images/icons/check.png" alt="Free" class="w-6 h-6" />
+              </div>
+              <h3 class="font-semibold text-lg mb-2">Free Trial</h3>
+              <p class="text-gray-600 text-sm">No credit card required</p>
+            </div>
+            <div class="bg-white rounded-xl p-6 shadow-lg border border-gray-200">
+              <div class="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center mx-auto mb-4">
+                <img src="/images/icons/video_call.png" alt="Demo" class="w-6 h-6" />
+              </div>
+              <h3 class="font-semibold text-lg mb-2">Personal Demo</h3>
+              <p class="text-gray-600 text-sm">Tailored to your needs</p>
+            </div>
+            <div class="bg-white rounded-xl p-6 shadow-lg border border-gray-200">
+              <div class="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mx-auto mb-4">
+                <img src="/images/icons/phone_call.png" alt="Support" class="w-6 h-6" />
+              </div>
+              <h3 class="font-semibold text-lg mb-2">Expert Support</h3>
+              <p class="text-gray-600 text-sm">Available 24/7</p>
+            </div>
+          </div>
+          
+          <div class="flex flex-col sm:flex-row gap-4 justify-center">
+            <a 
+              href="https://behavehealth.com/get-started" 
+              class="group inline-flex items-center px-10 py-5 text-xl font-semibold rounded-xl text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 transition-all duration-200 shadow-xl hover:shadow-2xl transform hover:-translate-y-1"
+            >
+              Start Your Free Trial
+              <img src="/images/icons/long_arrow_right.png" alt="Arrow" class="ml-3 w-6 h-6 group-hover:translate-x-1 transition-transform" />
+            </a>
+            <a 
+              href="/contact" 
+              class="group inline-flex items-center px-10 py-5 text-xl font-semibold rounded-xl text-gray-700 bg-white hover:bg-gray-50 transition-all duration-200 shadow-lg hover:shadow-xl border border-gray-200"
+            >
+              Schedule Demo
+              <img src="/images/icons/ic_schedule.png" alt="Calendar" class="ml-3 w-6 h-6 group-hover:translate-x-1 transition-transform" />
+            </a>
+          </div>
+          
+          <p class="text-sm text-gray-500 mt-8">
+            Questions? Call us at <a href="tel:6503384113" class="text-blue-600 hover:underline font-medium">(650) 338-4113</a> or email <a href="mailto:contact@behavehealth.com" class="text-blue-600 hover:underline font-medium">contact@behavehealth.com</a>
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  @keyframes blob {
+    0% {
+      transform: translate(0px, 0px) scale(1);
+    }
+    33% {
+      transform: translate(30px, -50px) scale(1.1);
+    }
+    66% {
+      transform: translate(-20px, 20px) scale(0.9);
+    }
+    100% {
+      transform: translate(0px, 0px) scale(1);
+    }
+  }
+  
+  .animate-blob {
+    animation: blob 7s infinite;
+  }
+  
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+  
+  .animation-delay-4000 {
+    animation-delay: 4s;
+  }
+</style>

@@ -1,0 +1,98 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { SearchInterface } from '@/components/search';
+import type { CollectionEntry } from 'astro:content';
+
+// Get all blog posts for search
+const allPosts = await getCollection('blog', ({ data }: CollectionEntry<'blog'>) => {
+  return data.draft !== true;
+});
+
+// Prepare search data
+const searchData = allPosts.map((post: CollectionEntry<'blog'>) => ({
+  slug: post.slug,
+  title: post.data.title,
+  description: post.data.description,
+  content: post.body,
+  date: post.data.date,
+  author: post.data.author,
+  category: post.data.category,
+  tags: post.data.tags || [],
+  image: post.data.image,
+  imageAlt: post.data.imageAlt,
+  featured: post.data.featured,
+  url: `/sober-living-app-blog/${post.data.date.getUTCFullYear()}/${post.data.date.getUTCMonth() + 1}/${post.data.date.getUTCDate()}/${post.slug}`,
+}));
+
+// Get unique categories and tags for filters
+const allCategories = [...new Set(allPosts.flatMap((post: CollectionEntry<'blog'>) => post.data.category))].sort() as string[];
+const allTags = [...new Set(allPosts.flatMap((post: CollectionEntry<'blog'>) => post.data.tags || []))].sort() as string[];
+
+// SEO structured data
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Sober Living App Blog",
+  "description": "Insights, tips, and best practices for sober living management and recovery support.",
+  "url": `${Astro.site}blog`,
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sober Living App",
+    "logo": {
+      "@type": "ImageObject",
+      "url": `${Astro.site}images/brand/sober-living-app-text@2x.png`
+    }
+  }
+};
+---
+
+<BaseLayout 
+  title="Blog - Sober Living App"
+  description="Search and explore our comprehensive collection of sober living resources, guides, and industry insights. Find exactly what you need to help your recovery residence succeed."
+  structuredData={structuredData}
+>
+  <main class="min-h-screen bg-background">
+    <div class="container mx-auto px-4 py-16">
+      <div class="max-w-7xl mx-auto">
+        <!-- Header -->
+        <div class="text-center mb-12">
+          <h1 class="text-4xl md:text-5xl font-bold mb-4">
+            Sober Living Blog
+          </h1>
+          <p class="text-xl text-muted-foreground max-w-3xl mx-auto">
+            Search and explore expert insights, best practices, and resources for sober living professionals, 
+            recovery advocates, and facility operators.
+          </p>
+        </div>
+
+        <!-- Search Interface -->
+        <SearchInterface 
+          searchData={searchData}
+          categories={allCategories}
+          tags={allTags}
+          client:load
+        />
+
+        <!-- Newsletter Signup CTA -->
+        <section class="mt-16 bg-blue-50 rounded-2xl p-8 text-center">
+          <h3 class="text-2xl font-bold mb-4">Stay Updated</h3>
+          <p class="text-gray-600 mb-6 max-w-2xl mx-auto">
+            Get the latest insights, tips, and resources delivered directly to your inbox. 
+            Join our community of sober living professionals.
+          </p>
+          <div class="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
+            <input
+              type="email"
+              placeholder="Enter your email"
+              class="flex-1 px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+            />
+            <button class="px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors font-medium">
+              Subscribe
+            </button>
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+</BaseLayout>

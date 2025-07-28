@@ -1,0 +1,248 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import BlogCard from '@/components/blog/BlogCard';
+import Pagination from '@/components/blog/Pagination';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  // Get all published blog posts
+  const allPosts = await getCollection('blog', ({ data }: { data: any }) => {
+    return data.draft !== true;
+  });
+
+  // Extract all unique categories
+  const allCategories = new Set<string>();
+  allPosts.forEach((post: any) => {
+    if (post.data.category && Array.isArray(post.data.category)) {
+      post.data.category.forEach((cat: string) => {
+        allCategories.add(cat);
+      });
+    }
+  });
+
+  // List of categories that need special URL handling (from the QA report)
+  const categoryUrlMap: Record<string, string> = {
+    'Accreditation': 'Accreditation',
+    'Admissions': 'Admissions',
+    'Billing': 'Billing',
+    'Certification': 'Certification',
+    'Clinical Operations': 'Clinical+Operations',
+    'Compliance': 'Compliance',
+    'Epidemic': 'Epidemic',
+    'Funding': 'Funding',
+    'Guide': 'Guide',
+    'Healthcare': 'Healthcare',
+    'Insurance': 'Insurance',
+    'Licensing': 'Licensing',
+    'Medication': 'Medication',
+    'Narr': 'Narr',
+    'NARR': 'NARR',
+    'News': 'News',
+    'Property Management': 'Property+Management',
+    'Rco': 'Rco',
+    'RCO': 'RCO',
+    'Recovery Community': 'Recovery+Community',
+    'Recovery Community Center': 'Recovery+Community+Center',
+    'Recovery Industry': 'Recovery+Industry',
+    'Regulations': 'Regulations',
+    'Sober Living Management': 'Sober+Living+Management',
+    'Sober Living Startup': 'Sober+Living+Startup',
+    'State Guide': 'State+Guide',
+    'Technology': 'Technology'
+  };
+
+  const paths: any[] = [];
+
+  // Generate paths for each category
+  Array.from(allCategories).forEach((category: string) => {
+    // Filter posts for this category
+    const categoryPosts = allPosts.filter((post: any) => 
+      post.data.category && post.data.category.includes(category)
+    );
+
+    // Sort posts by date (newest first)
+    const sortedPosts = categoryPosts.sort((a: any, b: any) => {
+      return new Date(b.data.date).getTime() - new Date(a.data.date).getTime();
+    });
+
+    // Get the URL-safe category slug
+    const categorySlug = categoryUrlMap[category] || category.replace(/\s+/g, '+');
+
+    // Generate paginated paths for this category
+    const paginatedPaths = paginate(sortedPosts, { 
+      pageSize: 12,
+      params: { category: categorySlug },
+      props: { categoryName: category }
+    });
+
+    paths.push(...paginatedPaths);
+  });
+
+  return paths;
+}) satisfies GetStaticPaths;
+
+const { page, categoryName } = Astro.props;
+const { data: posts, currentPage, lastPage } = page;
+const categorySlug = Astro.params.category;
+
+// Decode the category slug for display
+const displayCategory = categoryName || categorySlug?.replace(/\+/g, ' ');
+
+// SEO structured data
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": `${displayCategory} - Sober Living App Blog`,
+  "description": `Articles and resources about ${displayCategory} for sober living professionals and recovery advocates.`,
+  "url": `${Astro.site}sober-living-app-blog/category/${categorySlug}`,
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "Sober Living App Blog",
+    "url": `${Astro.site}sober-living-app-blog`
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sober Living App",
+    "logo": {
+      "@type": "ImageObject",
+      "url": `${Astro.site}images/brand/sober-living-app-text@2x.png`
+    }
+  }
+};
+
+// Astro doesn't generate /1 for the first page by default when using [...page]
+// So we need to handle both /category-name and /category-name/1
+const isFirstPage = currentPage === 1 || !Astro.params.page;
+
+const pageTitle = isFirstPage 
+  ? `Sober Living App - ${displayCategory}` 
+  : `Sober Living App - ${displayCategory} - Page ${currentPage}`;
+
+const pageDescription = `Explore articles about ${displayCategory} in the sober living and recovery industry. Expert insights and best practices for recovery professionals.`;
+---
+
+<BaseLayout 
+  title={pageTitle}
+  description={pageDescription}
+  structuredData={structuredData}
+  canonical={`https://soberlivingapp.com/sober-living-app-blog/category/${categorySlug}${!isFirstPage ? `/${currentPage}` : ''}`}
+>
+  <main class="min-h-screen bg-background">
+    <div class="container mx-auto px-4 py-16">
+      <div class="max-w-7xl mx-auto">
+        <!-- Header -->
+        <div class="mb-12">
+          <!-- Breadcrumb -->
+          <nav class="flex items-center text-sm text-muted-foreground mb-6" aria-label="Breadcrumb">
+            <a href="/" class="hover:text-primary transition-colors">Home</a>
+            <span class="mx-2">/</span>
+            <a href="/sober-living-app-blog" class="hover:text-primary transition-colors">Blog</a>
+            <span class="mx-2">/</span>
+            <span class="text-foreground">{displayCategory}</span>
+          </nav>
+
+          <h1 class="text-4xl md:text-5xl font-bold mb-4">
+            {displayCategory}
+          </h1>
+          <p class="text-xl text-muted-foreground max-w-3xl">
+            {posts.length} article{posts.length !== 1 ? 's' : ''} about {displayCategory} in the sober living and recovery industry.
+          </p>
+          {!isFirstPage && (
+            <p class="text-sm text-muted-foreground mt-4">
+              Page {currentPage} of {lastPage}
+            </p>
+          )}
+        </div>
+
+        <!-- Posts Grid -->
+        {posts.length > 0 ? (
+          <>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+              {posts.map((post: any) => (
+                <BlogCard post={post} />
+              ))}
+            </div>
+
+            <!-- Pagination -->
+            {lastPage > 1 && (
+              <Pagination
+                currentPage={currentPage}
+                totalPages={lastPage}
+                baseUrl={`/sober-living-app-blog/category/${categorySlug}`}
+                className="mt-12"
+              />
+            )}
+          </>
+        ) : (
+          <div class="text-center py-12">
+            <svg class="mx-auto h-12 w-12 text-gray-400 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+            </svg>
+            <h3 class="text-lg font-medium text-gray-900 mb-2">No posts found</h3>
+            <p class="text-gray-500">
+              No articles available in this category yet. Check back later for new content.
+            </p>
+          </div>
+        )}
+
+        <!-- Related Categories -->
+        <section class="mt-16 border-t pt-12">
+          <h2 class="text-2xl font-bold mb-6">Explore Other Topics</h2>
+          <div class="flex flex-wrap gap-3">
+            <a href="/sober-living-app-blog/category/Sober+Living+Management" class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-full hover:bg-gray-50 transition-colors">
+              Sober Living Management
+            </a>
+            <a href="/sober-living-app-blog/category/Recovery+Industry" class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-full hover:bg-gray-50 transition-colors">
+              Recovery Industry
+            </a>
+            <a href="/sober-living-app-blog/category/Regulations" class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-full hover:bg-gray-50 transition-colors">
+              Regulations
+            </a>
+            <a href="/sober-living-app-blog/category/Clinical+Operations" class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-full hover:bg-gray-50 transition-colors">
+              Clinical Operations
+            </a>
+            <a href="/sober-living-app-blog/category/Billing" class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-full hover:bg-gray-50 transition-colors">
+              Billing
+            </a>
+          </div>
+        </section>
+
+        <!-- Newsletter CTA -->
+        <section class="mt-16 bg-blue-50 rounded-2xl p-8 text-center">
+          <h3 class="text-2xl font-bold mb-4">Stay Informed</h3>
+          <p class="text-gray-600 mb-6 max-w-2xl mx-auto">
+            Get the latest {displayCategory} insights and updates delivered to your inbox.
+          </p>
+          <div class="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
+            <input
+              type="email"
+              placeholder="Enter your email"
+              class="flex-1 px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+            />
+            <button class="px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors font-medium">
+              Subscribe
+            </button>
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  /* Line clamp utilities for consistent text truncation */
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>

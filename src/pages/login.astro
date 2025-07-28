@@ -1,0 +1,57 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+
+// Redirect to the actual Behave Health login
+return Astro.redirect('https://behavehealth.com/login');
+---
+
+<BaseLayout 
+  title="Redirecting to Login - Sober Living App"
+  description="Redirecting you to the Sober Living App login portal."
+>
+  <main class="min-h-screen bg-gray-50 flex items-center justify-center">
+    <div class="max-w-md w-full mx-4">
+      <div class="text-center mb-8">
+        <div class="flex justify-center mb-4">
+          <img src="/images/brand/sober-living-app-icon.png" alt="Sober Living App Icon" class="h-16 w-16" />
+        </div>
+        <h1 class="text-3xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+          Sober Living App
+        </h1>
+        <p class="text-gray-600 mt-2">Redirecting you to login...</p>
+      </div>
+      
+      <div class="bg-white rounded-lg shadow-md p-8 text-center">
+        <div class="mb-6">
+          <div class="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600 mx-auto"></div>
+        </div>
+        <p class="text-gray-600 mb-4">
+          You are being redirected to the secure login portal.
+        </p>
+        <p class="text-sm text-gray-500 mb-6">
+          If you are not redirected automatically, click the button below.
+        </p>
+        <a 
+          href="https://behavehealth.com/login"
+          class="inline-block w-full py-3 px-4 bg-gradient-to-r from-blue-600 to-indigo-600 text-white rounded-md hover:from-blue-700 hover:to-indigo-700 transition-colors font-medium"
+        >
+          Continue to Login
+        </a>
+      </div>
+      
+      <div class="mt-6 text-center">
+        <p class="text-sm text-gray-600">
+          Don't have an account? 
+          <a href="/signup" class="text-blue-600 hover:text-blue-700 font-medium">Sign up</a>
+        </p>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    // Auto-redirect after a short delay for better UX
+    setTimeout(() => {
+      window.location.href = 'https://behavehealth.com/login';
+    }, 2000);
+  </script>
+</BaseLayout>

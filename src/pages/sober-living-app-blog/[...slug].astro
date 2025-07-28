@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import BlogPostLayout from '@/layouts/BlogPostLayout.astro';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths = (async () => {
+  const blogPosts = await getCollection('blog', ({ data }: { data: any }) => {
+    return data.draft !== true;
+  });
+
+  return blogPosts.map((post: any) => {
+    // Extract date from the post's date field using UTC to avoid timezone shifts
+    const date = post.data.date;
+    const year = date.getUTCFullYear();
+    const month = date.getUTCMonth() + 1; // getUTCMonth returns 0-11
+    const day = date.getUTCDate();
+    
+    // Convert to string for URL
+    const monthStr = month.toString();
+    const dayStr = day.toString();
+    
+    // Build the exact URL structure: /sober-living-app-blog/YYYY/M/D/slug
+    const params = {
+      slug: `${year}/${monthStr}/${dayStr}/${post.slug}`
+    };
+
+    return {
+      params,
+      props: { post },
+    };
+  });
+}) satisfies GetStaticPaths;
+
+const { post } = Astro.props;
+---
+
+<BlogPostLayout post={post} />

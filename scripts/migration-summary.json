@@ -1,0 +1,56 @@
+{
+  "migrationDate": "2025-07-28T00:51:38.402Z",
+  "statistics": {
+    "totalImages": 370,
+    "validImages": 370,
+    "missingImages": 0,
+    "externalImages": 0,
+    "blogPostsWithImages": 540,
+    "urlMappings": 368
+  },
+  "source": {
+    "primaryCDN": "Squarespace CDN (images.squarespace-cdn.com)",
+    "sourceFormats": [
+      "PNG",
+      "JPG",
+      "JPEG",
+      "Various without extensions"
+    ],
+    "urlPattern": "https://images.squarespace-cdn.com/content/v1/5a811b28d55b410667f7bf1e/*"
+  },
+  "destination": {
+    "structure": "/public/images/blog/{blog-slug}/{sanitized-filename}",
+    "organization": "Organized by blog post slug",
+    "namingConvention": "Spaces replaced with underscores, special chars sanitized"
+  },
+  "tools": {
+    "downloadScript": "scripts/download-blog-images.js",
+    "verificationScript": "scripts/verify-blog-images.js",
+    "npmCommands": [
+      "npm run download-images",
+      "npm run verify-images"
+    ]
+  },
+  "sampleMappings": [
+    {
+      "source": "https://images.squarespace-cdn.com/content/v1/5a811b28d55b410667f7bf1e/158749184...",
+      "destination": "/images/blog/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week/Screenshot_2020-04-16_at_10.28.45_AM.png"
+    },
+    {
+      "source": "https://images.squarespace-cdn.com/content/v1/5a811b28d55b410667f7bf1e/158749197...",
+      "destination": "/images/blog/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week/Screenshot_2020-04-16_at_10.29.26_AM.png"
+    },
+    {
+      "source": "https://images.squarespace-cdn.com/content/v1/5a811b28d55b410667f7bf1e/158749204...",
+      "destination": "/images/blog/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week/Screenshot_2020-04-16_at_10.29.53_AM.png"
+    },
+    {
+      "source": "https://images.squarespace-cdn.com/content/v1/5a811b28d55b410667f7bf1e/158749209...",
+      "destination": "/images/blog/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week/Screenshot_2020-04-16_at_10.30.58_AM.png"
+    },
+    {
+      "source": "https://images.squarespace-cdn.com/content/v1/5a811b28d55b410667f7bf1e/160995567...",
+      "destination": "/images/blog/3-mistakes-you-might-be-making-with-mat-patients-at-your-sober-living-home/Screenshot_2020-12-31_at_12.53.04_PM.png"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+// Get all published blog posts to extract categories
+const allPosts = await getCollection('blog', ({ data }: { data: any }) => {
+  return data.draft !== true;
+});
+
+// Extract all unique categories with post counts
+const categoryCounts = new Map<string, number>();
+allPosts.forEach((post: any) => {
+  if (post.data.category && Array.isArray(post.data.category)) {
+    post.data.category.forEach((cat: string) => {
+      categoryCounts.set(cat, (categoryCounts.get(cat) || 0) + 1);
+    });
+  }
+});
+
+// Convert to array and sort by post count
+const categories = Array.from(categoryCounts.entries())
+  .sort((a, b) => b[1] - a[1])
+  .map(([name, count]) => ({ name, count }));
+
+// Category URL mapping
+const categoryUrlMap: Record<string, string> = {
+  'Accreditation': 'Accreditation',
+  'Admissions': 'Admissions',
+  'Billing': 'Billing',
+  'Certification': 'Certification',
+  'Clinical Operations': 'Clinical+Operations',
+  'Compliance': 'Compliance',
+  'Epidemic': 'Epidemic',
+  'Funding': 'Funding',
+  'Guide': 'Guide',
+  'Healthcare': 'Healthcare',
+  'Insurance': 'Insurance',
+  'Licensing': 'Licensing',
+  'Medication': 'Medication',
+  'Narr': 'Narr',
+  'NARR': 'NARR',
+  'News': 'News',
+  'Property Management': 'Property+Management',
+  'Rco': 'Rco',
+  'RCO': 'RCO',
+  'Recovery Community': 'Recovery+Community',
+  'Recovery Community Center': 'Recovery+Community+Center',
+  'Recovery Industry': 'Recovery+Industry',
+  'Regulations': 'Regulations',
+  'Sober Living Management': 'Sober+Living+Management',
+  'Sober Living Startup': 'Sober+Living+Startup',
+  'State Guide': 'State+Guide',
+  'Technology': 'Technology'
+};
+
+// Category descriptions
+const categoryDescriptions: Record<string, string> = {
+  'Sober Living Management': 'Best practices for operating and managing sober living facilities',
+  'Recovery Industry': 'Trends, insights, and developments in the recovery industry',
+  'Regulations': 'Compliance, laws, and regulatory requirements for recovery facilities',
+  'Clinical Operations': 'Clinical best practices and operational procedures',
+  'Billing': 'Insurance billing, payments, and financial management',
+  'Property Management': 'Real estate, facilities, and property management for sober living',
+  'Admissions': 'Admission processes, screening, and intake procedures',
+  'Insurance': 'Insurance coverage, claims, and reimbursement',
+  'Funding': 'Grants, funding opportunities, and financial resources',
+  'NARR': 'National Alliance for Recovery Residences standards and certification',
+  'News': 'Latest news and updates in the recovery community',
+  'Technology': 'Software, apps, and technology solutions for recovery facilities',
+  'Recovery Community': 'Building and supporting recovery communities',
+  'Guide': 'How-to guides and educational resources',
+  'Licensing': 'Licensing requirements and procedures for recovery facilities',
+  'Accreditation': 'Accreditation standards and certification processes',
+  'Certification': 'Professional certifications and credentials',
+  'Epidemic': 'Addressing addiction epidemics and public health crises',
+  'Recovery Community Center': 'Recovery community centers and peer support',
+  'Sober Living Startup': 'Starting and launching sober living facilities',
+  'Medication': 'Medication-assisted treatment and pharmaceutical considerations',
+  'RCO': 'Recovery Community Organizations and advocacy',
+  'Compliance': 'Regulatory compliance and quality assurance',
+  'Healthcare': 'Healthcare integration and medical services',
+  'State Guide': 'State-specific regulations and resources'
+};
+
+// SEO structured data
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Blog Categories - Sober Living App",
+  "description": "Browse articles by category. Expert insights for sober living professionals and recovery advocates.",
+  "url": `${Astro.site}sober-living-app-blog/category`,
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "Sober Living App Blog",
+    "url": `${Astro.site}sober-living-app-blog`
+  }
+};
+---
+
+<BaseLayout 
+  title="Blog Categories - Sober Living App"
+  description="Browse sober living and recovery articles by category. Find expert insights on management, regulations, clinical operations, and more."
+  structuredData={structuredData}
+>
+  <main class="min-h-screen bg-background">
+    <div class="container mx-auto px-4 py-16">
+      <div class="max-w-7xl mx-auto">
+        <!-- Header -->
+        <div class="mb-12">
+          <!-- Breadcrumb -->
+          <nav class="flex items-center text-sm text-muted-foreground mb-6" aria-label="Breadcrumb">
+            <a href="/" class="hover:text-primary transition-colors">Home</a>
+            <span class="mx-2">/</span>
+            <a href="/sober-living-app-blog" class="hover:text-primary transition-colors">Blog</a>
+            <span class="mx-2">/</span>
+            <span class="text-foreground">Categories</span>
+          </nav>
+
+          <h1 class="text-4xl md:text-5xl font-bold mb-4">
+            Blog Categories
+          </h1>
+          <p class="text-xl text-muted-foreground max-w-3xl">
+            Explore our collection of articles organized by topic. Find expert insights and best practices for every aspect of sober living management.
+          </p>
+        </div>
+
+        <!-- Categories Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
+          {categories.map(({ name, count }) => {
+            const slug = categoryUrlMap[name] || name.replace(/\s+/g, '+');
+            const description = categoryDescriptions[name] || `Articles about ${name}`;
+            
+            return (
+              <a 
+                href={`/sober-living-app-blog/category/${slug}`}
+                class="group bg-white rounded-lg border border-gray-200 p-6 hover:shadow-lg transition-all duration-300"
+              >
+                <div class="flex items-start justify-between mb-4">
+                  <h2 class="text-xl font-semibold group-hover:text-primary transition-colors">
+                    {name}
+                  </h2>
+                  <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-100 text-gray-800">
+                    {count} article{count !== 1 ? 's' : ''}
+                  </span>
+                </div>
+                <p class="text-sm text-muted-foreground">
+                  {description}
+                </p>
+              </a>
+            );
+          })}
+        </div>
+
+        <!-- Popular Categories Section -->
+        <section class="border-t pt-12">
+          <h2 class="text-2xl font-bold mb-6">Popular Topics</h2>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div class="bg-blue-50 rounded-lg p-6">
+              <h3 class="text-lg font-semibold mb-3">Getting Started</h3>
+              <ul class="space-y-2">
+                <li>
+                  <a href="/sober-living-app-blog/category/Sober+Living+Startup" class="text-blue-600 hover:text-blue-800 hover:underline">
+                    Sober Living Startup →
+                  </a>
+                </li>
+                <li>
+                  <a href="/sober-living-app-blog/category/Guide" class="text-blue-600 hover:text-blue-800 hover:underline">
+                    How-to Guides →
+                  </a>
+                </li>
+                <li>
+                  <a href="/sober-living-app-blog/category/Licensing" class="text-blue-600 hover:text-blue-800 hover:underline">
+                    Licensing Requirements →
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="bg-green-50 rounded-lg p-6">
+              <h3 class="text-lg font-semibold mb-3">Operations & Management</h3>
+              <ul class="space-y-2">
+                <li>
+                  <a href="/sober-living-app-blog/category/Sober+Living+Management" class="text-green-600 hover:text-green-800 hover:underline">
+                    Facility Management →
+                  </a>
+                </li>
+                <li>
+                  <a href="/sober-living-app-blog/category/Clinical+Operations" class="text-green-600 hover:text-green-800 hover:underline">
+                    Clinical Operations →
+                  </a>
+                </li>
+                <li>
+                  <a href="/sober-living-app-blog/category/Billing" class="text-green-600 hover:text-green-800 hover:underline">
+                    Billing & Insurance →
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <!-- Back to Blog -->
+        <div class="mt-16 text-center">
+          <a 
+            href="/sober-living-app-blog" 
+            class="inline-flex items-center text-primary hover:text-primary/80 transition-colors"
+          >
+            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+            </svg>
+            Back to All Posts
+          </a>
+        </div>
+      </div>
+    </div>
+  </main>
+</BaseLayout>

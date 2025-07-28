@@ -1,0 +1,114 @@
+Asset Download Log
+==================
+Date: 2025-07-27
+Task: Feature Icons Extraction from S3
+
+Summary:
+--------
+Successfully downloaded 28 feature icons from the S3 bucket:
+https://s3-us-west-2.amazonaws.com/soberlivingapp.com/feature-icons/
+
+Downloaded Icons:
+-----------------
+1. ic_admissions_department_large.png
+2. ic_alumni_relations_large.png
+3. ic_bed_management_large.png
+4. ic_billing_large.png
+5. ic_communication_logs.png
+6. ic_connections.png
+7. ic_contacts_large.png
+8. ic_dashboard_large.png
+9. ic_drug_test_large.png
+10. ic_employees_large.png
+11. ic_files_large.png
+12. ic_general_info_large.png
+13. ic_housing_department_large.png
+14. ic_housing_notes_large.png
+15. ic_invoices_large.png
+16. ic_leads_large.png
+17. ic_mobile_large.png
+18. ic_operations_department_large.png
+19. ic_organizations_large.png
+20. ic_organizations_providers_large.png
+21. ic_organizations_resident_resources_large.png
+22. ic_organizations_vendors_large.png
+23. ic_permissions_large.png
+24. ic_properties_large.png
+25. ic_residents_large.png
+26. ic_schedule_large.png
+27. ic_tasks_large.png
+28. ic_test_results_large.png
+
+Destination:
+------------
+All icons saved to: /Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/public/images/icons/features/
+
+Additional Files Created:
+-------------------------
+1. /src/data/features.ts - TypeScript file exporting feature data with icon paths
+2. download_icons.sh - Shell script used for downloading (can be deleted if no longer needed)
+
+Results:
+--------
+Total icons requested: 28
+Successfully downloaded: 28
+Failed downloads: 0
+Success rate: 100%
+
+==========================================
+Date: 2025-07-27
+Task: Brand Assets Extraction
+==========================================
+
+Summary:
+--------
+Attempted to download brand assets from S3 bucket but encountered access restrictions.
+Successfully downloaded favicon.ico from the live website.
+
+Attempted Downloads:
+--------------------
+From S3 (https://s3-us-west-2.amazonaws.com/soberlivingapp.com/):
+1. sober-living-app-icon.png - FAILED (Access Denied)
+2. sober-living-app-text@2x.png - FAILED (Access Denied)
+3. sober-living-app-text.png - FAILED (Access Denied)
+4. Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg - FAILED (Access Denied)
+5. google-play-badge.png - FAILED (Access Denied)
+6. BehaveHealth-logo-white.png - FAILED (Access Denied)
+7. BehaveHealth-logo.png - FAILED (Access Denied)
+8. apple-touch-icon.png - FAILED (Access Denied)
+
+From Live Website (https://soberlivingapp.com/):
+1. favicon.ico - SUCCESS (9.7KB, valid RIFF/WebP image)
+2. All other assets returned HTML error pages
+
+Created Files:
+--------------
+1. /src/data/brand.ts - TypeScript manifest of all brand assets with paths and metadata
+2. /public/images/brand/ - Directory for brand logos
+3. /public/images/badges/ - Directory for app store badges
+
+Next Steps Required:
+--------------------
+1. Obtain the actual brand asset files from:
+   - The development team
+   - Access to the S3 bucket with proper credentials
+   - Original design files
+   
+2. Required brand assets:
+   - sober-living-app-icon.png (main app icon)
+   - sober-living-app-text.png (text logo)
+   - sober-living-app-text@2x.png (2x text logo)
+   - BehaveHealth-logo.png
+   - BehaveHealth-logo-white.png
+   - App Store download badge (SVG)
+   - Google Play download badge (PNG)
+   - apple-touch-icon.png (180x180)
+
+3. The brand.ts file is ready to use once the actual assets are obtained
+
+Results:
+--------
+Total brand assets required: 9
+Successfully downloaded: 1 (favicon.ico)
+Failed downloads: 8
+Success rate: 11%

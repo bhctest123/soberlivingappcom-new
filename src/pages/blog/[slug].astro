@@ -1,0 +1,29 @@
+---
+// This page handles redirects from /blog/[slug] to the correct URL structure
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const blogPosts = await getCollection('blog');
+  
+  return blogPosts.map((post: any) => {
+    // Extract date components using UTC to avoid timezone shifts
+    const date = post.data.date;
+    const year = date.getUTCFullYear();
+    const month = date.getUTCMonth() + 1; // getUTCMonth returns 0-11
+    const day = date.getUTCDate();
+    
+    return {
+      params: { slug: post.slug },
+      props: { 
+        redirectUrl: `/sober-living-app-blog/${year}/${month}/${day}/${post.slug}`
+      }
+    };
+  });
+}
+
+const { redirectUrl } = Astro.props;
+
+// Perform a 301 redirect to preserve SEO
+// eslint-disable-next-line @typescript-eslint/no-unsafe-argument
+return Astro.redirect(redirectUrl, 301);
+---

@@ -1,0 +1,69 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+
+// Redirect to the actual Behave Health get-started page
+return Astro.redirect('https://behavehealth.com/get-started');
+---
+
+<BaseLayout 
+  title="Start Your Free Trial - Sober Living App"
+  description="Create your Sober Living App account and start your free trial today."
+>
+  <main class="min-h-screen bg-gray-50 flex items-center justify-center py-12">
+    <div class="max-w-md w-full mx-4">
+      <div class="text-center mb-8">
+        <div class="flex justify-center mb-4">
+          <img src="/images/brand/sober-living-app-icon.png" alt="Sober Living App Icon" class="h-16 w-16" />
+        </div>
+        <h1 class="text-3xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+          Sober Living App
+        </h1>
+        <p class="text-gray-600 mt-2">Starting your free trial...</p>
+      </div>
+      
+      <div class="bg-white rounded-lg shadow-md p-8 text-center">
+        <div class="mb-6">
+          <div class="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600 mx-auto"></div>
+        </div>
+        <h2 class="text-xl font-semibold mb-4 text-gray-900">
+          Get Started Today
+        </h2>
+        <p class="text-gray-600 mb-4">
+          You are being redirected to our secure registration portal to start your free trial.
+        </p>
+        <div class="bg-blue-50 rounded-lg p-4 mb-6">
+          <h3 class="font-semibold text-blue-900 mb-2">What you'll get:</h3>
+          <ul class="text-sm text-blue-800 space-y-1">
+            <li>• Complete housing management system</li>
+            <li>• Operations and compliance tracking</li>
+            <li>• Streamlined admissions process</li>
+            <li>• 24/7 support and training</li>
+          </ul>
+        </div>
+        <p class="text-sm text-gray-500 mb-6">
+          If you are not redirected automatically, click the button below.
+        </p>
+        <a 
+          href="https://behavehealth.com/get-started"
+          class="inline-block w-full py-3 px-4 bg-gradient-to-r from-blue-600 to-indigo-600 text-white rounded-md hover:from-blue-700 hover:to-indigo-700 transition-colors font-medium"
+        >
+          Start Free Trial
+        </a>
+      </div>
+      
+      <div class="mt-6 text-center">
+        <p class="text-sm text-gray-600">
+          Already have an account? 
+          <a href="/login" class="text-blue-600 hover:text-blue-700 font-medium">Log in</a>
+        </p>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    // Auto-redirect after a short delay for better UX
+    setTimeout(() => {
+      window.location.href = 'https://behavehealth.com/get-started';
+    }, 3000);
+  </script>
+</BaseLayout>

@@ -1,0 +1,278 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+
+const pageTitle = "Regulations may be coming, are you ready?";
+const pageDescription = "A new bill in the United States Senate may mandate new requirements on recovery residences.";
+
+const publishDate = "2018-04-08T16:24:20-0700";
+const modifiedDate = "2025-05-14T06:53:25-0700";
+
+// SEO structured data
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": pageTitle,
+  "name": `Sober Living App - ${pageTitle}`,
+  "description": pageDescription,
+  "url": "https://soberlivingapp.com/sober-living-app-blog/regulations",
+  "datePublished": publishDate,
+  "dateModified": modifiedDate,
+  "author": {
+    "@type": "Person",
+    "name": "Ben Weiss"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sober Living App",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://soberlivingapp.com/images/brand/sober-living-app-text@2x.png"
+    }
+  },
+  "image": "https://soberlivingapp.com/images/blog/united-states-senate.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://soberlivingapp.com/sober-living-app-blog/regulations"
+  }
+};
+---
+
+<BaseLayout 
+  title={`Sober Living App - ${pageTitle}`}
+  description={pageDescription}
+  structuredData={structuredData}
+  canonical="https://soberlivingapp.com/sober-living-app-blog/regulations"
+  image="/images/blog/united-states-senate.png"
+>
+  <main class="min-h-screen bg-background">
+    <article class="container mx-auto px-4 py-16 max-w-4xl">
+      <!-- Breadcrumb -->
+      <nav class="flex items-center text-sm text-muted-foreground mb-8" aria-label="Breadcrumb">
+        <a href="/" class="hover:text-primary transition-colors">Home</a>
+        <span class="mx-2">/</span>
+        <a href="/sober-living-app-blog" class="hover:text-primary transition-colors">Blog</a>
+        <span class="mx-2">/</span>
+        <span class="text-foreground">Regulations</span>
+      </nav>
+
+      <!-- Article Header -->
+      <header class="mb-12">
+        <h1 class="text-4xl md:text-5xl font-bold mb-6">
+          {pageTitle}
+        </h1>
+        
+        <div class="flex items-center gap-4 text-sm text-muted-foreground mb-8">
+          <span>By Ben Weiss</span>
+          <span>•</span>
+          <time datetime={publishDate}>April 8, 2018</time>
+          <span>•</span>
+          <span>Updated: <time datetime={modifiedDate}>May 14, 2025</time></span>
+        </div>
+
+        <!-- Tags -->
+        <div class="flex flex-wrap gap-2 mb-8">
+          <a href="/sober-living-app-blog/category/regulations" class="inline-flex items-center px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm hover:bg-blue-200 transition-colors">
+            Regulations
+          </a>
+          <a href="/sober-living-app-blog/tag/regulations" class="inline-flex items-center px-3 py-1 border border-gray-300 rounded-full text-sm hover:bg-gray-50 transition-colors">
+            regulations
+          </a>
+          <a href="/sober-living-app-blog/tag/sober-living-app" class="inline-flex items-center px-3 py-1 border border-gray-300 rounded-full text-sm hover:bg-gray-50 transition-colors">
+            sober-living-app
+          </a>
+          <a href="/sober-living-app-blog/tag/government" class="inline-flex items-center px-3 py-1 border border-gray-300 rounded-full text-sm hover:bg-gray-50 transition-colors">
+            government
+          </a>
+          <a href="/sober-living-app-blog/tag/narr" class="inline-flex items-center px-3 py-1 border border-gray-300 rounded-full text-sm hover:bg-gray-50 transition-colors">
+            narr
+          </a>
+        </div>
+      </header>
+
+      <!-- Call to Action Banner -->
+      <div class="bg-blue-50 border-l-4 border-blue-500 p-6 mb-12">
+        <p class="text-lg font-semibold mb-4">
+          Are you ready if the NARR Recovery Residence standards turn into federally mandated regulations?
+        </p>
+        <p class="mb-4">
+          If you are not sure,
+        </p>
+        <a href="https://soberlivingapp.com/sign-up" class="inline-flex items-center px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium">
+          sign up for the Sober Living App today
+        </a>
+        <p class="mt-4">
+          and get one step closer to compliance.
+        </p>
+      </div>
+
+      <!-- Article Content -->
+      <div class="prose prose-lg max-w-none">
+        <div class="border-t border-b py-8 my-8">
+          <h2 class="text-xl font-semibold mb-4">SEC. 9. NATIONAL RECOVERY RESIDENCE STANDARDS.</h2>
+          
+          <div class="ml-4 space-y-4">
+            <p>
+              <strong>(a) Best Practices For Operating Recovery Housing.</strong>—The Secretary of Health and Human Services, acting through the Director of the Center for Substance Abuse Treatment of the Substance Abuse and Mental Health Services Administration—
+            </p>
+            
+            <ol class="list-decimal ml-8 space-y-3">
+              <li>
+                shall publish best practices for operating recovery housing, based on—
+                <ol class="list-alpha ml-8 mt-2 space-y-2">
+                  <li>the applicable domains, core principles, and standards of the National Alliance for Recovery Residences; and</li>
+                  <li>input from other nationally accredited recovery housing entities and from stakeholders;</li>
+                </ol>
+              </li>
+              <li>shall disseminate such best practices to each State;</li>
+              <li>may provide technical assistance to States seeking to adopt or implement such best practices;</li>
+              <li>shall identify barriers with respect to recovery housing, State licensure, zoning restrictions, and discrimination against individuals receiving medication assisted treatment for the treatment of opioid abuse; and</li>
+              <li>shall develop strategies to address the barriers identified under paragraph (4).</li>
+            </ol>
+            
+            <p class="mt-6">
+              <strong>(b) Definitions.</strong>—In this section:
+            </p>
+            
+            <ol class="list-decimal ml-8 space-y-3">
+              <li>The term "recovery housing" means a family-like, shared living environment free from alcohol and illicit drug use and centered on peer support and connection to services that promote sustained recovery from substance use disorders.</li>
+              <li>The term "State" includes any of the several States, the District of Columbia, and any territory or possession of the United States.</li>
+            </ol>
+          </div>
+        </div>
+
+        <!-- Additional Context Section -->
+        <section class="mt-12">
+          <h2>What This Means for Recovery Residence Operators</h2>
+          <p>
+            This proposed legislation represents a significant shift in how recovery residences may be regulated at the federal level. By establishing national standards based on NARR's proven framework, the government is acknowledging the critical role that quality recovery housing plays in the continuum of care for individuals with substance use disorders.
+          </p>
+          
+          <h3>Key Implications:</h3>
+          <ul>
+            <li>
+              <strong>Standardization:</strong> Recovery residences across all states would need to meet consistent quality standards, ensuring residents receive the same level of care regardless of location.
+            </li>
+            <li>
+              <strong>Federal Support:</strong> The provision for technical assistance suggests that operators won't be left to navigate new requirements alone.
+            </li>
+            <li>
+              <strong>Barrier Removal:</strong> By specifically addressing issues like zoning restrictions and discrimination against MAT patients, the legislation could make it easier to operate compliant recovery residences.
+            </li>
+            <li>
+              <strong>State Collaboration:</strong> The dissemination of best practices to states indicates a collaborative approach rather than a top-down mandate.
+            </li>
+          </ul>
+        </section>
+
+        <section class="mt-12">
+          <h2>Preparing for Potential Regulations</h2>
+          <p>
+            Whether or not this specific bill passes, the trend toward standardization in recovery housing is clear. Here's how operators can prepare:
+          </p>
+          
+          <ol>
+            <li>
+              <strong>Familiarize yourself with NARR standards</strong> - Since the proposed regulations are based on NARR principles, understanding these standards now will put you ahead of the curve.
+            </li>
+            <li>
+              <strong>Implement robust documentation systems</strong> - Compliance requires proper record-keeping. Digital solutions like Sober Living App can help automate this process.
+            </li>
+            <li>
+              <strong>Focus on quality of care</strong> - Regulations typically codify best practices. By prioritizing resident outcomes now, you'll naturally align with future requirements.
+            </li>
+            <li>
+              <strong>Stay informed</strong> - Join industry associations, attend conferences, and subscribe to regulatory updates to stay ahead of changes.
+            </li>
+            <li>
+              <strong>Build relationships with state agencies</strong> - When federal guidelines are disseminated to states, having existing relationships will help you navigate implementation.
+            </li>
+          </ol>
+        </section>
+
+        <section class="mt-12 bg-gray-50 p-6 rounded-lg">
+          <h2>How Sober Living App Helps You Stay Compliant</h2>
+          <p>
+            Our comprehensive management platform is designed with compliance in mind:
+          </p>
+          <ul>
+            <li>Automated documentation and record-keeping</li>
+            <li>Built-in NARR standards compliance tracking</li>
+            <li>Regular updates to reflect changing regulations</li>
+            <li>Reporting tools for state and federal requirements</li>
+            <li>Secure, HIPAA-compliant data management</li>
+          </ul>
+          <p class="mt-4">
+            Don't wait for regulations to become mandatory. Get ahead of the curve and ensure your recovery residence operates at the highest standards.
+          </p>
+        </section>
+      </div>
+
+      <!-- Call to Action -->
+      <div class="bg-primary text-white p-8 rounded-lg mt-12 text-center">
+        <h2 class="text-2xl font-bold mb-4">Ready to Future-Proof Your Recovery Residence?</h2>
+        <p class="text-lg mb-6">
+          Join thousands of operators who trust Sober Living App to manage their facilities and maintain compliance.
+        </p>
+        <a href="https://soberlivingapp.com/sign-up" class="inline-flex items-center px-8 py-4 bg-white text-primary rounded-lg hover:bg-gray-100 transition-colors font-semibold">
+          Start Your Free Trial Today
+        </a>
+      </div>
+
+      <!-- Related Articles Section -->
+      <section class="mt-16 pt-12 border-t">
+        <h2 class="text-2xl font-bold mb-8">Related Articles</h2>
+        <div class="grid gap-6">
+          <div class="border rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <h3 class="text-xl font-semibold mb-2">
+              <a href="/sober-living-app-blog/compliance-guide" class="hover:text-primary transition-colors">
+                The Complete Guide to Recovery Residence Compliance
+              </a>
+            </h3>
+            <p class="text-muted-foreground">
+              Everything you need to know about meeting state and federal requirements for operating a recovery residence.
+            </p>
+          </div>
+          
+          <div class="border rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <h3 class="text-xl font-semibold mb-2">
+              <a href="/sober-living-app-blog/narr-certification-guide" class="hover:text-primary transition-colors">
+                Understanding NARR Certification: A Step-by-Step Guide
+              </a>
+            </h3>
+            <p class="text-muted-foreground">
+              Learn how to achieve and maintain NARR certification for your recovery residence.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Tag Cloud -->
+      <section class="mt-12">
+        <h3 class="text-lg font-semibold mb-4">Explore More Topics</h3>
+        <div class="flex flex-wrap gap-2">
+          <a href="/sober-living-app-blog/tag/regulations" class="inline-flex items-center px-3 py-1 border border-gray-300 rounded-full text-sm hover:bg-gray-50 transition-colors">
+            Regulations
+          </a>
+          <a href="/sober-living-app-blog/tag/narr" class="inline-flex items-center px-3 py-1 border border-gray-300 rounded-full text-sm hover:bg-gray-50 transition-colors">
+            NARR
+          </a>
+          <a href="/sober-living-app-blog/tag/compliance" class="inline-flex items-center px-3 py-1 border border-gray-300 rounded-full text-sm hover:bg-gray-50 transition-colors">
+            Compliance
+          </a>
+          <a href="/sober-living-app-blog/tag/government" class="inline-flex items-center px-3 py-1 border border-gray-300 rounded-full text-sm hover:bg-gray-50 transition-colors">
+            Government
+          </a>
+          <a href="/sober-living-app-blog/tag/federal-legislation" class="inline-flex items-center px-3 py-1 border border-gray-300 rounded-full text-sm hover:bg-gray-50 transition-colors">
+            Federal Legislation
+          </a>
+        </div>
+      </section>
+    </article>
+  </main>
+</BaseLayout>
+
+<style>
+  .list-alpha {
+    list-style-type: upper-alpha;
+  }
+</style>

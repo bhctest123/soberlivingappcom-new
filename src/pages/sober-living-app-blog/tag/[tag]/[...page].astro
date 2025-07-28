@@ -1,0 +1,346 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import BlogCard from '@/components/blog/BlogCard';
+import Pagination from '@/components/blog/Pagination';
+import type { GetStaticPaths } from 'astro';
+import fs from 'fs';
+import path from 'path';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  // Load comprehensive tag data
+  let tagDataFromFile: any = {};
+  try {
+    const tagDataPath = path.join(process.cwd(), 'src/data/all-tags.json');
+    if (fs.existsSync(tagDataPath)) {
+      const fileContent = fs.readFileSync(tagDataPath, 'utf8');
+      tagDataFromFile = JSON.parse(fileContent);
+    }
+  } catch (error) {
+    console.warn('Could not load all-tags.json, using tags from content only');
+  }
+  // Get all published blog posts
+  const allPosts = await getCollection('blog', ({ data }: { data: any }) => {
+    return data.draft !== true;
+  });
+
+  // Extract all unique tags from blog posts
+  const contentTags = new Map<string, string>();
+  allPosts.forEach((post: any) => {
+    if (post.data.tags && Array.isArray(post.data.tags)) {
+      post.data.tags.forEach((tag: string) => {
+        // Store with original case
+        const tagSlug = tag.replace(/\s+/g, '+');
+        contentTags.set(tagSlug.toLowerCase(), tag);
+      });
+    }
+  });
+
+  // Combine with all historical tags if available
+  const allTags = new Map<string, { name: string; slug: string }>();
+  
+  // Add tags from all-tags.json (historical tags)
+  if (tagDataFromFile.tags) {
+    Object.entries(tagDataFromFile.tags).forEach(([slug, tagInfo]: [string, any]) => {
+      allTags.set(slug.toLowerCase(), {
+        name: tagInfo.name || tagInfo.displayName,
+        slug: slug
+      });
+    });
+  }
+  
+  // Add tags from content (ensure we don't miss any)
+  contentTags.forEach((name, slugKey) => {
+    if (!allTags.has(slugKey)) {
+      const slug = name.replace(/\s+/g, '+');
+      allTags.set(slugKey, { name, slug });
+    }
+  });
+
+  const paths: any[] = [];
+
+  // Generate paths for each tag
+  allTags.forEach((tagInfo) => {
+    const { name, slug } = tagInfo;
+    
+    // Filter posts for this tag (case-insensitive)
+    const tagPosts = allPosts.filter((post: any) => {
+      if (!post.data.tags || !Array.isArray(post.data.tags)) return false;
+      
+      return post.data.tags.some((postTag: string) => {
+        // Compare normalized versions
+        const normalizedPostTag = postTag.toLowerCase().replace(/\s+/g, '+');
+        const normalizedSlug = slug.toLowerCase();
+        const normalizedName = name.toLowerCase();
+        
+        return normalizedPostTag === normalizedSlug || 
+               postTag.toLowerCase() === normalizedName ||
+               postTag.toLowerCase() === normalizedSlug.replace(/\+/g, ' ');
+      });
+    });
+
+    // Sort posts by date (newest first)
+    const sortedPosts = tagPosts.sort((a: any, b: any) => {
+      return new Date(b.data.date).getTime() - new Date(a.data.date).getTime();
+    });
+
+    // Generate paginated paths for this tag
+    if (sortedPosts.length > 0) {
+      // Tags with posts - paginate normally
+      const paginatedPaths = paginate(sortedPosts, { 
+        pageSize: 12,
+        params: { tag: slug },
+        props: { tagName: name, hasContent: true, allTagsData: tagDataFromFile }
+      });
+      paths.push(...paginatedPaths);
+    } else {
+      // Tags without posts - create single page for SEO
+      paths.push({
+        params: { tag: slug, page: undefined },
+        props: { 
+          tagName: name, 
+          hasContent: false,
+          allTagsData: tagDataFromFile,
+          page: {
+            data: [],
+            currentPage: 1,
+            lastPage: 1,
+            url: { current: `/sober-living-app-blog/tag/${slug}` }
+          }
+        }
+      });
+    }
+  });
+
+  return paths;
+}) satisfies GetStaticPaths;
+
+const { page, tagName, hasContent, allTagsData = {} } = Astro.props;
+const { data: posts, currentPage, lastPage } = page;
+const tagSlug = Astro.params.tag;
+
+// Display the original tag name
+// Decode + back to spaces for display if we don't have the original tagName
+const displayTag = tagName || tagSlug?.replace(/\+/g, ' ');
+
+// Get additional tag info if available
+const tagInfo = allTagsData?.tags?.[tagSlug] || {};
+
+// SEO structured data
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": tagInfo.title || `${displayTag} - Sober Living App Blog`,
+  "description": tagInfo.description || `Articles tagged with "${displayTag}" - insights and resources for sober living professionals.`,
+  "url": `${Astro.site}sober-living-app-blog/tag/${tagSlug}`,
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "Sober Living App Blog",
+    "url": `${Astro.site}sober-living-app-blog`
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sober Living App",
+    "logo": {
+      "@type": "ImageObject",
+      "url": `${Astro.site}images/brand/sober-living-app-text@2x.png`
+    }
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "numberOfItems": posts.length,
+    "itemListElement": posts.map((post: any, index: number) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "item": {
+        "@type": "BlogPosting",
+        "headline": post.data.title,
+        "url": `${Astro.site}sober-living-app-blog/${post.slug}`
+      }
+    }))
+  }
+};
+
+// Astro doesn't generate /1 for the first page by default when using [...page]
+// So we need to handle both /tag-name and /tag-name/1
+const isFirstPage = currentPage === 1 || !Astro.params.page;
+
+const pageTitle = isFirstPage 
+  ? tagInfo.title || `${displayTag} - Sober Living App Blog` 
+  : `${displayTag} - Sober Living App Blog - Page ${currentPage}`;
+
+const pageDescription = tagInfo.description || `Browse articles tagged with "${displayTag}". Expert insights and best practices for recovery residence professionals.`;
+
+// Get related tags based on category
+const relatedTags = tagInfo.category && allTagsData?.tags ? 
+  Object.entries(allTagsData.tags || {})
+    .filter(([slug, info]: [string, any]) => 
+      info.category === tagInfo.category && slug !== tagSlug
+    )
+    .slice(0, 5)
+    .map(([slug, info]: [string, any]) => ({ slug, name: info.name }))
+  : [];
+---
+
+<BaseLayout 
+  title={pageTitle}
+  description={pageDescription}
+  structuredData={structuredData}
+  canonical={`https://soberlivingapp.com/sober-living-app-blog/tag/${tagSlug}${!isFirstPage ? `/${currentPage}` : ''}`}
+>
+  <main class="min-h-screen bg-background">
+    <div class="container mx-auto px-4 py-16">
+      <div class="max-w-7xl mx-auto">
+        <!-- Header -->
+        <div class="mb-12">
+          <!-- Breadcrumb -->
+          <nav class="flex items-center text-sm text-muted-foreground mb-6" aria-label="Breadcrumb">
+            <a href="/" class="hover:text-primary transition-colors">Home</a>
+            <span class="mx-2">/</span>
+            <a href="/sober-living-app-blog" class="hover:text-primary transition-colors">Blog</a>
+            <span class="mx-2">/</span>
+            <a href="/sober-living-app-blog/tag" class="hover:text-primary transition-colors">Tags</a>
+            <span class="mx-2">/</span>
+            <span class="text-foreground">{displayTag}</span>
+          </nav>
+
+          <div class="flex items-center gap-3 mb-4">
+            <span class="inline-flex items-center px-3 py-1 text-sm font-medium bg-blue-100 text-blue-800 rounded-full">
+              Tag
+            </span>
+            {tagInfo.category && (
+              <span class="inline-flex items-center px-3 py-1 text-sm font-medium bg-gray-100 text-gray-700 rounded-full capitalize">
+                {tagInfo.category}
+              </span>
+            )}
+            <h1 class="text-4xl md:text-5xl font-bold">
+              {displayTag}
+            </h1>
+          </div>
+          
+          <p class="text-xl text-muted-foreground max-w-3xl">
+            {hasContent !== false ? (
+              `${posts.length} article${posts.length !== 1 ? 's' : ''} tagged with "${displayTag}"`
+            ) : (
+              `Articles about "${displayTag}" in sober living and recovery residences`
+            )}
+          </p>
+          {!isFirstPage && (
+            <p class="text-sm text-muted-foreground mt-4">
+              Page {currentPage} of {lastPage}
+            </p>
+          )}
+        </div>
+
+        <!-- Posts Grid -->
+        {posts.length > 0 ? (
+          <>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+              {posts.map((post: any) => (
+                <BlogCard post={post} />
+              ))}
+            </div>
+
+            <!-- Pagination -->
+            {lastPage > 1 && (
+              <Pagination
+                currentPage={currentPage}
+                totalPages={lastPage}
+                baseUrl={`/sober-living-app-blog/tag/${tagSlug}`}
+                className="mt-12"
+              />
+            )}
+          </>
+        ) : (
+          <div class="text-center py-12 bg-gray-50 rounded-lg">
+            <svg class="mx-auto h-12 w-12 text-gray-400 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z" />
+            </svg>
+            <h3 class="text-lg font-medium text-gray-900 mb-2">No articles currently available</h3>
+            <p class="text-gray-500 mb-6">
+              We're working on content related to "{displayTag}". Check back soon or explore related topics below.
+            </p>
+            
+            <!-- Suggest related content -->
+            {relatedTags.length > 0 && (
+              <div class="mt-8">
+                <p class="text-sm text-gray-600 mb-4">Explore related topics:</p>
+                <div class="flex flex-wrap gap-2 justify-center">
+                  {relatedTags.map((tag: any) => (
+                    <a 
+                      href={`/sober-living-app-blog/tag/${tag.slug}`}
+                      class="inline-flex items-center px-3 py-1 text-sm bg-white border border-gray-300 rounded-full hover:bg-gray-50 transition-colors"
+                    >
+                      {tag.name}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        )}
+
+        <!-- Related Tags Section -->
+        <section class="mt-16 border-t pt-12">
+          <h2 class="text-2xl font-bold mb-6">Explore Other Tags</h2>
+          <div class="flex flex-wrap gap-3">
+            {/* Priority tags */}
+            <a href="/sober-living-app-blog/tag/NARR" class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-full hover:bg-gray-50 transition-colors">
+              NARR
+            </a>
+            <a href="/sober-living-app-blog/tag/funding" class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-full hover:bg-gray-50 transition-colors">
+              Funding
+            </a>
+            <a href="/sober-living-app-blog/tag/regulations" class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-full hover:bg-gray-50 transition-colors">
+              Regulations
+            </a>
+            <a href="/sober-living-app-blog/tag/certification" class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-full hover:bg-gray-50 transition-colors">
+              Certification
+            </a>
+            <a href="/sober-living-app-blog/tag/Sober+Living+App" class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-full hover:bg-gray-50 transition-colors">
+              Sober Living App
+            </a>
+            <a href="/sober-living-app-blog/tag" class="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-full hover:bg-blue-700 transition-colors">
+              View All Tags →
+            </a>
+          </div>
+        </section>
+
+        <!-- Newsletter CTA -->
+        <section class="mt-16 bg-blue-50 rounded-2xl p-8 text-center">
+          <h3 class="text-2xl font-bold mb-4">Stay Updated</h3>
+          <p class="text-gray-600 mb-6 max-w-2xl mx-auto">
+            Get notified when new articles are tagged with "{displayTag}".
+          </p>
+          <div class="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
+            <input
+              type="email"
+              placeholder="Enter your email"
+              class="flex-1 px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+            />
+            <button class="px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors font-medium">
+              Subscribe
+            </button>
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  /* Line clamp utilities for consistent text truncation */
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>

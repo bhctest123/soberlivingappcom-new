@@ -1,0 +1,36 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BlogPostLayout from '@/layouts/BlogPostLayout.astro';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const blogPosts = await getCollection('blog', ({ data }: CollectionEntry<'blog'>) => {
+    return data.draft !== true;
+  });
+
+  return blogPosts.map((post: CollectionEntry<'blog'>) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+};
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+}
+
+const { post } = Astro.props;
+
+// Redirect handling for SEO preservation
+// If the original site had different URL structures, add redirects here
+const redirectMap: Record<string, string> = {
+  // Example: 'old-blog-post-url': 'new-blog-post-url',
+  // Add any URL redirects needed to preserve SEO
+};
+
+// Check if current slug should redirect
+if (redirectMap[post.slug]) {
+  return Astro.redirect(`/blog/${redirectMap[post.slug]}`, 301);
+}
+---
+
+<BlogPostLayout post={post} />

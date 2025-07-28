@@ -1,0 +1,52 @@
+{
+  "name": "soberlivingappcom-new",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "verify-redirects": "node scripts/verify-redirects.js",
+    "generate-redirects": "node scripts/generate-redirects.js",
+    "prebuild": "node scripts/generate-redirects.js",
+    "download-images": "node scripts/download-blog-images.js",
+    "verify-images": "node scripts/verify-blog-images.js",
+    "image-summary": "node scripts/generate-migration-summary.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@astrojs/react": "^4.3.0",
+    "@astrojs/sitemap": "^3.4.1",
+    "@astrojs/tailwind": "^6.0.2",
+    "@radix-ui/react-dialog": "^1.1.14",
+    "@radix-ui/react-icons": "^1.3.2",
+    "@radix-ui/react-navigation-menu": "^1.2.13",
+    "@radix-ui/react-separator": "^1.1.7",
+    "@radix-ui/react-slot": "^1.2.3",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "astro": "^5.12.3",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "fuse.js": "^7.1.0",
+    "glob": "^10.4.5",
+    "lucide-react": "^0.526.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss": "^3.4.17",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.4",
+    "@shadcn/ui": "^0.0.4",
+    "terser": "^5.43.1",
+    "typescript": "^5.8.3"
+  }
+}

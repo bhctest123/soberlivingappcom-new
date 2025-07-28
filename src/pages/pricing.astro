@@ -1,0 +1,378 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+
+const coreFeatures = [
+  'Resident Management',
+  'Bed Management', 
+  'Basic Billing',
+  'Contact Management',
+  'Dashboard Overview',
+  'Mobile App Access'
+];
+
+const professionalFeatures = [
+  ...coreFeatures,
+  'Advanced Analytics',
+  'Communication Logs',
+  'Drug Testing Management',
+  'Employee Management',
+  'File Storage',
+  'Housing Notes & Incidents',
+  'Invoice Generation',
+  'Lead Management',
+  'Task Management',
+  'Custom Permissions',
+  'Alumni Relations'
+];
+
+const enterpriseFeatures = [
+  ...professionalFeatures,
+  'Custom Integrations',
+  'API Access',
+  'White Label Options',
+  'Advanced Reporting',
+  'Multi-property Management',
+  'Dedicated Account Manager',
+  'Custom Training',
+  'SLA Guarantees'
+];
+---
+
+<BaseLayout 
+  title="Pricing Plans - Sober Living App | Transparent Pricing for Recovery Facilities"
+  description="Choose from our flexible pricing plans designed for sober living facilities of all sizes. Starting at $99/month with all core features included. No hidden fees."
+>
+  <main class="min-h-screen bg-gradient-to-br from-slate-50 to-blue-50">
+    <!-- Hero Section -->
+    <section class="container mx-auto px-4 pt-20 pb-16">
+      <div class="text-center mb-16">
+        <h1 class="text-5xl font-bold mb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+          Simple, Transparent Pricing
+        </h1>
+        <p class="text-xl text-slate-600 max-w-3xl mx-auto mb-8">
+          Choose the plan that fits your facility's needs. All plans include our core features 
+          with no setup fees or hidden costs. Scale as you grow.
+        </p>
+        <div class="flex justify-center gap-4 flex-wrap">
+          <span class="inline-flex items-center rounded-full border px-3 py-1 text-sm font-medium bg-blue-50 text-blue-700 border-blue-200">
+            30-day free trial
+          </span>
+          <span class="inline-flex items-center rounded-full border px-3 py-1 text-sm font-medium bg-green-50 text-green-700 border-green-200">
+            No setup fees
+          </span>
+          <span class="inline-flex items-center rounded-full border px-3 py-1 text-sm font-medium bg-purple-50 text-purple-700 border-purple-200">
+            Cancel anytime
+          </span>
+        </div>
+      </div>
+
+      <!-- Pricing Cards -->
+      <div class="grid lg:grid-cols-3 gap-8 max-w-7xl mx-auto mb-20">
+        
+        <!-- Starter Plan -->
+        <div class="relative bg-white shadow-lg border border-slate-200 hover:shadow-xl transition-shadow duration-300 rounded-xl">
+          <div class="text-center pb-8 p-6">
+            <h3 class="text-2xl font-bold text-slate-900">Starter</h3>
+            <p class="text-slate-600 mt-2">
+              Perfect for small facilities getting started
+            </p>
+            <div class="mt-6">
+              <span class="text-5xl font-bold text-slate-900">$99</span>
+              <span class="text-slate-500 text-lg">/month</span>
+            </div>
+            <div class="text-sm text-slate-500 mt-2">
+              Up to 20 residents
+            </div>
+          </div>
+          <div class="px-6 pb-6">
+            <div class="space-y-4">
+              {coreFeatures.map(feature => (
+                <div class="flex items-center gap-3">
+                  <svg class="w-5 h-5 text-green-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                  </svg>
+                  <span class="text-slate-700">{feature}</span>
+                </div>
+              ))}
+              <div class="flex items-center gap-3">
+                <svg class="w-5 h-5 text-green-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                </svg>
+                <span class="text-slate-700">Email Support</span>
+              </div>
+              <div class="flex items-center gap-3">
+                <svg class="w-5 h-5 text-green-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                </svg>
+                <span class="text-slate-700">Standard Onboarding</span>
+              </div>
+            </div>
+          </div>
+          <div class="p-6 pt-0">
+            <a href="/signup?plan=starter" class="inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 border border-input bg-white hover:bg-gray-50 hover:text-gray-900 w-full text-lg py-3 rounded-md">
+              Start Free Trial
+            </a>
+          </div>
+        </div>
+
+        <!-- Professional Plan -->
+        <div class="relative bg-white shadow-xl border-2 border-blue-500 hover:shadow-2xl transition-shadow duration-300 rounded-xl">
+          <div class="absolute -top-4 left-1/2 transform -translate-x-1/2">
+            <span class="bg-gradient-to-r from-blue-600 to-purple-600 text-white px-6 py-2 text-sm font-semibold rounded-full">
+              Most Popular
+            </span>
+          </div>
+          <div class="text-center pb-8 p-6 pt-8">
+            <h3 class="text-2xl font-bold text-slate-900">Professional</h3>
+            <p class="text-slate-600 mt-2">
+              For growing facilities with advanced needs
+            </p>
+            <div class="mt-6">
+              <span class="text-5xl font-bold text-slate-900">$299</span>
+              <span class="text-slate-500 text-lg">/month</span>
+            </div>
+            <div class="text-sm text-slate-500 mt-2">
+              Up to 100 residents
+            </div>
+          </div>
+          <div class="px-6 pb-6">
+            <div class="space-y-4">
+              <div class="text-sm font-semibold text-blue-600 mb-3">Everything in Starter, plus:</div>
+              {professionalFeatures.filter(f => !coreFeatures.includes(f)).map(feature => (
+                <div class="flex items-center gap-3">
+                  <svg class="w-5 h-5 text-green-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                  </svg>
+                  <span class="text-slate-700">{feature}</span>
+                </div>
+              ))}
+              <div class="flex items-center gap-3">
+                <svg class="w-5 h-5 text-green-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                </svg>
+                <span class="text-slate-700">Priority Support</span>
+              </div>
+              <div class="flex items-center gap-3">
+                <svg class="w-5 h-5 text-green-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                </svg>
+                <span class="text-slate-700">Training Sessions</span>
+              </div>
+            </div>
+          </div>
+          <div class="p-6 pt-0">
+            <a href="/signup?plan=professional" class="inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 w-full text-lg py-3 rounded-md bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white">
+              Start Free Trial
+            </a>
+          </div>
+        </div>
+
+        <!-- Enterprise Plan -->
+        <div class="relative bg-white shadow-lg border border-slate-200 hover:shadow-xl transition-shadow duration-300 rounded-xl">
+          <div class="text-center pb-8 p-6">
+            <h3 class="text-2xl font-bold text-slate-900">Enterprise</h3>
+            <p class="text-slate-600 mt-2">
+              For large organizations with custom requirements
+            </p>
+            <div class="mt-6">
+              <span class="text-5xl font-bold text-slate-900">Custom</span>
+            </div>
+            <div class="text-sm text-slate-500 mt-2">
+              Unlimited residents
+            </div>
+          </div>
+          <div class="px-6 pb-6">
+            <div class="space-y-4">
+              <div class="text-sm font-semibold text-purple-600 mb-3">Everything in Professional, plus:</div>
+              {enterpriseFeatures.filter(f => !professionalFeatures.includes(f)).map(feature => (
+                <div class="flex items-center gap-3">
+                  <svg class="w-5 h-5 text-green-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                  </svg>
+                  <span class="text-slate-700">{feature}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+          <div class="p-6 pt-0">
+            <a href="/contact?inquiry=enterprise" class="inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 border border-input bg-white hover:bg-gray-50 hover:text-gray-900 w-full text-lg py-3 rounded-md">
+              Contact Sales
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Feature Comparison Table -->
+      <div class="mb-20">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl font-bold mb-4">Compare All Features</h2>
+          <p class="text-lg text-slate-600">
+            See exactly what's included in each plan
+          </p>
+        </div>
+        
+        <div class="bg-white rounded-xl shadow-lg overflow-hidden max-w-6xl mx-auto">
+          <div class="overflow-x-auto">
+            <table class="w-full">
+              <thead class="bg-slate-50">
+                <tr>
+                  <th class="text-left py-4 px-6 font-semibold text-slate-900">Features</th>
+                  <th class="text-center py-4 px-6 font-semibold text-slate-900">Starter</th>
+                  <th class="text-center py-4 px-6 font-semibold text-slate-900 bg-blue-50">Professional</th>
+                  <th class="text-center py-4 px-6 font-semibold text-slate-900">Enterprise</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-slate-200">
+                <tr>
+                  <td class="py-4 px-6 font-medium">Resident Capacity</td>
+                  <td class="py-4 px-6 text-center">Up to 20</td>
+                  <td class="py-4 px-6 text-center bg-blue-50">Up to 100</td>
+                  <td class="py-4 px-6 text-center">Unlimited</td>
+                </tr>
+                <tr>
+                  <td class="py-4 px-6 font-medium">Core Management Features</td>
+                  <td class="py-4 px-6 text-center">
+                    <svg class="w-5 h-5 text-green-500 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                    </svg>
+                  </td>
+                  <td class="py-4 px-6 text-center bg-blue-50">
+                    <svg class="w-5 h-5 text-green-500 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                    </svg>
+                  </td>
+                  <td class="py-4 px-6 text-center">
+                    <svg class="w-5 h-5 text-green-500 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                    </svg>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="py-4 px-6 font-medium">Advanced Analytics</td>
+                  <td class="py-4 px-6 text-center">
+                    <svg class="w-5 h-5 text-slate-400 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                    </svg>
+                  </td>
+                  <td class="py-4 px-6 text-center bg-blue-50">
+                    <svg class="w-5 h-5 text-green-500 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                    </svg>
+                  </td>
+                  <td class="py-4 px-6 text-center">
+                    <svg class="w-5 h-5 text-green-500 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                    </svg>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="py-4 px-6 font-medium">Custom Integrations</td>
+                  <td class="py-4 px-6 text-center">
+                    <svg class="w-5 h-5 text-slate-400 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                    </svg>
+                  </td>
+                  <td class="py-4 px-6 text-center bg-blue-50">
+                    <svg class="w-5 h-5 text-slate-400 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                    </svg>
+                  </td>
+                  <td class="py-4 px-6 text-center">
+                    <svg class="w-5 h-5 text-green-500 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                    </svg>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="py-4 px-6 font-medium">Support Level</td>
+                  <td class="py-4 px-6 text-center">Email</td>
+                  <td class="py-4 px-6 text-center bg-blue-50">Priority</td>
+                  <td class="py-4 px-6 text-center">Dedicated</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <!-- FAQ Section -->
+      <div class="mb-20">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl font-bold mb-4">Frequently Asked Questions</h2>
+          <p class="text-lg text-slate-600">
+            Get answers to common questions about our pricing and plans
+          </p>
+        </div>
+        
+        <div class="max-w-4xl mx-auto space-y-6">
+          <div class="bg-white rounded-lg border border-slate-200 shadow">
+            <div class="p-6">
+              <h3 class="text-xl font-semibold mb-4">Is there a free trial?</h3>
+              <p class="text-slate-600">
+                Yes! All plans come with a 30-day free trial. No credit card required to start. 
+                You can explore all features and see how our platform fits your facility's needs.
+              </p>
+            </div>
+          </div>
+          
+          <div class="bg-white rounded-lg border border-slate-200 shadow">
+            <div class="p-6">
+              <h3 class="text-xl font-semibold mb-4">Can I change plans later?</h3>
+              <p class="text-slate-600">
+                Absolutely. You can upgrade or downgrade your plan at any time. Changes take effect 
+                immediately, and we'll prorate your billing accordingly.
+              </p>
+            </div>
+          </div>
+          
+          <div class="bg-white rounded-lg border border-slate-200 shadow">
+            <div class="p-6">
+              <h3 class="text-xl font-semibold mb-4">What happens if I exceed my resident limit?</h3>
+              <p class="text-slate-600">
+                We'll notify you when you're approaching your limit and help you upgrade to a plan 
+                that accommodates your growth. We never cut off access unexpectedly.
+              </p>
+            </div>
+          </div>
+          
+          <div class="bg-white rounded-lg border border-slate-200 shadow">
+            <div class="p-6">
+              <h3 class="text-xl font-semibold mb-4">Is my data secure?</h3>
+              <p class="text-slate-600">
+                Yes. We use enterprise-grade security with end-to-end encryption, SOC 2 compliance, 
+                and regular security audits. Your data is backed up daily and stored securely.
+              </p>
+            </div>
+          </div>
+          
+          <div class="bg-white rounded-lg border border-slate-200 shadow">
+            <div class="p-6">
+              <h3 class="text-xl font-semibold mb-4">Do you offer training and onboarding?</h3>
+              <p class="text-slate-600">
+                Yes! All plans include onboarding support. Professional and Enterprise plans include 
+                personalized training sessions to ensure your team gets the most out of the platform.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- CTA Section -->
+      <div class="text-center bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl p-12 text-white">
+        <h2 class="text-3xl font-bold mb-4">Ready to Transform Your Facility Management?</h2>
+        <p class="text-xl opacity-90 mb-8 max-w-2xl mx-auto">
+          Join hundreds of sober living facilities already using our platform to streamline operations 
+          and improve resident outcomes.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href="/signup" class="inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 text-lg px-8 py-4 rounded-md bg-white text-blue-600 hover:bg-gray-50">
+            Start Your Free Trial
+          </a>
+          <a href="/contact" class="inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 text-lg px-8 py-4 rounded-md border border-white text-white hover:bg-white hover:text-blue-600">
+            Schedule a Demo
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

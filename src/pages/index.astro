@@ -1,0 +1,543 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import homepageContent from '../content/homepage.json';
+
+const { seo, hero, cta, partners, video, socialProof, appStoreButtons, announcement } = homepageContent;
+---
+
+<BaseLayout 
+  title={seo.title}
+  description={seo.description}
+  structuredData={seo.structuredData}
+>
+  <!-- Announcement Bar -->
+  {announcement && (
+    <div class="bg-primary text-primary-foreground py-3 px-4 text-center">
+      <a href={announcement.link} class="hover:underline" target="_blank" rel="noopener">
+        {announcement.text}
+      </a>
+    </div>
+  )}
+
+  <main class="min-h-screen bg-background">
+    <!-- Hero Section -->
+    <section class="relative bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-20 lg:py-28 overflow-hidden">
+      <!-- Background decoration -->
+      <div class="absolute inset-0 opacity-10">
+        <div class="absolute top-0 -left-4 w-72 h-72 bg-purple-300 rounded-full mix-blend-multiply filter blur-xl animate-blob"></div>
+        <div class="absolute top-0 -right-4 w-72 h-72 bg-yellow-300 rounded-full mix-blend-multiply filter blur-xl animate-blob animation-delay-2000"></div>
+        <div class="absolute -bottom-8 left-20 w-72 h-72 bg-pink-300 rounded-full mix-blend-multiply filter blur-xl animate-blob animation-delay-4000"></div>
+      </div>
+      
+      <div class="container mx-auto px-4 relative text-center">
+        <img 
+          src={hero.logo.src} 
+          alt={hero.logo.alt} 
+          class="w-32 h-32 mx-auto mb-8 drop-shadow-lg"
+        />
+        <h1 class="text-5xl lg:text-6xl font-bold mb-4">
+          <span class="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+            {seo.title}
+          </span>
+        </h1>
+        <p class="text-xl lg:text-2xl text-gray-700 mb-8 max-w-2xl mx-auto">
+          {hero.tagline}
+        </p>
+        <p class="text-lg lg:text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
+          {hero.description}
+        </p>
+
+        <!-- CTA Buttons -->
+        <div class="flex flex-col md:flex-row gap-8 justify-center items-center mb-12">
+          <div class="text-center">
+            <p class="text-sm mb-2 text-gray-600">{cta.primary.subtext}</p>
+            <a href={cta.primary.href} class="inline-block bg-gradient-to-r from-blue-600 to-indigo-600 text-white px-8 py-4 rounded-xl font-semibold hover:from-blue-700 hover:to-indigo-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
+              {cta.primary.text}
+            </a>
+          </div>
+          
+          <!-- Video -->
+          {video && (
+            <div class="max-w-2xl">
+              <iframe 
+                src={video.embedUrl}
+                width={video.width}
+                height={video.height}
+                style="border: none;"
+                allow="autoplay; fullscreen; picture-in-picture"
+                allowfullscreen
+                class="w-full rounded-lg shadow-xl"
+              ></iframe>
+            </div>
+          )}
+          
+          <div class="text-center">
+            <p class="text-sm mb-2 text-gray-600">{cta.secondary.subtext}</p>
+            <a href={cta.secondary.href} class="inline-block border-2 border-blue-600 text-blue-600 px-8 py-4 rounded-xl font-semibold hover:bg-blue-600 hover:text-white transition-all duration-200 shadow-md hover:shadow-lg">
+              {cta.secondary.text}
+            </a>
+          </div>
+        </div>
+
+        <!-- App Store Buttons -->
+        <div class="flex gap-4 justify-center mb-8">
+          <a href={appStoreButtons.apple.href} target="_blank" rel="noopener" class="transform hover:scale-105 transition-transform">
+            <img src={appStoreButtons.apple.image} alt={appStoreButtons.apple.alt} class="h-14" />
+          </a>
+          <a href={appStoreButtons.google.href} target="_blank" rel="noopener" class="transform hover:scale-105 transition-transform">
+            <img src={appStoreButtons.google.image} alt={appStoreButtons.google.alt} class="h-14" />
+          </a>
+        </div>
+
+        <p class="text-gray-600 max-w-2xl mx-auto text-lg">
+          {socialProof.text}
+        </p>
+      </div>
+    </section>
+
+    <!-- Trust Indicators & Partners Section -->
+    <section class="relative py-20 bg-gradient-to-b from-white to-gray-50">
+      <div class="container mx-auto px-4">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+            Trusted by Industry Leaders
+          </h2>
+          <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+            Join over <span class="font-bold text-blue-600">500+ recovery facilities</span> across the nation who rely on our platform to manage their operations efficiently and compliantly
+          </p>
+        </div>
+        
+        <!-- Stats Grid -->
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 mb-16">
+          <div class="text-center">
+            <div class="text-4xl lg:text-5xl font-bold text-blue-600 mb-2">98%</div>
+            <p class="text-gray-600">Client Satisfaction</p>
+          </div>
+          <div class="text-center">
+            <div class="text-4xl lg:text-5xl font-bold text-blue-600 mb-2">50k+</div>
+            <p class="text-gray-600">Residents Served</p>
+          </div>
+          <div class="text-center">
+            <div class="text-4xl lg:text-5xl font-bold text-blue-600 mb-2">24/7</div>
+            <p class="text-gray-600">Support Available</p>
+          </div>
+          <div class="text-center">
+            <div class="text-4xl lg:text-5xl font-bold text-blue-600 mb-2">100%</div>
+            <p class="text-gray-600">HIPAA Compliant</p>
+          </div>
+        </div>
+        
+        <!-- Partner Logos -->
+        <div class="bg-white rounded-2xl shadow-lg p-8 border border-gray-100">
+          <p class="text-center text-gray-600 mb-8 font-medium">
+            Proudly partnering with leading organizations in recovery care
+          </p>
+          <div class="flex flex-wrap justify-center items-center gap-8 lg:gap-12">
+            {partners.logos.map((logo) => (
+              <img src={logo.src} alt={logo.alt} class="h-16 lg:h-20 object-contain opacity-70 hover:opacity-100 transition-opacity duration-300" />
+            ))}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Comprehensive Product Overview Section -->
+    <section class="py-24 bg-white">
+      <div class="container mx-auto px-4">
+        <div class="text-center mb-16">
+          <div class="inline-flex items-center gap-2 bg-blue-100 text-blue-700 px-4 py-2 rounded-full text-sm font-medium mb-4">
+            <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+            </svg>
+            ALL-IN-ONE HOUSING PROGRAM SOLUTION
+          </div>
+          <h2 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+            Everything You Need to Run Your Recovery Business
+          </h2>
+          <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+            Stop juggling multiple systems. Our integrated platform handles every aspect of your operation—from first contact to alumni care—so you can focus on what matters most: <span class="font-semibold text-blue-600">helping people recover</span>.
+          </p>
+        </div>
+        
+        <!-- Core Departments Grid -->
+        <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
+          <!-- Admissions Department -->
+          <a href="/features/admissions" class="group relative bg-gradient-to-br from-green-50 to-emerald-50 rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 border border-green-100 hover:border-green-300 overflow-hidden">
+            <div class="absolute top-0 right-0 bg-green-600 text-white text-xs font-bold px-3 py-1 rounded-bl-lg">MOST POPULAR</div>
+            <div class="relative z-10">
+              <div class="w-20 h-20 bg-white rounded-2xl shadow-lg flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+                <img src="/images/icons/features/ic_admissions_department_large.png" alt="Admissions Icon" class="w-12 h-12" />
+              </div>
+              <h3 class="text-2xl font-bold text-gray-900 mb-3 group-hover:text-green-600 transition-colors">
+                Admissions
+              </h3>
+              <p class="text-gray-600 mb-4 leading-relaxed">
+                Streamline your entire admission process from first contact to intake. Reduce admission time by 70% and never lose another lead.
+              </p>
+              <div class="space-y-2 mb-6">
+                <div class="flex items-center text-sm text-gray-600">
+                  <svg class="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                  </svg>
+                  Lead tracking CRM
+                </div>
+                <div class="flex items-center text-sm text-gray-600">
+                  <svg class="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                  </svg>
+                  Automated follow-ups
+                </div>
+                <div class="flex items-center text-sm text-gray-600">
+                  <svg class="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                  </svg>
+                  Digital intake forms
+                </div>
+              </div>
+              <div class="flex items-center text-green-600 font-semibold group-hover:gap-3 transition-all">
+                <span>Explore Admissions</span>
+                <svg class="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
+                </svg>
+              </div>
+            </div>
+            <div class="absolute -bottom-10 -right-10 w-40 h-40 bg-green-200 rounded-full opacity-20 group-hover:scale-150 transition-transform duration-500"></div>
+          </a>
+          
+          <!-- Housing Department -->
+          <a href="/features/housing" class="group relative bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 border border-blue-100 hover:border-blue-300 overflow-hidden">
+            <div class="relative z-10">
+              <div class="w-20 h-20 bg-white rounded-2xl shadow-lg flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+                <img src="/images/icons/features/ic_housing_department_large.png" alt="Housing Icon" class="w-12 h-12" />
+              </div>
+              <h3 class="text-2xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                Housing & Billing
+              </h3>
+              <p class="text-gray-600 mb-4 leading-relaxed">
+                Manage beds, collect rent, and track finances. Our smart billing system increases collection rates by up to 40%.
+              </p>
+              <div class="space-y-2 mb-6">
+                <div class="flex items-center text-sm text-gray-600">
+                  <svg class="w-4 h-4 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                  </svg>
+                  Bed management
+                </div>
+                <div class="flex items-center text-sm text-gray-600">
+                  <svg class="w-4 h-4 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                  </svg>
+                  Automated billing
+                </div>
+                <div class="flex items-center text-sm text-gray-600">
+                  <svg class="w-4 h-4 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                  </svg>
+                  Financial reporting
+                </div>
+              </div>
+              <div class="flex items-center text-blue-600 font-semibold group-hover:gap-3 transition-all">
+                <span>Explore Housing</span>
+                <svg class="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
+                </svg>
+              </div>
+            </div>
+            <div class="absolute -bottom-10 -right-10 w-40 h-40 bg-blue-200 rounded-full opacity-20 group-hover:scale-150 transition-transform duration-500"></div>
+          </a>
+          
+          <!-- Operations Department -->
+          <a href="/features/operations" class="group relative bg-gradient-to-br from-purple-50 to-pink-50 rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 border border-purple-100 hover:border-purple-300 overflow-hidden">
+            <div class="relative z-10">
+              <div class="w-20 h-20 bg-white rounded-2xl shadow-lg flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+                <img src="/images/icons/features/ic_operations_department_large.png" alt="Operations Icon" class="w-12 h-12" />
+              </div>
+              <h3 class="text-2xl font-bold text-gray-900 mb-3 group-hover:text-purple-600 transition-colors">
+                Operations
+              </h3>
+              <p class="text-gray-600 mb-4 leading-relaxed">
+                Coordinate care from admission to discharge. Keep your team aligned and ensure nothing falls through the cracks.
+              </p>
+              <div class="space-y-2 mb-6">
+                <div class="flex items-center text-sm text-gray-600">
+                  <svg class="w-4 h-4 text-purple-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                  </svg>
+                  Case management
+                </div>
+                <div class="flex items-center text-sm text-gray-600">
+                  <svg class="w-4 h-4 text-purple-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                  </svg>
+                  Drug testing
+                </div>
+                <div class="flex items-center text-sm text-gray-600">
+                  <svg class="w-4 h-4 text-purple-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                  </svg>
+                  Discharge planning
+                </div>
+              </div>
+              <div class="flex items-center text-purple-600 font-semibold group-hover:gap-3 transition-all">
+                <span>Explore Operations</span>
+                <svg class="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
+                </svg>
+              </div>
+            </div>
+            <div class="absolute -bottom-10 -right-10 w-40 h-40 bg-purple-200 rounded-full opacity-20 group-hover:scale-150 transition-transform duration-500"></div>
+          </a>
+          
+          <!-- Alumni Department -->
+          <a href="/features/alumni" class="group relative bg-gradient-to-br from-indigo-50 to-blue-50 rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 border border-indigo-100 hover:border-indigo-300 overflow-hidden">
+            <div class="relative z-10">
+              <div class="w-20 h-20 bg-white rounded-2xl shadow-lg flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+                <img src="/images/icons/features/ic_alumni_relations_large.png" alt="Alumni Icon" class="w-12 h-12" />
+              </div>
+              <h3 class="text-2xl font-bold text-gray-900 mb-3 group-hover:text-indigo-600 transition-colors">
+                Alumni
+              </h3>
+              <p class="text-gray-600 mb-4 leading-relaxed">
+                Track outcomes and maintain relationships. Differentiate your program with proven success rates.
+              </p>
+              <div class="space-y-2 mb-6">
+                <div class="flex items-center text-sm text-gray-600">
+                  <svg class="w-4 h-4 text-indigo-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                  </svg>
+                  Outcome tracking
+                </div>
+                <div class="flex items-center text-sm text-gray-600">
+                  <svg class="w-4 h-4 text-indigo-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                  </svg>
+                  Alumni engagement
+                </div>
+                <div class="flex items-center text-sm text-gray-600">
+                  <svg class="w-4 h-4 text-indigo-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                  </svg>
+                  Success reporting
+                </div>
+              </div>
+              <div class="flex items-center text-indigo-600 font-semibold group-hover:gap-3 transition-all">
+                <span>Explore Alumni</span>
+                <svg class="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
+                </svg>
+              </div>
+            </div>
+            <div class="absolute -bottom-10 -right-10 w-40 h-40 bg-indigo-200 rounded-full opacity-20 group-hover:scale-150 transition-transform duration-500"></div>
+          </a>
+        </div>
+        
+        <!-- Additional Features Grid -->
+        <div class="bg-gray-50 rounded-3xl p-8 mb-16">
+          <h3 class="text-2xl font-bold text-gray-900 text-center mb-8">Plus 15+ Additional Features</h3>
+          <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+            {[
+              { name: 'Drug Testing', iconPath: '/images/icons/ic_drug_test.png' },
+              { name: 'Scheduling', iconPath: '/images/icons/ic_schedule.png' },
+              { name: 'Document Storage', iconPath: '/images/icons/ic_files.png' },
+              { name: 'Employee Management', iconPath: '/images/icons/ic_employees.png' },
+              { name: 'Reporting', iconPath: '/images/icons/ic_dashboard.png' },
+              { name: 'Mobile App', iconPath: '/images/icons/ic_mobile.png' },
+              { name: 'Communication Logs', iconPath: '/images/icons/ic_communication_logs.png' },
+              { name: 'Task Management', iconPath: '/images/icons/ic_tasks.png' },
+              { name: 'Resident Portal', iconPath: '/images/icons/ic_access.png' },
+              { name: 'Compliance Tools', iconPath: '/images/icons/ic_checklist.png' },
+              { name: 'Financial Reports', iconPath: '/images/icons/ic_billing.png' },
+              { name: 'Security Features', iconPath: '/images/icons/ic_permissions.png' }
+            ].map((feature) => (
+              <div class="bg-white rounded-xl p-4 text-center shadow-sm hover:shadow-md transition-shadow group">
+                <div class="w-12 h-12 mx-auto mb-2 group-hover:scale-110 transition-transform">
+                  <img src={feature.iconPath} alt={`${feature.name} icon`} class="w-full h-full object-contain" />
+                </div>
+                <span class="text-sm font-medium text-gray-700">{feature.name}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+        
+        <!-- Team Empowerment Section -->
+        <div class="bg-gradient-to-r from-blue-600 to-indigo-600 rounded-3xl p-12 text-white text-center">
+          <h3 class="text-3xl font-bold mb-6">Built for Your Entire Team</h3>
+          <p class="text-xl mb-8 opacity-90 max-w-4xl mx-auto leading-relaxed">
+            From house managers to counselors, every team member gets the tools they need to excel. Our intuitive interface and role-based permissions ensure everyone has access to the right information at the right time.
+          </p>
+          <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+            {[
+              'House Managers',
+              'Housing Directors', 
+              'Case Managers',
+              'Recovery Coaches',
+              'Peer Specialists',
+              'Counselors'
+            ].map((role) => (
+              <div class="bg-white/10 backdrop-blur-sm rounded-xl p-4">
+                <svg class="w-8 h-8 mx-auto mb-2 text-white/80" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"></path>
+                </svg>
+                <span class="text-sm font-medium">{role}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Testimonials & Social Proof Section -->
+    <section class="py-24 bg-gradient-to-b from-gray-50 to-white">
+      <div class="container mx-auto px-4">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+            Don't Just Take Our Word For It
+          </h2>
+          <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+            See why recovery facilities nationwide choose Sober Living App to transform their operations
+          </p>
+        </div>
+        
+        <div class="grid md:grid-cols-3 gap-8 mb-16">
+          <div class="bg-white rounded-2xl shadow-lg p-8 border border-gray-100 hover:shadow-xl transition-shadow duration-300">
+            <div class="flex mb-4">
+              {[1,2,3,4,5].map(() => (
+                <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                </svg>
+              ))}
+            </div>
+            <p class="text-gray-700 mb-6 leading-relaxed italic">
+              "Sober Living App transformed our operations. We've reduced administrative time by 60% and increased our occupancy rate by 35%. The ROI was evident within the first month."
+            </p>
+            <div class="flex items-center">
+              <div class="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mr-4">
+                <span class="text-blue-600 font-bold">JD</span>
+              </div>
+              <div>
+                <p class="font-semibold text-gray-900">John Davis</p>
+                <p class="text-sm text-gray-600">Executive Director, Hope Recovery Centers</p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="bg-white rounded-2xl shadow-lg p-8 border border-gray-100 hover:shadow-xl transition-shadow duration-300">
+            <div class="flex mb-4">
+              {[1,2,3,4,5].map(() => (
+                <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                </svg>
+              ))}
+            </div>
+            <p class="text-gray-700 mb-6 leading-relaxed italic">
+              "The automated billing alone has saved us thousands each month. But the real value is in the peace of mind knowing we're 100% compliant with all regulations."
+            </p>
+            <div class="flex items-center">
+              <div class="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mr-4">
+                <span class="text-green-600 font-bold">SM</span>
+              </div>
+              <div>
+                <p class="font-semibold text-gray-900">Sarah Mitchell</p>
+                <p class="text-sm text-gray-600">Owner, Serenity Sober Living Network</p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="bg-white rounded-2xl shadow-lg p-8 border border-gray-100 hover:shadow-xl transition-shadow duration-300">
+            <div class="flex mb-4">
+              {[1,2,3,4,5].map(() => (
+                <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                </svg>
+              ))}
+            </div>
+            <p class="text-gray-700 mb-6 leading-relaxed italic">
+              "From the intuitive interface to the exceptional support team, everything about Sober Living App exceeds expectations. It's not just software—it's a partner in our mission."
+            </p>
+            <div class="flex items-center">
+              <div class="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mr-4">
+                <span class="text-purple-600 font-bold">MR</span>
+              </div>
+              <div>
+                <p class="font-semibold text-gray-900">Michael Rodriguez</p>
+                <p class="text-sm text-gray-600">Clinical Director, New Beginnings Recovery</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Risk Reversal / Guarantee -->
+        <div class="bg-gradient-to-r from-blue-600 to-indigo-600 rounded-3xl p-12 text-center text-white">
+          <h3 class="text-3xl font-bold mb-4">30-Day Money-Back Guarantee</h3>
+          <p class="text-xl mb-8 opacity-90 max-w-2xl mx-auto">
+            Try Sober Living App risk-free. If you're not completely satisfied within 30 days, we'll refund every penny—no questions asked.
+          </p>
+          <a href="https://behavehealth.com/get-started" class="inline-flex items-center px-10 py-5 text-lg font-semibold rounded-xl text-blue-600 bg-white hover:bg-gray-50 transition-all duration-200 shadow-xl hover:shadow-2xl transform hover:-translate-y-1">
+            Start Your Free Trial Today
+            <svg class="ml-3 w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"></path>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </section>
+    
+    <!-- Urgency Section -->
+    <section class="py-16 bg-yellow-50 border-y-2 border-yellow-200">
+      <div class="container mx-auto px-4 text-center">
+        <div class="max-w-3xl mx-auto">
+          <h3 class="text-2xl font-bold text-gray-900 mb-4">
+            Limited Time Offer: Save 20% on Annual Plans
+          </h3>
+          <p class="text-lg text-gray-700 mb-6">
+            Join before December 31st and lock in our lowest pricing ever. Plus, get free data migration and personalized onboarding support.
+          </p>
+          <div class="inline-flex items-center gap-6">
+            <div class="text-center">
+              <div class="text-3xl font-bold text-yellow-600">12</div>
+              <div class="text-sm text-gray-600">Days</div>
+            </div>
+            <div class="text-center">
+              <div class="text-3xl font-bold text-yellow-600">08</div>
+              <div class="text-sm text-gray-600">Hours</div>
+            </div>
+            <div class="text-center">
+              <div class="text-3xl font-bold text-yellow-600">42</div>
+              <div class="text-sm text-gray-600">Minutes</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  /* Animations */
+  @keyframes blob {
+    0% {
+      transform: translate(0px, 0px) scale(1);
+    }
+    33% {
+      transform: translate(30px, -50px) scale(1.1);
+    }
+    66% {
+      transform: translate(-20px, 20px) scale(0.9);
+    }
+    100% {
+      transform: translate(0px, 0px) scale(1);
+    }
+  }
+  
+  .animate-blob {
+    animation: blob 7s infinite;
+  }
+  
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+  
+  .animation-delay-4000 {
+    animation-delay: 4s;
+  }
+</style>

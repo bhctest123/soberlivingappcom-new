@@ -1,0 +1,185 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import BlogCard from '@/components/blog/BlogCard';
+import BlogFilters from '@/components/blog/BlogFilters';
+import Pagination from '@/components/blog/Pagination';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  // Get all published blog posts
+  const allPosts = await getCollection('blog', ({ data }: { data: any }) => {
+    return data.draft !== true;
+  });
+
+  // Sort posts by date (newest first)
+  const sortedPosts = allPosts.sort((a: any, b: any) => {
+    return new Date(b.data.date).getTime() - new Date(a.data.date).getTime();
+  });
+
+  // Generate pages with pagination
+  return paginate(sortedPosts, { pageSize: 9 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+const { data: posts, currentPage, lastPage } = page;
+
+// Extract unique categories and tags from ALL posts (not just current page)
+const allPosts = await getCollection('blog');
+const allCategories = [...new Set(allPosts.flatMap((post: any) => post.data.category))].sort() as string[];
+const allTags = [...new Set(allPosts.flatMap((post: any) => post.data.tags || []))].sort() as string[];
+
+// Get featured posts (only show on page 1)
+const featuredPosts = currentPage === 1 ? posts.filter((post: any) => post.data.featured).slice(0, 2) : [];
+const regularPosts = posts.filter((post: any) => !featuredPosts.includes(post));
+
+// SEO structured data
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Sober Living App Blog",
+  "description": "Insights, tips, and best practices for sober living management and recovery support.",
+  "url": `${Astro.site}blog`,
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sober Living App",
+    "logo": {
+      "@type": "ImageObject",
+      "url": `${Astro.site}images/brand/sober-living-app-text@2x.png`
+    }
+  }
+};
+
+const pageTitle = currentPage === 1 
+  ? "Blog - Sober Living App" 
+  : `Blog - Page ${currentPage} - Sober Living App`;
+---
+
+<BaseLayout 
+  title={pageTitle}
+  description="Insights, tips, and best practices for sober living management. Expert guidance for recovery professionals and facility operators."
+  structuredData={structuredData}
+>
+  <main class="min-h-screen bg-background">
+    <div class="container mx-auto px-4 py-16">
+      <div class="max-w-7xl mx-auto">
+        <!-- Header -->
+        <div class="text-center mb-12">
+          <h1 class="text-4xl md:text-5xl font-bold mb-4">
+            Sober Living Blog
+          </h1>
+          <p class="text-xl text-muted-foreground max-w-3xl mx-auto">
+            Expert insights, best practices, and resources for sober living professionals, 
+            recovery advocates, and facility operators.
+          </p>
+          {currentPage > 1 && (
+            <p class="text-sm text-muted-foreground mt-4">
+              Page {currentPage} of {lastPage}
+            </p>
+          )}
+        </div>
+
+        <!-- Blog Filters -->
+        <BlogFilters
+          categories={allCategories}
+          tags={allTags}
+          onCategoryChange={() => {}}
+          onTagChange={() => {}}
+          onSearch={() => {}}
+          client:load
+        />
+
+        <!-- Featured Posts Section (only on page 1) -->
+        {currentPage === 1 && featuredPosts.length > 0 && (
+          <section class="mb-12">
+            <h2 class="text-2xl font-bold mb-6">Featured Posts</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+              {featuredPosts.map((post: any) => (
+                <BlogCard post={post} featured={true} />
+              ))}
+            </div>
+          </section>
+        )}
+
+        <!-- Latest Posts Section -->
+        <section>
+          <div class="flex items-center justify-between mb-6">
+            <h2 class="text-2xl font-bold">
+              {currentPage === 1 && featuredPosts.length > 0 ? 'Latest Posts' : 'All Posts'}
+            </h2>
+            <p class="text-sm text-muted-foreground">
+              Showing {posts.length} of {allPosts.length} posts
+            </p>
+          </div>
+
+          {regularPosts.length > 0 ? (
+            <>
+              <!-- Posts Grid -->
+              <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+                {regularPosts.map((post: any) => (
+                  <BlogCard post={post} />
+                ))}
+              </div>
+
+              <!-- Pagination -->
+              {lastPage > 1 && (
+                <Pagination
+                  currentPage={currentPage}
+                  totalPages={lastPage}
+                  baseUrl="/blog"
+                  className="mt-12"
+                />
+              )}
+            </>
+          ) : (
+            <div class="text-center py-12">
+              <svg class="mx-auto h-12 w-12 text-gray-400 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+              </svg>
+              <h3 class="text-lg font-medium text-gray-900 mb-2">No posts found</h3>
+              <p class="text-gray-500">
+                Try adjusting your filters or check back later for new content.
+              </p>
+            </div>
+          )}
+        </section>
+
+        <!-- Newsletter Signup CTA -->
+        <section class="mt-16 bg-blue-50 rounded-2xl p-8 text-center">
+          <h3 class="text-2xl font-bold mb-4">Stay Updated</h3>
+          <p class="text-gray-600 mb-6 max-w-2xl mx-auto">
+            Get the latest insights, tips, and resources delivered directly to your inbox. 
+            Join our community of sober living professionals.
+          </p>
+          <div class="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
+            <input
+              type="email"
+              placeholder="Enter your email"
+              class="flex-1 px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+            />
+            <button class="px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors font-medium">
+              Subscribe
+            </button>
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  /* Line clamp utilities for consistent text truncation */
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>

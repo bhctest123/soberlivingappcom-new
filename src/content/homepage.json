@@ -1,0 +1,178 @@
+{
+  "seo": {
+    "title": "Sober Living App",
+    "description": "Sober Living App offers all of the tools you need to manage your sober living home, recovery residence, halfway house or transitional housing program.",
+    "ogTitle": "Sober Living App",
+    "ogDescription": "Sober Living App offers all of the tools you need to manage your sober living home, recovery residence, halfway house or transitional housing program.",
+    "ogImage": "https://images.squarespace-cdn.com/content/5a811b28d55b410667f7bf1e/1739615362559-ESSNBATDXCGGS1IKKU5E/ic_sla_logo.png",
+    "canonicalUrl": "https://soberlivingapp.com",
+    "siteTagLine": "Run your Sober Living Homes like a business",
+    "structuredData": {
+      "url": "https://soberlivingapp.com",
+      "name": "Sober Living App",
+      "description": "Run your sober living on autopilot. Sober Living App offers all the tools you need to manage your sober living home business.",
+      "image": "//images.squarespace-cdn.com/content/v1/5a811b28d55b410667f7bf1e/7302c9ca-6a2a-40e4-942f-a0971833d039/ic_sla_logo.png",
+      "@context": "http://schema.org",
+      "@type": "WebSite"
+    }
+  },
+  "announcement": {
+    "text": "🎉 NARR & Behave Health Announce a Strategic Alliance (click to learn more)",
+    "link": "https://behavehealth.com/blog/narr-and-behave-health-strategic-alliance"
+  },
+  "hero": {
+    "logo": {
+      "src": "/images/brand/sober-living-app-icon.png",
+      "alt": "Sober Living App Icon"
+    },
+    "tagline": "The best software for your homes!",
+    "description": "We simplify and streamline your sober living home operations and revenue cycle performance, saving you time and money. Join thousands of other Recovery Residences by getting started today!",
+    "headline": "Run your sober living on autopilot"
+  },
+  "cta": {
+    "primary": {
+      "text": "Get Started",
+      "href": "https://behavehealth.com/get-started",
+      "subtext": "Want to try it for free?"
+    },
+    "secondary": {
+      "text": "User Log-in",
+      "href": "https://behavehealth.com/login",
+      "subtext": "Already have an account?"
+    }
+  },
+  "partners": {
+    "headline": "NARR & STATE NARR Affiliates Pick BEhave as KEY STRATEGIC ALLY!",
+    "logos": [
+      {
+        "src": "/images/partners/VARR-600x273-1.png",
+        "alt": "VARR - Virginia Association of Recovery Residences"
+      },
+      {
+        "src": "/images/partners/wvarr.png",
+        "alt": "WVARR - West Virginia Alliance of Recovery Residences"
+      },
+      {
+        "src": "/images/partners/NARR-2-color-main-logo-3.png",
+        "alt": "NARR - National Alliance for Recovery Residences"
+      },
+      {
+        "src": "/images/partners/FSARR-copy-300x285 - Edited.png",
+        "alt": "FSARR - Florida State Association of Recovery Residences"
+      },
+      {
+        "src": "/images/partners/MARR-high-rez-300x243 - Edited.png",
+        "alt": "MARR - Missouri Alliance of Recovery Residences"
+      },
+      {
+        "src": "/images/partners/MaineAssociationofRecoveryResidences2-300x200 - Edited.png",
+        "alt": "Maine Association of Recovery Residences"
+      },
+      {
+        "src": "/images/partners/NCARR-logo - Edited.png",
+        "alt": "NCARR - North Carolina Association of Recovery Residences"
+      },
+      {
+        "src": "/images/partners/TROHN-300x89.webp",
+        "alt": "TROHN - Tennessee Recovery Oriented Housing Network"
+      },
+      {
+        "src": "/images/partners/kyarr-logo-Edited.png",
+        "alt": "KYARR - Kentucky Association of Recovery Residences"
+      },
+      {
+        "src": "/images/partners/nysarr-edited.png",
+        "alt": "NYSARR - New York State Association of Recovery Residences"
+      },
+      {
+        "src": "/images/partners/recoveryaccessmontana_logo - Edited.jpg",
+        "alt": "Recovery Access Montana"
+      },
+      {
+        "src": "/images/partners/tnarr.avif",
+        "alt": "TNARR - Tennessee Alliance for Recovery Residences"
+      }
+    ]
+  },
+  "video": {
+    "embedUrl": "https://player.vimeo.com/video/289169487",
+    "width": 640,
+    "height": 260
+  },
+  "features": [
+    {
+      "icon": "/images/icons/features/ic_housing_department_large.png",
+      "title": "Housing",
+      "description": "Our Housing Management software module will help you to manage residents, rent payments, property management, chores, and more.",
+      "link": "/features/housing",
+      "color": "blue"
+    },
+    {
+      "icon": "/images/icons/features/ic_operations_department_large.png",
+      "title": "Operations",
+      "description": "Our Operations Management software module will help you to manage drug tests, files, client billing, medical records and more.",
+      "link": "/features/operations",
+      "color": "pink"
+    },
+    {
+      "icon": "/images/icons/features/ic_admissions_department_large.png",
+      "title": "Admissions",
+      "description": "Our admissions CRM streamlines your admissions process from first contact to intake.",
+      "link": "/features/admissions",
+      "color": "green"
+    }
+  ],
+  "socialProof": {
+    "text": "Use our software tools to manage your sober living home, recovery residence, halfway house, or transitional housing program."
+  },
+  "appStoreButtons": {
+    "apple": {
+      "href": "https://hubs.ly/H0C9PH30",
+      "image": "/images/badges/Apple-Store.png",
+      "alt": "Apple Store"
+    },
+    "google": {
+      "href": "https://hubs.ly/H0C9PN30",
+      "image": "/images/badges/Google-Play-Store.png",
+      "alt": "Google Play Store"
+    }
+  },
+  "footer": {
+    "contact": {
+      "email": "contact@behavehealth.com",
+      "phone": "(650) 338-4113"
+    },
+    "social": [
+      {
+        "name": "email",
+        "href": "mailto:contact@behavehealth.com",
+        "label": "contact@behavehealth.com"
+      },
+      {
+        "name": "linkedin",
+        "href": "https://www.linkedin.com/company/behavehealth/",
+        "label": "Ben Weiss"
+      },
+      {
+        "name": "facebook",
+        "href": "https://www.facebook.com/behavehealth/",
+        "label": "Ben Weiss"
+      },
+      {
+        "name": "vimeo",
+        "href": "http://vimeo.com/user87016381",
+        "label": "BehaveHealth"
+      }
+    ],
+    "links": [
+      {
+        "text": "Terms",
+        "href": "https://behavehealth.com/terms"
+      },
+      {
+        "text": "Privacy",
+        "href": "https://behavehealth.com/privacy"
+      }
+    ]
+  }
+}

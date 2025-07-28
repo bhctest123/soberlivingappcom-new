@@ -1,0 +1,68 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import FeatureLayout from '../../layouts/FeatureLayout.astro';
+import { features } from '../../data/features';
+
+export async function getStaticPaths() {
+  // Get all feature content entries
+  const featureEntries = await getCollection('features');
+  
+  return featureEntries.map((entry: CollectionEntry<'features'>) => {
+    return {
+      params: { feature: entry.slug },
+      props: { entry },
+    };
+  });
+}
+
+interface Props {
+  entry: CollectionEntry<'features'>;
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+
+// Find the corresponding feature data from the features.ts file
+const featureData = features.find(f => f.id === entry.slug);
+
+if (!featureData) {
+  throw new Error(`Feature data not found for slug: ${entry.slug}`);
+}
+
+// Prepare the props for FeatureLayout
+const layoutProps = {
+  feature: featureData,
+  seo: {
+    title: entry.data.seo.title,
+    description: entry.data.seo.description,
+    canonical: entry.data.seo.canonicalUrl || `https://soberlivingapp.com/features/${entry.slug}`,
+    ogType: "website",
+    noindex: entry.data.seo.noindex,
+    image: entry.data.seo.ogImage,
+    twitterCard: entry.data.seo.twitterCard,
+    keywords: entry.data.seo.keywords,
+  },
+  content: {
+    heroTitle: entry.data.heroTitle,
+    heroDescription: entry.data.heroDescription,
+    keyBenefits: entry.data.keyBenefits,
+    features: entry.data.features,
+    additionalSections: entry.data.additionalSections,
+  }
+};
+---
+
+<FeatureLayout {...layoutProps}>
+  <!-- Render the markdown content -->
+  {Content && (
+    <section class="py-16 bg-white">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="max-w-4xl mx-auto">
+          <div class="prose prose-lg mx-auto">
+            <Content />
+          </div>
+        </div>
+      </div>
+    </section>
+  )}
+</FeatureLayout>
