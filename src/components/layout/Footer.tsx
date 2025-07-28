@@ -212,7 +212,7 @@ const Footer = () => {
         <div className="flex flex-col items-center gap-4">
           <div className="text-center">
             <p className="text-sm text-gray-500 mb-2">
-              © {currentYear} Behave Health Inc. All rights reserved. Sober Living App® is a registered trademark.
+              © {currentYear} Behave Health Corp. All rights reserved. Sober Living App® is a registered trademark.
             </p>
             <p className="text-xs text-gray-600">
               548 Market St, NUM 24019, San Francisco, CA 94104
