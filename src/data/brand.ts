@@ -56,7 +56,7 @@ export const brandAssets = {
       alt: 'Download on the App Store',
       width: 135,
       height: 40,
-      url: 'https://apps.apple.com/us/app/sober-living-app/id1463294451',
+      url: 'https://hubs.ly/H0C9Mg00',
       status: 'required' as const,
     },
     
@@ -66,7 +66,7 @@ export const brandAssets = {
       alt: 'Get it on Google Play',
       width: 135,
       height: 40,
-      url: 'https://play.google.com/store/apps/details?id=com.soberlivingapp',
+      url: 'https://hubs.ly/H0C9PN30',
       status: 'required' as const,
     },
   },
