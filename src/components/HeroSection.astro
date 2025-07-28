@@ -72,8 +72,18 @@ const { hero, cta, video, appStoreButtons, socialProof } = Astro.props;
           <!-- Social Proof -->
           <div class="flex items-center gap-6 text-sm text-gray-600">
             <div class="flex -space-x-2">
-              {[1,2,3,4,5].map(() => (
-                <div class="w-10 h-10 rounded-full bg-gray-300 border-2 border-white"></div>
+              {[
+                '/images/avatars/hero-avatar-1.jpg',
+                '/images/avatars/hero-avatar-2.jpg', 
+                '/images/avatars/hero-avatar-3.jpg',
+                '/images/avatars/hero-avatar-4.jpg',
+                '/images/avatars/hero-avatar-5.jpg'
+              ].map((avatar, index) => (
+                <img 
+                  src={avatar} 
+                  alt={`Facility owner ${index + 1}`}
+                  class="w-10 h-10 rounded-full border-2 border-white object-cover"
+                />
               ))}
             </div>
             <p>Join 2000+ facilities already saving 20+ hours weekly</p>

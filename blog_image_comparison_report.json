@@ -1,0 +1,806 @@
+{
+  "total_posts_analyzed": 127,
+  "posts_with_mismatches": 113,
+  "correct_featured_images": 1,
+  "mismatches": [
+    {
+      "post": "more-funding-opportunities-for-sober-living-homes-in-arizona",
+      "type": "featured_image_mismatch",
+      "original": "woman+in+arizona",
+      "current": "more-funding-opportunities-for-sober-living-homes-in-arizona.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/more-funding-opportunities-for-sober-living-homes-in-arizona.md"
+    },
+    {
+      "post": "faq-about-opening-a-sober-living-business-in-south-carolina",
+      "type": "featured_image_mismatch",
+      "original": "south+carolina+sign",
+      "current": "faq-about-opening-a-sober-living-business-in-south-carolina.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/faq-about-opening-a-sober-living-business-in-south-carolina.md"
+    },
+    {
+      "post": "why-more-people-are-opening-sober-living-homes-in-alabama",
+      "type": "featured_image_mismatch",
+      "original": "Alabama+state+map+closeup",
+      "current": "why-more-people-are-opening-sober-living-homes-in-alabama.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/why-more-people-are-opening-sober-living-homes-in-alabama.md"
+    },
+    {
+      "post": "how-easy-is-it-to-open-a-sober-living-home-in-colorado",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2022-11-12+at+4.05.55+PM.png",
+      "current": "how-easy-is-it-to-open-a-sober-living-home-in-colorado.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/how-easy-is-it-to-open-a-sober-living-home-in-colorado.md"
+    },
+    {
+      "post": "what-maryland-doesnt-want-you-to-know-about-opening-a-sober-living-home",
+      "type": "featured_image_mismatch",
+      "original": "maryland+government+website",
+      "current": "what-maryland-doesnt-want-you-to-know-about-opening-a-sober-living-home.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/what-maryland-doesnt-want-you-to-know-about-opening-a-sober-living-home.md"
+    },
+    {
+      "post": "opening-a-sober-living-home-in-north-carolina-learn-what-it-takes",
+      "type": "featured_image_mismatch",
+      "original": "welcome+to+north+carolina",
+      "current": "opening-a-sober-living-home-in-north-carolina-learn-what-it-takes.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/opening-a-sober-living-home-in-north-carolina-learn-what-it-takes.md"
+    },
+    {
+      "post": "why-its-a-good-time-to-open-a-sober-living-in-virginia",
+      "type": "featured_image_mismatch",
+      "original": "virginia+map+with+thumbtack",
+      "current": "why-its-a-good-time-to-open-a-sober-living-in-virginia.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/why-its-a-good-time-to-open-a-sober-living-in-virginia.md"
+    },
+    {
+      "post": "considering-new-jersey-for-your-next-sober-living-home-heres-the-pros-and-cons",
+      "type": "featured_image_mismatch",
+      "original": "new+jersey+map",
+      "current": "considering-new-jersey-for-your-next-sober-living-home-heres-the-pros-and-cons.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/considering-new-jersey-for-your-next-sober-living-home-heres-the-pros-and-cons.md"
+    },
+    {
+      "post": "pros-and-cons-of-opening-a-sober-living-home-business-in-missouri",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2022-10-13+at+6.29.24+PM.png",
+      "current": "pros-and-cons-of-opening-a-sober-living-home-business-in-missouri.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/pros-and-cons-of-opening-a-sober-living-home-business-in-missouri.md"
+    },
+    {
+      "post": "indiana-sober-living-homes-are-easy-to-open-heres-how-to-get-started",
+      "type": "featured_image_mismatch",
+      "original": "welcome+to+indiana+crossroads+of+america+sign",
+      "current": "indiana-sober-living-homes-are-easy-to-open-heres-how-to-get-started.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/indiana-sober-living-homes-are-easy-to-open-heres-how-to-get-started.md"
+    },
+    {
+      "post": "5-hacks-for-opening-a-sober-living-home-in-arizona-quickly",
+      "type": "featured_image_mismatch",
+      "original": "arizona+skyline",
+      "current": "5-hacks-for-opening-a-sober-living-home-in-arizona-quickly.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/5-hacks-for-opening-a-sober-living-home-in-arizona-quickly.md"
+    },
+    {
+      "post": "everything-you-need-to-open-your-sober-living-home-in-massachusetts",
+      "type": "featured_image_mismatch",
+      "original": "massachusetts+map",
+      "current": "everything-you-need-to-open-your-sober-living-home-in-massachusetts.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/everything-you-need-to-open-your-sober-living-home-in-massachusetts.md"
+    },
+    {
+      "post": "sober-living-homes-in-ohio-get-more-support-and-funding-from-lawmakers",
+      "type": "featured_image_mismatch",
+      "original": "modern+sober+living+home+exterior",
+      "current": "sober-living-homes-in-ohio-get-more-support-and-funding-from-lawmakers.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/sober-living-homes-in-ohio-get-more-support-and-funding-from-lawmakers.md"
+    },
+    {
+      "post": "5-things-every-tennessee-sober-living-home-business-startup-should-know",
+      "type": "featured_image_mismatch",
+      "original": "pier+at+sunset",
+      "current": "5-things-every-tennessee-sober-living-home-business-startup-should-know.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/5-things-every-tennessee-sober-living-home-business-startup-should-know.md"
+    },
+    {
+      "post": "the-smart-way-to-open-a-sober-living-home-in-washington",
+      "type": "featured_image_mismatch",
+      "original": "space+needle",
+      "current": "the-smart-way-to-open-a-sober-living-home-in-washington.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/the-smart-way-to-open-a-sober-living-home-in-washington.md"
+    },
+    {
+      "post": "consider-these-6-facts-before-opening-a-sober-living-home-in-connecticut",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2022-12-13+at+6.19.41+PM.png",
+      "current": "consider-these-6-facts-before-opening-a-sober-living-home-in-connecticut.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/consider-these-6-facts-before-opening-a-sober-living-home-in-connecticut.md"
+    },
+    {
+      "post": "how-to-open-a-sober-living-home-in-kentucky",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2022-12-22+at+5.30.13+PM.png",
+      "current": "how-to-open-a-sober-living-home-in-kentucky.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/how-to-open-a-sober-living-home-in-kentucky.md"
+    },
+    {
+      "post": "why-louisiana-is-a-great-state-for-opening-a-sober-living-home",
+      "type": "featured_image_mismatch",
+      "original": "new+orleans+balcony",
+      "current": "why-louisiana-is-a-great-state-for-opening-a-sober-living-home.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/why-louisiana-is-a-great-state-for-opening-a-sober-living-home.md"
+    },
+    {
+      "post": "defining-your-sober-living-home-business-strategy-in-utah",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2022-12-20+at+6.51.08+PM.jpg",
+      "current": "defining-your-sober-living-home-business-strategy-in-utah.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/defining-your-sober-living-home-business-strategy-in-utah.md"
+    },
+    {
+      "post": "what-you-need-to-know-before-opening-a-sober-living-home-in-oklahoma",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2022-12-12+at+10.00.45+PM.png",
+      "current": "what-you-need-to-know-before-opening-a-sober-living-home-in-oklahoma.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/what-you-need-to-know-before-opening-a-sober-living-home-in-oklahoma.md"
+    },
+    {
+      "post": "how-to-open-a-sober-living-home-in-montana",
+      "type": "featured_image_mismatch",
+      "original": "Montana+sign",
+      "current": "how-to-open-a-sober-living-home-in-montana.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/how-to-open-a-sober-living-home-in-montana.md"
+    },
+    {
+      "post": "sober-living-home-regulations-for-narr-affiliate-operators-in-south-dakota-north-dakota-alaska-and-wyoming",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2025-01-13+at+12.38.20+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "sober-living-home-regulations-for-narr-affiliate-operators-in-south-dakota-north-dakota-alaska-and-wyoming.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/sober-living-home-regulations-for-narr-affiliate-operators-in-south-dakota-north-dakota-alaska-and-wyoming.md"
+    },
+    {
+      "post": "grants-for-recovery-homes-and-halfway-houses-how-to-secure-funding-for-your-transitional-home",
+      "type": "featured_image_mismatch",
+      "original": "grants+for+halfway+houses%EF%B9%96format=1500w&content-type=image%EA%A4%B7jpeg.jpeg",
+      "current": "grants-for-recovery-homes-and-halfway-houses-how-to-secure-funding-for-your-transitional-home.jpeg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/grants-for-recovery-homes-and-halfway-houses-how-to-secure-funding-for-your-transitional-home.md"
+    },
+    {
+      "post": "update-on-trumps-recovery-residence-policies-and-what-the-future-may-hold-for-sober-living",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2025-02-26+at+5.06.42+PM%EF%B9%96content-type=image%EA%A4%B7png.png",
+      "current": "update-on-trumps-recovery-residence-policies-and-what-the-future-may-hold-for-sober-living.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/update-on-trumps-recovery-residence-policies-and-what-the-future-may-hold-for-sober-living.md"
+    },
+    {
+      "post": "can-inclusive-recovery-cities-help-fight-nimby-stigma-facing-recovery-residence-operators",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2025-02-23+at+5.42.18+PM%EF%B9%96content-type=image%EA%A4%B7png.png",
+      "current": "can-inclusive-recovery-cities-help-fight-nimby-stigma-facing-recovery-residence-operators.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/can-inclusive-recovery-cities-help-fight-nimby-stigma-facing-recovery-residence-operators.md"
+    },
+    {
+      "post": "tips-and-tricks-for-running-a-more-effective-recovery-community-organization-or-recovery-community-center",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2025-02-04+at+9.32.44+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "tips-and-tricks-for-running-a-more-effective-recovery-community-organization-or-recovery-community-center.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/tips-and-tricks-for-running-a-more-effective-recovery-community-organization-or-recovery-community-center.md"
+    },
+    {
+      "post": "narr-affiliate-updates-for-washington-arizona-and-tennessee-sober-living-homes",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-09-12+at+5.41.32+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "narr-affiliate-updates-for-washington-arizona-and-tennessee-sober-living-homes.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/narr-affiliate-updates-for-washington-arizona-and-tennessee-sober-living-homes.md"
+    },
+    {
+      "post": "understanding-the-changing-narr-regulations-for-michigan-new-jersey-and-virginia-sober-living-homes",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-09-04+at+9.54.01+PM.png",
+      "current": "understanding-the-changing-narr-regulations-for-michigan-new-jersey-and-virginia-sober-living-homes.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/understanding-the-changing-narr-regulations-for-michigan-new-jersey-and-virginia-sober-living-homes.md"
+    },
+    {
+      "post": "regulatory-news-stories-to-watch-for-narr-sober-living-homes-in-minnesota-south-carolina-and-alabama",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-10-27+at+7.21.57+PM.png",
+      "current": "regulatory-news-stories-to-watch-for-narr-sober-living-homes-in-minnesota-south-carolina-and-alabama.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/regulatory-news-stories-to-watch-for-narr-sober-living-homes-in-minnesota-south-carolina-and-alabama.md"
+    },
+    {
+      "post": "recovery-residence-regulation-updates-for-narr-affiliates-sober-living-homes-in-iowa-nevada-and-arkansas",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-11-24+at+10.14.44+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "recovery-residence-regulation-updates-for-narr-affiliates-sober-living-homes-in-iowa-nevada-and-arkansas.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/recovery-residence-regulation-updates-for-narr-affiliates-sober-living-homes-in-iowa-nevada-and-arkansas.md"
+    },
+    {
+      "post": "understanding-the-colorado-narr-state-affiliate-enhancing-recovery-housing-quality-and-access",
+      "type": "featured_image_mismatch",
+      "original": "Colorado+NARR+State+Affiliate%EF%B9%96format=1500w&content-type=image%EA%A4%B7jpeg.jpg",
+      "current": "understanding-the-colorado-narr-state-affiliate-enhancing-recovery-housing-quality-and-access.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/understanding-the-colorado-narr-state-affiliate-enhancing-recovery-housing-quality-and-access.md"
+    },
+    {
+      "post": "arizona-state-narr-affiliate",
+      "type": "featured_image_mismatch",
+      "original": "Arizona+State+NARR+Affiliate%EF%B9%96format=1500w&content-type=image%EA%A4%B7jpeg.jpg",
+      "current": "arizona-state-narr-affiliate.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/arizona-state-narr-affiliate.md"
+    },
+    {
+      "post": "sober-living-home-regulation-updates-for-narr-affiliated-recovery-residences-in-louisiana-kentucky-and-oregon",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-11-13+at+10.27.42+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "sober-living-home-regulation-updates-for-narr-affiliated-recovery-residences-in-louisiana-kentucky-and-oregon.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/sober-living-home-regulation-updates-for-narr-affiliated-recovery-residences-in-louisiana-kentucky-and-oregon.md"
+    },
+    {
+      "post": "california-narr-state-affiliate",
+      "type": "featured_image_mismatch",
+      "original": "unsplash-image-gZXx8lKAb7Y%EF%B9%96format=1500w&content-type=image%EA%A4%B7jpeg.jpg",
+      "current": "california-narr-state-affiliate.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/california-narr-state-affiliate.md"
+    },
+    {
+      "post": "narr-affiliate-news-for-sober-living-homes-in-oklahoma-connecticut-and-utah",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-11-22+at+1.55.05+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "narr-affiliate-news-for-sober-living-homes-in-oklahoma-connecticut-and-utah.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/narr-affiliate-news-for-sober-living-homes-in-oklahoma-connecticut-and-utah.md"
+    },
+    {
+      "post": "are-behavioral-health-peer-support-services-covered-in-idaho-west-virginia-hawaii-new-hampshire-and-vermont-for-sober-living-homes",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-07-28+at+3.13.39+PM.png",
+      "current": "are-behavioral-health-peer-support-services-covered-in-idaho-west-virginia-hawaii-new-hampshire-and-vermont-for-sober-living-homes.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/are-behavioral-health-peer-support-services-covered-in-idaho-west-virginia-hawaii-new-hampshire-and-vermont-for-sober-living-homes.md"
+    },
+    {
+      "post": "are-behavioral-health-peer-support-services-covered-in-utah-nevada-iowa-arkansas-and-south-dakota-for-sober-living-homes",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-07-22+at+8.54.39+AM.png",
+      "current": "featured.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/are-behavioral-health-peer-support-services-covered-in-utah-nevada-iowa-arkansas-and-south-dakota-for-sober-living-homes.md"
+    },
+    {
+      "post": "are-behavioral-health-peer-support-services-covered-in-kansas-mississippi-new-mexico-nebraska-or-north-dakota-for-sober-living-homes",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-07-28+at+3.06.09+PM.png",
+      "current": "featured.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/are-behavioral-health-peer-support-services-covered-in-kansas-mississippi-new-mexico-nebraska-or-north-dakota-for-sober-living-homes.md"
+    },
+    {
+      "post": "are-behavioral-health-peer-support-services-covered-in-tennessee-massachusetts-indiana-missouri-and-maryland-sober-living-homes",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-06-24+at+8.51.27+AM.png",
+      "current": "featured.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/are-behavioral-health-peer-support-services-covered-in-tennessee-massachusetts-indiana-missouri-and-maryland-sober-living-homes.md"
+    },
+    {
+      "post": "what-cpt-billing-code-should-sober-living-homes-use-for-peer-support-services-in-illinois-ohio-georgia-north-carolina-and-michigan",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-05-26+at+7.45.32+PM.png",
+      "current": "featured.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/what-cpt-billing-code-should-sober-living-homes-use-for-peer-support-services-in-illinois-ohio-georgia-north-carolina-and-michigan.md"
+    },
+    {
+      "post": "new-regulations-for-narr-sober-living-homes-in-maryland-wisconsin-and-colorado",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-10-27+at+6.09.29+PM%EF%B9%96content-type=image%EA%A4%B7png.png",
+      "current": "featured.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/new-regulations-for-narr-sober-living-homes-in-maryland-wisconsin-and-colorado.md"
+    },
+    {
+      "post": "join-behave-health-at-the-the-2024-best-practices-narr-conference-in-richmond-virginia",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-10-06+at+8.31.14+PM.png",
+      "current": "featured.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/join-behave-health-at-the-the-2024-best-practices-narr-conference-in-richmond-virginia.md"
+    },
+    {
+      "post": "narr-updates-for-sober-living-homes-in-massachusetts-indiana-and-missouri",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-10-20+at+3.14.24+PM.png",
+      "current": "featured.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/narr-updates-for-sober-living-homes-in-massachusetts-indiana-and-missouri.md"
+    },
+    {
+      "post": "narr-regulations-and-updates-for-new-york-pennsylvania-and-illinois-sober-living-homes",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-08-18+at+4.01.41+PM.png",
+      "current": "featured.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/narr-regulations-and-updates-for-new-york-pennsylvania-and-illinois-sober-living-homes.md"
+    },
+    {
+      "post": "narr-news-and-regulations-updates-for-ohio-georgia-and-north-carolina-sober-living-homes",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-08-29+at+9.02.49+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "featured.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/narr-news-and-regulations-updates-for-ohio-georgia-and-north-carolina-sober-living-homes.md"
+    },
+    {
+      "post": "are-peer-support-services-medicaid-reimbursable-in-maine-montana-rhode-island-delaware-and-wyoming-for-sober-living-homes",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-08-04+at+1.45.36+PM.png",
+      "current": "featured.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/are-peer-support-services-medicaid-reimbursable-in-maine-montana-rhode-island-delaware-and-wyoming-for-sober-living-homes.md"
+    },
+    {
+      "post": "opioid-settlement-funding-updates-for-sober-living-homes-in-south-dakota-north-dakota-alaska-washington-dc-and-wyoming",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-04-15+at+6.13.15+PM.png",
+      "current": "featured.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-south-dakota-north-dakota-alaska-washington-dc-and-wyoming.md"
+    },
+    {
+      "post": "opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-04-10+at+8.14.24+PM.png",
+      "current": "Screen_Shot_2024-04-10_at_8.15.10_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island.md"
+    },
+    {
+      "post": "opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-02-25+at+3.17.54+PM.png",
+      "current": "Screen_Shot_2024-02-25_at_3.17.54_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont.md"
+    },
+    {
+      "post": "opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-03-26+at+3.08.02+PM.png",
+      "current": "Screen_Shot_2024-03-26_at_3.08.02_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia.md"
+    },
+    {
+      "post": "sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-nebraska-idaho-and-west-virginia",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-12-09+at+8.47.59+AM%EF%B9%96content-type=image%EA%A4%B7png.png",
+      "current": "Screen_Shot_2024-12-09_at_8.47.59_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-nebraska-idaho-and-west-virginia.md"
+    },
+    {
+      "post": "sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-hawaii-new-hampshire-and-maine",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-12-29+at+6.17.43+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "Screen_Shot_2024-12-29_at_6.18.00_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-hawaii-new-hampshire-and-maine.md"
+    },
+    {
+      "post": "sober-living-home-regulations-for-narr-affiliate-operators-in-montana-rhode-island-delaware-and-vermont",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-12-29+at+6.32.26+PM%EF%B9%96content-type=image%EA%A4%B7png.png",
+      "current": "Screen_Shot_2024-12-29_at_6.32.45_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/sober-living-home-regulations-for-narr-affiliate-operators-in-montana-rhode-island-delaware-and-vermont.md"
+    },
+    {
+      "post": "sober-living-home-regulation-and-certification-updates-for-narr-affiliates-in-kansas-mississippi-and-new-mexico",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-12-04+at+7.40.48+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "Screen_Shot_2024-12-04_at_7.40.48_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/sober-living-home-regulation-and-certification-updates-for-narr-affiliates-in-kansas-mississippi-and-new-mexico.md"
+    },
+    {
+      "post": "are-you-a-good-candidate-for-behave-healths-sober-living-startup-program",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2024-02-25+at+3.20.25+PM.png",
+      "current": "Screen_Shot_2024-02-25_at_3.20.25_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/are-you-a-good-candidate-for-behave-healths-sober-living-startup-program.md"
+    },
+    {
+      "post": "the-asam-criteria-4th-edition-what-recovery-residences-need-to-know",
+      "type": "featured_image_mismatch",
+      "original": "",
+      "current": "image-asset.jpeg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/the-asam-criteria-4th-edition-what-recovery-residences-need-to-know.md"
+    },
+    {
+      "post": "the-asam-criteria-4th-edition-what-recovery-residences-need-to-know",
+      "type": "duplicate_images",
+      "duplicates": [
+        "image-asset.jpeg"
+      ],
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/the-asam-criteria-4th-edition-what-recovery-residences-need-to-know.md"
+    },
+    {
+      "post": "how-to-open-a-sober-living-home-in-mississippi",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2023-01-03+at+5.14.53+PM.png",
+      "current": "Screen_Shot_2023-01-03_at_5.07.28_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/how-to-open-a-sober-living-home-in-mississippi.md"
+    },
+    {
+      "post": "your-questions-about-opening-a-sober-living-home-in-nebraska-answered",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2023-01-10+at+4.00.50+PM.png",
+      "current": "Screen_Shot_2023-01-10_at_6.05.36_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/your-questions-about-opening-a-sober-living-home-in-nebraska-answered.md"
+    },
+    {
+      "post": "kansas-is-a-great-state-to-open-a-sober-living-home",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2023-01-03+at+5.16.55+PM.png",
+      "current": "Screen_Shot_2023-01-03_at_5.17.10_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/kansas-is-a-great-state-to-open-a-sober-living-home.md"
+    },
+    {
+      "post": "faq-about-how-to-open-an-sober-living-home-in-maine",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2023-01-15+at+5.04.52+PM.png",
+      "current": "Screen_Shot_2023-01-15_at_5.04.52_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/faq-about-how-to-open-an-sober-living-home-in-maine.md"
+    },
+    {
+      "post": "everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2023-01-22+at+7.33.18+PM%EF%B9%96content-type=image%EA%A4%B7png.png",
+      "current": "Screen_Shot_2023-01-22_at_6.37.22_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii.md"
+    },
+    {
+      "post": "your-questions-about-opening-a-sober-living-home-in-west-virginia-answered",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2023-01-16+at+9.04.00+AM.png",
+      "current": "Screen_Shot_2023-01-16_at_9.04.16_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/your-questions-about-opening-a-sober-living-home-in-west-virginia-answered.md"
+    },
+    {
+      "post": "the-fastest-way-to-open-a-sober-living-home-in-arkansas",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2022-12-28+at+6.38.03+PM.png",
+      "current": "Screen_Shot_2022-12-28_at_6.35.46_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/the-fastest-way-to-open-a-sober-living-home-in-arkansas.md"
+    },
+    {
+      "post": "join-sober-living-app-at-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2023-10-05+at+8.45.40+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "Screen_Shot_2023-10-05_at_8.52.35_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/join-sober-living-app-at-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th.md"
+    },
+    {
+      "post": "5-things-to-consider-when-opening-a-sober-living-home-in-wyoming",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2023-02-26+at+7.39.40+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "Screen_Shot_2023-02-26_at_12.28.15_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/5-things-to-consider-when-opening-a-sober-living-home-in-wyoming.md"
+    },
+    {
+      "post": "how-to-choose-a-sober-living-home-startup-consultant",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2023-12-12+at+11.38.03+AM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "Screen_Shot_2023-12-12_at_11.38.03_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/how-to-choose-a-sober-living-home-startup-consultant.md"
+    },
+    {
+      "post": "4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2023-02-12+at+4.15.19+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "Screen_Shot_2023-02-12_at_1.56.24_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota.md"
+    },
+    {
+      "post": "opening-a-sober-living-home-in-new-hampshire",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2023-01-24+at+5.31.23+PM.png",
+      "current": "Screen_Shot_2023-01-24_at_5.31.23_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/opening-a-sober-living-home-in-new-hampshire.md"
+    },
+    {
+      "post": "faq-about-opening-a-sober-living-home-in-delaware",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2023-02-07+at+11.14.53+AM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "Screen_Shot_2023-02-07_at_11.12.44_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/faq-about-opening-a-sober-living-home-in-delaware.md"
+    },
+    {
+      "post": "what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2023-02-08+at+7.17.11+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png",
+      "current": "Screen_Shot_2023-02-08_at_7.16.42_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota.md"
+    },
+    {
+      "post": "what-they-dont-want-you-to-know-about-opening-a-sober-living-home-in-alaska",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2023-02-12+at+4.14.33+PM.png",
+      "current": "Screen_Shot_2023-02-12_at_4.14.33_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/what-they-dont-want-you-to-know-about-opening-a-sober-living-home-in-alaska.md"
+    },
+    {
+      "post": "5-best-apps-and-software-for-your-sober-living-house",
+      "type": "featured_image_mismatch",
+      "original": "computer+keyboard",
+      "current": "computer_keyboard.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/5-best-apps-and-software-for-your-sober-living-house.md"
+    },
+    {
+      "post": "how-to-streamline-drug-testing-at-your-sober-living-home",
+      "type": "featured_image_mismatch",
+      "original": "drug+testing",
+      "current": "drug_testing.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/how-to-streamline-drug-testing-at-your-sober-living-home.md"
+    },
+    {
+      "post": "3-things-to-look-for-in-your-first-sober-living-home-real-estate-deal",
+      "type": "featured_image_mismatch",
+      "original": "realestatedeal",
+      "current": "paintingahouse.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/3-things-to-look-for-in-your-first-sober-living-home-real-estate-deal.md"
+    },
+    {
+      "post": "you-opened-a-sober-living-homenow-what",
+      "type": "featured_image_mismatch",
+      "original": "manwithlaptop",
+      "current": "manopeningdoor.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/you-opened-a-sober-living-homenow-what.md"
+    },
+    {
+      "post": "how-to-write-an-awesome-good-neighbor-agreement-for-your-sober-living-home",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-09-21+at+2.30.22+PM.png",
+      "current": "Screen_Shot_2021-09-21_at_2.31.05_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/how-to-write-an-awesome-good-neighbor-agreement-for-your-sober-living-home.md"
+    },
+    {
+      "post": "how-to-open-a-sober-living-home-in-illinois",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-11-04+at+3.13.41+PM.png",
+      "current": "Screen_Shot_2021-11-04_at_3.12.03_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/how-to-open-a-sober-living-home-in-illinois.md"
+    },
+    {
+      "post": "opening-an-sober-living-home-in-georgia",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-11-23+at+9.47.29+AM.png",
+      "current": "Screen_Shot_2021-11-23_at_9.47.57_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/opening-an-sober-living-home-in-georgia.md"
+    },
+    {
+      "post": "5-cool-ways-to-engage-your-sober-living-home-alumni",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-07-14+at+1.48.19+PM.png",
+      "current": "Screen_Shot_2021-07-14_at_1.48.19_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/5-cool-ways-to-engage-your-sober-living-home-alumni.md"
+    },
+    {
+      "post": "medical-cannabis-maintenance-and-your-sober-living-home-friend-or-foe",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-06-29+at+9.25.10+AM.png",
+      "current": "Screen_Shot_2021-06-29_at_9.25.27_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/medical-cannabis-maintenance-and-your-sober-living-home-friend-or-foe.md"
+    },
+    {
+      "post": "top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-06-09+at+8.46.20+PM.png",
+      "current": "Screenshot_2021-06-10_18-56-24.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do.md"
+    },
+    {
+      "post": "3-mistakes-you-might-be-making-with-mat-patients-at-your-sober-living-home",
+      "type": "featured_image_mismatch",
+      "original": "Screenshot+2020-12-31+at+12.53.04+PM.png",
+      "current": "Screenshot_2020-12-31_at_12.55.28_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/3-mistakes-you-might-be-making-with-mat-patients-at-your-sober-living-home.md"
+    },
+    {
+      "post": "limited-time-offer-get-our-software-solution-for-sober-living-homes-for-free",
+      "type": "featured_image_mismatch",
+      "original": "Screenshot+2021-01-21+at+8.54.22+PM.png",
+      "current": "Screenshot_2021-01-21_at_8.58.18_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/limited-time-offer-get-our-software-solution-for-sober-living-homes-for-free.md"
+    },
+    {
+      "post": "how-to-open-a-sober-living-home-business-in-pennsylvania",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-10-21+at+3.42.23+PM.png",
+      "current": "Screen_Shot_2021-10-21_at_3.44.49_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/how-to-open-a-sober-living-home-business-in-pennsylvania.md"
+    },
+    {
+      "post": "how-to-open-a-sober-living-home-in-ohio",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-10-07+at+6.53.15+PM.png",
+      "current": "Screen_Shot_2021-10-07_at_6.53.31_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/how-to-open-a-sober-living-home-in-ohio.md"
+    },
+    {
+      "post": "understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-08-11+at+5.24.53+PM.png",
+      "current": "Screen_Shot_2021-08-11_at_5.27.26_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2.md"
+    },
+    {
+      "post": "nuisance-lawsuits-a-crash-course-for-sober-living-home-operators",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-08-26+at+2.26.17+PM.png",
+      "current": "Screen_Shot_2021-08-26_at_2.25.35_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/nuisance-lawsuits-a-crash-course-for-sober-living-home-operators.md"
+    },
+    {
+      "post": "understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-07-29+at+5.15.06+PM.png",
+      "current": "Screen_Shot_2021-07-29_at_5.15.42_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.md"
+    },
+    {
+      "post": "the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-2",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-03-16+at+11.21.42+AM.png",
+      "current": "Screen_Shot_2021-03-16_at_11.22.17_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-2.md"
+    },
+    {
+      "post": "3-types-of-sober-living-home-residents-you-need-to-stop-admitting",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-03-29+at+9.09.18+AM.png",
+      "current": "Screen_Shot_2021-03-29_at_9.09.25_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/3-types-of-sober-living-home-residents-you-need-to-stop-admitting.md"
+    },
+    {
+      "post": "the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-1",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-02-15+at+3.51.02+PM.png",
+      "current": "Screen_Shot_2021-02-15_at_3.51.02_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-1.md"
+    },
+    {
+      "post": "got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-02-01+at+7.58.35+AM.png",
+      "current": "Screen_Shot_2021-02-01_at_7.58.49_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically.md"
+    },
+    {
+      "post": "considering-opening-a-sober-living-home-in-florida-heres-how",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-05-18+at+2.51.03+PM.png",
+      "current": "Screen_Shot_2021-05-18_at_2.51.38_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/considering-opening-a-sober-living-home-in-florida-heres-how.md"
+    },
+    {
+      "post": "how-to-open-a-sober-living-home-in-california",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-05-11+at+9.45.36+AM.png",
+      "current": "Screen_Shot_2021-05-11_at_9.45.51_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/how-to-open-a-sober-living-home-in-california.md"
+    },
+    {
+      "post": "buprenorphine-suboxone-and-your-sober-living-home",
+      "type": "featured_image_mismatch",
+      "original": "Screen+Shot+2021-05-31+at+12.05.50+PM.png",
+      "current": "Screen_Shot_2021-05-31_at_12.05.57_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/buprenorphine-suboxone-and-your-sober-living-home.md"
+    },
+    {
+      "post": "chaotic-admissions-and-billing-check-out-sober-living-apps-admissions-20-update",
+      "type": "featured_image_mismatch",
+      "original": "admissions-department+%281%29.png",
+      "current": "Screenshot_2020-09-16_at_11.31.15_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/chaotic-admissions-and-billing-check-out-sober-living-apps-admissions-20-update.md"
+    },
+    {
+      "post": "top-3-ways-to-support-a-healthy-organizational-culture-at-your-sober-living-home",
+      "type": "featured_image_mismatch",
+      "original": "Screenshot+2020-10-29+at+12.37.29+PM.png",
+      "current": "Screenshot_2020-10-29_at_12.40.02_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/top-3-ways-to-support-a-healthy-organizational-culture-at-your-sober-living-home.md"
+    },
+    {
+      "post": "how-to-turn-alumni-recovery-success-into-new-residents-for-your-sober-living-home",
+      "type": "featured_image_mismatch",
+      "original": "Screenshot+2020-06-10+at+9.45.13+AM.png",
+      "current": "Screenshot_2020-06-10_at_9.48.14_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/how-to-turn-alumni-recovery-success-into-new-residents-for-your-sober-living-home.md"
+    },
+    {
+      "post": "heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements",
+      "type": "featured_image_mismatch",
+      "original": "Screenshot+2020-06-25+at+8.24.17+AM.png",
+      "current": "Screenshot_2020-06-25_at_8.31.56_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements.md"
+    },
+    {
+      "post": "what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review",
+      "type": "featured_image_mismatch",
+      "original": "Screenshot+2020-05-28+at+2.43.19+PM.png",
+      "current": "Screenshot_2020-05-28_at_2.43.46_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review.md"
+    },
+    {
+      "post": "mat-and-sober-living-deemed-more-compatible-than-ever-before",
+      "type": "featured_image_mismatch",
+      "original": "woman+in+a+glowing+sunset",
+      "current": "keep_out_sign.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/mat-and-sober-living-deemed-more-compatible-than-ever-before.md"
+    },
+    {
+      "post": "4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress",
+      "type": "featured_image_mismatch",
+      "original": "Screenshot+2020-10-15+at+10.07.58+PM.png",
+      "current": "Screenshot_2020-10-15_at_10.12.44_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress.md"
+    },
+    {
+      "post": "sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier",
+      "type": "featured_image_mismatch",
+      "original": "Screenshot+2020-10-01+at+1.02.51+PM.png",
+      "current": "Screenshot_2020-10-01_at_11.59.57_AM.jpg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier.md"
+    },
+    {
+      "post": "5-things-your-sober-living-home-manager-is-afraid-to-tell-you",
+      "type": "featured_image_mismatch",
+      "original": "Screenshot+2020-07-30+at+9.21.51+AM.png",
+      "current": "Screenshot_2020-07-30_at_9.26.19_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/5-things-your-sober-living-home-manager-is-afraid-to-tell-you.md"
+    },
+    {
+      "post": "introducing-our-new-resident-application-for-the-sober-living-home-app",
+      "type": "featured_image_mismatch",
+      "original": "Screenshot+2020-04-24+at+1.31.27+PM.png",
+      "current": "Screenshot_2020-04-24_at_1.16.16_PM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/introducing-our-new-resident-application-for-the-sober-living-home-app.md"
+    },
+    {
+      "post": "3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week",
+      "type": "featured_image_mismatch",
+      "original": "Screenshot+2020-04-16+at+10.28.45+AM.png",
+      "current": "Screenshot_2020-04-16_at_10.30.58_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week.md"
+    },
+    {
+      "post": "mastering-admissions-at-your-sober-living-home",
+      "type": "featured_image_mismatch",
+      "original": "check+in+screen",
+      "current": "wallet.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/mastering-admissions-at-your-sober-living-home.md"
+    },
+    {
+      "post": "find-your-people-defining-your-ideal-sober-living-home-resident",
+      "type": "featured_image_mismatch",
+      "original": "feet",
+      "current": "wallet.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/find-your-people-defining-your-ideal-sober-living-home-resident.md"
+    },
+    {
+      "post": "how-to-make-your-sober-living-home-stand-out-from-the-crowd",
+      "type": "featured_image_mismatch",
+      "original": "glass+house",
+      "current": "runners_in_a_race.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/how-to-make-your-sober-living-home-stand-out-from-the-crowd.md"
+    },
+    {
+      "post": "need-help-how-to-get-small-business-relief-for-your-sober-living-home-during-the-coronavirus-pandemic",
+      "type": "featured_image_mismatch",
+      "original": "Screenshot+2020-05-14+at+9.52.40+AM.png",
+      "current": "Screenshot_2020-05-14_at_9.54.43_AM.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/need-help-how-to-get-small-business-relief-for-your-sober-living-home-during-the-coronavirus-pandemic.md"
+    },
+    {
+      "post": "software-tools-for-sober-living-homes",
+      "type": "featured_image_mismatch",
+      "original": "logo-1.png",
+      "current": "xero-logo.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/software-tools-for-sober-living-homes.md"
+    },
+    {
+      "post": "sober-living-home-startup-guide",
+      "type": "featured_image_mismatch",
+      "original": "behavehealth.com+continuum+of+care",
+      "current": "recovery_residence_levels_of_support.png",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/sober-living-home-startup-guide.md"
+    },
+    {
+      "post": "what-is-a-sober-living-home",
+      "type": "featured_image_mismatch",
+      "original": "",
+      "current": "image-asset.jpeg",
+      "markdown_file": "/Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/content/blog/what-is-a-sober-living-home.md"
+    }
+  ]
+}

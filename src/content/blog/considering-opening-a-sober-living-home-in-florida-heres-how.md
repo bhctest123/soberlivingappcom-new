@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living", "Florida", "FARR", "Licensing", "Startup"]
 featured: true
-image: "/images/blog/considering-opening-a-sober-living-home-in-florida-heres-how/Screen_Shot_2021-05-18_at_2.51.38_PM.png"
+image: "/images/blog/considering-opening-a-sober-living-home-in-florida-heres-how/Screen_Shot_2021-05-18_at_2.51.03_PM.png"
 imageAlt: 'How to Start a Sober Living Home in Florida: Complete 2024 Guide'
 ---
 
