@@ -160,10 +160,6 @@ export const navigationItems: NavItem[] = [
     href: "/blog"
   },
   {
-    title: "Search",
-    href: "/search"
-  },
-  {
     title: "Contact",
     href: "/contact"
   }

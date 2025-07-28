@@ -29,6 +29,19 @@ const searchData = allPosts.map((post: CollectionEntry<'blog'>) => ({
 const allCategories = [...new Set(allPosts.flatMap((post: CollectionEntry<'blog'>) => post.data.category))].sort() as string[];
 const allTags = [...new Set(allPosts.flatMap((post: CollectionEntry<'blog'>) => post.data.tags || []))].sort() as string[];
 
+// Extract URL parameters for initial filters
+const url = new URL(Astro.request.url);
+const initialCategory = url.searchParams.get('category');
+const initialTag = url.searchParams.get('tag');
+const initialQuery = url.searchParams.get('q') || url.searchParams.get('search');
+
+// Prepare initial filter state
+const initialFilters = {
+  category: initialCategory ? [initialCategory] : [],
+  tag: initialTag ? [initialTag] : [],
+  query: initialQuery || ''
+};
+
 // SEO structured data
 const structuredData = {
   "@context": "https://schema.org",
@@ -71,6 +84,7 @@ const structuredData = {
           searchData={searchData}
           categories={allCategories}
           tags={allTags}
+          initialFilters={initialFilters}
           client:load
         />
 

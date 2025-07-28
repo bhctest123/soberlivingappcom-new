@@ -67,6 +67,10 @@ export const redirects: RedirectRule[] = [
   // Old: /sober-living-app-blog/YYYY/M/D/slug.html
   // New: /sober-living-app-blog/YYYY/M/D/slug (same structure, just no .html)
   
+  // Legacy search page redirect
+  { source: '/search', destination: '/blog', permanent: true },
+  { source: '/search.html', destination: '/blog', permanent: true },
+  
   // Blog category and tag pages
   { source: '/sober-living-app-blog/category/:category.html', destination: '/blog?category=:category', permanent: true },
   { source: '/sober-living-app-blog/tag/:tag.html', destination: '/blog?tag=:tag', permanent: true },

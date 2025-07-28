@@ -24,6 +24,11 @@ interface SearchInterfaceProps {
   searchData: SearchPost[];
   categories: string[];
   tags: string[];
+  initialFilters?: {
+    category?: string[];
+    tag?: string[];
+    query?: string;
+  };
 }
 
 export type SortOption = 'relevance' | 'date-desc' | 'date-asc';
