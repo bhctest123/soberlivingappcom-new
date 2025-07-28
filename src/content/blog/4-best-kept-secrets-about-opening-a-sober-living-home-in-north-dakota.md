@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - 4 Best Kept Secrets About Opening a Sober Living Home in North Dakota"
+title: '4 Best Kept Secrets About Opening a Sober Living Home in North Dakota'
 description: '4 secrets to opening an SLH in ND (Feb 2023): RHAP funding, no state cert, NSLA & more! Tips via Sober Living App blog.'
 date: 2023-02-16
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - 4 Best Kept Secrets About Opening a Sober Living Home in North Dakota"
+imageAlt: '4 Best Kept Secrets About Opening a Sober Living Home in North Dakota'
 ---
 
 Ben Weiss

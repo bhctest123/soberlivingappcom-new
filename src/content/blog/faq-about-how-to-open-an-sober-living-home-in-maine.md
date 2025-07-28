@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - FAQ About How to Open an Sober Living Home in Maine"
+title: 'FAQ About How to Open an Sober Living Home in Maine'
 description: 'Open a sober living home in Maine? Get FAQs on certification (MARR), Narcan, grants & high demand. Your guide to Maine''s recovery housing rules.'
 date: 2023-01-19
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - FAQ About How to Open an Sober Living Home in Maine"
+imageAlt: 'FAQ About How to Open an Sober Living Home in Maine'
 ---
 
 Ben Weiss

@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Introducing Our New Resident Application for the Sober Living Home App"
+title: 'Introducing Our New Resident Application for the Sober Living Home App'
 description: "Streamline sober living admissions w/ the Sober Living App resident application feature. Read the original 2020 intro blog post."
 date: 2020-04-28
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Introducing Our New Resident Application for the Sober Living Home App"
+imageAlt: 'Introducing Our New Resident Application for the Sober Living Home App'
 ---
 
 Ben Weiss
@@ -38,7 +38,7 @@ Today we’ll go over some of the new features of the new resident application a
 
 Our new resident application is all cloud-based so your prospective residents won’t have to hassle with the logistics of paper applications. Simply send interested parties a link pointing towards your application. We take it from there. 
 
-When a new application is submitted, you are instantly notified. All of the information your prospect entered into their application is automatically populated into the Sober Living App’s [powerful CRM](../../../../features.html#features-overview), which means you’ll never waste another minute on needless data entry while [processing new residents](../../3/17/mastering-admissions-at-your-sober-living-home.html). When the application is accepted and the prospect is assigned a move-in date, converting their file to a “resident” file happens with the click of a button.  
+When a new application is submitted, you are instantly notified. All of the information your prospect entered into their application is automatically populated into the Sober Living App’s [powerful CRM](../../../../features.html#features-overview), which means you’ll never waste another minute on needless data entry while [processing new residents](/sober-living-app-blog/mastering-admissions-at-your-sober-living-home). When the application is accepted and the prospect is assigned a move-in date, converting their file to a “resident” file happens with the click of a button.  
 
 ## Customizable? Of Course!
 

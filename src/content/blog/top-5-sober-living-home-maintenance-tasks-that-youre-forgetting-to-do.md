@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - Top 5 Sober Living Home Maintenance Tasks that You''re Forgetting to Do'
+title: 'Top 5 Sober Living Home Maintenance Tasks that You''re Forgetting to Do'
 description: "Top 5 forgotten maintenance tasks for sober living homes. Ensure property safety & upkeep with these tips from the Sober Living App blog."
 date: 2021-06-13
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - Top 5 Sober Living Home Maintenance Tasks that You''re Forgetting to Do'
+imageAlt: 'Top 5 Sober Living Home Maintenance Tasks that You''re Forgetting to Do'
 ---
 
 Ben Weiss

@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - 5 Things to Consider When Opening a Sober Living Home in Wyoming"
+title: '5 Things to Consider When Opening a Sober Living Home in Wyoming'
 description: 'Opening a sober home in WY? 5 things to know: unmet need, unique state certification (not NARR), official terms, regulations & finding certified homes.'
 date: 2023-03-01
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - 5 Things to Consider When Opening a Sober Living Home in Wyoming"
+imageAlt: '5 Things to Consider When Opening a Sober Living Home in Wyoming'
 ---
 
 Ben Weiss

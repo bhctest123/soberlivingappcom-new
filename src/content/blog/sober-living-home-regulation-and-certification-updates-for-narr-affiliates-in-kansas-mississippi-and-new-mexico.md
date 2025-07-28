@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Sober Living Reg/Cert Updates for NARR Affiliates in KS, MS, NM"
+title: 'Sober Living Reg/Cert Updates for NARR Affiliates in KS, MS, NM'
 description: "Get updates on NARR affiliate regulation & certification for sober living in Kansas, Mississippi & New Mexico via Sober Living App."
 date: 2024-12-04
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Sober Living Reg/Cert Updates for NARR Affiliates in KS, MS, NM"
+imageAlt: 'Sober Living Reg/Cert Updates for NARR Affiliates in KS, MS, NM'
 ---
 
 Ben Weiss
@@ -44,7 +44,7 @@ For more on behavioral health business startup information in Kansas, see:
 
 [Medicaid Unwinding and State Behavioral Health in Nevada, Arkansas, Mississippi, Kansas, New Mexico, Nebraska, and Idaho ](https://behavehealth.com/blog/2023/4/27/medicaid-unwinding-and-state-behavioral-health-in-nevada-arkansas-mississippi-kansas-new-mexico-nebraska-and-idahonbsp)
 
-[Kentucky NARR State Affiliate](../../11/13/kentucky-narr-state-affiliate.html)
+[Kentucky NARR State Affiliate](/sober-living-app-blog/kentucky-narr-state-affiliate)
 
 ## Mississippi has no NARR affiliate or pending regulation for sober living homes 
 
@@ -90,7 +90,7 @@ Sober living home operators and addiction treatment providers in New Mexico may 
 
 [FAQ on Opening a Sober Living Home in New Mexico ](../../../2023/1/12/faq-on-opening-a-sober-living-home-in-new-mexiconbsp.html)
 
-[Are Behavioral Health Peer Support Services Covered in Kansas, Mississippi, New Mexico, Nebraska, or North Dakota for Sober Living Homes?](../../7/25/are-behavioral-health-peer-support-services-covered-in-kansas-mississippi-new-mexico-nebraska-or-north-dakota-for-sober-living-homes.html)
+[Are Behavioral Health Peer Support Services Covered in Kansas, Mississippi, New Mexico, Nebraska, or North Dakota for Sober Living Homes?](/sober-living-app-blog/are-behavioral-health-peer-support-services-covered-in-kansas-mississippi-new-mexico-nebraska-or-north-dakota-for-sober-living-homes)
 
 ## Managing a sober living home in Kansas, Mississippi, or New Mexico? Let us help.
 

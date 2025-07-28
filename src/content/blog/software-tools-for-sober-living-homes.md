@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Software Tools for Sober Living Homes"
+title: 'Software Tools for Sober Living Homes'
 description: "(Apr 2018) Exploring software tools for sober living homes. Discover early tech solutions for efficient management & resident support in recovery housing."
 date: 2018-04-08
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Software Tools for Sober Living Homes"
+imageAlt: 'Software Tools for Sober Living Homes'
 ---
 
 Ben Weiss

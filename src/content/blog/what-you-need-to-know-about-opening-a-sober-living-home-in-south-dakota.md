@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - What You Need to Know About Opening a Sober Living Home in South Dakota"
+title: 'What You Need to Know About Opening a Sober Living Home in South Dakota'
 description: "Opening a sober living home in South Dakota? Learn about high demand, current regulations, potential laws & unique 24/7 Sobriety Program."
 date: 2023-02-14
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - What You Need to Know About Opening a Sober Living Home in South Dakota"
+imageAlt: 'What You Need to Know About Opening a Sober Living Home in South Dakota'
 ---
 
 Ben Weiss

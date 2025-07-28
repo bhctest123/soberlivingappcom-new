@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - NE, ID, WV Sober Living & NARR Affiliate Updates"
+title: 'NE, ID, WV Sober Living & NARR Affiliate Updates'
 description: 'Key updates for NE, ID, WV sober living homes: NARR affiliate status & recovery residence regulations. Stay informed.'
 date: 2024-12-09
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - NE, ID, WV Sober Living & NARR Affiliate Updates"
+imageAlt: 'NE, ID, WV Sober Living & NARR Affiliate Updates'
 ---
 
 Ben Weiss
@@ -46,7 +46,7 @@ For more on behavioral health business and sober living in Nebraska, see:
 
 [Your Questions About Opening a Sober Living Home in Nebraska, Answered](../../../2023/1/17/your-questions-about-opening-a-sober-living-home-in-nebraska-answered.html)
 
-[Are Behavioral Health Peer Support Services Covered in Kansas, Mississippi, New Mexico, Nebraska, or North Dakota for Sober Living Homes?](../../7/25/are-behavioral-health-peer-support-services-covered-in-kansas-mississippi-new-mexico-nebraska-or-north-dakota-for-sober-living-homes.html)
+[Are Behavioral Health Peer Support Services Covered in Kansas, Mississippi, New Mexico, Nebraska, or North Dakota for Sober Living Homes?](/sober-living-app-blog/are-behavioral-health-peer-support-services-covered-in-kansas-mississippi-new-mexico-nebraska-or-north-dakota-for-sober-living-homes)
 
 ## There’s still no NARR affiliate or mandatory certifications for sober living homes in Idaho 
 
@@ -62,7 +62,7 @@ Although there are no new restrictions and regulations placed on sober living ho
 
 [Best Kept Secrets to Opening an Addiction Treatment Center in Idaho](https://behavehealth.com/blog/2022/11/9/best-kept-secrets-to-opening-an-addiction-treatment-center-in-idaho)
 
-[Are Behavioral Health Peer Support Services Covered in Idaho, West Virginia, Hawaii, New Hampshire, and Vermont for Sober Living Homes?](../../7/28/are-behavioral-health-peer-support-services-covered-in-idaho-west-virginia-hawaii-new-hampshire-and-vermont-for-sober-living-homes.html)
+[Are Behavioral Health Peer Support Services Covered in Idaho, West Virginia, Hawaii, New Hampshire, and Vermont for Sober Living Homes?](/sober-living-app-blog/are-behavioral-health-peer-support-services-covered-in-idaho-west-virginia-hawaii-new-hampshire-and-vermont-for-sober-living-homes)
 
 ## West Virginia strengthens sober living home regulations for all recovery residences in the state and WVARR continues recovery community advocacy 
 

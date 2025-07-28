@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - MAT and Sober Living Deemed More Compatible Than Ever Before"
+title: 'MAT and Sober Living Deemed More Compatible Than Ever Before'
 description: "Learn how MAT (Medication-Assisted Treatment) is becoming more compatible with sober living, enhancing support for recovery journeys."
 date: 2020-01-21
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - MAT and Sober Living Deemed More Compatible Than Ever Before"
+imageAlt: 'MAT and Sober Living Deemed More Compatible Than Ever Before'
 ---
 
 Ben Weiss

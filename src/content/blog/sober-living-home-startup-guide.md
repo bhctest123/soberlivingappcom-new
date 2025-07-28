@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Sober Living Home Startup Guide"
+title: 'Sober Living Home Startup Guide'
 description: 'Sober Living Home Startup Guide (2018): Foundational steps & basic considerations for opening your first home.'
 date: 2018-04-08
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Sober Living Home Startup Guide"
+imageAlt: 'Sober Living Home Startup Guide'
 ---
 
 Ben Weiss

@@ -166,7 +166,7 @@ Operating a recovery residence comes with several legal obligations:
 
 ## Future Trends and Updates
 
-The future of recovery residences in Illinois is poised for growth due to increasing demand for high-quality transitional housing options—especially among veterans recovering from substance use disorders [NARR Regulations and Updates for New York, Pennsylvania, and Illinois Sober Living Homes](<../../8/18/narr-regulations-and-updates-for-new-york-pennsylvania-and-illinois-sober-living-homes.html>). As legislation evolves around addiction treatment services—particularly regarding medication-assisted treatment (MAT)—recovery residences will need to adapt their services accordingly.
+The future of recovery residences in Illinois is poised for growth due to increasing demand for high-quality transitional housing options—especially among veterans recovering from substance use disorders [NARR Regulations and Updates for New York, Pennsylvania, and Illinois Sober Living Homes](</sober-living-app-blog/narr-regulations-and-updates-for-new-york-pennsylvania-and-illinois-sober-living-homes>). As legislation evolves around addiction treatment services—particularly regarding medication-assisted treatment (MAT)—recovery residences will need to adapt their services accordingly.
 
 How BehaveHealth.com Stays Current:
 

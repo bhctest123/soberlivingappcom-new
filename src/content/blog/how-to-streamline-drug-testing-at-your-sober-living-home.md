@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - How to Streamline Drug Testing at Your Sober Living Home"
+title: 'How to Streamline Drug Testing at Your Sober Living Home'
 description: "Streamline drug testing at your sober living home. Get practical tips for more efficient & effective procedures."
 date: 2019-12-17
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - How to Streamline Drug Testing at Your Sober Living Home"
+imageAlt: 'How to Streamline Drug Testing at Your Sober Living Home'
 ---
 
 Ben Weiss

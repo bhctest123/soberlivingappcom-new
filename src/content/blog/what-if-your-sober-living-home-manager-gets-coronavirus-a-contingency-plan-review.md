@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - What if Your Sober Living Home Manager Gets Coronavirus? A Contingency Plan Review"
+title: 'What if Your Sober Living Home Manager Gets Coronavirus? A Contingency Plan Review'
 description: 'https://soberlivingapp.com/sober-living-app-blog/2020/6/2/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review'
 date: 2020-06-02
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - What if Your Sober Living Home Manager Gets Coronavirus? A Contingency Plan Review"
+imageAlt: 'What if Your Sober Living Home Manager Gets Coronavirus? A Contingency Plan Review'
 ---
 
 Ben Weiss

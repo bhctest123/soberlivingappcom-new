@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - 5 Things All of the Best Sober Living Home Managers Have in Common"
+title: '5 Things All of the Best Sober Living Home Managers Have in Common'
 description: "Great sober living managers are organized, consistent, proactive, top communicators & document everything. Learn the 5 keys to success in this role."
 date: 2020-03-03
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - 5 Things All of the Best Sober Living Home Managers Have in Common"
+imageAlt: '5 Things All of the Best Sober Living Home Managers Have in Common'
 ---
 
 Ben Weiss

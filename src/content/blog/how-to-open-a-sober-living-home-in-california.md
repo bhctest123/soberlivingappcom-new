@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - How to Open a Sober Living Home in California"
+title: 'How to Open a Sober Living Home in California'
 description: 'Open a sober living home in California (May ''21). Guide covers state/local regulations, zoning, CCAPP certification & FHA/ADA rights.'
 date: 2021-05-11
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - How to Open a Sober Living Home in California"
+imageAlt: 'How to Open a Sober Living Home in California'
 ---
 
 Ben Weiss

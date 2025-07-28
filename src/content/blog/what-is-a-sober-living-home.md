@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - What is a sober living home?"
+title: "What is a sober living home?"
 description: "There are many names for these types of organizations and programs from halfway house to sober living home to recovery residence."
 date: 2018-04-08
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - What is a sober living home?"
+imageAlt: "What is a sober living home?"
 ---
 
 Ben Weiss

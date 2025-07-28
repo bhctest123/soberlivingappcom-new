@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - How to Write an Awesome Good Neighbor Agreement for Your Sober Living Home"
+title: 'How to Write an Awesome Good Neighbor Agreement for Your Sober Living Home'
 description: "Today, we’ll look at what a Good Neighbor Agreement is, how to write one that works and how to implement a GNA at your sober living home."
 date: 2021-09-21
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - How to Write an Awesome Good Neighbor Agreement for Your Sober Living Home"
+imageAlt: 'How to Write an Awesome Good Neighbor Agreement for Your Sober Living Home'
 ---
 
 Ben Weiss
@@ -30,7 +30,7 @@ The explosive growth in sober living homes in the United States over the last de
 
 While we’ve made strides in educating the public about the fact that people with SUD are “good people with a bad disease,” there still remains a knee-jerk reaction to the integration of sober living into the neighborhoods of so-called “[NIMBYs](https://soberlivingapp.com/sober-living-app-blog/2019/11/19/dealing-with-nimbys-at-your-sober-living-housenbsp).”
 
-Enter the sober living home Good Neighbor Agreement (GNA). GNAs are a strong preventative measure your sober living home can take to avoid creating a negative feedback loop between your sober living home residents and their neighbors. Often, when undesirable behaviors are addressed pre-emptively, you can largely avoid the type of destructive dynamics that feed [nuisance lawsuits](../../8/31/nuisance-lawsuits-a-crash-course-for-sober-living-home-operators.html), [zoning-based harassment](../../8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.html) and other major stumbling blocks to sober living. 
+Enter the sober living home Good Neighbor Agreement (GNA). GNAs are a strong preventative measure your sober living home can take to avoid creating a negative feedback loop between your sober living home residents and their neighbors. Often, when undesirable behaviors are addressed pre-emptively, you can largely avoid the type of destructive dynamics that feed [nuisance lawsuits](/sober-living-app-blog/nuisance-lawsuits-a-crash-course-for-sober-living-home-operators), [zoning-based harassment](/sober-living-app-blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1) and other major stumbling blocks to sober living. 
 
 Today, we’ll look at what a Good Neighbor Agreement is, how to write one that works and how to implement a GNA at your sober living home.
 

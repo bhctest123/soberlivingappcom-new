@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - Chaotic Admissions and Billing? Check Out Sober Living Apps'' Admissions 2.0 Update'
+title: 'Chaotic Admissions and Billing? Check Out Sober Living Apps'' Admissions 2.0 Update'
 description: 'Tired of chaotic sober living admissions & billing? See how Sober Living App''s Admissions 2.0 update streamlines your process for better efficiency!'
 date: 2020-09-22
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - Chaotic Admissions and Billing? Check Out Sober Living Apps'' Admissions 2.0 Update'
+imageAlt: 'Chaotic Admissions and Billing? Check Out Sober Living Apps'' Admissions 2.0 Update'
 ---
 
 Ben Weiss
@@ -36,7 +36,7 @@ As COVID-19 has swept through the country, we’ve all changed the way we live. 
 
 At the Sober Living App, we listen when our users tell us that things need to change, and fast. So, we rolled up our sleeves and got to work, making the best all-in-one software solution for sober living home operators even better and even more useful in a changing world. 
 
-The result? A smoother and more powerful app experience than you ever imagined, especially designed to take on all of [the new challenges](../../3/31/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp.html) sober living home operators are facing today.
+The result? A smoother and more powerful app experience than you ever imagined, especially designed to take on all of [the new challenges](/sober-living-app-blog/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp) sober living home operators are facing today.
 
 Read on to learn about the brand new features you’ll find in the new [Sober Living App Behave Admissions 2.0 Summer 2020 Update](https://info.behavehealth.com/en/behave-health-summer-2020-update).
 

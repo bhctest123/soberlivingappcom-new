@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - Considering Opening a Sober Living Home in Florida? Here''s How.'
+title: 'Considering Opening a Sober Living Home in Florida? Here''s How.'
 description: "Florida is, shall we say, notorious for its sober living homes."
 date: 2021-05-18
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - Considering Opening a Sober Living Home in Florida? Here''s How.'
+imageAlt: 'Considering Opening a Sober Living Home in Florida? Here''s How.'
 ---
 
 Ben Weiss

@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Mastering Admissions at Your Sober Living Home"
+title: 'Mastering Admissions at Your Sober Living Home'
 description: 'Mastering sober living admissions: Tips for an effective intake process from the Sober Living App blog archives (Mar 2020).'
 date: 2020-03-17
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Mastering Admissions at Your Sober Living Home"
+imageAlt: 'Mastering Admissions at Your Sober Living Home'
 ---
 
 Ben Weiss

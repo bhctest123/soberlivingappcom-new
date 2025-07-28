@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - How to Open a Sober Living Home in Ohio"
+title: 'How to Open a Sober Living Home in Ohio'
 description: "Learn how to open a sober living home in Ohio (OH). Guide covers key steps, requirements & considerations (Oct 2021)."
 date: 2021-10-12
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - How to Open a Sober Living Home in Ohio"
+imageAlt: 'How to Open a Sober Living Home in Ohio'
 ---
 
 Ben Weiss
@@ -32,7 +32,7 @@ Studies completed by [The Ohio Council of Behavioral Health and Family Services 
 
 Like other states, Ohio struggles with affordable housing inventory, which further impacts the sober living home industry in the state. 
 
-The good news is that the state of Ohio has created more resources than most states (looking at you, [Florida](../../5/18/considering-opening-a-sober-living-home-in-florida-heres-how.html) and [California](https://soberlivingapp.com/sober-living-app-blog/2021/5/11/how-to-open-a-sober-living-home-in-california)) on how to open a sober living home or recovery housing community within state lines. Ohio is also very friendly to sober living home operators who balk at state licensure and registration. 
+The good news is that the state of Ohio has created more resources than most states (looking at you, [Florida](/sober-living-app-blog/considering-opening-a-sober-living-home-in-florida-heres-how) and [California](https://soberlivingapp.com/sober-living-app-blog/2021/5/11/how-to-open-a-sober-living-home-in-california)) on how to open a sober living home or recovery housing community within state lines. Ohio is also very friendly to sober living home operators who balk at state licensure and registration. 
 
 Read on for more information about opening a sober living home in the state of Ohio. 
 
@@ -48,7 +48,7 @@ The pertinent sections are here:
 > 
 > (B) The recovery housing shall not be subject to certification as a recovery support under section [5119.36](https://codes.ohio.gov/ohio-revised-code/section-5119.36) of the Revised Code.
 
-This is a breath of fresh air for readers who will recognize that not every state is so laissez-faire about [sober living home regulations](../../8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.html).
+This is a breath of fresh air for readers who will recognize that not every state is so laissez-faire about [sober living home regulations](/sober-living-app-blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1).
 
 ## Ohio Draws a Sharp Distinction Between Sober Living and Treatment with the Three Levels of Sober Living Homes Allowed in Ohio 
 

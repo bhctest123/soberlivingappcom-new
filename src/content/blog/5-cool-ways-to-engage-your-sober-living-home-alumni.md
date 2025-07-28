@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - 5 Cool Ways to Engage Your Sober Living Home Alumni"
+title: '5 Cool Ways to Engage Your Sober Living Home Alumni'
 description: "Discover 5 cool ways to engage your sober living alumni. Build a strong, supportive recovery community network."
 date: 2021-07-15
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - 5 Cool Ways to Engage Your Sober Living Home Alumni"
+imageAlt: '5 Cool Ways to Engage Your Sober Living Home Alumni'
 ---
 
 Ben Weiss

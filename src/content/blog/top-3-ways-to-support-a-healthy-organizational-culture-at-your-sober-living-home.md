@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Top 3 Ways to Support a Healthy Organizational Culture at Your Sober Living Home"
+title: 'Top 3 Ways to Support a Healthy Organizational Culture at Your Sober Living Home'
 description: "Foster a healthy culture in your sober living home. Discover 3 key ways to improve communication, set boundaries & support staff and residents."
 date: 2020-11-03
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Top 3 Ways to Support a Healthy Organizational Culture at Your Sober Living Home"
+imageAlt: 'Top 3 Ways to Support a Healthy Organizational Culture at Your Sober Living Home'
 ---
 
 Ben Weiss
@@ -42,7 +42,7 @@ Today at the [Sober Living App](/) blog, we’ll look at 5 things all sober livi
 
 Because addiction cannot peacefully co-exist with healthy relationships, people in recovery often need coaching around how to create, maintain and respect healthy interpersonal boundaries. It takes time and practice to unlearn the toxic relationship patterns and behaviors that people with SUD practiced when they were using. 
 
-One of the ways this manifests in sober living homes is a lot of boundary-testing around rules. Residents may break or bend rules to see how strictly and consistently they are enforced. Residents may attempt to “split” [authority figures](../../6/2/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review.html) from one another to undermine a “united front” on rules. This, in turn, can result in a conflict between [managers](../../3/3/5-things-all-of-the-best-sober-living-home-managers-have-in-common.html) or other standard-bearing figures within your sober living home’s orbit. 
+One of the ways this manifests in sober living homes is a lot of boundary-testing around rules. Residents may break or bend rules to see how strictly and consistently they are enforced. Residents may attempt to “split” [authority figures](/sober-living-app-blog/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review) from one another to undermine a “united front” on rules. This, in turn, can result in a conflict between [managers](/sober-living-app-blog/5-things-all-of-the-best-sober-living-home-managers-have-in-common) or other standard-bearing figures within your sober living home’s orbit. 
 
 Don’t let this happen.
 
@@ -64,7 +64,7 @@ People in recovery frequently struggle with healthy conflict resolution skills. 
 
 The fix?
 
-Model healthy conflict resolution skills at your sober living home. Train all management and residents in healthy communication (like Non-Violent Communication or NVC) and create space for a formal conflict resolution process at your sober living home should anyone request it or require it. Put down in writing what a formal conflict resolution process entails and require all residents to agree to submit to such a process, if needed, in writing. There are many models of these types of processes online for free. Simply choose the one that most resonates with your sober living home’s mission and values and make sure to include those details in your [new resident agreement](../../6/30/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements.html). Make additional copies or a poster detailing the process accessible in a common area. 
+Model healthy conflict resolution skills at your sober living home. Train all management and residents in healthy communication (like Non-Violent Communication or NVC) and create space for a formal conflict resolution process at your sober living home should anyone request it or require it. Put down in writing what a formal conflict resolution process entails and require all residents to agree to submit to such a process, if needed, in writing. There are many models of these types of processes online for free. Simply choose the one that most resonates with your sober living home’s mission and values and make sure to include those details in your [new resident agreement](/sober-living-app-blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements). Make additional copies or a poster detailing the process accessible in a common area. 
 
 ## We’re Here to Help Your Sober Living Home Create a Healthy Organizational Culture
 

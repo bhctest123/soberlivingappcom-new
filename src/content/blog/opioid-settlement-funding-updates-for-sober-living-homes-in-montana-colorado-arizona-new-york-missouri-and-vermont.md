@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - Sober Living Opioid Fund Updates: MT, CO, AZ, NY, MO, VT.'
+title: 'Sober Living Opioid Fund Updates: MT, CO, AZ, NY, MO, VT.'
 description: 'Opioid Settlement Fund updates for sober living in MT, CO, AZ, NY, MO, & VT. Get info on funding opportunities (Mar ''24).'
 date: 2024-03-10
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - Sober Living Opioid Fund Updates: MT, CO, AZ, NY, MO, VT.'
+imageAlt: 'Sober Living Opioid Fund Updates: MT, CO, AZ, NY, MO, VT.'
 ---
 
 Ben Weiss

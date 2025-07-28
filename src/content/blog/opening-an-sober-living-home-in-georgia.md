@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Opening an Sober Living Home in Georgia"
+title: 'Opening an Sober Living Home in Georgia'
 description: "(Nov 2021) Opening a sober living home in Georgia? Learn about the regulations (SB 4), GARR certification & anticipated changes for recovery residences."
 date: 2021-11-23
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Opening an Sober Living Home in Georgia"
+imageAlt: 'Opening an Sober Living Home in Georgia'
 ---
 
 Ben Weiss

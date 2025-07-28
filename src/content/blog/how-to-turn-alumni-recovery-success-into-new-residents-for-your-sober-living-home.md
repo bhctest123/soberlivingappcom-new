@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - How to Turn Alumni Recovery Success Into New Residents for Your Sober Living Home"
+title: 'How to Turn Alumni Recovery Success Into New Residents for Your Sober Living Home'
 description: "Use alumni recovery success to gain new SLH residents. Marketing tips from the Sober Living App blog archives (June 2020)."
 date: 2020-06-16
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - How to Turn Alumni Recovery Success Into New Residents for Your Sober Living Home"
+imageAlt: 'How to Turn Alumni Recovery Success Into New Residents for Your Sober Living Home'
 ---
 
 Ben Weiss

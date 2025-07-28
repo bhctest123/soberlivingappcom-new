@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - Find Your People: Defining Your Ideal Sober Living Home Resident'
+title: 'Find Your People: Defining Your Ideal Sober Living Home Resident'
 description: "Find your people! Guide for sober living homes on defining your ideal resident profile for better admissions, culture & program fit."
 date: 2020-02-18
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - Find Your People: Defining Your Ideal Sober Living Home Resident'
+imageAlt: 'Find Your People: Defining Your Ideal Sober Living Home Resident'
 ---
 
 Ben Weiss

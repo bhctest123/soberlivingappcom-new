@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Opioid Settlement Funding Updates for Sober Living in SD, ND, AK, DC, WY"
+title: 'Opioid Settlement Funding Updates for Sober Living in SD, ND, AK, DC, WY'
 description: 'SD, ND, AK, DC, WY: Opioid settlement fund updates for sober living (Apr 2024). Explore details on the Sober Living App blog.'
 date: 2024-04-17
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Opioid Settlement Funding Updates for Sober Living in SD, ND, AK, DC, WY"
+imageAlt: 'Opioid Settlement Funding Updates for Sober Living in SD, ND, AK, DC, WY'
 ---
 
 Ben Weiss
@@ -72,9 +72,9 @@ Oversight of local government spending is limited, but we do know that the Wyomi
 
 [Opioid settlement funding updates for sober living homes in Hawaii, Maine, Montana, New Hampshire, Rhode Island](../10/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island.html)
 
-[Opioid Settlement Funding Updates for Sober Living Homes in North Carolina, Georgia, Kentucky and West Virginia](../../3/26/opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia.html)
+[Opioid Settlement Funding Updates for Sober Living Homes in North Carolina, Georgia, Kentucky and West Virginia](/sober-living-app-blog/opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia)
 
-[Opioid Settlement Funding Updates for Sober Living Homes in Montana, Colorado, Arizona, New York, Missouri, and Vermont](../../3/10/opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont.html)
+[Opioid Settlement Funding Updates for Sober Living Homes in Montana, Colorado, Arizona, New York, Missouri, and Vermont](/sober-living-app-blog/opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont)
 
 [Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida,  Ohio](https://soberlivingapp.com/sober-living-app-blog/2024/3/20/opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-floridanbsp-ohio)
 

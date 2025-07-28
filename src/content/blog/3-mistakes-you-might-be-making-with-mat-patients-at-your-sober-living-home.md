@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - 3 Mistakes You Might be Making with MAT Patients at Your Sober Living Home"
+title: '3 Mistakes You Might be Making with MAT Patients at Your Sober Living Home'
 description: 'Better support MAT residents in your SLH: Avoid 3 common pitfalls (Jan 2021 tips). From the Sober Living App blog archives.'
 date: 2021-01-06
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - 3 Mistakes You Might be Making with MAT Patients at Your Sober Living Home"
+imageAlt: '3 Mistakes You Might be Making with MAT Patients at Your Sober Living Home'
 ---
 
 Ben Weiss

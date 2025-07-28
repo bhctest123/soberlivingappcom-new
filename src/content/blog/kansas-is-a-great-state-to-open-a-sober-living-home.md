@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Kansas is a Great State to Open a Sober Living Home"
+title: 'Kansas is a Great State to Open a Sober Living Home'
 description: 'Kansas: Great state for sober living homes (Jan ''23). Learn why: explores high demand, lack of required state certification & market potential.'
 date: 2023-01-10
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Kansas is a Great State to Open a Sober Living Home"
+imageAlt: 'Kansas is a Great State to Open a Sober Living Home'
 ---
 
 Ben Weiss

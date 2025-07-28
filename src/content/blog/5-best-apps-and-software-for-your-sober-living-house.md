@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - 5 Best Apps and Software for Your Sober Living House"
+title: '5 Best Apps and Software for Your Sober Living House'
 description: 'Original 2019 list of 5 apps/software for sober living homes. Note: Recommendations likely outdated. From Sober Living App blog archives.'
 date: 2019-06-12
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - 5 Best Apps and Software for Your Sober Living House"
+imageAlt: '5 Best Apps and Software for Your Sober Living House'
 ---
 
 Ben Weiss

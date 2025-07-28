@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Your Questions About Opening a Sober Living Home in West Virginia - Answered"
+title: 'Your Questions About Opening a Sober Living Home in West Virginia - Answered'
 description: 'WVARR (West Virginia NARR Affiliate): Browse articles on WV recovery residence standards, news & updates.'
 date: 2023-01-24
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Your Questions About Opening a Sober Living Home in West Virginia - Answered"
+imageAlt: 'Your Questions About Opening a Sober Living Home in West Virginia - Answered'
 ---
 
 Ben Weiss

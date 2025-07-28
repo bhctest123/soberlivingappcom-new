@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - How to Make Your Sober Living Home Stand Out from the Crowd"
+title: 'How to Make Your Sober Living Home Stand Out from the Crowd'
 description: "Make your sober living home stand out! Get strategies & tips to differentiate from the competition & attract residents."
 date: 2020-02-04
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - How to Make Your Sober Living Home Stand Out from the Crowd"
+imageAlt: 'How to Make Your Sober Living Home Stand Out from the Crowd'
 ---
 
 Ben Weiss
@@ -58,7 +58,7 @@ Once you’ve gathered all of this information, start looking for holes in the c
 
   * Is anyone allowing pets? 
 
-  * Is anyone [allowing MAT](../../1/21/mat-and-sober-living-deemed-more-compatible-than-ever-before.html)?
+  * Is anyone [allowing MAT](/sober-living-app-blog/mat-and-sober-living-deemed-more-compatible-than-ever-before)?
 
   * Does my target area have a lot of LGBTQ people? Is anyone serving them, specifically? 
 

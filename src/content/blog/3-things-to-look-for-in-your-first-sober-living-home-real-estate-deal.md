@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - 3 Things to Look for in Your First Sober Living Home Real Estate Deal"
+title: '3 Things to Look for in Your First Sober Living Home Real Estate Deal'
 description: "Starting your first sober living home? Learn 3 crucial things to look for in your real estate deal. Key factors for success."
 date: 2019-05-28
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - 3 Things to Look for in Your First Sober Living Home Real Estate Deal"
+imageAlt: '3 Things to Look for in Your First Sober Living Home Real Estate Deal'
 ---
 
 Ben Weiss

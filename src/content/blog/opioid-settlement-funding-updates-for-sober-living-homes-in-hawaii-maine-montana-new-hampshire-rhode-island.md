@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - Opioid Settlement Funding for Sober Living: HI, ME, MT, NH, RI Updates.'
+title: 'Opioid Settlement Funding for Sober Living: HI, ME, MT, NH, RI Updates.'
 description: 'April 2024 report: Opioid Settlement Funding opportunities for sober living homes in HI, ME, MT, NH, & RI.'
 date: 2024-04-10
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - Opioid Settlement Funding for Sober Living: HI, ME, MT, NH, RI Updates.'
+imageAlt: 'Opioid Settlement Funding for Sober Living: HI, ME, MT, NH, RI Updates.'
 ---
 
 Ben Weiss

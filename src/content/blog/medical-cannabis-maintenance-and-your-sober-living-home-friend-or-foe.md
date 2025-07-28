@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - “Medical Cannabis Maintenance” and Your Sober Living Home: Friend or Foe?'
+title: '“Medical Cannabis Maintenance” and Your Sober Living Home: Friend or Foe?'
 description: 'Medical cannabis in sober living: Friend or foe? Explore the debate, pros & cons for recovery homes, and if it aligns with true sobriety. Read more.'
 date: 2021-06-29
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - “Medical Cannabis Maintenance” and Your Sober Living Home: Friend or Foe?'
+imageAlt: '“Medical Cannabis Maintenance” and Your Sober Living Home: Friend or Foe?'
 ---
 
 Ben Weiss

@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - You Opened a Sober Living Home—Now What?"
+title: 'You Opened a Sober Living Home—Now What?'
 description: "Opened a sober living home? Now what? Get guidance on next steps for new operators in this Sober Living App blog post (May 2019)."
 date: 2019-05-13
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - You Opened a Sober Living Home—Now What?"
+imageAlt: 'You Opened a Sober Living Home—Now What?'
 ---
 
 Ben Weiss

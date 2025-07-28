@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Is Peer Support Covered in CA, TX, FL, NY, PA SLHs & Treatment Programs?"
+title: 'Is Peer Support Covered in CA, TX, FL, NY, PA SLHs & Treatment Programs?'
 description: 'CA, TX, FL, NY, PA: Peer support coverage in SLH/treatment programs? Explore funding & rules (May 2024) via the Sober Living App blog.'
 date: 2024-05-29
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Is Peer Support Covered in CA, TX, FL, NY, PA SLHs & Treatment Programs?"
+imageAlt: 'Is Peer Support Covered in CA, TX, FL, NY, PA SLHs & Treatment Programs?'
 ---
 
 Ben Weiss

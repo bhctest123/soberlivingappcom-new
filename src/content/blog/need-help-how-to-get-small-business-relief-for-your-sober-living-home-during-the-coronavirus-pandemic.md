@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - COVID Small Business Relief Guide for Sober Living Homes"
+title: 'COVID Small Business Relief Guide for Sober Living Homes'
 description: "Guide for sober living homes seeking small business relief during the COVID-19 pandemic. Learn about options & how to get help."
 date: 2020-05-19
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - COVID Small Business Relief Guide for Sober Living Homes"
+imageAlt: 'COVID Small Business Relief Guide for Sober Living Homes'
 ---
 
 Ben Weiss
@@ -26,11 +26,11 @@ Ben Weiss
 
 ![There’s financial assistance for sober living homes impacted by the COVID-19 pandemic. Here’s how to find it.](/images/blog/need-help-how-to-get-small-business-relief-for-your-sober-living-home-during-the-coronavirus-pandemic/Screenshot_2020-05-14_at_9.52.40_AM.png)
 
-Many sober living homes are struggling during [the COVID-19 outbreak](../../3/31/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp.html). 
+Many sober living homes are struggling during [the COVID-19 outbreak](/sober-living-app-blog/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp). 
 
 Sober living homes rely on residents to pay rent so that they can remain solvent. When residents (or their families) lose their jobs or have their hours cut back in response to the pandemic, rent payments start falling through the cracks. When sober living homes’ cash flow takes a hit, mortgage and utility payments are at risk. 
 
-We are also seeing that fewer people are entering treatment (and therefore [sober living homes](../../4/21/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week.html)) during the pandemic for a variety of factors, one of which is certainly the financial strain being felt throughout the country. With fewer new residents to fill vacancies, many sober living homes are not operating at full capacity. In some cases, this means that profit margins are suffering. In others, it means the entire enterprise is at risk.
+We are also seeing that fewer people are entering treatment (and therefore [sober living homes](/sober-living-app-blog/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week)) during the pandemic for a variety of factors, one of which is certainly the financial strain being felt throughout the country. With fewer new residents to fill vacancies, many sober living homes are not operating at full capacity. In some cases, this means that profit margins are suffering. In others, it means the entire enterprise is at risk.
 
 There is help out there for sober living home businesses. Today, we’ll look at your options for relief during the COVID-19 pandemic. 
 

@@ -162,7 +162,7 @@ Key Statistics:
 
 ## Upcoming Changes or Proposals
 
-  * Advocacy for Regulation: There's a push for mandatory certification of sober living homes in Colorado to address quality issues [[NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes](<../../8/11/narr-rules-and-regulations-updates-for-california-texas-and-florida-sober-living-homesnbsp.html>)].
+  * Advocacy for Regulation: There's a push for mandatory certification of sober living homes in Colorado to address quality issues [[NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes](</sober-living-app-blog/narr-rules-and-regulations-updates-for-california-texas-and-florida-sober-living-homesnbsp>)].
 
   * Integration with Broader Healthcare: Recovery residences are increasingly being viewed as a vital part of the continuum of care, leading to more integrated approaches with primary care and mental health services.
 

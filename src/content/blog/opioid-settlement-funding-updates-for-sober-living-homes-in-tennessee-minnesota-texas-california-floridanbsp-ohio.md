@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - Sober Living Opioid Fund Updates: TN, MN, TX, CA, FL, OH.'
+title: 'Sober Living Opioid Fund Updates: TN, MN, TX, CA, FL, OH.'
 description: "Latest Opioid Settlement Fund updates for sober living homes in TN, MN, TX, CA, FL, & OH. Get current info."
 date: 2024-03-20
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - Sober Living Opioid Fund Updates: TN, MN, TX, CA, FL, OH.'
+imageAlt: 'Sober Living Opioid Fund Updates: TN, MN, TX, CA, FL, OH.'
 ---
 
 Ben Weiss

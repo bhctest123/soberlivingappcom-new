@@ -34,7 +34,7 @@ For more on sober living home business strategy, management, and regulation in O
 
 [Sober Living Homes in Ohio Get More Support and Funding from Lawmakers!](<../../../2022/8/30/sober-living-homes-in-ohio-get-more-support-and-funding-from-lawmakers.html>)
 
-[What CPT Billing Code Should Sober Living Homes Use for Peer Support Services in Illinois, Ohio, Georgia, North Carolina, and Michigan?](<../../6/2/what-cpt-billing-code-should-sober-living-homes-use-for-peer-support-services-in-illinois-ohio-georgia-north-carolina-and-michigan.html>)
+[What CPT Billing Code Should Sober Living Homes Use for Peer Support Services in Illinois, Ohio, Georgia, North Carolina, and Michigan?](</sober-living-app-blog/what-cpt-billing-code-should-sober-living-homes-use-for-peer-support-services-in-illinois-ohio-georgia-north-carolina-and-michigan>)
 
 ## Georgia Presses for Some Mild Regulation of Sober Living Homes in 2021, 2023, and 2024 Legislative Sessions
 
@@ -47,7 +47,7 @@ To read more about recovery residence business planning and execution in Georgia
 
 [Opening an Sober Living Home in Georgia](<../../../2021/11/23/opening-an-sober-living-home-in-georgia.html>)
 
-[Opioid Settlement Funding Updates for Sober Living Homes in North Carolina, Georgia, Kentucky and West Virginia](<../../3/26/opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia.html>)
+[Opioid Settlement Funding Updates for Sober Living Homes in North Carolina, Georgia, Kentucky and West Virginia](</sober-living-app-blog/opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia>)
 
 ## North Carolina Retains a Relatively Unregulated Environment for Sober Living Homes
 

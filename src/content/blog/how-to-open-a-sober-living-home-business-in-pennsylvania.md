@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - How to Open a Sober Living Home Business in Pennsylvania"
+title: 'How to Open a Sober Living Home Business in Pennsylvania'
 description: "How to open a sober living home business in Pennsylvania (PA). Guide covers key steps, requirements & tips."
 date: 2021-10-26
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - How to Open a Sober Living Home Business in Pennsylvania"
+imageAlt: 'How to Open a Sober Living Home Business in Pennsylvania'
 ---
 
 Ben Weiss
@@ -56,7 +56,7 @@ _In addition, the_[ _law_](https://www.legis.state.pa.us/cfdocs/legis/li/uconsCh
 
   2. _courts shall give first consideration to licensed recovery houses when residential recommendations are made for individuals under their supervision.   _
 
-Essentially, Pennsylvania has made good on it’s promise to go [the way of other states](../../8/17/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2.html), like Maryland, Massachusetts, Missouri and Rhode Island, which requires “voluntary certification” for sober living homes that want to receive funding or referrals from state agencies. Pennsylvania has not [gone so far as Florida](../../8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.html), which requires all addiction treatment centers to restrict referrals to certified sober living homes. In Pennsylvania, private addiction treatment centers can continue to refer patients to the sober living home of their choice. But, if that patient receives state subsidies for housing, for example, those subsidies may not be used at an unlicensed sober living home.  
+Essentially, Pennsylvania has made good on it’s promise to go [the way of other states](/sober-living-app-blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2), like Maryland, Massachusetts, Missouri and Rhode Island, which requires “voluntary certification” for sober living homes that want to receive funding or referrals from state agencies. Pennsylvania has not [gone so far as Florida](/sober-living-app-blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1), which requires all addiction treatment centers to restrict referrals to certified sober living homes. In Pennsylvania, private addiction treatment centers can continue to refer patients to the sober living home of their choice. But, if that patient receives state subsidies for housing, for example, those subsidies may not be used at an unlicensed sober living home.  
 
 ## Review Pennsylvania’s Existing Sober Living Homes to Identify Holes in the Market
 

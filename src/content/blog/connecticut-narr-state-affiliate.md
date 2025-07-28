@@ -71,7 +71,7 @@ Quick Facts:
 
 ## Common Pitfalls and Solutions
 
-  * Lack of Regulation: Despite NARR's efforts, certification is not mandatory, leading to quality issues [[NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes](<../../8/11/narr-rules-and-regulations-updates-for-california-texas-and-florida-sober-living-homesnbsp.html>)].
+  * Lack of Regulation: Despite NARR's efforts, certification is not mandatory, leading to quality issues [[NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes](</sober-living-app-blog/narr-rules-and-regulations-updates-for-california-texas-and-florida-sober-living-homesnbsp>)].
 
     * Solution: Advocate for mandatory certification or stricter oversight to ensure all facilities meet minimum standards.
 
@@ -145,7 +145,7 @@ Statistics:
 
   * Stay updated on legislative changes affecting recovery housing [[Affiliations & Resources - Connecticut Alliance of Recovery Residences](<https://ctrecoveryresidences.org/affiliations-resources/>)].
 
-  * Participate in advocacy efforts to improve recovery housing policies [[NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes](<../../8/11/narr-rules-and-regulations-updates-for-california-texas-and-florida-sober-living-homesnbsp.html>)].
+  * Participate in advocacy efforts to improve recovery housing policies [[NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes](</sober-living-app-blog/narr-rules-and-regulations-updates-for-california-texas-and-florida-sober-living-homesnbsp>)].
 
   * Monitor resident feedback for areas of improvement [[Code of Ethics - Connecticut Alliance of Recovery Residences](<https://ctrecoveryresidences.org/code-of-ethics/>)].
 
@@ -155,7 +155,7 @@ Statistics:
 
 ## Upcoming Changes or Proposals
 
-  * Advocacy for Regulation: There's a push for mandatory certification of sober living homes in Connecticut [[NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes](<../../8/11/narr-rules-and-regulations-updates-for-california-texas-and-florida-sober-living-homesnbsp.html>)].
+  * Advocacy for Regulation: There's a push for mandatory certification of sober living homes in Connecticut [[NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes](</sober-living-app-blog/narr-rules-and-regulations-updates-for-california-texas-and-florida-sober-living-homesnbsp>)].
 
   * Integration with Broader Healthcare: Recovery residences are increasingly being viewed as a vital part of the continuum of care, leading to more integrated approaches with primary care and mental health services [[National Alliance for Recovery Residences](<https://narronline.org/>)].
 

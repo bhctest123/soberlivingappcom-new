@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - 5 Ways Coronavirus is Changing the Sober Living Industry"
+title: '5 Ways Coronavirus is Changing the Sober Living Industry'
 description: '(Mar 2020) COVID-19''s impact: 5 ways sober living changed, from admissions & cleaning to sick resident plans & new visitation rules.'
 date: 2020-03-31
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - 5 Ways Coronavirus is Changing the Sober Living Industry"
+imageAlt: '5 Ways Coronavirus is Changing the Sober Living Industry'
 ---
 
 Ben Weiss

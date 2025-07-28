@@ -69,7 +69,7 @@ Components and Requirements:
 
 Common Pitfalls and Solutions:
 
-  * Lack of Regulation: Despite the presence of a strong NARR affiliate, California does not require sober living homes to seek accreditation, leading to potential quality issues [[NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes](<../../8/11/narr-rules-and-regulations-updates-for-california-texas-and-florida-sober-living-homesnbsp.html>)].
+  * Lack of Regulation: Despite the presence of a strong NARR affiliate, California does not require sober living homes to seek accreditation, leading to potential quality issues [[NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes](</sober-living-app-blog/narr-rules-and-regulations-updates-for-california-texas-and-florida-sober-living-homesnbsp>)].
 
     * Solution: Advocate for mandatory certification or stricter oversight to ensure all facilities meet minimum standards.
 
@@ -125,7 +125,7 @@ Compliance Checklist:
 
 BehaveHealth.com remains at the forefront of industry changes:
 
-  * Advocacy for Regulation: There's a growing push for mandatory certification of sober living homes in California to combat the proliferation of substandard facilities [[NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes](<../../8/11/narr-rules-and-regulations-updates-for-california-texas-and-florida-sober-living-homesnbsp.html>)].
+  * Advocacy for Regulation: There's a growing push for mandatory certification of sober living homes in California to combat the proliferation of substandard facilities [[NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes](</sober-living-app-blog/narr-rules-and-regulations-updates-for-california-texas-and-florida-sober-living-homesnbsp>)].
 
   * Integration with Broader Healthcare: Recovery residences are increasingly being viewed as a vital part of the continuum of care, leading to more integrated approaches with primary care and mental health services.
 

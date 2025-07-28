@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Sober Living & NARR Updates for Recovery Residences in HI, NH, ME"
+title: 'Sober Living & NARR Updates for Recovery Residences in HI, NH, ME'
 description: 'NARR affiliate & recovery residence updates for HI, NH, ME. Get key info for sober living homes from Sober Living App''s blog post.'
 date: 2024-12-29
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Sober Living & NARR Updates for Recovery Residences in HI, NH, ME"
+imageAlt: 'Sober Living & NARR Updates for Recovery Residences in HI, NH, ME'
 ---
 
 Ben Weiss

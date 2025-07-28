@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Open sober living beds? Notify residents & community automatically!"
+title: 'Open sober living beds? Notify residents & community automatically!'
 description: 'Sober Living App feature (Feb ''21): Automatically notify residents & community about open beds. Fill vacancies faster!'
 date: 2021-02-02
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Open sober living beds? Notify residents & community automatically!"
+imageAlt: 'Open sober living beds? Notify residents & community automatically!'
 ---
 
 Ben Weiss

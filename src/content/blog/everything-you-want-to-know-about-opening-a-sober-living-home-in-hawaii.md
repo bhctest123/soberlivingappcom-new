@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Everything You Want to Know About Opening a Sober Living Home in Hawaii"
+title: 'Everything You Want to Know About Opening a Sober Living Home in Hawaii'
 description: "Your complete guide to opening a sober living home in Hawaii. Understand the regulations, requirements, and key steps involved."
 date: 2023-01-26
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Everything You Want to Know About Opening a Sober Living Home in Hawaii"
+imageAlt: 'Everything You Want to Know About Opening a Sober Living Home in Hawaii'
 ---
 
 Ben Weiss

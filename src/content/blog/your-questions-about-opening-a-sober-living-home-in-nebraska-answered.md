@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Your Questions About Opening a Sober Living Home in Nebraska, Answered"
+title: 'Your Questions About Opening a Sober Living Home in Nebraska, Answered'
 description: "There is a very high demand for sober living in Nebraska and not enough homes to meet that demand."
 date: 2023-01-17
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Your Questions About Opening a Sober Living Home in Nebraska, Answered"
+imageAlt: 'Your Questions About Opening a Sober Living Home in Nebraska, Answered'
 ---
 
 Ben Weiss

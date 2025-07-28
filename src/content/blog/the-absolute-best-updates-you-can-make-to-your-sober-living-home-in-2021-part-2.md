@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 2)"
+title: 'The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 2)'
 description: 'Explore ''landscaping'' posts for sober living homes: Tips on curb appeal, property maintenance & creating therapeutic outdoor spaces.'
 date: 2021-03-16
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 2)"
+imageAlt: 'The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 2)'
 ---
 
 Ben Weiss

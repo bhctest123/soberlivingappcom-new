@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - 3 Types of Sober Living Home Residents You Need to Stop Admitting"
+title: '3 Types of Sober Living Home Residents You Need to Stop Admitting'
 description: "Learn 3 resident types sober living homes should reconsider admitting. Improve safety & house stability with better screening."
 date: 2021-03-30
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - 3 Types of Sober Living Home Residents You Need to Stop Admitting"
+imageAlt: '3 Types of Sober Living Home Residents You Need to Stop Admitting'
 ---
 
 Ben Weiss
@@ -28,7 +28,7 @@ Ben Weiss
 
 Is your sober living home in a state of constant chaos? 
 
-Is [resident turnover](../../2/2/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically.html) off the charts? 
+Is [resident turnover](/sober-living-app-blog/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically) off the charts? 
 
 Are you getting frequent [visits from police](https://soberlivingapp.com/sober-living-app-blog/2020/12/15/when-should-your-sober-living-home-call-911-the-answer-is-complicated) and emergency services? 
 

@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Opening a Sober Living Home in New Hampshire"
+title: 'Opening a Sober Living Home in New Hampshire'
 description: "Starting a sober living home in New Hampshire? Learn the key steps, regulations, and important considerations needed for success."
 date: 2023-02-02
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Opening a Sober Living Home in New Hampshire"
+imageAlt: 'Opening a Sober Living Home in New Hampshire'
 ---
 
 Ben Weiss

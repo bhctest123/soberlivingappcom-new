@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - Limited Time Offer: Get Our Software Solution for Sober Living Homes for Free'
+title: 'Limited Time Offer: Get Our Software Solution for Sober Living Homes for Free'
 description: "(Jan 2021 LTO Archive) Sober Living App offered its software solution free! Read the original limited-time offer announcement."
 date: 2021-01-26
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - Limited Time Offer: Get Our Software Solution for Sober Living Homes for Free'
+imageAlt: 'Limited Time Offer: Get Our Software Solution for Sober Living Homes for Free'
 ---
 
 Ben Weiss

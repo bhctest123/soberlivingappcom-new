@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - Here''s What You Need To Start Including in Your Sober Living Home Resident Agreements'
+title: 'Here''s What You Need To Start Including in Your Sober Living Home Resident Agreements'
 description: 'Strengthen your sober living resident agreement! Learn key clauses often missed: resident rights, grievance policy, lockdown provisions & more (June 2020).'
 date: 2020-06-30
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - Here''s What You Need To Start Including in Your Sober Living Home Resident Agreements'
+imageAlt: 'Here''s What You Need To Start Including in Your Sober Living Home Resident Agreements'
 ---
 
 Ben Weiss

@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - The Fastest Way to Open a Sober Living Home in Arkansas"
+title: 'The Fastest Way to Open a Sober Living Home in Arkansas'
 description: "Fastest way to open an Arkansas sober living home (Jan 2023)? Guide with tips from the Sober Living App blog archives."
 date: 2023-01-02
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - The Fastest Way to Open a Sober Living Home in Arkansas"
+imageAlt: 'The Fastest Way to Open a Sober Living Home in Arkansas'
 ---
 
 Ben Weiss

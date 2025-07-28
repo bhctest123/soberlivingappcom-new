@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Thinking of Opening a Sober Living Home in Rhode Island?"
+title: 'Thinking of Opening a Sober Living Home in Rhode Island?'
 description: 'Thinking of a RI sober living home? Feb ''23 post explores demand, regulations, required certification (for funding/referrals) & startup tips.'
 date: 2023-02-07
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Thinking of Opening a Sober Living Home in Rhode Island?"
+imageAlt: 'Thinking of Opening a Sober Living Home in Rhode Island?'
 ---
 
 Ben Weiss

@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - How to Open a Sober Living Home in Illinois"
+title: 'How to Open a Sober Living Home in Illinois'
 description: "Learn how to open a sober living home in Illinois (IL). Covers key steps, requirements & considerations (Nov 2021 Guide)."
 date: 2021-11-09
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - How to Open a Sober Living Home in Illinois"
+imageAlt: 'How to Open a Sober Living Home in Illinois'
 ---
 
 Ben Weiss
@@ -34,7 +34,7 @@ Certified and uncertified sober living homes are included in the [voluntary regi
 
 ![](/images/blog/how-to-open-a-sober-living-home-in-illinois/Screen_Shot_2021-11-04_at_3.14.32_PM.png)
 
-The 2019 law that created a voluntary registry as well as a [voluntary licensing program](../../8/17/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2.html) for sober living homes in Illinois is widely viewed as a “first step” towards imposing further regulations on the sober living community in the state. 
+The 2019 law that created a voluntary registry as well as a [voluntary licensing program](/sober-living-app-blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2) for sober living homes in Illinois is widely viewed as a “first step” towards imposing further regulations on the sober living community in the state. 
 
 Illinois has a long history of NIMBY-led opposition campaigns against sober living home operators, with some of the questionable steps taken in communities throughout the state [facing opposition by the federal government](https://patch.com/illinois/hinsdale/feds-sue-hinsdale-over-fair-housing) for violation of fair housing laws.
 

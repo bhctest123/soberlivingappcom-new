@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 1)"
+title: 'The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 1)'
 description: "Sober living homes went through dramatic changes in 2020 to survive the pandemic - but what about 2021?"
 date: 2021-02-15
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 1)"
+imageAlt: 'The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 1)'
 ---
 
 Ben Weiss

@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - Sober Living App''s New Billing Assistant Makes Getting Paid Even Easier'
+title: 'Sober Living App''s New Billing Assistant Makes Getting Paid Even Easier'
 description: 'Simplify sober living payments! Sober Living App''s Billing Assistant (Oct 2020) automates rent, handles multiple payers & more payment methods. Get paid easier!'
 date: 2020-10-06
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - Sober Living App''s New Billing Assistant Makes Getting Paid Even Easier'
+imageAlt: 'Sober Living App''s New Billing Assistant Makes Getting Paid Even Easier'
 ---
 
 Ben Weiss
@@ -28,7 +28,7 @@ Ben Weiss
 
 It’s probably safe to say that collecting payments at your sober living home isn’t your favorite part of the job. Few people get into sober living home management for the pleasure of collecting rent. 
 
-But every month, [COVID-19](../../4/21/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week.html) or no, it needs to be done. 
+But every month, [COVID-19](/sober-living-app-blog/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week) or no, it needs to be done. 
 
 At [Sober Living App](/), we’re excited to announce some new tools we’ve added to our [Summer 2020 update](https://info.behavehealth.com/en/behave-health-summer-2020-update) that are designed to make getting paid as easy as possible - every time.
 
@@ -36,7 +36,7 @@ At [Sober Living App](/), we’re excited to announce some new tools we’ve add
 
 ![Disorganized payment collection costs sober living homes time and money.](/images/blog/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier/Screenshot_2020-10-01_at_1.03.50_PM.png)
 
-Many sober living homes collect rent haphazardly. Your [sober living home manager](../../8/5/5-things-your-sober-living-home-manager-is-afraid-to-tell-you.html) might set up a box to collect checks, maintaining a spreadsheet to track who’s paid and who still needs to chip in. That’s sober living home bill collection at its most basic.
+Many sober living homes collect rent haphazardly. Your [sober living home manager](/sober-living-app-blog/5-things-your-sober-living-home-manager-is-afraid-to-tell-you) might set up a box to collect checks, maintaining a spreadsheet to track who’s paid and who still needs to chip in. That’s sober living home bill collection at its most basic.
 
 The pitfalls in this system are obvious:
 
@@ -60,7 +60,7 @@ At Sober Living App, we’ve always made it easy for sober living homes to colle
 
 It was a good start. 
 
-But for our 2020 Summer Update, we’ve made [a few key changes](../../9/22/chaotic-admissions-and-billing-check-out-sober-living-apps-admissions-20-update.html) to really kick your billing efforts into high gear. 
+But for our 2020 Summer Update, we’ve made [a few key changes](/sober-living-app-blog/chaotic-admissions-and-billing-check-out-sober-living-apps-admissions-20-update) to really kick your billing efforts into high gear. 
 
 Read on to learn more about how these tools and features will help keep your sober living home profitable with less time and effort. 
 

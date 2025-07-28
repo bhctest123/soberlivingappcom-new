@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - 4 Ways a Trauma-Informed Approach Can Help Your Sober Living Residents Cope with Pandemic Stress"
+title: '4 Ways a Trauma-Informed Approach Can Help Your Sober Living Residents Cope with Pandemic Stress'
 description: "(Oct 2020) Use a trauma-informed approach to help sober living residents cope with pandemic stress. 4 ways to foster safety, trust & support."
 date: 2020-10-20
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - 4 Ways a Trauma-Informed Approach Can Help Your Sober Living Residents Cope with Pandemic Stress"
+imageAlt: '4 Ways a Trauma-Informed Approach Can Help Your Sober Living Residents Cope with Pandemic Stress'
 ---
 
 Ben Weiss
@@ -28,7 +28,7 @@ Ben Weiss
 
 A history of trauma is very common among sober living residents. As we continue to delve deeper into the pandemic, we are all being exposed to the shared secondary (or primary, in some instances) trauma of living through these disturbing times. The effects of going through such a turbulent time will no doubt be the object of much study in the years to come. 
 
-As [sober living home operators](../../8/5/5-things-your-sober-living-home-manager-is-afraid-to-tell-you.html), what should we know about how trauma - past and present - are operating right now in our facilities? How can we support residents with a history of trauma during these traumatic times? What can we do to help residents cope with pandemic-related stress while building up their capacity for resilience? 
+As [sober living home operators](/sober-living-app-blog/5-things-your-sober-living-home-manager-is-afraid-to-tell-you), what should we know about how trauma - past and present - are operating right now in our facilities? How can we support residents with a history of trauma during these traumatic times? What can we do to help residents cope with pandemic-related stress while building up their capacity for resilience? 
 
 Today, we’ll look at four ways you can incorporate a [trauma-informed approach](https://ncsacw.samhsa.gov/userfiles/files/SAMHSA_Trauma.pdf) into your sober living home’s COVID-19 playbook. 
 
@@ -44,7 +44,7 @@ Implementing universal screening for trauma during your [new resident applicatio
 
 ![Trauma and chaos do not mix. Keep your sober living home’s routine regular and predictable to avoid triggers for residents with a history of trauma. This helps promote feelings of well being and control over situations in people with trauma historie…](/images/blog/4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress/Screenshot_2020-10-15_at_10.11.35_PM.png)
 
-For residents with a history of trauma, unpredictable environments feel unsafe. COVID has [disturbed all of the daily routines](../../4/21/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week.html) and patterns that signal to our brains that everything is normal. When big pattern shifts occur - like the ones we are all experiencing around COVID - trauma affected residents are more likely to respond negatively to the change. 
+For residents with a history of trauma, unpredictable environments feel unsafe. COVID has [disturbed all of the daily routines](/sober-living-app-blog/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week) and patterns that signal to our brains that everything is normal. When big pattern shifts occur - like the ones we are all experiencing around COVID - trauma affected residents are more likely to respond negatively to the change. 
 
 That’s why it’s so important to create as much pattern and predictability in our “new normal” as possible for your residents. Do everything you can to make sure that your sober living home’s COVID guidelines are predictable and consistent. Develop new routines around cleaning, visitation and socializing so that your residents always know what to expect, even during these uncertain times.  
 

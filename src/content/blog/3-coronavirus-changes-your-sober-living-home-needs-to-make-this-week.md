@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - 3 Coronavirus Changes Your Sober Living Home Needs to Make This Week"
+title: '3 Coronavirus Changes Your Sober Living Home Needs to Make This Week'
 description: '(April 2020) Sober living homes: 3 key COVID-19 changes to implement for safety, staffing & contingency planning during the pandemic.'
 date: 2020-04-21
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - 3 Coronavirus Changes Your Sober Living Home Needs to Make This Week"
+imageAlt: '3 Coronavirus Changes Your Sober Living Home Needs to Make This Week'
 ---
 
 Ben Weiss
@@ -26,7 +26,7 @@ Ben Weiss
 
 ![The way you do shopping, staffing, bed management and resident safety all need to change in response to COVID-19 at your sober living home.](/images/blog/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week/Screenshot_2020-04-16_at_10.28.45_AM.png)
 
-Sober living homes across the country are [grappling with the new reality](../../3/31/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp.html) of the COVID-19 pandemic. 
+Sober living homes across the country are [grappling with the new reality](/sober-living-app-blog/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp) of the COVID-19 pandemic. 
 
 The good news: the recovery community is uniquely poised to deal with crises. We know how to meet seemingly insurmountable challenges head-on and stay in the fight against all odds. Our skills in self-determination, community-mindedness, and resiliency will serve us well in the coming months. 
 

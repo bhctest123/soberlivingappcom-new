@@ -10,7 +10,7 @@ image: "/images/blog/update-on-trumps-recovery-residence-policies-and-what-the-f
 imageAlt: 'Update on Trump''s Recovery Residence Policies, and What the Future May Hold for Sober Living'
 ---
 
-We [wrote last month](<../../1/26/predictions-for-trumps-behavioral-health-policy-for-recovery-residencenbsp-operators-in-2025.html>) on this blog about our predictions for Trump’s second administration. The post covered Trump’s approach to behavioral healthcare in general, and recovery residence policies in particular. 
+We [wrote last month](</sober-living-app-blog/predictions-for-trumps-behavioral-health-policy-for-recovery-residencenbsp-operators-in-2025>) on this blog about our predictions for Trump’s second administration. The post covered Trump’s approach to behavioral healthcare in general, and recovery residence policies in particular. 
 
 It’s only been a few weeks, but so much has transpired at the Federal level that it seems like an update is in order. 
 
@@ -52,7 +52,7 @@ However, there’s hope, too, that RFK Jr’s cousin, Patrick Kennedy, will leve
 
 ## Other blog posts on the Trump administration’s policies and plans that may affect sober living home and recovery residence operators 
 
-[Predictions for Trump's Behavioral Health Policy for Recovery Residence Operators in 2025](<../../1/26/predictions-for-trumps-behavioral-health-policy-for-recovery-residencenbsp-operators-in-2025.html>)
+[Predictions for Trump's Behavioral Health Policy for Recovery Residence Operators in 2025](</sober-living-app-blog/predictions-for-trumps-behavioral-health-policy-for-recovery-residencenbsp-operators-in-2025>)
 
 [Forecasting Trump's Behavioral Health Plan for Addiction Treatment Providers in 2025](<https://behavehealth.com/blog/2025/1/20/forecasting-trumps-behavioral-health-plan-for-addiction-treatment-providers-in-2025>)
 

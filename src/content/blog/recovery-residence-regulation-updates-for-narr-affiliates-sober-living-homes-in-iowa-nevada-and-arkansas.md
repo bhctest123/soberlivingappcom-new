@@ -29,7 +29,7 @@ For more on behavioral health business and regulation in Iowa, see:
 
 [Medicaid Unwinding and State Behavioral Health in Wisconsin, South Carolina, Oregon, Oklahoma, Connecticut, Utah and Iowa](<https://behavehealth.com/blog/2023/4/25/medicaid-unwinding-and-state-behavioral-health-in-wisconsin-south-carolina-oregon-oklahoma-connecticut-utah-and-iowa>)
 
-[Are Behavioral Health Peer Support Services Covered in Utah, Nevada, Iowa, Arkansas, and South Dakota for Sober Living Homes?](<../../7/22/are-behavioral-health-peer-support-services-covered-in-utah-nevada-iowa-arkansas-and-south-dakota-for-sober-living-homes.html>)
+[Are Behavioral Health Peer Support Services Covered in Utah, Nevada, Iowa, Arkansas, and South Dakota for Sober Living Homes?](</sober-living-app-blog/are-behavioral-health-peer-support-services-covered-in-utah-nevada-iowa-arkansas-and-south-dakota-for-sober-living-homes>)
 
 ## Nevada sober living homes have no NARR affiliate but are required to seek certification
 

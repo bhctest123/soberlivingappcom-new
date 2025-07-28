@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - Are You a Good Candidate for Behave Health''s Sober Living Startup Program?'
+title: 'Are You a Good Candidate for Behave Health''s Sober Living Startup Program?'
 description: "Have you always dreamed of opening your own sober living home? Welcome. You’re in the right place."
 date: 2024-02-27
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - Are You a Good Candidate for Behave Health''s Sober Living Startup Program?'
+imageAlt: 'Are You a Good Candidate for Behave Health''s Sober Living Startup Program?'
 ---
 
 Ben Weiss

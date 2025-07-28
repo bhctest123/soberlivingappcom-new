@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - How to Choose a Sober Living Home Startup Consultant"
+title: 'How to Choose a Sober Living Home Startup Consultant'
 description: "Starting a sober living home? Learn how to choose the right startup consultant to navigate regulations, planning, and launch a successful recovery residence."
 date: 2023-12-17
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - How to Choose a Sober Living Home Startup Consultant"
+imageAlt: 'How to Choose a Sober Living Home Startup Consultant'
 ---
 
 Ben Weiss
@@ -112,37 +112,37 @@ Our sober living home consultants offer help with:
 
 ## State-by-state guides to getting your sober living up startup off the ground
 
-Wyoming: [5 Things to Consider When Opening a Sober Living Home in Wyoming](../../3/1/5-things-to-consider-when-opening-a-sober-living-home-in-wyoming.html)
+Wyoming: [5 Things to Consider When Opening a Sober Living Home in Wyoming](/sober-living-app-blog/5-things-to-consider-when-opening-a-sober-living-home-in-wyoming)
 
-Vermont: [Everything You Need to Know About Opening a Sober Living Home in Vermont ](../../2/27/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp.html)
+Vermont: [Everything You Need to Know About Opening a Sober Living Home in Vermont ](/sober-living-app-blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp)
 
-Alaska: [What They Don't Want You to Know About Opening a Sober Living Home in Alaska](../../2/22/what-they-dont-want-you-to-know-about-opening-a-sober-living-home-in-alaska.html)
+Alaska: [What They Don't Want You to Know About Opening a Sober Living Home in Alaska](/sober-living-app-blog/what-they-dont-want-you-to-know-about-opening-a-sober-living-home-in-alaska)
 
-North Dakota: [4 Best Kept Secrets About Opening a Sober Living Home in North Dakota](../../2/16/4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota.html)
+North Dakota: [4 Best Kept Secrets About Opening a Sober Living Home in North Dakota](/sober-living-app-blog/4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota)
 
-South Dakota: [What You Need to Know About Opening a Sober Living Home in South Dakota](../../2/14/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota.html)
+South Dakota: [What You Need to Know About Opening a Sober Living Home in South Dakota](/sober-living-app-blog/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota)
 
-Delaware: [FAQ About Opening a Sober Living Home in Delaware](../../2/13/faq-about-opening-a-sober-living-home-in-delaware.html)
+Delaware: [FAQ About Opening a Sober Living Home in Delaware](/sober-living-app-blog/faq-about-opening-a-sober-living-home-in-delaware)
 
-Rhode Island: [Thinking of Opening a Sober Living Home in Rhode Island? ](../../2/7/thinking-of-opening-a-sober-living-home-in-rhode-islandnbsp.html)
+Rhode Island: [Thinking of Opening a Sober Living Home in Rhode Island? ](/sober-living-app-blog/thinking-of-opening-a-sober-living-home-in-rhode-islandnbsp)
 
-New Hampshire: [Opening a Sober Living Home in New Hampshire](../../2/2/opening-a-sober-living-home-in-new-hampshire.html)
+New Hampshire: [Opening a Sober Living Home in New Hampshire](/sober-living-app-blog/opening-a-sober-living-home-in-new-hampshire)
 
-Hawaii: [Everything You Want to Know About Opening a Sober Living Home in Hawaii](../../1/26/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii.html)
+Hawaii: [Everything You Want to Know About Opening a Sober Living Home in Hawaii](/sober-living-app-blog/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii)
 
-West Virginia: [Your Questions About Opening a Sober Living Home in West Virginia - Answered](../../1/24/your-questions-about-opening-a-sober-living-home-in-west-virginia-answered.html)
+West Virginia: [Your Questions About Opening a Sober Living Home in West Virginia - Answered](/sober-living-app-blog/your-questions-about-opening-a-sober-living-home-in-west-virginia-answered)
 
-Maine: [FAQ About How to Open an Sober Living Home in Maine](../../1/19/faq-about-how-to-open-an-sober-living-home-in-maine.html)
+Maine: [FAQ About How to Open an Sober Living Home in Maine](/sober-living-app-blog/faq-about-how-to-open-an-sober-living-home-in-maine)
 
-Nebraska: [Your Questions About Opening a Sober Living Home in Nebraska, Answered](../../1/17/your-questions-about-opening-a-sober-living-home-in-nebraska-answered.html)
+Nebraska: [Your Questions About Opening a Sober Living Home in Nebraska, Answered](/sober-living-app-blog/your-questions-about-opening-a-sober-living-home-in-nebraska-answered)
 
-New Mexico: [FAQ on Opening a Sober Living Home in New Mexico ](../../1/12/faq-on-opening-a-sober-living-home-in-new-mexiconbsp.html)
+New Mexico: [FAQ on Opening a Sober Living Home in New Mexico ](/sober-living-app-blog/faq-on-opening-a-sober-living-home-in-new-mexiconbsp)
 
-Kansas: [Kansas is a Great State to Open a Sober Living Home](../../1/10/kansas-is-a-great-state-to-open-a-sober-living-home.html)
+Kansas: [Kansas is a Great State to Open a Sober Living Home](/sober-living-app-blog/kansas-is-a-great-state-to-open-a-sober-living-home)
 
-Mississippi: [How to Open a Sober Living Home in Mississippi](../../1/9/how-to-open-a-sober-living-home-in-mississippi.html)
+Mississippi: [How to Open a Sober Living Home in Mississippi](/sober-living-app-blog/how-to-open-a-sober-living-home-in-mississippi)
 
-Arkansas: [The Fastest Way to Open a Sober Living Home in Arkansas](../../1/2/the-fastest-way-to-open-a-sober-living-home-in-arkansas.html)
+Arkansas: [The Fastest Way to Open a Sober Living Home in Arkansas](/sober-living-app-blog/the-fastest-way-to-open-a-sober-living-home-in-arkansas)
 
 Don’t see your state here? Search our blog for your state. We’ve written guides for every state in the nation!
 

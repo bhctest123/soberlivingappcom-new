@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - The ASAM Criteria 4th Edition: What Recovery Residences Need to Know'
+title: 'The ASAM Criteria 4th Edition: What Recovery Residences Need to Know'
 description: 'ASAM Criteria 4th Ed & sober living: Learn key updates for recovery residences on placement, care guidelines, compliance & EHR/billing tools.'
 date: 2023-09-30
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - The ASAM Criteria 4th Edition: What Recovery Residences Need to Know'
+imageAlt: 'The ASAM Criteria 4th Edition: What Recovery Residences Need to Know'
 ---
 
 Ben Weiss

@@ -24,7 +24,7 @@ For more on behavioral health business strategy and management in Louisiana, see
 
 [Why Louisiana is a Great State for Opening a Sober Living Home](<../../../2022/12/1/why-louisiana-is-a-great-state-for-opening-a-sober-living-home.html>)
 
-[Are Behavioral Health Peer Support Services Covered in Louisiana, Kentucky, Oregon, Oklahoma, and Connecticut Sober Living Homes and Addiction Treatment Programs? ](<../../7/3/are-behavioral-health-peer-support-services-covered-in-louisiana-kentucky-oregon-oklahoma-and-connecticut-sober-living-homes-and-addiction-treatment-programsnbsp.html>)
+[Are Behavioral Health Peer Support Services Covered in Louisiana, Kentucky, Oregon, Oklahoma, and Connecticut Sober Living Homes and Addiction Treatment Programs? ](</sober-living-app-blog/are-behavioral-health-peer-support-services-covered-in-louisiana-kentucky-oregon-oklahoma-and-connecticut-sober-living-homes-and-addiction-treatment-programsnbsp>)
 
 ## Kentucky’s KRHN NARR affiliate negotiating three different proposed pieces of regulation for sober living homes
 

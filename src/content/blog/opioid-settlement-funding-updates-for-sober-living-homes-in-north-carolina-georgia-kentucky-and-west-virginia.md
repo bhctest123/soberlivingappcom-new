@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Opioid Settlement Funding Updates for Sober Living Homes in NC, GA, KY, WV"
+title: 'Opioid Settlement Funding Updates for Sober Living Homes in NC, GA, KY, WV'
 description: "Learn about opioid settlement funding for sober living in NC, GA, KY, WV. Updates & guidance via the Sober Living App blog."
 date: 2024-03-26
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Opioid Settlement Funding Updates for Sober Living Homes in NC, GA, KY, WV"
+imageAlt: 'Opioid Settlement Funding Updates for Sober Living Homes in NC, GA, KY, WV'
 ---
 
 Ben Weiss

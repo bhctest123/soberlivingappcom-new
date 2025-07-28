@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - FAQ About Opening a Sober Living Home in Delaware"
+title: 'FAQ About Opening a Sober Living Home in Delaware'
 description: "(Feb 2023) Opening a sober living home in Delaware? FAQs on regulations, NARR status, HB 412 & high demand for recovery housing. Key insights."
 date: 2023-02-13
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - FAQ About Opening a Sober Living Home in Delaware"
+imageAlt: 'FAQ About Opening a Sober Living Home in Delaware'
 ---
 
 Ben Weiss

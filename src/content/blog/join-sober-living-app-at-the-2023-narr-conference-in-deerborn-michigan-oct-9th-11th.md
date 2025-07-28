@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Join Sober Living App at the 2023 NARR Conference in Dearborn Michigan Oct 9th - 11th"
+title: 'Join Sober Living App at the 2023 NARR Conference in Dearborn Michigan Oct 9th - 11th'
 description: "Meet Sober Living App at the NARR Best Practices Summit 2023 in Dearborn, MI (Oct 9-11). Event details & our participation info."
 date: 2023-10-09
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Join Sober Living App at the 2023 NARR Conference in Dearborn Michigan Oct 9th - 11th"
+imageAlt: 'Join Sober Living App at the 2023 NARR Conference in Dearborn Michigan Oct 9th - 11th'
 ---
 
 Ben Weiss

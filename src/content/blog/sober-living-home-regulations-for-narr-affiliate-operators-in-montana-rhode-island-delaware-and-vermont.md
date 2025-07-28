@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - NARR Affiliate Sober Living Regulations: MT, RI, DE, VT.'
+title: 'NARR Affiliate Sober Living Regulations: MT, RI, DE, VT.'
 description: "NARR affiliate sober living regulations for operators in MT, RI, DE, & VT. Understand key state requirements."
 date: 2024-12-29
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - NARR Affiliate Sober Living Regulations: MT, RI, DE, VT.'
+imageAlt: 'NARR Affiliate Sober Living Regulations: MT, RI, DE, VT.'
 ---
 
 Ben Weiss
@@ -44,7 +44,7 @@ Montana sober living home operators may also be interested in these posts:
 
 [How to Open a Sober Living Home in Montana](../../../2022/12/13/how-to-open-a-sober-living-home-in-montana.html)
 
-[Opioid settlement funding updates for sober living homes in Hawaii, Maine, Montana, New Hampshire, Rhode Island](../../4/10/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island.html)
+[Opioid settlement funding updates for sober living homes in Hawaii, Maine, Montana, New Hampshire, Rhode Island](/sober-living-app-blog/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island)
 
 ## Rhode Island sober living home NARR affiliate shifts from OSCRH to RICARES
 
@@ -60,7 +60,7 @@ Our older post, [Thinking of Opening a Sober Living Home in Rhode Island?, ](../
 
 If you operate a sober living home in Rhode Island, you may also be interested in these posts:
 
-[Are Peer Support Services Medicaid-Reimbursable in Maine, Montana, Rhode Island, Delaware, and Wyoming for Sober Living Homes?](../../8/4/are-peer-support-services-medicaid-reimbursable-in-maine-montana-rhode-island-delaware-and-wyoming-for-sober-living-homes.html)
+[Are Peer Support Services Medicaid-Reimbursable in Maine, Montana, Rhode Island, Delaware, and Wyoming for Sober Living Homes?](/sober-living-app-blog/are-peer-support-services-medicaid-reimbursable-in-maine-montana-rhode-island-delaware-and-wyoming-for-sober-living-homes)
 
 [Rhode Island is the Perfect State for Opening an Addiction Treatment Center. Here's Why. ](https://behavehealth.com/blog/2022/7/28/rhode-island-is-the-perfect-state-for-opening-an-addiction-treatment-center-heres-whynbsp)
 
@@ -96,7 +96,7 @@ If you’re active in the sober living home community in Vermont, you may also b
 
 [Everything You Need to Know About Opening a Sober Living Home in Vermont ](../../../2023/2/27/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp.html)
 
-[Are Behavioral Health Peer Support Services Covered in Idaho, West Virginia, Hawaii, New Hampshire, and Vermont for Sober Living Homes?](../../7/28/are-behavioral-health-peer-support-services-covered-in-idaho-west-virginia-hawaii-new-hampshire-and-vermont-for-sober-living-homes.html)
+[Are Behavioral Health Peer Support Services Covered in Idaho, West Virginia, Hawaii, New Hampshire, and Vermont for Sober Living Homes?](/sober-living-app-blog/are-behavioral-health-peer-support-services-covered-in-idaho-west-virginia-hawaii-new-hampshire-and-vermont-for-sober-living-homes)
 
 [Medicaid Unwinding and State Behavioral Health in South Dakota, North Dakota, Alaska, Vermont, and Wyoming](https://behavehealth.squarespace.com/blog/2023/5/9/medicaid-unwinding-and-state-behavioral-health-in-south-dakota-north-dakota-alaska-vermont-and-wyoming)
 

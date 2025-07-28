@@ -139,7 +139,7 @@ Operating a recovery residence comes with several legal obligations:
 
   * Medicare Guidelines: If your facility accepts Medicare payments or works closely with healthcare providers who do so, it is essential that you adhere strictly to Medicare billing guidelines.
 
-  * Georgia House Bill 1073 (2024): This bill sped up the start-up process for new sober living homes by removing certain zoning approval delays [NARR News and Regulations Updates for Ohio, Georgia, and North Carolina Sober Living Homes](<../../8/29/narr-news-and-regulations-updates-for-ohio-georgia-and-north-carolina-sober-living-homes.html>).
+  * Georgia House Bill 1073 (2024): This bill sped up the start-up process for new sober living homes by removing certain zoning approval delays [NARR News and Regulations Updates for Ohio, Georgia, and North Carolina Sober Living Homes](</sober-living-app-blog/narr-news-and-regulations-updates-for-ohio-georgia-and-north-carolina-sober-living-homes>).
 
 ## 10-Point Compliance Checklist
 

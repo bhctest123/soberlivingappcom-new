@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Buprenorphine, Suboxone and Your Sober Living Home"
+title: 'Buprenorphine, Suboxone and Your Sober Living Home'
 description: 'Buprenorphine (Suboxone) in sober living homes (May ''21): Explore policies, challenges & best practices for supporting MAT residents.'
 date: 2021-05-31
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Buprenorphine, Suboxone and Your Sober Living Home"
+imageAlt: 'Buprenorphine, Suboxone and Your Sober Living Home'
 ---
 
 Ben Weiss
