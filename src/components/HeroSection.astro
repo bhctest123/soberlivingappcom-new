@@ -1,0 +1,121 @@
+---
+const { hero, cta, video, appStoreButtons, socialProof } = Astro.props;
+---
+
+<section class="relative bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 pt-8 pb-16 lg:pt-12 lg:pb-24 overflow-hidden">
+  <!-- Background decoration -->
+  <div class="absolute inset-0 opacity-20">
+    <div class="absolute top-0 -left-4 w-72 h-72 bg-blue-400 rounded-full mix-blend-multiply filter blur-xl animate-blob"></div>
+    <div class="absolute top-0 -right-4 w-72 h-72 bg-indigo-400 rounded-full mix-blend-multiply filter blur-xl animate-blob animation-delay-2000"></div>
+    <div class="absolute -bottom-8 left-20 w-72 h-72 bg-blue-300 rounded-full mix-blend-multiply filter blur-xl animate-blob animation-delay-4000"></div>
+    <div class="absolute top-20 right-20 w-72 h-72 bg-sky-400 rounded-full mix-blend-multiply filter blur-xl animate-blob animation-delay-2000"></div>
+  </div>
+  
+  <div class="container mx-auto px-4 relative">
+    <div class="max-w-6xl mx-auto">
+      <!-- Trust Signal -->
+      <div class="text-center mb-8">
+        <div class="inline-flex items-center gap-2 bg-green-50 border border-green-200 text-green-800 px-4 py-2 rounded-full text-sm font-medium">
+          <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+          </svg>
+          <span>500+ Recovery Facilities Trust Sober Living App</span>
+        </div>
+      </div>
+
+      <!-- Main Content Grid -->
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <!-- Left Column - Text Content -->
+        <div>
+          <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
+            <span class="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+              {hero.headline}
+            </span>
+          </h1>
+          
+          <p class="text-xl text-gray-700 mb-8 leading-relaxed">
+            {hero.tagline}
+          </p>
+
+          <!-- Benefit Pills -->
+          <div class="flex flex-wrap gap-3 mb-8">
+            <div class="flex items-center gap-2 bg-white px-4 py-2 rounded-full border border-gray-200 shadow-sm">
+              <svg class="w-5 h-5 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+              </svg>
+              <span class="text-sm font-medium text-gray-900">Fill beds 3x faster</span>
+            </div>
+            <div class="flex items-center gap-2 bg-white px-4 py-2 rounded-full border border-gray-200 shadow-sm">
+              <svg class="w-5 h-5 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+              </svg>
+              <span class="text-sm font-medium text-gray-900">Never miss rent again</span>
+            </div>
+            <div class="flex items-center gap-2 bg-white px-4 py-2 rounded-full border border-gray-200 shadow-sm">
+              <svg class="w-5 h-5 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path>
+              </svg>
+              <span class="text-sm font-medium text-gray-900">100% compliant</span>
+            </div>
+          </div>
+
+          <!-- CTA Section -->
+          <div class="mb-6">
+            <a href={cta.primary.href} class="inline-block bg-blue-600 text-white px-8 py-4 rounded-lg text-lg font-bold hover:bg-blue-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
+              Start Free Trial →
+            </a>
+            <p class="text-sm text-gray-600 mt-3">
+              {cta.primary.subtext} • {hero.description}
+            </p>
+          </div>
+
+          <!-- Social Proof -->
+          <div class="flex items-center gap-6 text-sm text-gray-600">
+            <div class="flex -space-x-2">
+              {[1,2,3,4,5].map(() => (
+                <div class="w-10 h-10 rounded-full bg-gray-300 border-2 border-white"></div>
+              ))}
+            </div>
+            <p>Join 500+ facilities already saving 20+ hours weekly</p>
+          </div>
+        </div>
+
+        <!-- Right Column - Video -->
+        <div class="relative">
+          {video && (
+            <div class="relative rounded-2xl overflow-hidden shadow-2xl drop-shadow-2xl">
+              <div class="absolute top-4 left-4 z-10">
+                <div class="bg-red-600 text-white px-3 py-1 rounded-full text-xs font-bold animate-pulse">
+                  OVERVIEW VIDEO
+                </div>
+              </div>
+              <iframe 
+                src={video.embedUrl}
+                width="100%"
+                height="400"
+                style="border: none;"
+                allow="autoplay; fullscreen; picture-in-picture"
+                allowfullscreen
+                class="w-full"
+              ></iframe>
+            </div>
+          )}
+          
+          <!-- App Download -->
+          <div class="mt-6 text-center">
+            <p class="text-sm text-gray-600 mb-3">Available on all devices</p>
+            <div class="flex gap-3 justify-center">
+              <a href={appStoreButtons.apple.href} target="_blank" rel="noopener" class="opacity-80 hover:opacity-100 transition-opacity">
+                <img src={appStoreButtons.apple.image} alt={appStoreButtons.apple.alt} class="h-10" />
+              </a>
+              <a href={appStoreButtons.google.href} target="_blank" rel="noopener" class="opacity-80 hover:opacity-100 transition-opacity">
+                <img src={appStoreButtons.google.image} alt={appStoreButtons.google.alt} class="h-10" />
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>

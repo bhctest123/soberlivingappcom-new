@@ -1,5 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import HeroSection from '../components/HeroSection.astro';
+import StatsSection from '../components/StatsSection.astro';
 import homepageContent from '../content/homepage.json';
 
 const { seo, hero, cta, partners, video, socialProof, appStoreButtons, announcement } = homepageContent;
@@ -21,77 +23,49 @@ const { seo, hero, cta, partners, video, socialProof, appStoreButtons, announcem
 
   <main class="min-h-screen bg-background">
     <!-- Hero Section -->
-    <section class="relative bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-20 lg:py-28 overflow-hidden">
-      <!-- Background decoration -->
-      <div class="absolute inset-0 opacity-10">
-        <div class="absolute top-0 -left-4 w-72 h-72 bg-purple-300 rounded-full mix-blend-multiply filter blur-xl animate-blob"></div>
-        <div class="absolute top-0 -right-4 w-72 h-72 bg-yellow-300 rounded-full mix-blend-multiply filter blur-xl animate-blob animation-delay-2000"></div>
-        <div class="absolute -bottom-8 left-20 w-72 h-72 bg-pink-300 rounded-full mix-blend-multiply filter blur-xl animate-blob animation-delay-4000"></div>
-      </div>
-      
-      <div class="container mx-auto px-4 relative text-center">
-        <img 
-          src={hero.logo.src} 
-          alt={hero.logo.alt} 
-          class="w-32 h-32 mx-auto mb-8 drop-shadow-lg"
-        />
-        <h1 class="text-5xl lg:text-6xl font-bold mb-4">
-          <span class="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-            {hero.headline}
-          </span>
-        </h1>
-        <p class="text-xl lg:text-2xl text-gray-700 mb-8 max-w-2xl mx-auto">
-          {hero.tagline}
-        </p>
-        <p class="text-lg lg:text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
-          {hero.description}
-        </p>
+    <HeroSection 
+      hero={hero}
+      cta={cta}
+      video={video}
+      appStoreButtons={appStoreButtons}
+      socialProof={socialProof}
+    />
 
-        <!-- CTA Buttons -->
-        <div class="flex flex-col md:flex-row gap-8 justify-center items-center mb-12">
+    <!-- Stats Section -->
+    <StatsSection />
+
+    <!-- Quick Value Props -->
+    <section class="py-12 bg-white border-b border-gray-100">
+      <div class="container mx-auto px-4">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
           <div class="text-center">
-            <p class="text-sm mb-2 text-gray-600">{cta.primary.subtext}</p>
-            <a href={cta.primary.href} class="inline-block bg-gradient-to-r from-blue-600 to-indigo-600 text-white px-8 py-4 rounded-xl font-semibold hover:from-blue-700 hover:to-indigo-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
-              {cta.primary.text}
-            </a>
-          </div>
-          
-          <!-- Video -->
-          {video && (
-            <div class="max-w-2xl">
-              <iframe 
-                src={video.embedUrl}
-                width={video.width}
-                height={video.height}
-                style="border: none;"
-                allow="autoplay; fullscreen; picture-in-picture"
-                allowfullscreen
-                class="w-full rounded-lg shadow-xl"
-              ></iframe>
+            <div class="bg-green-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg class="w-8 h-8 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+              </svg>
             </div>
-          )}
-          
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">Save 20+ Hours/Week</h3>
+            <p class="text-sm text-gray-600">Automate tedious tasks and focus on what matters - helping residents recover</p>
+          </div>
           <div class="text-center">
-            <p class="text-sm mb-2 text-gray-600">{cta.secondary.subtext}</p>
-            <a href={cta.secondary.href} class="inline-block border-2 border-blue-600 text-blue-600 px-8 py-4 rounded-xl font-semibold hover:bg-blue-600 hover:text-white transition-all duration-200 shadow-md hover:shadow-lg">
-              {cta.secondary.text}
-            </a>
+            <div class="bg-blue-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+              </svg>
+            </div>
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">100% Compliant</h3>
+            <p class="text-sm text-gray-600">Stay ahead of regulations with built-in NARR standards and state requirements</p>
+          </div>
+          <div class="text-center">
+            <div class="bg-purple-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg class="w-8 h-8 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path>
+              </svg>
+            </div>
+            <h3 class="text-lg font-semibold text-gray-900 mb-2">Increase Revenue 40%</h3>
+            <p class="text-sm text-gray-600">Better occupancy tracking and automated billing means fewer missed payments</p>
           </div>
         </div>
-
-        <!-- App Store Buttons -->
-        <div class="flex gap-4 justify-center mb-8">
-          <a href={appStoreButtons.apple.href} target="_blank" rel="noopener" class="transform hover:scale-105 transition-transform">
-            <img src={appStoreButtons.apple.image} alt={appStoreButtons.apple.alt} class="h-14" />
-          </a>
-          <a href={appStoreButtons.google.href} target="_blank" rel="noopener" class="transform hover:scale-105 transition-transform">
-            <img src={appStoreButtons.google.image} alt={appStoreButtons.google.alt} class="h-14" />
-          </a>
-        </div>
-
-        <p class="text-gray-600 max-w-2xl mx-auto text-lg">
-          {socialProof.text}
-        </p>
       </div>
     </section>
 
@@ -105,26 +79,6 @@ const { seo, hero, cta, partners, video, socialProof, appStoreButtons, announcem
           <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Join over <span class="font-bold text-blue-600">500+ recovery facilities</span> across the nation who rely on our platform to manage their operations efficiently and compliantly
           </p>
-        </div>
-        
-        <!-- Stats Grid -->
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 mb-16">
-          <div class="text-center">
-            <div class="text-4xl lg:text-5xl font-bold text-blue-600 mb-2">98%</div>
-            <p class="text-gray-600">Client Satisfaction</p>
-          </div>
-          <div class="text-center">
-            <div class="text-4xl lg:text-5xl font-bold text-blue-600 mb-2">50k+</div>
-            <p class="text-gray-600">Residents Served</p>
-          </div>
-          <div class="text-center">
-            <div class="text-4xl lg:text-5xl font-bold text-blue-600 mb-2">24/7</div>
-            <p class="text-gray-600">Support Available</p>
-          </div>
-          <div class="text-center">
-            <div class="text-4xl lg:text-5xl font-bold text-blue-600 mb-2">100%</div>
-            <p class="text-gray-600">HIPAA Compliant</p>
-          </div>
         </div>
         
         <!-- Partner Logos -->
@@ -163,7 +117,7 @@ const { seo, hero, cta, partners, video, socialProof, appStoreButtons, announcem
         <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
           <!-- Admissions Department -->
           <a href="/features/admissions" class="group relative bg-gradient-to-br from-green-50 to-emerald-50 rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 border border-green-100 hover:border-green-300 overflow-hidden">
-            <div class="absolute top-0 right-0 bg-green-600 text-white text-xs font-bold px-3 py-1 rounded-bl-lg">Accelerate Admits</div>
+            <div class="absolute top-0 right-0 bg-green-600 text-white text-xs font-bold px-3 py-1 rounded-bl-lg">ACCELERATE ADMITS</div>
             <div class="relative z-10">
               <div class="w-20 h-20 bg-white rounded-2xl shadow-lg flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
                 <img src="/images/icons/features/ic_admissions_department_large.png" alt="Admissions Icon" class="w-12 h-12" />
@@ -471,9 +425,9 @@ const { seo, hero, cta, partners, video, socialProof, appStoreButtons, announcem
         
         <!-- Risk Reversal / Guarantee -->
         <div class="bg-gradient-to-r from-blue-600 to-indigo-600 rounded-3xl p-12 text-center text-white">
-          <h3 class="text-3xl font-bold mb-4">30-Day Money-Back Guarantee</h3>
+          <h3 class="text-3xl font-bold mb-4">Money-Back Guarantee</h3>
           <p class="text-xl mb-8 opacity-90 max-w-2xl mx-auto">
-            Try Sober Living App risk-free. If you're not completely satisfied within 30 days, we'll refund every penny—no questions asked.
+            Try Sober Living App risk-free. If you're not completely satisfied, we'll refund every penny—no questions asked.
           </p>
           <a href="https://behavehealth.com/get-started" class="inline-flex items-center px-10 py-5 text-lg font-semibold rounded-xl text-blue-600 bg-white hover:bg-gray-50 transition-all duration-200 shadow-xl hover:shadow-2xl transform hover:-translate-y-1">
             Start Your Free Trial Today
@@ -526,7 +480,7 @@ const { seo, hero, cta, partners, video, socialProof, appStoreButtons, announcem
         </div>
         
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
-          <a href="/sober-living-app-blog/how-to-open-a-sober-living-home-in-california" class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border border-gray-100 hover:border-blue-300">
+          <a href="/blog/how-to-open-a-sober-living-home-in-california" class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border border-gray-100 hover:border-blue-300">
             <div class="flex items-center mb-4">
               <div class="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center mr-4">
                 <svg class="w-6 h-6 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
@@ -544,7 +498,7 @@ const { seo, hero, cta, partners, video, socialProof, appStoreButtons, announcem
             </div>
           </a>
           
-          <a href="/sober-living-app-blog/how-to-open-a-sober-living-home-in-ohio" class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border border-gray-100 hover:border-blue-300">
+          <a href="/blog/how-to-open-a-sober-living-home-in-ohio" class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border border-gray-100 hover:border-blue-300">
             <div class="flex items-center mb-4">
               <div class="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mr-4">
                 <svg class="w-6 h-6 text-green-600" fill="currentColor" viewBox="0 0 20 20">
@@ -562,7 +516,7 @@ const { seo, hero, cta, partners, video, socialProof, appStoreButtons, announcem
             </div>
           </a>
           
-          <a href="/sober-living-app-blog/considering-opening-a-sober-living-home-in-florida-heres-how" class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border border-gray-100 hover:border-blue-300">
+          <a href="/blog/considering-opening-a-sober-living-home-in-florida-heres-how" class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 border border-gray-100 hover:border-blue-300">
             <div class="flex items-center mb-4">
               <div class="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mr-4">
                 <svg class="w-6 h-6 text-purple-600" fill="currentColor" viewBox="0 0 20 20">
@@ -582,7 +536,7 @@ const { seo, hero, cta, partners, video, socialProof, appStoreButtons, announcem
         </div>
         
         <div class="text-center">
-          <a href="/sober-living-app-blog" class="inline-flex items-center px-8 py-4 text-lg font-semibold text-white bg-gradient-to-r from-blue-600 to-indigo-600 rounded-xl hover:from-blue-700 hover:to-indigo-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
+          <a href="/blog" class="inline-flex items-center px-8 py-4 text-lg font-semibold text-white bg-gradient-to-r from-blue-600 to-indigo-600 rounded-xl hover:from-blue-700 hover:to-indigo-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
             View All Resources
             <svg class="ml-3 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>

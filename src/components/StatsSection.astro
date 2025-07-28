@@ -1,0 +1,103 @@
+---
+const stats = [
+  {
+    number: "500+",
+    label: "Active Facilities",
+    icon: "building",
+    colorClasses: {
+      bg: "bg-blue-100",
+      hover: "from-blue-50 to-blue-100",
+      text: "text-blue-600",
+      hoverText: "group-hover:text-blue-600"
+    }
+  },
+  {
+    number: "50K+",
+    label: "Residents Managed",
+    icon: "users",
+    colorClasses: {
+      bg: "bg-green-100",
+      hover: "from-green-50 to-green-100",
+      text: "text-green-600",
+      hoverText: "group-hover:text-green-600"
+    }
+  },
+  {
+    number: "99.9%",
+    label: "Uptime Guaranteed",
+    icon: "check",
+    colorClasses: {
+      bg: "bg-purple-100",
+      hover: "from-purple-50 to-purple-100",
+      text: "text-purple-600",
+      hoverText: "group-hover:text-purple-600"
+    }
+  },
+  {
+    number: "40%",
+    label: "Revenue Increase",
+    icon: "trending",
+    colorClasses: {
+      bg: "bg-indigo-100",
+      hover: "from-indigo-50 to-indigo-100",
+      text: "text-indigo-600",
+      hoverText: "group-hover:text-indigo-600"
+    }
+  }
+];
+---
+
+<section class="py-16 bg-gradient-to-b from-white to-gray-50">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <!-- Stats Grid -->
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+        {stats.map((stat) => (
+          <div class="relative group">
+            <div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
+              <!-- Background decoration -->
+              <div class={`absolute inset-0 bg-gradient-to-br ${stat.colorClasses.hover} rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300`}></div>
+              
+              <!-- Content -->
+              <div class="relative z-10">
+                <!-- Icon -->
+                <div class={`w-16 h-16 ${stat.colorClasses.bg} rounded-2xl flex items-center justify-center mb-4 mx-auto group-hover:scale-110 transition-transform duration-300`}>
+                  {stat.icon === "building" && (
+                    <svg class={`w-8 h-8 ${stat.colorClasses.text}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path>
+                    </svg>
+                  )}
+                  {stat.icon === "users" && (
+                    <svg class={`w-8 h-8 ${stat.colorClasses.text}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"></path>
+                    </svg>
+                  )}
+                  {stat.icon === "check" && (
+                    <svg class={`w-8 h-8 ${stat.colorClasses.text}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                    </svg>
+                  )}
+                  {stat.icon === "trending" && (
+                    <svg class={`w-8 h-8 ${stat.colorClasses.text}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path>
+                    </svg>
+                  )}
+                </div>
+                
+                <!-- Number -->
+                <div class={`text-4xl font-bold text-gray-900 mb-2 ${stat.colorClasses.hoverText} transition-colors`}>
+                  {stat.number}
+                </div>
+                
+                <!-- Label -->
+                <div class="text-sm text-gray-600 font-medium">
+                  {stat.label}
+                </div>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
