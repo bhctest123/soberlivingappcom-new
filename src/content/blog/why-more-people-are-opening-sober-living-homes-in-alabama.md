@@ -1,5 +1,5 @@
 ---
-title: 'Why More People Are Opening Sober Living Homes in Alabama<br/>'
+title: 'Why More People Are Opening Sober Living Homes in Alabama'
 description: '(Nov 2022) Why open a sober living home in Alabama? High demand, low regulation & optional AARR certification attract new recovery residences. Learn more.'
 date: 2022-11-29
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Licensing", "News", "Property Management", "Recovery Community", "Re
 tags: ["Alabama", "State Certification", "Office Of Certification", "Alabama Department Of Mental Health", "Alabama Alliance For Recovery Residences", "211"]
 featured: false
 image: "/images/blog/why-more-people-are-opening-sober-living-homes-in-alabama.jpg"
-imageAlt: 'Why More People Are Opening Sober Living Homes in Alabama<br/>'
+imageAlt: 'Why More People Are Opening Sober Living Homes in Alabama'
 ---
 
 Is there a big demand for sober living homes in Alabama?

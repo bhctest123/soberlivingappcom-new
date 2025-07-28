@@ -1,5 +1,5 @@
 ---
-title: 'Considering New Jersey for Your Next Sober Living Home? Here''s the Pros and Cons<br/>'
+title: 'Considering New Jersey for Your Next Sober Living Home? Here''s the Pros and Cons'
 description: 'NJ sober living pros & cons analysis (July 2022). Note: Regulations changed significantly later. Insights via Sober Living App blog.'
 date: 2022-07-25
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Guide", "Licensing", "Property Management", "Recovery Community", "R
 tags: ["New Jersey", "State Funding", "State Fees", "Licensure", "Boarding Houses", "Nimbyism", "New Jersey Department Of Community Affairs", "Njarr", "Class F License"]
 featured: false
 image: "/images/blog/considering-new-jersey-for-your-next-sober-living-home-heres-the-pros-and-cons.jpg"
-imageAlt: 'Considering New Jersey for Your Next Sober Living Home? Here''s the Pros and Cons<br/>'
+imageAlt: 'Considering New Jersey for Your Next Sober Living Home? Here''s the Pros and Cons'
 ---
 
 Pros: 

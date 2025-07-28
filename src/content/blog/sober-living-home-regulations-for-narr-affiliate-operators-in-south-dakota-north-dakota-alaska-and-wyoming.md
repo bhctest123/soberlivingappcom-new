@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["NARR", "News", "Regulations", "Narr"]
 tags: ["South Dakota", "North Dakota", "Alaska", "Wyoming", "Narr"]
 featured: false
-image: "https://images.squarespace-cdn.com/content/5a811b28d55b410667f7bf1e/9d8d620b-113f-4044-8451-1fbcc17cd470/Screen+Shot+2025-01-13+at+12.38.20+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png"
+image: "/images/blog/sober-living-home-regulations-for-narr-affiliate-operators-in-south-dakota-north-dakota-alaska-and-wyoming.png"
 imageAlt: "Sober Living Home Regulations for NARR Affiliate Operators in South Dakota, North Dakota, Alaska, and Wyoming"
 ---
 

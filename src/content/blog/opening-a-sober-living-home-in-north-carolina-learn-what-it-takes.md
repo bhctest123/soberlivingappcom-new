@@ -1,5 +1,5 @@
 ---
-title: 'Opening a Sober Living Home In North Carolina? Learn What it Takes<br/>'
+title: 'Opening a Sober Living Home In North Carolina? Learn What it Takes'
 description: 'Starting a sober home in NC? July ''22 guide clarifies requirements (vs treatment centers), regulations & optional NCARR certification.'
 date: 2022-07-11
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Guide", "Licensing", "Recovery Industry", "Recovery Community", "Reg
 tags: ["North Carolina", "Sober Living Home Management", "Sober Living Manager", "Overdose", "Certificate Of Need", "Con States", "Division Of Health Service Regulation", "Regulations", "Licensure", "Narr", "Faith Based", "Evidence Based", "Hope Alive", "Trosa", "Mat"]
 featured: false
 image: "/images/blog/opening-a-sober-living-home-in-north-carolina-learn-what-it-takes.jpg"
-imageAlt: 'Opening a Sober Living Home In North Carolina? Learn What it Takes<br/>'
+imageAlt: 'Opening a Sober Living Home In North Carolina? Learn What it Takes'
 ---
 
 North Carolina - particularly Western North Carolina, a tourist favorite - is a very popular location for sober living homes. (It’s also a popular place for [opening addiction treatment centers](<https://behavehealth.com/blog/2021/12/10/how-to-open-a-certified-addiction-treatment-center-in-north-carolina>).) Overdose deaths in North Carolina have [risen sharply during the pandemic](<https://www.ncdhhs.gov/news/press-releases/2022/03/21/north-carolina-reports-40-increase-overdose-deaths-2020-compared-2019-ncdhhs-continues-fight-against>), so it makes sense to offer the residents of this state an option for drug-free living. 

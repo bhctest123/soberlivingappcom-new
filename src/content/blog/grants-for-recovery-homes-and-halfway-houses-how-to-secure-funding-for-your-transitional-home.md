@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management", "Property Management"]
 tags: ["Funding", "Grants"]
 featured: false
-image: "https://images.squarespace-cdn.com/content/5a811b28d55b410667f7bf1e/1739249008654-H6V5HPMF84GV0X1F9ZDJ/grants+for+halfway+houses%EF%B9%96format=1500w&content-type=image%EA%A4%B7jpeg.jpeg"
+image: "/images/blog/grants-for-recovery-homes-and-halfway-houses-how-to-secure-funding-for-your-transitional-home.jpeg"
 imageAlt: 'Grants for Recovery Homes and Halfway Houses: How to Secure Funding for Your Transitional Home'
 ---
 

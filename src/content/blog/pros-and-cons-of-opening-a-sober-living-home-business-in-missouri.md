@@ -1,5 +1,5 @@
 ---
-title: 'Pros and Cons of Opening a Sober Living Home Business In Missouri<br/>'
+title: 'Pros and Cons of Opening a Sober Living Home Business In Missouri'
 description: 'MO Sober Living Business Pros & Cons (Oct 2022): Optional cert vs. funding rules & more. Analysis via the Sober Living App blog.'
 date: 2022-10-18
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Guide", "Funding", "Licensing", "Property Management", "Recovery Com
 tags: ["Missouri", "Certification", "State Certification", "Mcrsp", "Grants", "State Code", "State Fees", "State Funding", "Con States", "Certificate Of Need", "Regulations", "Addiction Treatment"]
 featured: false
 image: "/images/blog/pros-and-cons-of-opening-a-sober-living-home-business-in-missouri.png"
-imageAlt: 'Pros and Cons of Opening a Sober Living Home Business In Missouri<br/>'
+imageAlt: 'Pros and Cons of Opening a Sober Living Home Business In Missouri'
 ---
 
 The “show me” state is a great place to open a sober living home. [Over 15,000 Missourians have fallen victim to fatal overdoses](<https://mocare.missouri.edu/>) in the last decade. It’s estimated that over 290,000 residents are struggling with Alcohol Use Disorder and at least 56,000 Missourians are abusing prescription opioids or heroin. 

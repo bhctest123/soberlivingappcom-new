@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - 5 New Year''s Resolutions for Optimizing Your Sober Living Home '
+title: 'Sober Living App - 5 New Year''s Resolutions for Optimizing Your Sober Living Home'
 description: "5 essential goals for optimizing your sober living home year-round. Management insights from the Sober Living App blog archives."
 date: 2019-12-31
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - 5 New Year''s Resolutions for Optimizing Your Sober Living Home '
+imageAlt: 'Sober Living App - 5 New Year''s Resolutions for Optimizing Your Sober Living Home'
 ---
 
 [Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)

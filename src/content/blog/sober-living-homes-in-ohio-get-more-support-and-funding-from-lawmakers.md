@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living Homes in Ohio Get More Support and Funding from Lawmakers!<br/>'
+title: 'Sober Living Homes in Ohio Get More Support and Funding from Lawmakers!'
 description: 'Explore ''Community Capital'' posts for sober living homes. Learn how community resources, connections & support networks aid recovery.'
 date: 2022-08-30
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["News", "Recovery Community", "Sober Living Management"]
 tags: ["Ohio", "Licensure", "State Funding", "State Certification", "State Fees", "Grants", "Funding", "Community Capital", "Senate Bill 310", "House Bill 49"]
 featured: false
 image: "/images/blog/sober-living-homes-in-ohio-get-more-support-and-funding-from-lawmakers.jpg"
-imageAlt: 'Sober Living Homes in Ohio Get More Support and Funding from Lawmakers!<br/>'
+imageAlt: 'Sober Living Homes in Ohio Get More Support and Funding from Lawmakers!'
 ---
 
 Good news for sober living home operators in Ohio: the state has set aside an unprecedented amount of funding for recovery and sober living!

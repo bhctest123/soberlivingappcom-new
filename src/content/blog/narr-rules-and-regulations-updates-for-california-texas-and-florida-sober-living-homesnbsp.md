@@ -1,5 +1,5 @@
 ---
-title: "NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes <br/>"
+title: "NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes"
 description: "Aug 2024 NARR updates for CA, TX, FL sober living homes. Learn key regulations, certification (CCAPP, FARR, TROHN) & rules impacting recovery housing."
 date: 2024-08-11
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Regulations", "Sober Living Management", "Sober Living Startup", "Pr
 tags: ["California", "Texas", "Florida", "Narr", "Ccapp", "Trohn", "Farr"]
 featured: false
 image: "/images/blog/2024/08/narr-rules-and-regulations-updates-for-california-texas-and-florida-sober-living-homesnbsp/featured.jpg"
-imageAlt: "NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes <br/>"
+imageAlt: "NARR Rules and Regulations Updates for California, Texas, and Florida Sober Living Homes"
 ---
 
 ## Why are sober living homes largely unregulated, even in states with strong NARR affiliates like California, Texas, and Florida?

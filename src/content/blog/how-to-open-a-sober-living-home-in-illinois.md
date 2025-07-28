@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - How to Open a Sober Living Home in Illinois&lt;br/&gt;"
+title: "Sober Living App - How to Open a Sober Living Home in Illinois"
 description: "Learn how to open a sober living home in Illinois (IL). Covers key steps, requirements & considerations (Nov 2021 Guide)."
 date: 2021-11-09
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - How to Open a Sober Living Home in Illinois&lt;br/&gt;"
+imageAlt: "Sober Living App - How to Open a Sober Living Home in Illinois"
 ---
 
 [Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)

@@ -1,5 +1,5 @@
 ---
-title: 'Delaware NARR State Affiliate<br/>'
+title: 'Delaware NARR State Affiliate'
 description: 'Delaware NARR Update (Nov 2024): Learn about FSARR, new sober living certification rules, state funding, and the official DE registry.'
 date: 2024-11-13
 category: ["NARR"]

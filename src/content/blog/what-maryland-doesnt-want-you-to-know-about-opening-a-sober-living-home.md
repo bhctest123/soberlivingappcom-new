@@ -1,5 +1,5 @@
 ---
-title: 'What Maryland Doesn''t Want You To Know About Opening a Sober Living Home<br/>'
+title: 'What Maryland Doesn''t Want You To Know About Opening a Sober Living Home'
 description: 'Maryland SLH startup guide (Nov 2022): Learn why MD is operator-friendly (optional cert, state support & resources). Via Sober Living App.'
 date: 2022-11-03
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management", "Regulations", "Recovery Community", "Prop
 tags: ["Maryland", "Recovery Residences", "Sober Living Home Management", "State Certification", "Licensure", "Narr", "Compliance", "Opioid", "Regulations", "Maryland Inter Agency Opioid Coordination Pla"]
 featured: false
 image: "/images/blog/what-maryland-doesnt-want-you-to-know-about-opening-a-sober-living-home.jpg"
-imageAlt: 'What Maryland Doesn''t Want You To Know About Opening a Sober Living Home<br/>'
+imageAlt: 'What Maryland Doesn''t Want You To Know About Opening a Sober Living Home'
 ---
 
 Thinking about opening a sober living home or recovery residence in the state of Maryland? It makes sense. This state is considered one of the [epicenters of the opioid crisis](<https://www.marylandmatters.org/2022/05/04/opioids-killed-thousands-of-maryland-residents-in-2021/>) in the nation and there is a huge demand for sober living, recovery and so-called “halfway houses” in the state. 

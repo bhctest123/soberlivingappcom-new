@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["News", "Property Management", "Regulations", "Sober Living Management"]
 tags: ["Inclusive Recovery City", "Drug Free America Foundation", "Nimbyism", "City Code"]
 featured: false
-image: "https://images.squarespace-cdn.com/content/5a811b28d55b410667f7bf1e/a5799d2a-aedd-4e83-a924-65691e320894/Screen+Shot+2025-02-23+at+5.42.18+PM%EF%B9%96content-type=image%EA%A4%B7png.png"
+image: "/images/blog/can-inclusive-recovery-cities-help-fight-nimby-stigma-facing-recovery-residence-operators.png"
 imageAlt: 'Can "Inclusive Recovery Cities" Help Fight NIMBY Stigma Facing Recovery Residence Operators?'
 ---
 

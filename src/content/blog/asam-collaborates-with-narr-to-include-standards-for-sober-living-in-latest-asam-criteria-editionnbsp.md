@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - ASAM Collaborates with NARR to Include Standards for Sober Living in Latest ASAM Criteria Edition "
+title: "Sober Living App - ASAM Collaborates with NARR to Include Standards for Sober Living in Latest ASAM Criteria Edition"
 description: 'Big update: NARR sober living standards are now included in the latest ASAM Criteria thanks to ASAM & NARR collaboration.'
 date: 2023-10-13
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - ASAM Collaborates with NARR to Include Standards for Sober Living in Latest ASAM Criteria Edition "
+imageAlt: "Sober Living App - ASAM Collaborates with NARR to Include Standards for Sober Living in Latest ASAM Criteria Edition"
 ---
 
 [Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)

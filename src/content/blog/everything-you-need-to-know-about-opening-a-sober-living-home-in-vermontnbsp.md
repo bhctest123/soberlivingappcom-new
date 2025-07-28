@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Everything You Need to Know About Opening a Sober Living Home in Vermont "
+title: "Sober Living App - Everything You Need to Know About Opening a Sober Living Home in Vermont"
 description: "Opening a sober living home in Vermont? Learn about high demand, grants, VTARR certification, & new laws like Act 163 on eviction & home surveying."
 date: 2023-02-27
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Everything You Need to Know About Opening a Sober Living Home in Vermont "
+imageAlt: "Sober Living App - Everything You Need to Know About Opening a Sober Living Home in Vermont"
 ---
 
 [Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)

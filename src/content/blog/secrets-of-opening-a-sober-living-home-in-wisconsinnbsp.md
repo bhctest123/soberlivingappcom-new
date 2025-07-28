@@ -1,5 +1,5 @@
 ---
-title: 'Secrets of Opening a Sober Living Home in Wisconsin <br/>'
+title: 'Secrets of Opening a Sober Living Home in Wisconsin'
 description: 'Secrets to opening an SLH in WI (Nov 2022): Navigating state registry, WASH cert & funding ops. Tips via Sober Living App blog.'
 date: 2022-11-16
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Funding", "Guide", "Licensing", "Property Management", "Recovery Com
 tags: ["Wisconsin", "Sober Living Home Management", "Sober Living App", "Opioids", "Alcohol", "Market Research", "State Funding", "State Fees", "State Certification", "Wash", "Wisconsin Association Of Sober Living", "Grants", "Peer Run Respite Homes"]
 featured: false
 image: "/images/blog/secrets-of-opening-a-sober-living-home-in-wisconsinnbsp.jpg"
-imageAlt: 'Secrets of Opening a Sober Living Home in Wisconsin <br/>'
+imageAlt: 'Secrets of Opening a Sober Living Home in Wisconsin'
 ---
 
 ## Sober Living Home Operators Should Note That Wisconsin’s Top Addictions Are Alcohol, Opioids and Meth

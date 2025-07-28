@@ -1,5 +1,5 @@
 ---
-title: 'Michigan is an Ideal Place to Open a Sober Living Home <br/>'
+title: 'Michigan is an Ideal Place to Open a Sober Living Home'
 description: 'Starting a sober living home in Michigan? Learn about the regulations & opportunities in this Sober Living App blog analysis (July 2022).'
 date: 2022-07-12
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Licensing", "Guide", "Property Management", "Recovery Community", "R
 tags: ["Michigan", "Michigan Association Of Recovery Residences", "Overdose", "Nimbyism", "Licensure", "Marr", "Addiction Treatment", "Sober Living Home Management"]
 featured: false
 image: "/images/blog/michigan-is-an-ideal-place-to-open-a-sober-living-homenbsp.jpg"
-imageAlt: 'Michigan is an Ideal Place to Open a Sober Living Home <br/>'
+imageAlt: 'Michigan is an Ideal Place to Open a Sober Living Home'
 ---
 
 Sober living homes are on the rise in Michigan. According to the [Michigan Association of Recovery Residences](<https://michiganarr.com/statistics>), there were 460 certified recovery home beds in 2018 and over 2258 certified sober living home beds in the state in 2022. Likewise, the state had only 16 certified operators in 2018 and 62 separate certified operators managing a total of 270 residences in 2022. 

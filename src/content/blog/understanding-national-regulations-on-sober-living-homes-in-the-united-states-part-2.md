@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Understanding National Regulations on Sober Living Homes in the United States - Part 2&lt;br/&gt;"
+title: "Sober Living App - Understanding National Regulations on Sober Living Homes in the United States - Part 2"
 description: 'National regs for US sober living homes (Part 2): Explore federal laws & compliance details (Aug 2021). From the Sober Living App blog.'
 date: 2021-08-17
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Understanding National Regulations on Sober Living Homes in the United States - Part 2&lt;br/&gt;"
+imageAlt: "Sober Living App - Understanding National Regulations on Sober Living Homes in the United States - Part 2"
 ---
 
 [Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)

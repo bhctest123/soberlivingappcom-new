@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - How to Open a Sober Living Home in Mississippi&lt;br/&gt;"
+title: "Sober Living App - How to Open a Sober Living Home in Mississippi"
 description: "Find info on congregate living inspections for sober homes. Learn about safety standards, compliance, and best practices for your recovery residence."
 date: 2023-01-09
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - How to Open a Sober Living Home in Mississippi&lt;br/&gt;"
+imageAlt: "Sober Living App - How to Open a Sober Living Home in Mississippi"
 ---
 
 [Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)

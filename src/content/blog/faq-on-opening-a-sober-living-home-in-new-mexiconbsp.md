@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - FAQ on Opening a Sober Living Home in New Mexico &lt;br/&gt;"
+title: "Sober Living App - FAQ on Opening a Sober Living Home in New Mexico"
 description: 'Navajo Nation: Find blog posts on sober living, addiction treatment resources, behavioral health, and recovery support within the Nation.'
 date: 2023-01-12
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - FAQ on Opening a Sober Living Home in New Mexico &lt;br/&gt;"
+imageAlt: "Sober Living App - FAQ on Opening a Sober Living Home in New Mexico"
 ---
 
 [Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)

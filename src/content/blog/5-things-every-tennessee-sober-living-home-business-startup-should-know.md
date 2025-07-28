@@ -1,5 +1,5 @@
 ---
-title: '5 Things Every Tennessee Sober Living Home Business Startup Should Know<br/>'
+title: '5 Things Every Tennessee Sober Living Home Business Startup Should Know'
 description: 'Explore posts tagged ''bed capacity'' for sober living homes. Insights on house size, occupancy management, zoning & operational factors.'
 date: 2022-08-23
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Guide", "Licensing", "Property Management", "Recovery Community", "R
 tags: ["Tennessee", "Katie Baird", "Safe Act", "State Certification", "State Fees", "Certification", "Bed Capacity"]
 featured: false
 image: "/images/blog/5-things-every-tennessee-sober-living-home-business-startup-should-know.jpg"
-imageAlt: '5 Things Every Tennessee Sober Living Home Business Startup Should Know<br/>'
+imageAlt: '5 Things Every Tennessee Sober Living Home Business Startup Should Know'
 ---
 
 ## Sober Living Homes in Tennessee Aren’t Required to Seek Accreditation, But…

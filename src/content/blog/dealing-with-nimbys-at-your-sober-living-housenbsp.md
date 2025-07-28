@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - Dealing with NIMBYs at Your Sober Living House "
+title: "Sober Living App - Dealing with NIMBYs at Your Sober Living House"
 description: "Dealing with NIMBYs at your sober living house? Learn effective strategies to manage community opposition & build bridges."
 date: 2019-11-19
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - Dealing with NIMBYs at Your Sober Living House "
+imageAlt: "Sober Living App - Dealing with NIMBYs at Your Sober Living House"
 ---
 
 [Guest User](../../../../sober-living-app-blog%EF%B9%96author=68473b7d2a4ddc30b0712c0e.html)

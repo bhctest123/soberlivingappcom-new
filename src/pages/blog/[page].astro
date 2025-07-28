@@ -1,0 +1,15 @@
+---
+export async function getStaticPaths() {
+  // Generate paths for pages 2-20 to handle old pagination URLs
+  const paths = [];
+  for (let i = 2; i <= 20; i++) {
+    paths.push({
+      params: { page: i.toString() }
+    });
+  }
+  return paths;
+}
+
+// Redirect old pagination URLs to the main blog page
+return Astro.redirect('/blog', 301);
+---

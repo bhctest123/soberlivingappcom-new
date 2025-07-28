@@ -1,5 +1,5 @@
 ---
-title: 'Illinois NARR State Affiliate<br/>'
+title: 'Illinois NARR State Affiliate'
 description: 'Nov 2024 IL NARR Update: Guide to Illinois Association of Extended Care (IAEC), sober living certification, standards & compliance for recovery homes.'
 date: 2024-11-13
 category: ["NARR"]

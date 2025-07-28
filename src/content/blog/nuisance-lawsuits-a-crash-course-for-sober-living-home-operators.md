@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - Nuisance Lawsuits: A Crash Course for Sober Living Home Operators&lt;br/&gt;'
+title: 'Sober Living App - Nuisance Lawsuits: A Crash Course for Sober Living Home Operators'
 description: 'Sober living operators: A crash course on understanding and responding to nuisance lawsuits. Learn how to protect your facility.'
 date: 2021-08-31
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - Nuisance Lawsuits: A Crash Course for Sober Living Home Operators&lt;br/&gt;'
+imageAlt: 'Sober Living App - Nuisance Lawsuits: A Crash Course for Sober Living Home Operators'
 ---
 
 [Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)

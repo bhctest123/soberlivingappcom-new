@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - How to Make Your Sober Living Home Stand Out from the Crowd&lt;br/&gt;"
+title: "Sober Living App - How to Make Your Sober Living Home Stand Out from the Crowd"
 description: "Make your sober living home stand out! Get strategies & tips to differentiate from the competition & attract residents."
 date: 2020-02-04
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - How to Make Your Sober Living Home Stand Out from the Crowd&lt;br/&gt;"
+imageAlt: "Sober Living App - How to Make Your Sober Living Home Stand Out from the Crowd"
 ---
 
 [Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)

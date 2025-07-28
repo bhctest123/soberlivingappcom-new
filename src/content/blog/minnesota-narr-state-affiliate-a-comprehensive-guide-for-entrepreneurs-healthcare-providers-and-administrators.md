@@ -1,5 +1,5 @@
 ---
-title: 'Minnesota NARR State Affiliate<br/>'
+title: 'Minnesota NARR State Affiliate'
 description: 'MN NARR Affiliate (MASH) Guide Nov ''24: Info for operators & providers on certification, standards, regulations (HF3954), best practices.'
 date: 2024-11-13
 category: ["NARR"]

@@ -1,5 +1,5 @@
 ---
-title: 'Predictions for Trump''s Behavioral Health Policy for Recovery Residence  Operators in 2025<br/>'
+title: 'Predictions for Trump''s Behavioral Health Policy for Recovery Residence  Operators in 2025'
 description: 'Predicting 2025 Trump policy shifts affecting recovery residences: funding, MAT, regulations & operator impact.'
 date: 2025-01-26
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Funding", "News", "Regulations", "Recovery Industry", "Sober Living 
 tags: ["Recovery Residence", "Sober Living", "Trump", "Affordable Care Act", "Medicaid", "Samhsa", "Ccbhc", "Telehealth", "Dhhs", "Rfk Jr", "The Kennedy Forum", "Patrick Kennedy", "Mat", "Peer Support Services"]
 featured: false
 image: "/images/blog/predictions-for-trumps-behavioral-health-policy-for-recovery-residencenbsp-operators-in-2025.png"
-imageAlt: 'Predictions for Trump''s Behavioral Health Policy for Recovery Residence  Operators in 2025<br/>'
+imageAlt: 'Predictions for Trump''s Behavioral Health Policy for Recovery Residence  Operators in 2025'
 ---
 
 (Note: This post is specifically for Recovery Residence owners, operators, and investors. You may also be interested in our blog post about predictions for the Trump administration’s overall behavioral health policies, specifically those that [affect addiction treatment center operators](<https://behavehealth.com/blog/2025/1/20/forecasting-trumps-behavioral-health-plan-for-addiction-treatment-providers-in-2025>).)

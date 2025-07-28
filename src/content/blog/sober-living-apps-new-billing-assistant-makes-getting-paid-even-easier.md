@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - Sober Living App''s New Billing Assistant Makes Getting Paid Even Easier&lt;br/&gt;'
+title: 'Sober Living App - Sober Living App''s New Billing Assistant Makes Getting Paid Even Easier'
 description: 'Simplify sober living payments! Sober Living App''s Billing Assistant (Oct 2020) automates rent, handles multiple payers & more payment methods. Get paid easier!'
 date: 2020-10-06
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - Sober Living App''s New Billing Assistant Makes Getting Paid Even Easier&lt;br/&gt;'
+imageAlt: 'Sober Living App - Sober Living App''s New Billing Assistant Makes Getting Paid Even Easier'
 ---
 
 [Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)

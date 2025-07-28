@@ -1,5 +1,5 @@
 ---
-title: 'Georgia NARR State Affiliate<br/>'
+title: 'Georgia NARR State Affiliate'
 description: 'Learn about Georgia''s NARR state affiliate (GARR) for recovery residences. Info on GA standards, certification & sober living requirements.'
 date: 2024-11-13
 category: ["NARR"]

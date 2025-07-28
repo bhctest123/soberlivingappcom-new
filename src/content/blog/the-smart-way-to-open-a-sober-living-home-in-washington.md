@@ -1,5 +1,5 @@
 ---
-title: 'The Smart Way to Open a Sober Living Home in Washington<br/>'
+title: 'The Smart Way to Open a Sober Living Home in Washington'
 description: 'Learn the smart way to open a sober living home in Washington (WA). Get key insights & strategies (Aug 2022 guide).'
 date: 2022-08-03
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Guide", "Licensing", "Property Management", "Recovery Community", "R
 tags: ["Washington", "Camas", "Nimbyism", "Good Neighbor Agreement", "Seattle", "Tenants Rights", "Landlord Law", "Evictions", "Waqrr", "Hca Recovery Home Registry"]
 featured: false
 image: "/images/blog/the-smart-way-to-open-a-sober-living-home-in-washington.jpg"
-imageAlt: 'The Smart Way to Open a Sober Living Home in Washington<br/>'
+imageAlt: 'The Smart Way to Open a Sober Living Home in Washington'
 ---
 
 Washington is a big state with a big personality. There are many benefits to opening a sober living home - also known as a recovery residence - in Washington state, not the least of which is the fact that the state does not require sober living home operators to register, certify or license homes. The [$4000 startup cost loans](<https://www.hca.wa.gov/assets/program/operating-loan-for-recovery-residence-form.pdf>) on offer for sober living home operators from the state government are tempting, as well. 

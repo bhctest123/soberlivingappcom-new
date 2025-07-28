@@ -6,7 +6,7 @@ category: ["NARR"]
 author: "Behave360 Consulting"
 tags: []
 featured: false
-image: "https://images.squarespace-cdn.com/content/5a811b28d55b410667f7bf1e/1739256072734-MYMOAP7L2MZ30JTHT171/Colorado+NARR+State+Affiliate%EF%B9%96format=1500w&content-type=image%EA%A4%B7jpeg.jpg"
+image: "/images/blog/understanding-the-colorado-narr-state-affiliate-enhancing-recovery-housing-quality-and-access.jpg"
 imageAlt: "Colorado NARR State Affiliate"
 ---
 

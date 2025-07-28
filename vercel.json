@@ -176,6 +176,16 @@
       "permanent": true
     },
     {
+      "source": "/search",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/search.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
       "source": "/sober-living-app-blog/category/(?<category>[^/]+).html",
       "destination": "/blog?category=$category",
       "permanent": true

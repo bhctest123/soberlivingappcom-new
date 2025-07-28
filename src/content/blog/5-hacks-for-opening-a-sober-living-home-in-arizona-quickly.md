@@ -1,5 +1,5 @@
 ---
-title: '5 Tips for Opening a Sober Living Home in Arizona<br/>'
+title: '5 Tips for Opening a Sober Living Home in Arizona'
 description: 'Find articles on sober living, recovery residences & addiction treatment topics related to Phoenix, Arizona (AZ). Explore the Phoenix tag archive.'
 date: 2022-08-09
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Guide", "Licensing", "Property Management", "Recovery Community", "R
 tags: ["Arizona", "Arizona Department Of Health Services", "Licensure", "State Fees", "State Certification", "State Funding", "Azrha", "Narr", "Phoenix"]
 featured: false
 image: "/images/blog/5-hacks-for-opening-a-sober-living-home-in-arizona-quickly.jpg"
-imageAlt: '5 Tips for Opening a Sober Living Home in Arizona<br/>'
+imageAlt: '5 Tips for Opening a Sober Living Home in Arizona'
 ---
 
 Looking to open a sober living home or recovery residence in Arizona? Here’s 5 tips for getting the job done as quickly and painlessly as possible.

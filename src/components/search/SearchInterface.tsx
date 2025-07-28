@@ -50,11 +50,11 @@ const fuseOptions = {
   minMatchCharLength: 2,
 };
 
-export default function SearchInterface({ searchData, categories, tags }: SearchInterfaceProps) {
-  // Search state
-  const [query, setQuery] = useState('');
-  const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
-  const [selectedTags, setSelectedTags] = useState<string[]>([]);
+export default function SearchInterface({ searchData, categories, tags, initialFilters }: SearchInterfaceProps) {
+  // Search state with initial filters
+  const [query, setQuery] = useState(initialFilters?.query || '');
+  const [selectedCategories, setSelectedCategories] = useState<string[]>(initialFilters?.category || []);
+  const [selectedTags, setSelectedTags] = useState<string[]>(initialFilters?.tag || []);
   const [dateRange, setDateRange] = useState<{ start?: string; end?: string }>({});
   const [sortBy, setSortBy] = useState<SortOption>('relevance');
   const [currentPage, setCurrentPage] = useState(1);
@@ -110,6 +110,10 @@ export default function SearchInterface({ searchData, categories, tags }: Search
     if (query.trim()) {
       const searchResults = fuse.search(query);
       results = searchResults.map(result => result.item);
+    }
+    // If no query, show all posts sorted by date (newest first)
+    else {
+      results = [...searchData].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
     }
 
     // Apply category filter

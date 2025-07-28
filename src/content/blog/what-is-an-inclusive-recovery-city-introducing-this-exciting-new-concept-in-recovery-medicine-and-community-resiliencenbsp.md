@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["NARR", "Recovery Community", "Recovery Community Center", "Narr"]
 tags: ["Inclusive Recovery City", "Recovery Capital", "Chime Model"]
 featured: false
-image: "https://images.squarespace-cdn.com/content/5a811b28d55b410667f7bf1e/8ccb7513-e48f-44b9-9f2e-ea1454156ce1/Screen+Shot+2025-02-13+at+10.57.50+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png"
+image: "/images/blog/what-is-an-inclusive-recovery-city-introducing-this-exciting-new-concept-in-recovery-medicine-and-community-resiliencenbsp.png"
 imageAlt: 'What is an “Inclusive Recovery City?” A new concept in recovery medicine & community resilience.'
 ---
 

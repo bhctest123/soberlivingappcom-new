@@ -6,7 +6,7 @@ category: ["NARR", "State Guide"]
 author: "Behave360 Consulting"
 tags: []
 featured: false
-image: "https://images.squarespace-cdn.com/content/5a811b28d55b410667f7bf1e/1739255973421-W9WJ9HZ3PYXLQLQZHU48/Arizona+State+NARR+Affiliate%EF%B9%96format=1500w&content-type=image%EA%A4%B7jpeg.jpg"
+image: "/images/blog/arizona-state-narr-affiliate.jpg"
 imageAlt: "Arizona State NARR Affiliate"
 ---
 

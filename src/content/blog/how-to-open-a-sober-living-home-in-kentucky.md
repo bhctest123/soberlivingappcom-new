@@ -1,5 +1,5 @@
 ---
-title: 'How to Open a Sober Living Home in Kentucky<br/>'
+title: 'How to Open a Sober Living Home in Kentucky'
 description: 'How to open a sober living home in KY (Guide from Dec 2022). Note: KY regs changed later. Steps & info via Sober Living App blog.'
 date: 2022-12-27
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Funding", "Guide", "Licensing", "Property Management", "Recovery Com
 tags: ["Kentucky", "Kyoaac", "Kentucky Opioid Abatement Advisory Commission", "Kentucky Recovery Housing Network", "Krhn", "Narr", "Nimbyism", "Sp", "Somerset", "Bellevue", "Zoning"]
 featured: false
 image: "/images/blog/how-to-open-a-sober-living-home-in-kentucky.png"
-imageAlt: 'How to Open a Sober Living Home in Kentucky<br/>'
+imageAlt: 'How to Open a Sober Living Home in Kentucky'
 ---
 
 Opening a sober living home in Kentucky is much easier than it is in most states in the country. The overall lack of regulation, coupled with some very pro-sober living home laws at the state level, make it an ideal location for operators who don’t enjoy working with a lot of red tape. Although there is a good amount of NIMBYism in Kentucky, fair housing laws work to the advantage of sober living home operators throughout the state. 

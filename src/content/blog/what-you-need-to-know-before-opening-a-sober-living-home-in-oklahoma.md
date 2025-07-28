@@ -1,5 +1,5 @@
 ---
-title: 'What You Need to Know Before Opening a Sober Living Home in Oklahoma<br/>'
+title: 'What You Need to Know Before Opening a Sober Living Home in Oklahoma'
 description: 'Planning to open a sober living home in Oklahoma? Learn the essential requirements, regulations, and key steps you need to know first.'
 date: 2022-12-15
 category: ["NARR"]
@@ -7,7 +7,7 @@ author: "Ben Weiss"
 tags: ["Oklahoma", "Title 43A", "Odmhsas", "Oud", "Narr", "Okarr", "Certification", "State Certification", "State Licesning", "Nimbyism"]
 featured: false
 image: "/images/blog/what-you-need-to-know-before-opening-a-sober-living-home-in-oklahoma.png"
-imageAlt: 'What You Need to Know Before Opening a Sober Living Home in Oklahoma<br/>'
+imageAlt: 'What You Need to Know Before Opening a Sober Living Home in Oklahoma'
 ---
 
 Considering opening a sober living home in Oklahoma?

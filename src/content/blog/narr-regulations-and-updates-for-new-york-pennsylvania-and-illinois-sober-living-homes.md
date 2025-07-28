@@ -1,5 +1,5 @@
 ---
-title: "NARR Regulations and Updates for New York, Pennsylvania, and Illinois Sober Living Homes<br/>"
+title: "NARR Regulations and Updates for New York, Pennsylvania, and Illinois Sober Living Homes"
 description: "Guide to NARR standards for New York, Pennsylvania, and Illinois sober living homes. Key info for operators."
 date: 2024-08-18
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Licensing", "News", "Recovery Community", "Regulations"]
 tags: ["New York", "Pennsylvania", "Illinois", "Narr", "Nysarr", "Iaec", "Parr"]
 featured: false
 image: "/images/blog/2024/08/narr-regulations-and-updates-for-new-york-pennsylvania-and-illinois-sober-living-homes/featured.jpg"
-imageAlt: "NARR Regulations and Updates for New York, Pennsylvania, and Illinois Sober Living Homes<br/>"
+imageAlt: "NARR Regulations and Updates for New York, Pennsylvania, and Illinois Sober Living Homes"
 ---
 
 ## New York state gains an emerging NARR affiliate, but still no licensing regulation for sober living homes

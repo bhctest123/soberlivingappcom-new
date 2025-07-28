@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - What They Don''t Want You to Know About Opening a Sober Living Home in Alaska&lt;br/&gt;'
+title: 'Sober Living App - What They Don''t Want You to Know About Opening a Sober Living Home in Alaska'
 description: 'Articles tagged ''Alaska Advisory Board on Alcoholism and Drug Abuse''. Info on the board''s role in AK SUD policy & recovery efforts.'
 date: 2023-02-22
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - What They Don''t Want You to Know About Opening a Sober Living Home in Alaska&lt;br/&gt;'
+imageAlt: 'Sober Living App - What They Don''t Want You to Know About Opening a Sober Living Home in Alaska'
 ---
 
 [Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)

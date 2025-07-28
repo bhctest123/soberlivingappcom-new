@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Certification", "Licensing", "News", "Recovery Community", "Regulations", "Sober Living Management"]
 tags: ["Oklahoma", "Connecticut", "Utah", "Okarr", "Narr", "Ctarr", "Dmhas"]
 featured: false
-image: "https://images.squarespace-cdn.com/content/5a811b28d55b410667f7bf1e/a107e43b-0c3e-4187-b8a2-3e7210653b33/Screen+Shot+2024-11-22+at+1.55.05+PM%EF%B9%96format=1500w&content-type=image%EA%A4%B7png.png"
+image: "/images/blog/narr-affiliate-news-for-sober-living-homes-in-oklahoma-connecticut-and-utah.png"
 imageAlt: "NARR affiliate news for sober living homes in Oklahoma, Connecticut, and Utah"
 ---
 

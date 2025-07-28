@@ -1,5 +1,5 @@
 ---
-title: 'Massachusetts NARR State Affiliate<br/>'
+title: 'Massachusetts NARR State Affiliate'
 description: 'Nov 2024 MA NARR Update: Learn about MASH, Massachusetts'' NARR affiliate, sober living certification, standards & its role in recovery housing.'
 date: 2024-11-13
 category: ["NARR"]

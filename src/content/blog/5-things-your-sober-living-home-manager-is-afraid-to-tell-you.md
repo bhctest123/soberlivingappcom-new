@@ -1,5 +1,5 @@
 ---
-title: "Sober Living App - 5 Things Your Sober Living Home Manager is Afraid to Tell You&lt;br/&gt;"
+title: "Sober Living App - 5 Things Your Sober Living Home Manager is Afraid to Tell You"
 description: 'https://soberlivingapp.com/sober-living-app-blog/2020/8/5/5-things-your-sober-living-home-manager-is-afraid-to-tell-you'
 date: 2020-08-05
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: "Sober Living App - 5 Things Your Sober Living Home Manager is Afraid to Tell You&lt;br/&gt;"
+imageAlt: "Sober Living App - 5 Things Your Sober Living Home Manager is Afraid to Tell You"
 ---
 
 [Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)

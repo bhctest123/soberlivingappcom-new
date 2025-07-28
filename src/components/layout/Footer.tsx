@@ -34,7 +34,7 @@ const Footer = () => {
         {/* Company Logo and Tagline */}
         <div className="text-center mb-12">
           <img 
-            src="/images/SoberLivingAppIcon.png" 
+            src="/images/brand/sober-living-app-icon.png" 
             alt="Sober Living App Logo" 
             className="w-24 h-24 mx-auto mb-6 opacity-80"
           />

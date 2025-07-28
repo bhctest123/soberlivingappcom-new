@@ -1,5 +1,5 @@
 ---
-title: 'Everything You Need to Open Your Sober Living Home in Massachusetts<br/>'
+title: 'Everything You Need to Open Your Sober Living Home in Massachusetts'
 description: 'Opening a sober living home in MA? Comprehensive guide (Aug 2022) covers requirements & steps. From the Sober Living App blog.'
 date: 2022-08-16
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Guide", "Licensing", "Property Management", "Recovery Community", "R
 tags: ["Massachusetts", "Masshousing", "Grants", "State Fees", "State Funding", "State Certification", "Nimbyism", "Mash"]
 featured: false
 image: "/images/blog/everything-you-need-to-open-your-sober-living-home-in-massachusetts.jpg"
-imageAlt: 'Everything You Need to Open Your Sober Living Home in Massachusetts<br/>'
+imageAlt: 'Everything You Need to Open Your Sober Living Home in Massachusetts'
 ---
 
 Although you’ll need a license to [open an addiction treatment center in Massachusetts](<https://behavehealth.com/blog/2021/12/28/opening-an-addiction-treatment-center-in-massachusetts-doesnt-have-to-be-difficultnbsp>), if it’s just a sober living home you’ve got your eyes set on, you’re in luck: Massachusetts doesn’t require any licenses or certifications for “recovery residences!” Another perk? Massachusetts also has a strong history of funding behavioral health — at least more so than other states in the union. Agencies like MassHousing even award grants to sober living home operators from time to time to help with operation and startup costs.

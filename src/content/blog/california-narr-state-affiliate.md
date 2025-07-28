@@ -6,7 +6,7 @@ category: ["NARR", "State Guide"]
 author: "Behave360 Consulting"
 tags: []
 featured: false
-image: "https://images.squarespace-cdn.com/content/5a811b28d55b410667f7bf1e/1739256029020-14YG83FGUVIIHJBTIXRF/unsplash-image-gZXx8lKAb7Y%EF%B9%96format=1500w&content-type=image%EA%A4%B7jpeg.jpg"
+image: "/images/blog/california-narr-state-affiliate.jpg"
 imageAlt: "California NARR State Affiliate"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Sober Living App - NARR Affiliate Sober Living Regulations: MT, RI, DE, VT. '
+title: 'Sober Living App - NARR Affiliate Sober Living Regulations: MT, RI, DE, VT.'
 description: "NARR affiliate sober living regulations for operators in MT, RI, DE, & VT. Understand key state requirements."
 date: 2024-12-29
 author: "Ben Weiss"
@@ -7,7 +7,7 @@ category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
 image: "/images/blog/placeholder.jpg"
-imageAlt: 'Sober Living App - NARR Affiliate Sober Living Regulations: MT, RI, DE, VT. '
+imageAlt: 'Sober Living App - NARR Affiliate Sober Living Regulations: MT, RI, DE, VT.'
 ---
 
 [Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
