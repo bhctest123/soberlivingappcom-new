@@ -1,0 +1,30 @@
+---
+// PostHog Analytics Script Component
+// This component adds PostHog analytics without exposing the API key in the build
+const isDev = import.meta.env.DEV;
+---
+
+{!isDev && (
+  <script is:inline>
+    // PostHog Analytics
+    // IMPORTANT: Replace 'YOUR_POSTHOG_API_KEY' with your actual API key in production
+    // This should be done through environment variables in your hosting platform
+    // Do NOT commit your actual API key to the repository
+    
+    !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.async=!0,p.src=s.api_host+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags getFeatureFlag getFeatureFlagPayload reloadFeatureFlags group updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures getActiveMatchingSurveys getSurveys onSessionId".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+    
+    // Initialize PostHog only in production
+    // You must set this through your hosting platform's environment variables
+    if (typeof window !== 'undefined') {
+      // For production, replace this with your actual implementation
+      // that pulls from server-side environment variables
+      console.log('PostHog is ready to be configured. Please follow the setup instructions in POSTHOG_SETUP.md');
+    }
+  </script>
+)}
+
+{isDev && (
+  <script is:inline>
+    console.log('PostHog is disabled in development mode');
+  </script>
+)}
