@@ -1,16 +1,16 @@
 {
   "seo": {
     "title": "Sober Living Software - Manage Your Recovery Residence | Sober Living App",
-    "description": "Leading sober living management software used by 500+ recovery facilities. Automate admissions, billing & operations. 30-day free trial - no setup fees.",
+    "description": "Leading sober living management software used by 2000+ recovery facilities. Automate admissions, billing & operations. Free trial - no setup fees.",
     "ogTitle": "Sober Living Software - Manage Your Recovery Residence | Sober Living App",
-    "ogDescription": "Leading sober living management software used by 500+ recovery facilities. Automate admissions, billing & operations. 30-day free trial - no setup fees.",
+    "ogDescription": "Leading sober living management software used by 2000+ recovery facilities. Automate admissions, billing & operations. Free trial - no setup fees.",
     "ogImage": "https://images.squarespace-cdn.com/content/5a811b28d55b410667f7bf1e/1739615362559-ESSNBATDXCGGS1IKKU5E/ic_sla_logo.png",
     "canonicalUrl": "https://soberlivingapp.com",
     "siteTagLine": "Run your Sober Living Homes like a business",
     "structuredData": {
       "url": "https://soberlivingapp.com",
       "name": "Sober Living App - Recovery Residence Management Software",
-      "description": "Leading sober living management software trusted by 500+ recovery facilities nationwide. Automate admissions, billing, housing operations and compliance.",
+      "description": "Leading sober living management software trusted by 2000+ recovery facilities nationwide. Automate admissions, billing, housing operations and compliance.",
       "image": "//images.squarespace-cdn.com/content/v1/5a811b28d55b410667f7bf1e/7302c9ca-6a2a-40e4-942f-a0971833d039/ic_sla_logo.png",
       "@context": "http://schema.org",
       "@type": "WebSite"
@@ -25,7 +25,7 @@
       "src": "/images/brand/sober-living-app-icon.png",
       "alt": "Sober Living App Icon"
     },
-    "tagline": "Join 500+ recovery homes using our proven system to fill beds faster, collect rent automatically, and stay 100% compliant - guaranteed.",
+    "tagline": "Join 2000+ recovery homes using our proven system to fill beds faster, collect rent automatically, and stay 100% compliant - guaranteed.",
     "description": "Average facilities see 40% revenue increase and save 20+ hours weekly. Set up in 15 minutes. No contracts. Cancel anytime.",
     "headline": "The best software for your homes!"
   },
@@ -123,7 +123,7 @@
     }
   ],
   "socialProof": {
-    "text": "Join 500+ recovery facilities using our comprehensive sober living management software to automate operations and increase revenue."
+    "text": "Join 2000+ recovery facilities using our comprehensive sober living management software to automate operations and increase revenue."
   },
   "appStoreButtons": {
     "apple": {

@@ -1,0 +1,1987 @@
+{
+  "summary": {
+    "total_posts": 156,
+    "total_unique_images": 433,
+    "duplicate_images": 78,
+    "posts_with_duplicates": 78
+  },
+  "duplicate_images": {
+    "/images/blog/faq-on-opening-a-sober-living-home-in-new-mexiconbsp/Screen_Shot_2023-01-10_at_3.58.46_PM.png": [
+      {
+        "file": "faq-on-opening-a-sober-living-home-in-new-mexico.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "faq-on-opening-a-sober-living-home-in-new-mexico.md",
+        "type": "markdown",
+        "line": 23
+      }
+    ],
+    "/images/blog/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii/Screen_Shot_2023-01-22_at_6.37.22_PM.png": [
+      {
+        "file": "everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii.md",
+        "type": "markdown",
+        "line": 43
+      }
+    ],
+    "/images/blog/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota/Screen_Shot_2023-02-08_at_7.16.42_PM.png": [
+      {
+        "file": "what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota.md",
+        "type": "markdown",
+        "line": 67
+      }
+    ],
+    "/images/blog/asam-collaborates-with-narr-to-include-standards-for-sober-living-in-latest-asam-criteria-editionnbsp/Screen_Shot_2023-10-13_at_3.14.23_PM.png": [
+      {
+        "file": "asam-collaborates-with-narr-to-include-standards-for-sober-living-in-latest-asam-criteria-edition.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "asam-collaborates-with-narr-to-include-standards-for-sober-living-in-latest-asam-criteria-edition.md",
+        "type": "markdown",
+        "line": 47
+      }
+    ],
+    "/images/blog/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically/Screen_Shot_2021-02-01_at_7.58.49_AM.png": [
+      {
+        "file": "got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically.md",
+        "type": "markdown",
+        "line": 49
+      }
+    ],
+    "/images/blog/are-behavioral-health-peer-support-services-covered-in-california-texas-florida-new-york-and-pennsylvania-sober-living-homes-and-addiction-treatment-programsnbsp/Screen_Shot_2024-05-29_at_9.02.51_PM.png": [
+      {
+        "file": "are-behavioral-health-peer-support-services-covered-in-california-texas-florida-new-york-and-pennsylvania-sober-living-homes-and-addiction-treatment-programs.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "are-behavioral-health-peer-support-services-covered-in-california-texas-florida-new-york-and-pennsylvania-sober-living-homes-and-addiction-treatment-programs.md",
+        "type": "markdown",
+        "line": 53
+      }
+    ],
+    "/images/blog/sober-living-home-startup-guide/recovery_residence_levels_of_support.png": [
+      {
+        "file": "sober-living-home-startup-guide.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "sober-living-home-startup-guide.md",
+        "type": "markdown",
+        "line": 71
+      }
+    ],
+    "/images/blog/top-3-ways-to-support-a-healthy-organizational-culture-at-your-sober-living-home/Screenshot_2020-10-29_at_12.40.02_PM.png": [
+      {
+        "file": "top-3-ways-to-support-a-healthy-organizational-culture-at-your-sober-living-home.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "top-3-ways-to-support-a-healthy-organizational-culture-at-your-sober-living-home.md",
+        "type": "markdown",
+        "line": 53
+      }
+    ],
+    "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-floridanbsp-ohio/Screen_Shot_2024-03-10_at_6.22.23_PM.png": [
+      {
+        "file": "opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-florida-ohio.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-florida-ohio.md",
+        "type": "markdown",
+        "line": 47
+      }
+    ],
+    "/images/blog/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp/Screenshot_2020-03-26_at_9.39.10_AM.png": [
+      {
+        "file": "5-ways-coronavirus-is-changing-the-sober-living-industry.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "5-ways-coronavirus-is-changing-the-sober-living-industry.md",
+        "type": "markdown",
+        "line": 39
+      }
+    ],
+    "/images/blog/the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-2/Screen_Shot_2021-03-16_at_11.22.17_AM.png": [
+      {
+        "file": "the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-2.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-2.md",
+        "type": "markdown",
+        "line": 105
+      }
+    ],
+    "/images/blog/buprenorphine-suboxone-and-your-sober-living-home/Screen_Shot_2021-05-31_at_12.05.57_PM.png": [
+      {
+        "file": "buprenorphine-suboxone-and-your-sober-living-home.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "buprenorphine-suboxone-and-your-sober-living-home.md",
+        "type": "markdown",
+        "line": 41
+      }
+    ],
+    "/images/blog/join-sober-living-app-at-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th/Screen_Shot_2023-10-05_at_8.52.35_PM.png": [
+      {
+        "file": "join-sober-living-app-at-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "join-sober-living-app-at-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th.md",
+        "type": "markdown",
+        "line": 49
+      }
+    ],
+    "/images/blog/mastering-admissions-at-your-sober-living-home/wallet.png": [
+      {
+        "file": "mastering-admissions-at-your-sober-living-home.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "mastering-admissions-at-your-sober-living-home.md",
+        "type": "markdown",
+        "line": 57
+      }
+    ],
+    "/images/blog/sober-living-home-regulations-for-narr-affiliate-operators-in-montana-rhode-island-delaware-and-vermont/Screen_Shot_2024-12-29_at_6.32.45_PM.png": [
+      {
+        "file": "sober-living-home-regulations-for-narr-affiliate-operators-in-montana-rhode-island-delaware-and-vermont.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "sober-living-home-regulations-for-narr-affiliate-operators-in-montana-rhode-island-delaware-and-vermont.md",
+        "type": "markdown",
+        "line": 51
+      }
+    ],
+    "/images/blog/5-things-all-of-the-best-sober-living-home-managers-have-in-common/life-862985_1280.jpg": [
+      {
+        "file": "5-things-all-of-the-best-sober-living-home-managers-have-in-common.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "5-things-all-of-the-best-sober-living-home-managers-have-in-common.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/5-cool-ways-to-engage-your-sober-living-home-alumni/Screen_Shot_2021-07-14_at_1.48.19_PM.png": [
+      {
+        "file": "5-cool-ways-to-engage-your-sober-living-home-alumni.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "5-cool-ways-to-engage-your-sober-living-home-alumni.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/halfway-house-management-software-guide/hero.png": [
+      {
+        "file": "halfway-house-management-software-guide.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "halfway-house-management-software-guide.md",
+        "type": "markdown",
+        "line": 15
+      }
+    ],
+    "/images/blog/sober-living-management-software-complete-guide-2024/hero.png": [
+      {
+        "file": "sober-living-management-software-complete-guide-2024.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "sober-living-management-software-complete-guide-2024.md",
+        "type": "markdown",
+        "line": 15
+      }
+    ],
+    "/images/blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1/Screen_Shot_2021-07-29_at_5.15.42_PM.png": [
+      {
+        "file": "understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.md",
+        "type": "markdown",
+        "line": 37
+      }
+    ],
+    "/images/blog/faq-about-opening-a-sober-living-home-in-delaware/Screen_Shot_2023-02-07_at_11.12.44_AM.png": [
+      {
+        "file": "faq-about-opening-a-sober-living-home-in-delaware.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "faq-about-opening-a-sober-living-home-in-delaware.md",
+        "type": "markdown",
+        "line": 61
+      }
+    ],
+    "/images/blog/sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-nebraska-idaho-and-west-virginia/Screen_Shot_2024-12-09_at_8.47.59_AM.png": [
+      {
+        "file": "sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-nebraska-idaho-and-west-virginia.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-nebraska-idaho-and-west-virginia.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont/Screen_Shot_2024-02-25_at_3.17.54_PM.png": [
+      {
+        "file": "opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/how-to-streamline-drug-testing-at-your-sober-living-home/drug_testing.png": [
+      {
+        "file": "how-to-streamline-drug-testing-at-your-sober-living-home.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "how-to-streamline-drug-testing-at-your-sober-living-home.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/how-to-open-a-sober-living-home-in-ohio/Screen_Shot_2021-10-07_at_6.53.31_PM.png": [
+      {
+        "file": "how-to-open-a-sober-living-home-in-ohio.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "how-to-open-a-sober-living-home-in-ohio.md",
+        "type": "markdown",
+        "line": 41
+      }
+    ],
+    "/images/blog/3-things-to-look-for-in-your-first-sober-living-home-real-estate-deal/paintingahouse.png": [
+      {
+        "file": "3-things-to-look-for-in-your-first-sober-living-home-real-estate-deal.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "3-things-to-look-for-in-your-first-sober-living-home-real-estate-deal.md",
+        "type": "markdown",
+        "line": 49
+      }
+    ],
+    "/images/blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp/Screen_Shot_2023-02-20_at_5.52.10_PM.png": [
+      {
+        "file": "everything-you-need-to-know-about-opening-a-sober-living-home-in-vermont.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "everything-you-need-to-know-about-opening-a-sober-living-home-in-vermont.md",
+        "type": "markdown",
+        "line": 43
+      }
+    ],
+    "/images/blog/are-you-a-good-candidate-for-behave-healths-sober-living-startup-program/Screen_Shot_2024-02-25_at_3.20.25_PM.png": [
+      {
+        "file": "are-you-a-good-candidate-for-behave-healths-sober-living-startup-program.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "are-you-a-good-candidate-for-behave-healths-sober-living-startup-program.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/kansas-is-a-great-state-to-open-a-sober-living-home/Screen_Shot_2023-01-03_at_5.17.10_PM.png": [
+      {
+        "file": "kansas-is-a-great-state-to-open-a-sober-living-home.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "kansas-is-a-great-state-to-open-a-sober-living-home.md",
+        "type": "markdown",
+        "line": 35
+      }
+    ],
+    "/images/blog/chaotic-admissions-and-billing-check-out-sober-living-apps-admissions-20-update/Screenshot_2020-09-16_at_11.31.15_AM.png": [
+      {
+        "file": "chaotic-admissions-and-billing-check-out-sober-living-apps-admissions-20-update.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "chaotic-admissions-and-billing-check-out-sober-living-apps-admissions-20-update.md",
+        "type": "markdown",
+        "line": 73
+      }
+    ],
+    "/images/blog/5-things-to-consider-when-opening-a-sober-living-home-in-wyoming/Screen_Shot_2023-02-26_at_12.28.15_PM.png": [
+      {
+        "file": "5-things-to-consider-when-opening-a-sober-living-home-in-wyoming.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "5-things-to-consider-when-opening-a-sober-living-home-in-wyoming.md",
+        "type": "markdown",
+        "line": 35
+      }
+    ],
+    "/images/blog/5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp/fireworks.png": [
+      {
+        "file": "5-new-years-resolutions-for-optimizing-your-sober-living-home.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "5-new-years-resolutions-for-optimizing-your-sober-living-home.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/faq-about-how-to-open-an-sober-living-home-in-maine/Screen_Shot_2023-01-15_at_5.04.52_PM.png": [
+      {
+        "file": "faq-about-how-to-open-an-sober-living-home-in-maine.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "faq-about-how-to-open-an-sober-living-home-in-maine.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements/Screenshot_2020-06-25_at_8.31.56_AM.png": [
+      {
+        "file": "heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements.md",
+        "type": "markdown",
+        "line": 101
+      }
+    ],
+    "/images/blog/4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress/Screenshot_2020-10-15_at_10.12.44_PM.png": [
+      {
+        "file": "4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress.md",
+        "type": "markdown",
+        "line": 53
+      }
+    ],
+    "/images/blog/how-to-open-a-sober-living-home-in-mississippi/Screen_Shot_2023-01-03_at_5.07.28_PM.png": [
+      {
+        "file": "how-to-open-a-sober-living-home-in-mississippi.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "how-to-open-a-sober-living-home-in-mississippi.md",
+        "type": "markdown",
+        "line": 71
+      }
+    ],
+    "/images/blog/dealing-with-nimbys-at-your-sober-living-housenbsp/fist.png": [
+      {
+        "file": "dealing-with-nimbys-at-your-sober-living-house.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "dealing-with-nimbys-at-your-sober-living-house.md",
+        "type": "markdown",
+        "line": 93
+      }
+    ],
+    "/images/blog/recovery-housing-software-guide-2024/hero.png": [
+      {
+        "file": "recovery-housing-software-guide-2024.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "recovery-housing-software-guide-2024.md",
+        "type": "markdown",
+        "line": 15
+      }
+    ],
+    "/images/blog/what-they-dont-want-you-to-know-about-opening-a-sober-living-home-in-alaska/Screen_Shot_2023-02-12_at_4.14.33_PM.png": [
+      {
+        "file": "what-they-dont-want-you-to-know-about-opening-a-sober-living-home-in-alaska.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "what-they-dont-want-you-to-know-about-opening-a-sober-living-home-in-alaska.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier/Screenshot_2020-10-01_at_11.59.57_AM.jpg": [
+      {
+        "file": "sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier.md",
+        "type": "markdown",
+        "line": 97
+      }
+    ],
+    "/images/blog/your-questions-about-opening-a-sober-living-home-in-west-virginia-answered/Screen_Shot_2023-01-16_at_9.04.16_AM.png": [
+      {
+        "file": "your-questions-about-opening-a-sober-living-home-in-west-virginia-answered.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "your-questions-about-opening-a-sober-living-home-in-west-virginia-answered.md",
+        "type": "markdown",
+        "line": 59
+      }
+    ],
+    "/images/blog/introducing-our-new-resident-application-for-the-sober-living-home-app/Screenshot_2020-04-24_at_1.16.16_PM.png": [
+      {
+        "file": "introducing-our-new-resident-application-for-the-sober-living-home-app.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "introducing-our-new-resident-application-for-the-sober-living-home-app.md",
+        "type": "markdown",
+        "line": 37
+      }
+    ],
+    "/images/blog/opening-an-sober-living-home-in-georgia/Screen_Shot_2021-11-23_at_9.47.57_AM.png": [
+      {
+        "file": "opening-an-sober-living-home-in-georgia.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "opening-an-sober-living-home-in-georgia.md",
+        "type": "markdown",
+        "line": 51
+      }
+    ],
+    "/images/blog/how-to-open-a-sober-living-home-in-illinois/Screen_Shot_2021-11-04_at_3.12.03_PM.png": [
+      {
+        "file": "how-to-open-a-sober-living-home-in-illinois.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "how-to-open-a-sober-living-home-in-illinois.md",
+        "type": "markdown",
+        "line": 55
+      }
+    ],
+    "/images/blog/your-questions-about-opening-a-sober-living-home-in-nebraska-answered/Screen_Shot_2023-01-10_at_6.05.36_PM.png": [
+      {
+        "file": "your-questions-about-opening-a-sober-living-home-in-nebraska-answered.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "your-questions-about-opening-a-sober-living-home-in-nebraska-answered.md",
+        "type": "markdown",
+        "line": 47
+      }
+    ],
+    "/images/blog/5-best-apps-and-software-for-your-sober-living-house/computer_keyboard.png": [
+      {
+        "file": "5-best-apps-and-software-for-your-sober-living-house.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "5-best-apps-and-software-for-your-sober-living-house.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/3-mistakes-you-might-be-making-with-mat-patients-at-your-sober-living-home/Screenshot_2020-12-31_at_12.55.28_PM.png": [
+      {
+        "file": "3-mistakes-you-might-be-making-with-mat-patients-at-your-sober-living-home.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "3-mistakes-you-might-be-making-with-mat-patients-at-your-sober-living-home.md",
+        "type": "markdown",
+        "line": 61
+      }
+    ],
+    "/images/blog/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do/Screenshot_2021-06-10_18-56-24.png": [
+      {
+        "file": "top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do.md",
+        "type": "markdown",
+        "line": 97
+      }
+    ],
+    "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia/Screen_Shot_2024-03-26_at_3.08.02_PM.png": [
+      {
+        "file": "opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/you-opened-a-sober-living-homenow-what/manopeningdoor.png": [
+      {
+        "file": "you-opened-a-sober-living-homenow-what.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "you-opened-a-sober-living-homenow-what.md",
+        "type": "markdown",
+        "line": 71
+      }
+    ],
+    "/images/blog/software-tools-for-sober-living-homes/xero-logo.png": [
+      {
+        "file": "software-tools-for-sober-living-homes.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "software-tools-for-sober-living-homes.md",
+        "type": "markdown",
+        "line": 52
+      }
+    ],
+    "/images/blog/how-to-choose-a-sober-living-home-startup-consultant/Screen_Shot_2023-12-12_at_11.38.03_AM.png": [
+      {
+        "file": "how-to-choose-a-sober-living-home-startup-consultant.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "how-to-choose-a-sober-living-home-startup-consultant.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/medical-cannabis-maintenance-and-your-sober-living-home-friend-or-foe/Screen_Shot_2021-06-29_at_9.25.27_AM.png": [
+      {
+        "file": "medical-cannabis-maintenance-and-your-sober-living-home-friend-or-foe.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "medical-cannabis-maintenance-and-your-sober-living-home-friend-or-foe.md",
+        "type": "markdown",
+        "line": 45
+      }
+    ],
+    "/images/blog/opening-a-sober-living-home-in-new-hampshire/Screen_Shot_2023-01-24_at_5.31.23_PM.png": [
+      {
+        "file": "opening-a-sober-living-home-in-new-hampshire.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "opening-a-sober-living-home-in-new-hampshire.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/the-fastest-way-to-open-a-sober-living-home-in-arkansas/Screen_Shot_2022-12-28_at_6.35.46_PM.png": [
+      {
+        "file": "the-fastest-way-to-open-a-sober-living-home-in-arkansas.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "the-fastest-way-to-open-a-sober-living-home-in-arkansas.md",
+        "type": "markdown",
+        "line": 35
+      }
+    ],
+    "/images/blog/sober-living-home-regulation-and-certification-updates-for-narr-affiliates-in-kansas-mississippi-and-new-mexico/Screen_Shot_2024-12-04_at_7.40.48_PM.png": [
+      {
+        "file": "sober-living-home-regulation-and-certification-updates-for-narr-affiliates-in-kansas-mississippi-and-new-mexico.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "sober-living-home-regulation-and-certification-updates-for-narr-affiliates-in-kansas-mississippi-and-new-mexico.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/transitional-housing-software-complete-guide/hero.png": [
+      {
+        "file": "transitional-housing-software-complete-guide.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "transitional-housing-software-complete-guide.md",
+        "type": "markdown",
+        "line": 15
+      }
+    ],
+    "/images/blog/thinking-of-opening-a-sober-living-home-in-rhode-islandnbsp/Screen_Shot_2023-02-01_at_9.12.48_AM.png": [
+      {
+        "file": "thinking-of-opening-a-sober-living-home-in-rhode-island.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "thinking-of-opening-a-sober-living-home-in-rhode-island.md",
+        "type": "markdown",
+        "line": 51
+      }
+    ],
+    "/images/blog/how-to-write-an-awesome-good-neighbor-agreement-for-your-sober-living-home/Screen_Shot_2021-09-21_at_2.31.05_PM.png": [
+      {
+        "file": "how-to-write-an-awesome-good-neighbor-agreement-for-your-sober-living-home.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "how-to-write-an-awesome-good-neighbor-agreement-for-your-sober-living-home.md",
+        "type": "markdown",
+        "line": 99
+      }
+    ],
+    "/images/blog/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week/Screenshot_2020-04-16_at_10.30.58_AM.png": [
+      {
+        "file": "3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week.md",
+        "type": "markdown",
+        "line": 59
+      }
+    ],
+    "/images/blog/find-your-people-defining-your-ideal-sober-living-home-resident/wallet.png": [
+      {
+        "file": "find-your-people-defining-your-ideal-sober-living-home-resident.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "find-your-people-defining-your-ideal-sober-living-home-resident.md",
+        "type": "markdown",
+        "line": 57
+      }
+    ],
+    "/images/blog/mat-and-sober-living-deemed-more-compatible-than-ever-before/keep_out_sign.png": [
+      {
+        "file": "mat-and-sober-living-deemed-more-compatible-than-ever-before.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "mat-and-sober-living-deemed-more-compatible-than-ever-before.md",
+        "type": "markdown",
+        "line": 39
+      }
+    ],
+    "/images/blog/5-things-your-sober-living-home-manager-is-afraid-to-tell-you/Screenshot_2020-07-30_at_9.26.19_AM.png": [
+      {
+        "file": "5-things-your-sober-living-home-manager-is-afraid-to-tell-you.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "5-things-your-sober-living-home-manager-is-afraid-to-tell-you.md",
+        "type": "markdown",
+        "line": 65
+      }
+    ],
+    "/images/blog/3-types-of-sober-living-home-residents-you-need-to-stop-admitting/Screen_Shot_2021-03-29_at_9.09.25_AM.png": [
+      {
+        "file": "3-types-of-sober-living-home-residents-you-need-to-stop-admitting.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "3-types-of-sober-living-home-residents-you-need-to-stop-admitting.md",
+        "type": "markdown",
+        "line": 45
+      }
+    ],
+    "/images/blog/4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota/Screen_Shot_2023-02-12_at_1.56.24_PM.png": [
+      {
+        "file": "4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota.md",
+        "type": "markdown",
+        "line": 33
+      }
+    ],
+    "/images/blog/need-help-how-to-get-small-business-relief-for-your-sober-living-home-during-the-coronavirus-pandemic/Screenshot_2020-05-14_at_9.54.43_AM.png": [
+      {
+        "file": "need-help-how-to-get-small-business-relief-for-your-sober-living-home-during-the-coronavirus-pandemic.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "need-help-how-to-get-small-business-relief-for-your-sober-living-home-during-the-coronavirus-pandemic.md",
+        "type": "markdown",
+        "line": 61
+      }
+    ],
+    "/images/blog/how-to-turn-alumni-recovery-success-into-new-residents-for-your-sober-living-home/Screenshot_2020-06-10_at_9.48.14_AM.png": [
+      {
+        "file": "how-to-turn-alumni-recovery-success-into-new-residents-for-your-sober-living-home.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "how-to-turn-alumni-recovery-success-into-new-residents-for-your-sober-living-home.md",
+        "type": "markdown",
+        "line": 73
+      }
+    ],
+    "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island/Screen_Shot_2024-04-10_at_8.15.10_PM.png": [
+      {
+        "file": "opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island.md",
+        "type": "markdown",
+        "line": 63
+      }
+    ],
+    "/images/blog/how-to-open-a-sober-living-home-business-in-pennsylvania/Screen_Shot_2021-10-21_at_3.44.49_PM.png": [
+      {
+        "file": "how-to-open-a-sober-living-home-business-in-pennsylvania.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "how-to-open-a-sober-living-home-business-in-pennsylvania.md",
+        "type": "markdown",
+        "line": 41
+      }
+    ],
+    "/images/blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2/Screen_Shot_2021-08-11_at_5.27.26_PM.png": [
+      {
+        "file": "understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2.md",
+        "type": "markdown",
+        "line": 61
+      }
+    ],
+    "/images/blog/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review/Screenshot_2020-05-28_at_2.43.46_PM.png": [
+      {
+        "file": "what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review.md",
+        "type": "markdown",
+        "line": 47
+      }
+    ],
+    "/images/blog/how-to-make-your-sober-living-home-stand-out-from-the-crowd/runners_in_a_race.png": [
+      {
+        "file": "how-to-make-your-sober-living-home-stand-out-from-the-crowd.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "how-to-make-your-sober-living-home-stand-out-from-the-crowd.md",
+        "type": "markdown",
+        "line": 43
+      }
+    ],
+    "/images/blog/the-asam-criteria-4th-edition-what-recovery-residences-need-to-know/image-asset.jpeg": [
+      {
+        "file": "the-asam-criteria-4th-edition-what-recovery-residences-need-to-know.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "the-asam-criteria-4th-edition-what-recovery-residences-need-to-know.md",
+        "type": "markdown",
+        "line": 27
+      },
+      {
+        "file": "the-asam-criteria-4th-edition-what-recovery-residences-need-to-know.md",
+        "type": "markdown",
+        "line": 37
+      }
+    ],
+    "/images/blog/what-is-a-sober-living-home/image-asset.jpeg": [
+      {
+        "file": "what-is-a-sober-living-home.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "what-is-a-sober-living-home.md",
+        "type": "markdown",
+        "line": 29
+      }
+    ],
+    "/images/blog/sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-hawaii-new-hampshire-and-maine/Screen_Shot_2024-12-29_at_6.18.00_PM.png": [
+      {
+        "file": "sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-hawaii-new-hampshire-and-maine.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-hawaii-new-hampshire-and-maine.md",
+        "type": "markdown",
+        "line": 65
+      }
+    ],
+    "/images/blog/the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-1/Screen_Shot_2021-02-15_at_3.51.02_PM.png": [
+      {
+        "file": "the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-1.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-1.md",
+        "type": "markdown",
+        "line": 27
+      }
+    ],
+    "/images/blog/limited-time-offer-get-our-software-solution-for-sober-living-homes-for-free/Screenshot_2021-01-21_at_8.58.18_PM.png": [
+      {
+        "file": "limited-time-offer-get-our-software-solution-for-sober-living-homes-for-free.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "limited-time-offer-get-our-software-solution-for-sober-living-homes-for-free.md",
+        "type": "markdown",
+        "line": 85
+      }
+    ],
+    "/images/blog/nuisance-lawsuits-a-crash-course-for-sober-living-home-operators/Screen_Shot_2021-08-26_at_2.25.35_PM.png": [
+      {
+        "file": "nuisance-lawsuits-a-crash-course-for-sober-living-home-operators.md",
+        "type": "frontmatter",
+        "line": 9
+      },
+      {
+        "file": "nuisance-lawsuits-a-crash-course-for-sober-living-home-operators.md",
+        "type": "markdown",
+        "line": 79
+      }
+    ]
+  },
+  "most_used_images": [
+    [
+      "/images/blog/the-asam-criteria-4th-edition-what-recovery-residences-need-to-know/image-asset.jpeg",
+      3
+    ],
+    [
+      "/images/blog/faq-on-opening-a-sober-living-home-in-new-mexiconbsp/Screen_Shot_2023-01-10_at_3.58.46_PM.png",
+      2
+    ],
+    [
+      "/images/blog/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii/Screen_Shot_2023-01-22_at_6.37.22_PM.png",
+      2
+    ],
+    [
+      "/images/blog/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota/Screen_Shot_2023-02-08_at_7.16.42_PM.png",
+      2
+    ],
+    [
+      "/images/blog/asam-collaborates-with-narr-to-include-standards-for-sober-living-in-latest-asam-criteria-editionnbsp/Screen_Shot_2023-10-13_at_3.14.23_PM.png",
+      2
+    ],
+    [
+      "/images/blog/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically/Screen_Shot_2021-02-01_at_7.58.49_AM.png",
+      2
+    ],
+    [
+      "/images/blog/are-behavioral-health-peer-support-services-covered-in-california-texas-florida-new-york-and-pennsylvania-sober-living-homes-and-addiction-treatment-programsnbsp/Screen_Shot_2024-05-29_at_9.02.51_PM.png",
+      2
+    ],
+    [
+      "/images/blog/sober-living-home-startup-guide/recovery_residence_levels_of_support.png",
+      2
+    ],
+    [
+      "/images/blog/top-3-ways-to-support-a-healthy-organizational-culture-at-your-sober-living-home/Screenshot_2020-10-29_at_12.40.02_PM.png",
+      2
+    ],
+    [
+      "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-floridanbsp-ohio/Screen_Shot_2024-03-10_at_6.22.23_PM.png",
+      2
+    ],
+    [
+      "/images/blog/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp/Screenshot_2020-03-26_at_9.39.10_AM.png",
+      2
+    ],
+    [
+      "/images/blog/the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-2/Screen_Shot_2021-03-16_at_11.22.17_AM.png",
+      2
+    ],
+    [
+      "/images/blog/buprenorphine-suboxone-and-your-sober-living-home/Screen_Shot_2021-05-31_at_12.05.57_PM.png",
+      2
+    ],
+    [
+      "/images/blog/join-sober-living-app-at-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th/Screen_Shot_2023-10-05_at_8.52.35_PM.png",
+      2
+    ],
+    [
+      "/images/blog/mastering-admissions-at-your-sober-living-home/wallet.png",
+      2
+    ],
+    [
+      "/images/blog/sober-living-home-regulations-for-narr-affiliate-operators-in-montana-rhode-island-delaware-and-vermont/Screen_Shot_2024-12-29_at_6.32.45_PM.png",
+      2
+    ],
+    [
+      "/images/blog/5-things-all-of-the-best-sober-living-home-managers-have-in-common/life-862985_1280.jpg",
+      2
+    ],
+    [
+      "/images/blog/5-cool-ways-to-engage-your-sober-living-home-alumni/Screen_Shot_2021-07-14_at_1.48.19_PM.png",
+      2
+    ],
+    [
+      "/images/blog/halfway-house-management-software-guide/hero.png",
+      2
+    ],
+    [
+      "/images/blog/sober-living-management-software-complete-guide-2024/hero.png",
+      2
+    ]
+  ],
+  "posts_by_image_count": [
+    {
+      "file": "heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements/Screenshot_2020-06-25_at_8.31.56_AM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements/Screenshot_2020-06-25_at_8.24.17_AM.png",
+          "alt": "New resident agreements are the first tool towards creating a harmonious, well-run sober living home.",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements/Screenshot_2020-06-25_at_8.24.48_AM.png",
+          "alt": "Instead of just including rules, consider including resident rights, too. Your sober living home will function better when everyone understands that the rules are there to benefit them and assure that their freedom to pursue recovery is respected.",
+          "line": 41
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements/Screenshot_2020-06-25_at_8.25.21_AM.png",
+          "alt": "There will be disagreements and other interpersonal problems at your sober living home. How will you deal with it?",
+          "line": 55
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements/Screenshot_2020-06-25_at_8.26.19_AM.png",
+          "alt": "Follow your local laws when it comes to crafting a non-discrimination policy for your sober living home.",
+          "line": 61
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements/Screenshot_2020-06-25_at_8.28.22_AM.png",
+          "alt": "Your new resident agreement should include guidelines around emergency response. Have residents agree to them in advance.",
+          "line": 69
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements/Screenshot_2020-06-25_at_8.29.12_AM.png",
+          "alt": "More and more sober living homes are including provisions for a probationary period for new residents in their new resident agreements.",
+          "line": 77
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements/Screenshot_2020-06-25_at_8.30.46_AM.png",
+          "alt": "Let new residents know about your lockdown procedure in advance so they aren\u2019t surprised if they need to go into lockdown.",
+          "line": 93
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements/Screenshot_2020-06-25_at_8.31.56_AM.png",
+          "alt": "Deciding where to include all of these provisions - in your new resident agreement or your resident handbook - takes a little consideration and careful planning.",
+          "line": 101
+        }
+      ],
+      "image_count": 9
+    },
+    {
+      "file": "sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier/Screenshot_2020-10-01_at_11.59.57_AM.jpg",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier/Screenshot_2020-10-01_at_1.02.51_PM.png",
+          "alt": "Sober living app\u2019s new billing assistant is making getting paid even easier!",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier/Screenshot_2020-10-01_at_1.03.50_PM.png",
+          "alt": "Disorganized payment collection costs sober living homes time and money.",
+          "line": 37
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier/image-asset.png",
+          "alt": "Our new summer 2020 update is the billing game changer your sober living homes needs.",
+          "line": 57
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier/Screenshot_2020-10-01_at_11.59.46_AM.jpg",
+          "alt": "Sober Living App\u2019s service book feature helps you save time.",
+          "line": 69
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier/Screenshot_2020-10-01_at_1.08.48_PM.png",
+          "alt": "Remove the added strain of billing details from your sober living home manager.",
+          "line": 81
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier/Screenshot_2020-10-01_at_1.09.22_PM.png",
+          "alt": "Collect payment for one bill from multiple payers with ease at your sober living home.",
+          "line": 91
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier/Screenshot_2020-10-01_at_11.59.57_AM.jpg",
+          "alt": "Accept many types of payment with ease at your sober living home.",
+          "line": 97
+        }
+      ],
+      "image_count": 8
+    },
+    {
+      "file": "top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do/Screenshot_2021-06-10_18-56-24.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do/Screen_Shot_2021-06-09_at_8.46.20_PM.png",
+          "alt": "Maintenance is such an important part of running a successful sober living home - but it can also be the last item on your to-do list. Ignore maintenance tasks at your own risks!",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do/Screen_Shot_2021-06-09_at_8.40.59_PM.png",
+          "alt": "When was the last time you checked the smoke alarms at your sober living home? This is a frequently ignored maintenance task that\u2019s actually illegal to ignore.",
+          "line": 45
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do/Screen_Shot_2021-06-09_at_8.41.18_PM.png",
+          "alt": "Got water damage? Check to be sure that the caulking in the bathroom of your sober living home is in tip to condition next time you are doing a maintenance round.",
+          "line": 53
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do/Screen_Shot_2021-06-09_at_8.41.34_PM.png",
+          "alt": "Your sober living home residents aren\u2019t going to be very happy if the HVAC gives out on a hot summer day or in the middle of a harsh winter. Perform maintenance on your sober living home\u2019s HVAC unit before it becomes an emergency.",
+          "line": 61
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do/Screen_Shot_2021-06-09_at_8.42.11_PM.png",
+          "alt": "Keeping the gutters clean on the exterior of your sober living home is especially important in climates where heavy rain or snow are commonplace.",
+          "line": 69
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do/Screen_Shot_2021-06-09_at_8.42.45_PM.png",
+          "alt": "Have you ever flushed the water heater at your sober living home? This maintenance task is probably the number one most overlooked item on our list.",
+          "line": 81
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do/Screenshot_2021-06-10_18-56-24.png",
+          "alt": "Screenshot_2021-06-10_18-56-24.png",
+          "line": 97
+        }
+      ],
+      "image_count": 8
+    },
+    {
+      "file": "faq-on-opening-a-sober-living-home-in-new-mexico.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/faq-on-opening-a-sober-living-home-in-new-mexiconbsp/Screen_Shot_2023-01-10_at_3.58.46_PM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-on-opening-a-sober-living-home-in-new-mexiconbsp/Screen_Shot_2023-01-10_at_3.58.46_PM.png",
+          "alt": "sober living home New Mexico no license or certification required no regulations",
+          "line": 23
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-on-opening-a-sober-living-home-in-new-mexiconbsp/Screen_Shot_2023-01-09_at_10.15.24_AM.png",
+          "alt": "recovery housing program grants sober living home new mexico funding",
+          "line": 31
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-on-opening-a-sober-living-home-in-new-mexiconbsp/Screen_Shot_2023-01-10_at_3.56.16_PM.png",
+          "alt": "new mexico has no regulations for sober living homes recovery residences halfway houses",
+          "line": 39
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-on-opening-a-sober-living-home-in-new-mexiconbsp/Screen_Shot_2023-01-10_at_3.57.02_PM.png",
+          "alt": "sober living homes are not considered health facilities in New Mexico",
+          "line": 49
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-on-opening-a-sober-living-home-in-new-mexiconbsp/Screen_Shot_2023-01-10_at_3.57.25_PM.png",
+          "alt": "recovery housing program notice of funding availability housing new mexico sober living home grants",
+          "line": 55
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-on-opening-a-sober-living-home-in-new-mexiconbsp/Screen_Shot_2023-01-09_at_10.13.47_AM.png",
+          "alt": "National Association for Recovery Residences sober living home new mexico no state affiliate",
+          "line": 61
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota/Screen_Shot_2023-02-08_at_7.16.42_PM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota/Screen_Shot_2023-02-08_at_7.17.11_PM.png",
+          "alt": "South Dakota sober living home how to open",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota/Screen_Shot_2023-02-08_at_6.24.07_PM.png",
+          "alt": "south dakota sober living home recovery residence meth methamphetamines opioids",
+          "line": 33
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota/Screen_Shot_2023-02-08_at_7.13.24_PM.png",
+          "alt": "South Dakota recovery residence regulation sober living demand",
+          "line": 43
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota/Screen_Shot_2023-02-08_at_6.15.54_PM.png",
+          "alt": "south dakota sober living home recovery residence regulation house bill 1161 HB1161",
+          "line": 51
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota/Screen_Shot_2023-02-08_at_7.14.38_PM.png",
+          "alt": "South Dakota sober living 24/7 sobriety program recovery residence attorney general how to",
+          "line": 61
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota/Screen_Shot_2023-02-08_at_7.16.42_PM.png",
+          "alt": "South Dakota sober living home recovery residence addiction treatment how to open",
+          "line": 67
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "5-ways-coronavirus-is-changing-the-sober-living-industry.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp/Screenshot_2020-03-26_at_9.39.10_AM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp/Screenshot_2020-03-26_at_9.38.09_AM.png",
+          "alt": "COVID 19 is changing everything about our world - including the sober living industry.",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp/Screenshot_2020-03-26_at_9.39.10_AM.png",
+          "alt": "It\u2019s wise to be cautious about new admits during a pandemic. Each sober living home is handling this situation differently.",
+          "line": 39
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp/Screenshot_2020-03-26_at_9.37.34_AM.png",
+          "alt": "It\u2019s never been more important to keep a clean sober living home.",
+          "line": 47
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp/Screenshot_2020-03-26_at_9.39.34_AM.png",
+          "alt": "Re-arranging the living space to accommodate quarantine requirements is putting a strain on sober living homes everywhere.",
+          "line": 57
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp/Screenshot_2020-03-26_at_9.42.00_AM.png",
+          "alt": "As social distancing becomes more and more important, visits and meetings are cancelled. Sober living homes are impacted more than other organizations.",
+          "line": 67
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp/Screenshot_2020-03-26_at_9.43.54_AM.png",
+          "alt": "MAT \\(Medication Assisted Treatment\\) patients are experiencing huge changes in the way their treatment works during the pandemic. Keeping up with the changes is an important part of responsible sober living home management.",
+          "line": 75
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "5-things-all-of-the-best-sober-living-home-managers-have-in-common.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/5-things-all-of-the-best-sober-living-home-managers-have-in-common/life-862985_1280.jpg",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-things-all-of-the-best-sober-living-home-managers-have-in-common/life-862985_1280.jpg",
+          "alt": "Your sober living home is only as good as it\u2019s manager.",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-things-all-of-the-best-sober-living-home-managers-have-in-common/student-865073_1280.jpg",
+          "alt": "The devil is in the details for the sober living home manager.",
+          "line": 37
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-things-all-of-the-best-sober-living-home-managers-have-in-common/ethics-2991600_1280.jpg",
+          "alt": "Good sober living home management requires a strong sense of boundaries and rules.",
+          "line": 47
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-things-all-of-the-best-sober-living-home-managers-have-in-common/girl-1578305_1280.jpg",
+          "alt": "Sober living managers need to respond to problems before they become huge issues.",
+          "line": 57
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-things-all-of-the-best-sober-living-home-managers-have-in-common/phone-3594206_1280.jpg",
+          "alt": "Sober living home management is not just facility management, it\u2019s also people management. Good communication is essential.",
+          "line": 65
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-things-all-of-the-best-sober-living-home-managers-have-in-common/laptop-3196481_1280.jpg",
+          "alt": "When good sober living home managers are in doubt, they write it down.",
+          "line": 73
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "5-cool-ways-to-engage-your-sober-living-home-alumni.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/5-cool-ways-to-engage-your-sober-living-home-alumni/Screen_Shot_2021-07-14_at_1.48.19_PM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-cool-ways-to-engage-your-sober-living-home-alumni/Screen_Shot_2021-07-14_at_1.48.19_PM.png",
+          "alt": "Sober living alumni are the real MVP of your sober living home, but do you know how to engage them?",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-cool-ways-to-engage-your-sober-living-home-alumni/Screen_Shot_2021-07-14_at_1.40.16_PM.png",
+          "alt": "Getting your sober living home alumni to give you reviews and testimonials is simple and the benefits are huge.",
+          "line": 41
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-cool-ways-to-engage-your-sober-living-home-alumni/Screen_Shot_2021-07-14_at_1.42.45_PM.png",
+          "alt": "Alumni gatherings, BBQs, picnics and other yearly events for sober living home alumni can be powerful community builders.",
+          "line": 55
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-cool-ways-to-engage-your-sober-living-home-alumni/Screen_Shot_2021-07-14_at_1.43.19_PM.png",
+          "alt": "Volunteering or doing charity work with your alumni in a group is another powerful way to bring sober living home alumni together with a sense of purpose and identity.",
+          "line": 65
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-cool-ways-to-engage-your-sober-living-home-alumni/Screen_Shot_2021-07-14_at_12.49.22_PM.png",
+          "alt": "Check-in calls are a great time to gather outcomes data for your sober living home, certainly, but they also give you an opportunity to offer more care as needed if your alumni is showing signs of relapse.",
+          "line": 75
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-cool-ways-to-engage-your-sober-living-home-alumni/Screen_Shot_2021-07-14_at_1.45.37_PM.png",
+          "alt": "When you need work done at your sober living home, considering hiring from your alumni network.",
+          "line": 85
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "faq-about-opening-a-sober-living-home-in-delaware.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/faq-about-opening-a-sober-living-home-in-delaware/Screen_Shot_2023-02-07_at_11.12.44_AM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-about-opening-a-sober-living-home-in-delaware/Screen_Shot_2023-02-07_at_11.14.53_AM.png",
+          "alt": "sober living home Delaware how to open",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-about-opening-a-sober-living-home-in-delaware/Screen_Shot_2023-02-07_at_11.15.12_AM.png",
+          "alt": "sober living home certification licensing regulations how",
+          "line": 33
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-about-opening-a-sober-living-home-in-delaware/Screen_Shot_2023-02-07_at_10.23.45_AM.png",
+          "alt": "delaware NARR national association of recovery residences affiliate",
+          "line": 41
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-about-opening-a-sober-living-home-in-delaware/Screen_Shot_2023-02-07_at_11.11.31_AM.png",
+          "alt": "Delaware sober living home legislation laws regulation rules",
+          "line": 49
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-about-opening-a-sober-living-home-in-delaware/Screen_Shot_2023-02-07_at_11.12.44_AM.png",
+          "alt": "Delaware sober living home demand number of list overdose",
+          "line": 61
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-about-opening-a-sober-living-home-in-delaware/Screen_Shot_2023-02-07_at_11.12.08_AM.png",
+          "alt": "Delaware division of substance abuse and mental health DHSS sober living home certifications",
+          "line": 69
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "everything-you-need-to-know-about-opening-a-sober-living-home-in-vermont.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp/Screen_Shot_2023-02-20_at_5.52.10_PM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp/Screen_Shot_2023-02-26_at_7.20.45_PM.png",
+          "alt": "sober living home vermont how to open regulations certification laws rules recovery residence",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp/Screen_Shot_2023-02-26_at_7.20.54_PM.png",
+          "alt": "shortage of sober living homes vermont demand shutdown homelessness",
+          "line": 31
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp/Screen_Shot_2023-02-26_at_7.21.04_PM.png",
+          "alt": "vermont recovery housing program action plan 2021 grant sober living home funding",
+          "line": 37
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp/Screen_Shot_2023-02-20_at_5.52.10_PM.png",
+          "alt": "recovery residences in Vermont sober living home map directory existing",
+          "line": 43
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp/Screen_Shot_2023-02-20_at_5.29.05_PM.png",
+          "alt": "sober living home Vermont relapse alliance for recovery residences certification voluntary",
+          "line": 57
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp/Screen_Shot_2023-02-20_at_5.26.36_PM.png",
+          "alt": "sober living home vermont opioid crisis certification regulation how to",
+          "line": 63
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "5-new-years-resolutions-for-optimizing-your-sober-living-home.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp/fireworks.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp/fireworks.png",
+          "alt": "The New Year is a great time to reevaluate and fine tune systems at your sober living home.",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp/wallet.png",
+          "alt": "Making payments should be easy for your sober living home residents.",
+          "line": 35
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp/whiteboard.png",
+          "alt": "Bed management tracking needs to be nimble and always up-to-date to give your team the tools they need to accurately respond to incoming admissions requests at your sober living home home.",
+          "line": 43
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp/oil_change.png",
+          "alt": "Routine maintenance on your sober living home vehicles is a small investment with big returns.",
+          "line": 53
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp/handshake.png",
+          "alt": "Tracking your referrals makes referral partner programs easier and more effective to manage for your sober living home.",
+          "line": 63
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp/stacks_of_paper.png",
+          "alt": "There is no reason to still be using paper for your sober living home records in 2020.",
+          "line": 73
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "faq-about-how-to-open-an-sober-living-home-in-maine.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/faq-about-how-to-open-an-sober-living-home-in-maine/Screen_Shot_2023-01-15_at_5.04.52_PM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-about-how-to-open-an-sober-living-home-in-maine/Screen_Shot_2023-01-15_at_5.04.52_PM.png",
+          "alt": "sober living home licensing certification how to open Maine",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-about-how-to-open-an-sober-living-home-in-maine/Screen_Shot_2023-01-15_at_5.04.30_PM.png",
+          "alt": "Narcan sober living home requirements maine legislation regulations",
+          "line": 39
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-about-how-to-open-an-sober-living-home-in-maine/Screen_Shot_2023-01-15_at_4.22.09_PM.png",
+          "alt": "sober living home recovery residence grants Maine funding startup costs money",
+          "line": 45
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-about-how-to-open-an-sober-living-home-in-maine/Screen_Shot_2023-01-15_at_5.05.08_PM.png",
+          "alt": "sober living home demand business plan maine recovery residence",
+          "line": 53
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-about-how-to-open-an-sober-living-home-in-maine/Screen_Shot_2023-01-15_at_4.29.13_PM.png",
+          "alt": "NARR MARR Maine sober living home advocacy certification regulation",
+          "line": 59
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/faq-about-how-to-open-an-sober-living-home-in-maine/Screen_Shot_2023-01-15_at_4.29.35_PM.png",
+          "alt": "opening a sober living home in Maine with MARR certification",
+          "line": 67
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "how-to-open-a-sober-living-home-in-mississippi.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/how-to-open-a-sober-living-home-in-mississippi/Screen_Shot_2023-01-03_at_5.07.28_PM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/how-to-open-a-sober-living-home-in-mississippi/Screen_Shot_2023-01-03_at_5.14.53_PM.png",
+          "alt": "mississippi sober living home opening certification",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/how-to-open-a-sober-living-home-in-mississippi/Screen_Shot_2023-01-03_at_5.10.25_PM.png",
+          "alt": "addiction treatment sober living mississippi regulations licensing certification laws",
+          "line": 35
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/how-to-open-a-sober-living-home-in-mississippi/Screen_Shot_2023-01-03_at_5.07.43_PM.png",
+          "alt": "sober living homes recovery housing mississippi inspections regulations",
+          "line": 55
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/how-to-open-a-sober-living-home-in-mississippi/Screen_Shot_2023-01-03_at_5.07.28_PM.png",
+          "alt": "chemical dependency units personal care homes mississippi sober living home recovery residence laws",
+          "line": 71
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/how-to-open-a-sober-living-home-in-mississippi/Screen_Shot_2023-01-03_at_5.08.56_PM.png",
+          "alt": "NIMBY sober living home mississippi jackson oxford house",
+          "line": 81
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/how-to-open-a-sober-living-home-in-mississippi/Screen_Shot_2023-01-03_at_4.13.28_PM.png",
+          "alt": "sober living home recovery residence mississippi national association affiliate",
+          "line": 89
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "5-best-apps-and-software-for-your-sober-living-house.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/5-best-apps-and-software-for-your-sober-living-house/computer_keyboard.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-best-apps-and-software-for-your-sober-living-house/computer_keyboard.png",
+          "alt": "Managing a sober living house is easier with the right apps and software.",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-best-apps-and-software-for-your-sober-living-house/behavehealth_dashboard.png",
+          "alt": "The Sober Living App is one of the most useful pieces of software you\u2019ll want in your toolbox for your sober living house.",
+          "line": 35
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-best-apps-and-software-for-your-sober-living-house/sobergrid_dashboard.png",
+          "alt": "SoberGrid is one of the most popular apps for sober living homes.",
+          "line": 55
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-best-apps-and-software-for-your-sober-living-house/quit_that_dashboard.png",
+          "alt": "Quit That is a simple app that packs a big punch for a sober lifestyle.",
+          "line": 65
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-best-apps-and-software-for-your-sober-living-house/mailchimp_dashboard.png",
+          "alt": "Use Mailchimp to manage all of your sober living home\u2019s marketing campaigns.",
+          "line": 73
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-best-apps-and-software-for-your-sober-living-house/hootsuite_dashboard.png",
+          "alt": "Hootsuite helps organize your sober living home\u2019s social media campaigns.",
+          "line": 85
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "opening-a-sober-living-home-in-new-hampshire.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/opening-a-sober-living-home-in-new-hampshire/Screen_Shot_2023-01-24_at_5.31.23_PM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/opening-a-sober-living-home-in-new-hampshire/Screen_Shot_2023-01-24_at_5.31.23_PM.png",
+          "alt": "new hampshire sober living home how to open",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/opening-a-sober-living-home-in-new-hampshire/Screen_Shot_2023-01-24_at_4.34.37_PM.png",
+          "alt": "New Hampshire coalition of recovery residences state certification sober living",
+          "line": 31
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/opening-a-sober-living-home-in-new-hampshire/Screen_Shot_2023-01-24_at_5.26.44_PM.png",
+          "alt": "sober living home voluntary registry regulation new hampshire how to register",
+          "line": 37
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/opening-a-sober-living-home-in-new-hampshire/Screen_Shot_2023-01-24_at_5.28.00_PM.png",
+          "alt": "NHCORR new hampshire sober living home application certification log in",
+          "line": 47
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/opening-a-sober-living-home-in-new-hampshire/Screen_Shot_2023-01-24_at_5.29.55_PM.png",
+          "alt": "new hampshire DHHS health and human services sober living home registration list",
+          "line": 53
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/opening-a-sober-living-home-in-new-hampshire/Screen_Shot_2023-01-24_at_5.14.06_PM.png",
+          "alt": "new hampshire sober living home voluntary house registry certification",
+          "line": 69
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "5-things-your-sober-living-home-manager-is-afraid-to-tell-you.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/5-things-your-sober-living-home-manager-is-afraid-to-tell-you/Screenshot_2020-07-30_at_9.26.19_AM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-things-your-sober-living-home-manager-is-afraid-to-tell-you/Screenshot_2020-07-30_at_9.21.51_AM.png",
+          "alt": "Your sober living home\u2019s success hinges on the candor of your sober living home manager. But what are they afraid to tell you?",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-things-your-sober-living-home-manager-is-afraid-to-tell-you/Screenshot_2020-07-30_at_9.24.33_AM.png",
+          "alt": "NIMBYs are a big deal for sober living home managers. They might be afraid to tell you how bad the neighbor relationship has become.",
+          "line": 39
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-things-your-sober-living-home-manager-is-afraid-to-tell-you/Screenshot_2020-07-30_at_9.22.53_AM.png",
+          "alt": "Burnout is real for sober living home mangers. Identify the signs early on so you can head them off at the pass.",
+          "line": 47
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-things-your-sober-living-home-manager-is-afraid-to-tell-you/Screenshot_2020-07-30_at_9.32.37_AM.png",
+          "alt": "Is your sober living home being maintained? Only your sober living home manager knows.",
+          "line": 55
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-things-your-sober-living-home-manager-is-afraid-to-tell-you/Screenshot_2020-07-30_at_9.26.19_AM.png",
+          "alt": "How\u2019s the car doing? Your sober living home manager might be falling behind on oil changes and afraid to confess.",
+          "line": 65
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/5-things-your-sober-living-home-manager-is-afraid-to-tell-you/Screenshot_2020-07-30_at_9.23.32_AM.png",
+          "alt": "Managing sober living homes is hard. Managing the manager is even harder.",
+          "line": 73
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island/Screen_Shot_2024-04-10_at_8.15.10_PM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island/Screen_Shot_2024-04-10_at_8.14.24_PM.png",
+          "alt": "hawaii maine montana new hampshire rhode island opioid settlement money funding grants sober living",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island/Screen_Shot_2024-04-10_at_8.14.34_PM.png",
+          "alt": "maine recovery council grant money sober living home recovery residence opioid settlement news",
+          "line": 39
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island/Screen_Shot_2024-04-10_at_8.14.42_PM.png",
+          "alt": "montana active grant portal sober living home opioid settlement funding grant",
+          "line": 49
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island/Screen_Shot_2024-04-10_at_8.14.57_PM.png",
+          "alt": "new hampshire sober living grant money opioid settlement funding startup cash",
+          "line": 57
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island/Screen_Shot_2024-04-10_at_8.15.10_PM.png",
+          "alt": "rhode island new hampshire sober living home opioid settlement money grant funding cycle startup",
+          "line": 63
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island/Screen_Shot_2024-04-10_at_8.15.22_PM.png",
+          "alt": "rhode island opioid settlement money funding grant application sober living home",
+          "line": 73
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review/Screenshot_2020-05-28_at_2.43.46_PM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review/Screenshot_2020-05-28_at_2.43.19_PM.png",
+          "alt": "Your sober living home manager is the VIP of your sober living home operation. What happens if they get sick?",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review/Screenshot_2020-05-28_at_2.42.51_PM.png",
+          "alt": "Hand washing. Surface disinfection. Social distancing. Make sure your sober living home is covering the coronavirus prevention basics.",
+          "line": 37
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review/Screenshot_2020-05-28_at_2.43.46_PM.png",
+          "alt": "Make a list of your sober living home manager\u2019s duties so you\u2019ll know what needs to be done during COVID-19.",
+          "line": 47
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review/Screenshot_2020-05-28_at_2.44.09_PM.png",
+          "alt": "Make a plan for elegating your sober living home manager\u2019s duties using the list you\u2019ve created.",
+          "line": 55
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review/Screenshot_2020-05-28_at_2.44.46_PM.png",
+          "alt": "The inner-workings of your sober living home fit together like a puzzle. It\u2019s your job to organize the pieces so your sober living home managers\u2019 temporary replacement can pick up where they leave off in case of emergency.",
+          "line": 65
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review/Screenshot_2020-05-28_at_2.51.08_PM.png",
+          "alt": "Now that you\u2019ve got a plan, share it with your residents. Get them used to the idea of the temporary arrangement before it needs to be implemented to ensure a smooth transition to the contingency plan should it be activated.",
+          "line": 75
+        }
+      ],
+      "image_count": 7
+    },
+    {
+      "file": "everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii/Screen_Shot_2023-01-22_at_6.37.22_PM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii/Screen_Shot_2023-01-22_at_7.33.18_PM.png",
+          "alt": "sober living home how to open Hawaii license registration regulations law",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii/Screen_Shot_2023-01-22_at_6.35.30_PM.png",
+          "alt": "",
+          "line": 35
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii/Screen_Shot_2023-01-22_at_6.37.22_PM.png",
+          "alt": "Hawaii clean and sober home registry how to be entered",
+          "line": 43
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii/Screen_Shot_2023-01-22_at_6.36.15_PM.png",
+          "alt": "registry on the state list sober living home hawaii required for referrals",
+          "line": 75
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii/Screen_Shot_2023-01-22_at_7.32.16_PM.png",
+          "alt": "expensive housing market rental sober living home hawaii pros and cons opening",
+          "line": 81
+        }
+      ],
+      "image_count": 6
+    },
+    {
+      "file": "got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically.md",
+      "images": [
+        {
+          "type": "frontmatter",
+          "path": "/images/blog/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically/Screen_Shot_2021-02-01_at_7.58.49_AM.png",
+          "line": 9
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically/Screen_Shot_2021-02-01_at_7.58.35_AM.png",
+          "alt": "Bed management is vital to a profitable sober living home business. Advertising open beds isn\u2019t always in the budget - until now. Introducing the bed availability widget from Sober Living App.",
+          "line": 27
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically/Screen_Shot_2021-02-01_at_7.58.49_AM.png",
+          "alt": "If you\u2019ve got open beds at your sober living home, let people know with the bed availability widget, powered by Behave Health.",
+          "line": 49
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically/Screen_Shot_2021-02-01_at_7.59.06_AM.png",
+          "alt": "The bed availability widget is easy to install on any website with a simple copy and paste job. Automatically display bed information on any website.",
+          "line": 69
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically/Screen_Shot_2021-02-01_at_7.59.16_AM.png",
+          "alt": "Customize the bed availability widget to work for your sober living home\u2019s bed profile. You control how much bed availability information to share.",
+          "line": 79
+        },
+        {
+          "type": "markdown",
+          "path": "/images/blog/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically/Screen_Shot_2021-02-01_at_7.59.24_AM.png",
+          "alt": "At Sober Living App, we have a host of bed management tools for sober living home operators like you to track check-in and check-out times so you can leverage openings during the admissions process and minimize inefficient scheduling errors.",
+          "line": 97
+        }
+      ],
+      "image_count": 6
+    }
+  ]
+}
