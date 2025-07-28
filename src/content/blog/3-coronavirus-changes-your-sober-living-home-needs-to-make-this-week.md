@@ -62,7 +62,7 @@ Don’t be caught without a plan if one of your residents or staff members devel
 
 You need to make a plan to isolate any residents that become sick. Consider what will happen, too, if your [sober living home manager](https://soberlivingapp.com/sober-living-app-blog/2020/3/3/5-things-all-of-the-best-sober-living-home-managers-have-in-common) begins developing symptoms. Who can take over essential tasks for them? What systems can you put in place now to minimize the impact of their illness on the rest of the sober living home? 
 
-The good news is you don’t have to reinvent the wheel here. Other sober living homes have already dealt with these realities and they’ve generously shared the protocols they’ve developed for [dealing with COVID-19 in a sober living home setting](https://drive.google.com/file/d/1pvZesz3gnOIKws5mjYiQjjlIQkvx2uu2/view). Review their protocols and see what makes sense at your sober living home. Make changes as necessary and commit your plan to writing. Share your plan with residents and staff members ASAP so if you need to implement the plan it doesn’t come as a surprise to anyone.  
+The good news is you don’t have to reinvent the wheel here. Other sober living homes have already dealt with these realities and they’ve generously shared the protocols they’ve developed for [dealing with COVID-19 in a sober living home setting](https://drive.google.com/file/d/1pvZesz3gnOIKws5mjYiQjjlIQkvx2uu2/view). Review their protocols and see what makes sense at your sober living home. Make changes as necessary and commit your plan to writing. Share your plan with residents and staff members ASAP so if you need to implement the plan it doesn’t come as a surprise to anyone. 
 
 ## Staying Organized Is More Important Than Ever Before 
 

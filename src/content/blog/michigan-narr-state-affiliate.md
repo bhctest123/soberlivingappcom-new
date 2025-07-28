@@ -18,19 +18,19 @@ Value Proposition: This blog will offer entrepreneurs, facility owners, healthca
 
 ## Table of Contents
 
-  1. Michigan NARR State Affiliate Overview
+ 1. Michigan NARR State Affiliate Overview
 
-  2. Components and Requirements
+ 2. Components and Requirements
 
-  3. Impact on Healthcare Delivery
+ 3. Impact on Healthcare Delivery
 
-  4. Best Practices for Affiliates
+ 4. Best Practices for Affiliates
 
-  5. Compliance and Regulation
+ 5. Compliance and Regulation
 
-  6. Future Trends and Updates
+ 6. Future Trends and Updates
 
-  7. Conclusion
+ 7. Conclusion
 
 Disclaimer: This article is for educational purposes only and does not constitute legal or financial advice. Always consult with a professional before making business decisions. 
 
@@ -40,8 +40,8 @@ Disclaimer: This article is for educational purposes only and does not constitut
 
 The National Alliance for Recovery Residences (NARR) is a nonprofit organization that sets national standards for recovery housing across the United States. The Michigan Association of Recovery Residences (MARR) is the state’s NARR affiliate responsible for certifying recovery homes to ensure they meet these standards. MARR plays a critical role in maintaining the quality and safety of sober living environments throughout Michigan.
 
-  
-  
+ 
+ 
 
 In 2023, MARR has seen increased demand for certified recovery residences as Michigan continues to address its opioid crisis. The organization ensures that sober homes provide structured environments that promote long-term sobriety by adhering to NARR’s guidelines [[https://michiganarr.com](<https://michiganarr.com/>)].
 
@@ -67,13 +67,13 @@ MARR-certified homes are an essential part of Michigan’s healthcare system, pr
 
 The certification process through MARR involves several key steps designed to ensure that sober homes meet national standards:
 
-  1. Application Submission: Operators must submit detailed documentation outlining their policies, governance structure, resident rights information, and more.
+ 1. Application Submission: Operators must submit detailed documentation outlining their policies, governance structure, resident rights information, and more.
 
-  2. On-Site Inspection: MARR conducts an on-site inspection to verify compliance with safety standards.
+ 2. On-Site Inspection: MARR conducts an on-site inspection to verify compliance with safety standards.
 
-  3. Annual Renewal: Certified homes must undergo yearly inspections to maintain their certification status.
+ 3. Annual Renewal: Certified homes must undergo yearly inspections to maintain their certification status.
 
-  4. Training & Support: Operators are required to attend regular training sessions provided by MARR [[Updates](<https://michiganarr.com/updates>)].
+ 4. Training & Support: Operators are required to attend regular training sessions provided by MARR [[Updates](<https://michiganarr.com/updates>)].
 
 ## Common Pitfalls and How to Avoid Them
 
@@ -105,27 +105,27 @@ Insurance companies often prefer referring clients to certified sober homes beca
 
 ## Step-by-Step Guide for Affiliates
 
-  1. Understand NARR Standards: Familiarize yourself with the national standards set by NARR.
+ 1. Understand NARR Standards: Familiarize yourself with the national standards set by NARR.
 
-  2. Prepare Documentation: Ensure all legal documents (e.g., business licenses) are up-to-date.
+ 2. Prepare Documentation: Ensure all legal documents (e.g., business licenses) are up-to-date.
 
-  3. Engage Residents: Foster a community-focused environment where residents actively participate in their recovery.
+ 3. Engage Residents: Foster a community-focused environment where residents actively participate in their recovery.
 
-  4. Schedule Regular Inspections: Stay ahead by scheduling internal audits before your annual inspection.
+ 4. Schedule Regular Inspections: Stay ahead by scheduling internal audits before your annual inspection.
 
-  5. Leverage Technology: Use software like BehaveHealth’s platform to manage billing, documentation, and compliance efficiently [[https://behavehealth.com](<https://behavehealth.com/>)].
+ 5. Leverage Technology: Use software like BehaveHealth’s platform to manage billing, documentation, and compliance efficiently [[https://behavehealth.com](<https://behavehealth.com/>)].
 
 ## Expert Tips for Success
 
-  1. Stay Informed About Policy Changes: Keep up with changes in state regulations affecting sober homes.
+ 1. Stay Informed About Policy Changes: Keep up with changes in state regulations affecting sober homes.
 
-  2. Invest in Staff Training: Regularly train staff on best practices in addiction recovery support.
+ 2. Invest in Staff Training: Regularly train staff on best practices in addiction recovery support.
 
-  3. Create a Safe Environment: Ensure all appliances are functional and emergency procedures are posted.
+ 3. Create a Safe Environment: Ensure all appliances are functional and emergency procedures are posted.
 
-  4. Promote Peer Support Programs: Encourage residents to participate in peer-led meetings.
+ 4. Promote Peer Support Programs: Encourage residents to participate in peer-led meetings.
 
-  5. Utilize Data Analytics: Track resident outcomes using data-driven methods available through platforms like BehaveHealth’s EMR system [[https://behavehealth.com](<https://behavehealth.com/>)].
+ 5. Utilize Data Analytics: Track resident outcomes using data-driven methods available through platforms like BehaveHealth’s EMR system [[https://behavehealth.com](<https://behavehealth.com/>)].
 
 ## Compliance and Regulation
 
@@ -151,37 +151,37 @@ Failing to comply with these regulations can result in legal action or loss of c
 
 ## 10-Point Compliance Checklist:
 
-  1. Ensure all staff are trained on HIPAA compliance.
+ 1. Ensure all staff are trained on HIPAA compliance.
 
-  2. Post emergency procedures prominently throughout the residence.
+ 2. Post emergency procedures prominently throughout the residence.
 
-  3. Verify that naloxone is available at each location.
+ 3. Verify that naloxone is available at each location.
 
-  4. Maintain up-to-date liability insurance.
+ 4. Maintain up-to-date liability insurance.
 
-  5. Conduct annual inspections as required by MARR.
+ 5. Conduct annual inspections as required by MARR.
 
-  6. Ensure appliances are safe and functional.
+ 6. Ensure appliances are safe and functional.
 
-  7. Provide residents with written agreements outlining fees.
+ 7. Provide residents with written agreements outlining fees.
 
-  8. Adhere strictly to nondiscriminatory practices.
+ 8. Adhere strictly to nondiscriminatory practices.
 
-  9. Document all resident financial transactions accurately.
+ 9. Document all resident financial transactions accurately.
 
-  10. Attend mandatory training sessions provided by MARR.
+ 10. Attend mandatory training sessions provided by MARR.
 
 ## Future Trends and Updates
 
 As demand for recovery housing continues to grow due to rising addiction rates, several trends are likely to shape the future of Michigan’s NARR-certified homes:
 
-  1. Increased Integration with Healthcare Systems:  
+ 1. Increased Integration with Healthcare Systems: 
 Expect more partnerships between healthcare providers and certified sober homes as part of integrated care models.
 
-  2. Technology Adoption:  
+ 2. Technology Adoption: 
 More operators will adopt software solutions like BehaveHealth’s platform to streamline operations—especially billing management—as Medicaid expands coverage for addiction treatment services [[Join Behave Health at the the 2023 NARR Conference in Dearborn Michigan Oct 9th - 11th](<https://behavehealth.com/blog/2023/10/9/join-behave-health-at-the-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th>)]
 
-  3. Policy Changes:  
+ 3. Policy Changes: 
 New legislation may further formalize certification processes or expand funding opportunities for certified homes.
 
 BehaveHealth.com stays current with industry changes by attending conferences like the annual NARR conference where experts discuss best practices in recovery housing.

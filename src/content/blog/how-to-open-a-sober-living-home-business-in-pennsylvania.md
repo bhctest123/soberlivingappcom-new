@@ -28,7 +28,7 @@ Ben Weiss
 
 We’ve been waiting for Pennsylvania to finalize it’s “halfway house” regulations for quite some time. Today, those regulations were signed into law. 
 
-You can review the [final regulation](http://www.irrc.state.pa.us/docs/3294/AGENCY/3294FO.pdf) and some of the[ major reactions to the legislation in the sober living community](http://www.irrc.state.pa.us/regulations/fullList.cfm?ID=3305&typ=fpc) here. 
+You can review the [final regulation](http://www.irrc.state.pa.us/docs/3294/AGENCY/3294FO.pdf) and some of the[ major reactions to the legislation in the sober living community](http://www.irrc.state.pa.us/regulations/fullList.cfm? ID=3305&typ=fpc) here. 
 
 The big takeaways? 
 
@@ -46,17 +46,17 @@ According to the Pennsylvania Department of Drug and Alcohol Programs (DDAP), on
 
 _DDAP will require drug and alcohol recovery houses to get a license if they:_
 
-  1. _Want to receive referrals from state agencies or state-funded facilities, or_
+ 1. _Want to receive referrals from state agencies or state-funded facilities, or_
 
-  2.  _Want to receive federal or state funding to deliver recovery house services._
+ 2. _Want to receive federal or state funding to deliver recovery house services._
 
 _In addition, the_[ _law_](https://www.legis.state.pa.us/cfdocs/legis/li/uconsCheck.cfm?yr=2017&sessInd=0&act=59) _imposes two additional requirements on referrals to recovery houses:_
 
-  1. _persons whose treatment is funded with state or federal funds shall only be referred to licensed recovery houses._
+ 1. _persons whose treatment is funded with state or federal funds shall only be referred to licensed recovery houses._
 
-  2. _courts shall give first consideration to licensed recovery houses when residential recommendations are made for individuals under their supervision.   _
+ 2. _courts shall give first consideration to licensed recovery houses when residential recommendations are made for individuals under their supervision. _
 
-Essentially, Pennsylvania has made good on it’s promise to go [the way of other states](/sober-living-app-blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2), like Maryland, Massachusetts, Missouri and Rhode Island, which requires “voluntary certification” for sober living homes that want to receive funding or referrals from state agencies. Pennsylvania has not [gone so far as Florida](/sober-living-app-blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1), which requires all addiction treatment centers to restrict referrals to certified sober living homes. In Pennsylvania, private addiction treatment centers can continue to refer patients to the sober living home of their choice. But, if that patient receives state subsidies for housing, for example, those subsidies may not be used at an unlicensed sober living home.  
+Essentially, Pennsylvania has made good on it’s promise to go [the way of other states](/sober-living-app-blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2), like Maryland, Massachusetts, Missouri and Rhode Island, which requires “voluntary certification” for sober living homes that want to receive funding or referrals from state agencies. Pennsylvania has not [gone so far as Florida](/sober-living-app-blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1), which requires all addiction treatment centers to restrict referrals to certified sober living homes. In Pennsylvania, private addiction treatment centers can continue to refer patients to the sober living home of their choice. But, if that patient receives state subsidies for housing, for example, those subsidies may not be used at an unlicensed sober living home. 
 
 ## Review Pennsylvania’s Existing Sober Living Homes to Identify Holes in the Market
 

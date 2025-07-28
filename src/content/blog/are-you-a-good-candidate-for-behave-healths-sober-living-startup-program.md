@@ -36,13 +36,13 @@ Behave Health’s Sober Living Startup Program might be a good fit for you.
 
 ![help opening sober living home startup community incubator](/images/blog/are-you-a-good-candidate-for-behave-healths-sober-living-startup-program/Screen_Shot_2024-02-25_at_3.18.49_PM.png)
 
-As money from [opioid settlements continues to flow](../../../2022/9/7/more-funding-opportunities-for-sober-living-homes-in-arizona.html) into communities across the United States, the demand - and funding - for sober living homes has never been higher. 
+As money from [opioid settlements continues to flow](/2022/9/7/more-funding-opportunities-for-sober-living-homes-in-arizona) into communities across the United States, the demand - and funding - for sober living homes has never been higher. 
 
 As the addiction crisis threatens our communities at unprecedented levels, sober living home operators are on the front lines, changing lives, healing families, and safeguarding communities from further damage. 
 
-In its most recent criteria update, [ASAM went out of its way](../../../2023/10/13/asam-collaborates-with-narr-to-include-standards-for-sober-living-in-latest-asam-criteria-editionnbsp.html) to promote the importance of sober living homes to the addiction treatment process in general and the fight against our nation’s addiction crisis in particular. 
+In its most recent criteria update, [ASAM went out of its way](/2023/10/13/asam-collaborates-with-narr-to-include-standards-for-sober-living-in-latest-asam-criteria-editionnbsp) to promote the importance of sober living homes to the addiction treatment process in general and the fight against our nation’s addiction crisis in particular. 
 
-While regulations at the municipal, county, state and federal level [continue to shift](../../../2021/8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.html) for sober living homes across the nation, one thing is clear: sober living homes are a vital component of the recovery community’s past, present and future. 
+While regulations at the municipal, county, state and federal level [continue to shift](/2021/8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1) for sober living homes across the nation, one thing is clear: sober living homes are a vital component of the recovery community’s past, present and future. 
 
 Making the choice to get involved in this movement is not only a financially savvy move, but it’s also a meaningful decision you and your family can be proud of for many years to come. 
 
@@ -138,7 +138,7 @@ Whether you’ve already opened your sober living home and you’re looking to o
 
 Every startup team we work with is slightly different, but if you’re ready to put in the work and really get the ball rolling, the Behave Health Sober Living Home Startup Program might be a good fit for you.
 
-That said, please be aware that sober living home startups take a lot of work, especially at the beginning phase. Our program is intentionally designed to be intense, and we expect a very  successful launch from every startup we work with. This means all participants must be prepared to make a major time commitment, bring a high level of focus, and maintain an unshakable drive to push their first sober living home over the finish line. If you’re not ready to bring that “big startup energy” to your project and contribute to a culture of excellence, then Behave Health’s Sober Living Home Startup Program may not be right for you. 
+That said, please be aware that sober living home startups take a lot of work, especially at the beginning phase. Our program is intentionally designed to be intense, and we expect a very successful launch from every startup we work with. This means all participants must be prepared to make a major time commitment, bring a high level of focus, and maintain an unshakable drive to push their first sober living home over the finish line. If you’re not ready to bring that “big startup energy” to your project and contribute to a culture of excellence, then Behave Health’s Sober Living Home Startup Program may not be right for you. 
 
 ## Are You Ready to Apply to Behave Health’s Sober Living Home Startup Program? 
 

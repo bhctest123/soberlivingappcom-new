@@ -86,7 +86,7 @@ You can read about FEMA’s Disaster Assistance program [here](https://www.disas
 
 ## During These Uncertain Times, We’re Here to Help 
 
-The [Sober Living App’](/)s team is here to help you and your business get through these unusual times. It’s more important than ever for sober living homes to run lean and stay agile. Our all-in-one software solution for sober living home management streamlines your business and saves you time and money every day. Why not give our app a try today and [claim your free trial](https://signup.behavehealth.com/?product=sober_living_app) so you can see the Sober Living App difference for yourself?  
+The [Sober Living App’](/)s team is here to help you and your business get through these unusual times. It’s more important than ever for sober living homes to run lean and stay agile. Our all-in-one software solution for sober living home management streamlines your business and saves you time and money every day. Why not give our app a try today and [claim your free trial](https://signup.behavehealth.com/?product=sober_living_app) so you can see the Sober Living App difference for yourself? 
 
 Tagged: [COVID 19](/sober-living-app-blog/tag/COVID+19), [government](/sober-living-app-blog/tag/government), [assistance](/sober-living-app-blog/tag/assistance), [CARES Act](/sober-living-app-blog/tag/CARES+Act), [SAMHSA](/sober-living-app-blog/tag/SAMHSA), [FEMA](https://soberlivingapp.com/sober-living-app-blog/tag/FEMA)
 

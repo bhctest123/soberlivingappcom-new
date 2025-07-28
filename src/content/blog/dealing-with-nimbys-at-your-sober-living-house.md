@@ -10,7 +10,7 @@ image: "/images/blog/dealing-with-nimbys-at-your-sober-living-housenbsp/fist.png
 imageAlt: 'Dealing with NIMBYs at Your Sober Living House'
 ---
 
-[Guest User](../../../../sober-living-app-blog%EF%B9%96author=68473b7d2a4ddc30b0712c0e.html)
+[Guest User](/sober-living-app-blog%EF%B9%96author=68473b7d2a4ddc30b0712c0e)
 
 [November 19, 2019]
 
@@ -18,7 +18,7 @@ imageAlt: 'Dealing with NIMBYs at Your Sober Living House'
 
 #  [Dealing with NIMBYs at Your Sober Living House ]
 
-[Guest User](../../../../sober-living-app-blog%EF%B9%96author=68473b7d2a4ddc30b0712c0e.html)
+[Guest User](/sober-living-app-blog%EF%B9%96author=68473b7d2a4ddc30b0712c0e)
 
 [November 19, 2019]
 

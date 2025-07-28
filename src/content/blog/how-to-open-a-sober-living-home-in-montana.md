@@ -28,7 +28,7 @@ In Montana, there is not yet any official body representing NARR. The NARR websi
 
 ## Sober Living Homes in Montana Are Not Required to Seek Certification or Licensing
 
-A study completed by The Mental Health & Addiction Certification Board of Oregon entitled, [National Overview of Recovery Housing Accreditation Legislation and Licensing](<https://mhacbo.org/media/NATIONAL.OVERVIEW.RECOVERY.HOUSING.January.2020.pdf>), describes Montana’s sober living home regulation with the following phrase: “No current private or state accreditation, and none under development.” 
+A study completed by The Mental Health & Addiction Certification Board of Oregon entitled, [National Overview of Recovery Housing Accreditation Legislation and Licensing](<https://mhacbo.org/media/NATIONAL. OVERVIEW. RECOVERY. HOUSING. January.2020.pdf>), describes Montana’s sober living home regulation with the following phrase: “No current private or state accreditation, and none under development.” 
 
 In other words, Montana has no laws on the books that obligate or compel sober living homes to complete any type of certification or licensing requirements. Unlike some states, there are no rewards - like state funding or referrals - for licensed facilities. There are also no punishments or fees for failing to certify sober living homes in Montana. There are simply no requirements of any kind in this regard for sober living home operators in Montana, nor has the state legislature made any signals that indicate that there will be in the near future. 
 

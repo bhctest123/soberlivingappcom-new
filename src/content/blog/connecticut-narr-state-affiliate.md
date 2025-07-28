@@ -44,8 +44,8 @@ CTARR, established as a 501c3 nonprofit, is dedicated to supporting recovery res
 
 CTARR's mission is to enhance the availability and quality of recovery housing options for individuals seeking and sustaining long-term recovery in Connecticut [[About Us - Connecticut Alliance of Recovery Residences](<https://ctrecoveryresidences.org/about-us-2/>)].
 
-  
-  
+ 
+ 
 
 Quick Facts:
 
@@ -93,15 +93,15 @@ Statistics:
 
 ## Step-by-Step Guide
 
-  1. Understand the Standards: Familiarize yourself with NARR's Standard 3.0.
+ 1. Understand the Standards: Familiarize yourself with NARR's Standard 3.0.
 
-  2. Seek Certification: Apply for certification through CTARR.
+ 2. Seek Certification: Apply for certification through CTARR.
 
-  3. Training: Engage in ongoing education and training to ensure compliance.
+ 3. Training: Engage in ongoing education and training to ensure compliance.
 
-  4. Quality Assurance: Implement regular audits to maintain standards.
+ 4. Quality Assurance: Implement regular audits to maintain standards.
 
-  5. Advocacy: Participate in advocacy efforts to support policy changes.
+ 5. Advocacy: Participate in advocacy efforts to support policy changes.
 
 ## 5 Expert Tips
 
@@ -175,7 +175,7 @@ The Connecticut NARR State Affiliate, CTARR, plays an indispensable role in shap
 
 Explore BehaveHealth.com's Solutions: If you're involved in or interested in recovery housing, explore how BehaveHealth.com can assist with managing your recovery home through our comprehensive software solutions, designed to streamline operations, enhance compliance, and support resident success [[https://behavehealth.com](<https://behavehealth.com/>)].
 
-  
-  
+ 
+ 
 
 Last Updated: November 5, 2024

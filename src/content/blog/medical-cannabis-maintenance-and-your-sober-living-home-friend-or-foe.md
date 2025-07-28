@@ -28,7 +28,7 @@ Ben Weiss
 
 As medical cannabis becomes more prevalent, many sober living home operators are redefining the word “sober” to include prescription marijuana. Proponents say that cannabis aids in recovery from more damaging drugs, like heroin and alcohol, and helps address co-occurring disorders. Recovery traditionalists (exemplified by AA) remain suspicious of any creative re-imagining of “sobriety” even (and especially) if that reimagining comes in a prescription bottle. “Marijuana Maintenance Therapy'' is strongly discouraged in many 12-step spaces.
 
-How do you run a sober living home with medical cannabis patients? Why would someone do such a thing? Is it discriminatory to exclude medical cannabis patients from your sober living home?  
+How do you run a sober living home with medical cannabis patients? Why would someone do such a thing? Is it discriminatory to exclude medical cannabis patients from your sober living home? 
 
 In this post, we will dive into these questions and weigh the costs and benefits of welcoming medical cannabis patients at your sober living home.
 

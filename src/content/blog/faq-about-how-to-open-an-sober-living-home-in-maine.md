@@ -60,7 +60,7 @@ No. Maine is sorely lacking in recovery residences. Both the [University of Main
 
 The [National Association of Recovery Residences](https://narronline.org/) is locally represented by [MARR, the Maine Association of Recovery Residences](https://www.mainerecoveryresidences.com/). MARR was founded in 2016 and is the only accrediting body that is entrusted with the responsibility of managing the ongoing certification of recovery residences in the state. 
 
-In addition to advocating for the sober living community in Maine, MARR has also begun [collecting outcomes data](https://www.mainerecoveryresidences.com/blog/6jszpe8vjjmtajsv3c0m9n93txj2aj) on its members in order to generate more evidence to support the promotion of recovery residences in the state. This work should impact the level of acceptance sober living enjoys in the community, as well as the amount of resources allocated to sober living at the state level.  
+In addition to advocating for the sober living community in Maine, MARR has also begun [collecting outcomes data](https://www.mainerecoveryresidences.com/blog/6jszpe8vjjmtajsv3c0m9n93txj2aj) on its members in order to generate more evidence to support the promotion of recovery residences in the state. This work should impact the level of acceptance sober living enjoys in the community, as well as the amount of resources allocated to sober living at the state level. 
 
 ## What is the process for getting a sober living home certified in Maine? 
 
@@ -86,7 +86,7 @@ There are several benefits to certification. For one, MARR certified sober livin
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

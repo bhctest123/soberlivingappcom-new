@@ -88,7 +88,7 @@ Some of the best sober living home managers are former sober living home residen
 
 It goes without saying that lived experience in addiction and recovery can provide powerful insight into the disease. 
 
-When you’re looking to hire any work out at your sober living home, why not consider tapping into your alumni network to get the job done? The same goes when you’re landscaping the yard, buying new appliances or servicing the vehicles. Always ask yourself how you can support your alumni so that they can support you.  
+When you’re looking to hire any work out at your sober living home, why not consider tapping into your alumni network to get the job done? The same goes when you’re landscaping the yard, buying new appliances or servicing the vehicles. Always ask yourself how you can support your alumni so that they can support you. 
 
 ## If You’re Looking for More Ways to Engage Your Sober Living Home Alumni, We Can Help 
 
@@ -96,7 +96,7 @@ When you’re looking to hire any work out at your sober living home, why not co
 
 Our all-in-one app helps you tackle every part of the alumni experience - from discharge planning, to recovery navigation, to outcome tracking and relapse prevention. Our robust alumni portal keeps your alumni on-track with easy access to all of the tools and resources they need to succeed in recovery. Should your alumni need additional help after move-out, we make it easy to readmit them to your program. 
 
-Even better?  You (and your alumni!) can access everything 24/7 from your phone.
+Even better? You (and your alumni!) can access everything 24/7 from your phone.
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

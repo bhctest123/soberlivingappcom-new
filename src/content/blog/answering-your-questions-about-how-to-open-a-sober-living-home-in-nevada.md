@@ -40,7 +40,7 @@ Answer: The initial licensing application fee for sober living homes in Nevada i
 
 ## Question: Does Las Vegas have special sober living home rules that I need to know about?
 
-Answer: Yes. The City of Las Vegas levies additional fees for “[transitional living facilities](<http://www5.lasvegasnevada.gov/LCAT/Bus_Lic_Instructions.aspx?Category=T55&CategoryName=Transitional%20Living%20Facility>)” which they define as “living environments…for reintegrating individuals into the community after incarceration or confide treatment for dependencies.” This definition includes sober living homes. 
+Answer: Yes. The City of Las Vegas levies additional fees for “[transitional living facilities](<http://www5.lasvegasnevada.gov/LCAT/Bus_Lic_Instructions.aspx? Category=T55&CategoryName=Transitional%20Living%20Facility>)” which they define as “living environments…for reintegrating individuals into the community after incarceration or confide treatment for dependencies.” This definition includes sober living homes. 
 
 Las Vegas requires recovery residence owners to provide proof of zoning compliance, proof of compliance with the Secretary of State and the Nevada Department of Taxation, a completed online application and a fee of $150 plus a $50 processing fee. Upon completion of all of these requirements, the city will issue your sober living home a business license from the Business Licensing Department. 
 

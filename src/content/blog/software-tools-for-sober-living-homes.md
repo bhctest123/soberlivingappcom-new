@@ -67,7 +67,7 @@ https://quickbooks.intuit.com/
 
 ### **G Suite - HIPAA Compliant productivity tools**
 
-Google has built a set of cloud based productivity tools that can be HIPAA compliant, G Suite.  These tools help small businesses have enterprise level and compliant software at a fraction of the cost of an on-premise solution. 
+Google has built a set of cloud based productivity tools that can be HIPAA compliant, G Suite. These tools help small businesses have enterprise level and compliant software at a fraction of the cost of an on-premise solution. 
 
 <https://gsuite.google.com/industries/healthcare/>
 
@@ -75,7 +75,7 @@ Google has built a set of cloud based productivity tools that can be HIPAA compl
 
 ### **Microsoft Office 365 - HIPAA Compliant Productivity tools**
 
-Microsoft has built a set of cloud based productivity tools that can be HIPAA compliant.  These tools help small businesses have enterprise level and compliant software at a fraction of the cost of an on-premise solution. 
+Microsoft has built a set of cloud based productivity tools that can be HIPAA compliant. These tools help small businesses have enterprise level and compliant software at a fraction of the cost of an on-premise solution. 
 
 <https://www.microsoft.com/en-us/TrustCenter/Compliance/HIPAA>
 

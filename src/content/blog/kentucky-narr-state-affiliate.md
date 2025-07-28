@@ -18,19 +18,19 @@ For entrepreneurs, facility owners, healthcare providers, and administrators, un
 
 ## Table of Contents
 
-  1. Kentucky NARR State Affiliate Overview
+ 1. Kentucky NARR State Affiliate Overview
 
-  2. Components and Requirements for Kentucky NARR Certification
+ 2. Components and Requirements for Kentucky NARR Certification
 
-  3. Impact on Healthcare Delivery
+ 3. Impact on Healthcare Delivery
 
-  4. Best Practices for Operating a Certified Recovery Residence
+ 4. Best Practices for Operating a Certified Recovery Residence
 
-  5. Compliance and Regulation
+ 5. Compliance and Regulation
 
-  6. Future Trends and Updates
+ 6. Future Trends and Updates
 
-  7. Conclusion
+ 7. Conclusion
 
 Disclaimer: This content is for educational purposes only and does not constitute legal or financial advice. Please consult with a professional for specific guidance.
 
@@ -40,7 +40,7 @@ The Kentucky Recovery Housing Network (KRHN) serves as the state affiliate of th
 
 ## Significance in 2023
 
-With addiction rates continuing to rise across the U.S., Kentucky has been particularly impacted by the opioid crisis. Recovery housing offers a critical bridge between formal treatment programs and independent living. KRHN-certified residences adhere to national standards set by NARR, ensuring that individuals in recovery have access to quality housing that supports their journey to sobriety.
+With addiction rates continuing to rise across the U. S., Kentucky has been particularly impacted by the opioid crisis. Recovery housing offers a critical bridge between formal treatment programs and independent living. KRHN-certified residences adhere to national standards set by NARR, ensuring that individuals in recovery have access to quality housing that supports their journey to sobriety.
 
 ## Purpose and Impact on Healthcare Delivery
 
@@ -74,15 +74,15 @@ KRHN certification is based on adherence to NARR’s national standards. These s
 
 ## Common Pitfalls & How to Avoid Them
 
-  1. Non-compliance with Standards: Failure to meet NARR’s rigorous requirements can result in denial or revocation of certification.
+ 1. Non-compliance with Standards: Failure to meet NARR’s rigorous requirements can result in denial or revocation of certification.
 
      * _Solution:_ Regularly review compliance checklists provided by KRHN.
 
-  2. Lack of Resident Support Services: Some operators may overlook the importance of providing comprehensive support services.
+ 2. Lack of Resident Support Services: Some operators may overlook the importance of providing comprehensive support services.
 
      * _Solution:_ Partner with local healthcare providers or behavioral health specialists like BehaveHealth.com [[https://behavehealth.com](<https://behavehealth.com/>)] to offer necessary services.
 
-  3. Inadequate Staff Training: Staff members must be well-trained in both ethical practices and emergency response protocols.
+ 3. Inadequate Staff Training: Staff members must be well-trained in both ethical practices and emergency response protocols.
 
      * _Solution:_ Invest in ongoing staff education through programs offered by KRHN or similar organizations.
 
@@ -101,34 +101,34 @@ Healthcare providers benefit from referring patients to certified recovery homes
 While insurance companies often do not cover recovery housing costs due to it being considered non-medical care, there is growing advocacy for change. The Consolidated Appropriations Act of 2023 has brought attention to this issue by mandating best practices for recovery housing be made publicly available. This could eventually lead to reimbursement opportunities through Medicaid or private insurers.
 
 ## Best Practices for Operating a Certified Recovery Residence   
-  
-  
+ 
+ 
 
 Operating a successful recovery residence requires adherence to both ethical standards and practical business strategies.
 
 ## Step-by-Step Guide
 
-  1. Understand Certification Requirements: Familiarize yourself with NARR’s four levels of care and determine which level your residence will operate under [[https://narronline.org](<https://narronline.org/>)].
+ 1. Understand Certification Requirements: Familiarize yourself with NARR’s four levels of care and determine which level your residence will operate under [[https://narronline.org](<https://narronline.org/>)].
 
-  2. Prepare Your Facility: Ensure your property meets all safety codes and provides a clean, supportive environment.
+ 2. Prepare Your Facility: Ensure your property meets all safety codes and provides a clean, supportive environment.
 
-  3. Staff Training: Provide comprehensive training for staff members on ethical practices, emergency procedures, and resident support.
+ 3. Staff Training: Provide comprehensive training for staff members on ethical practices, emergency procedures, and resident support.
 
-  4. Submit Application: Complete all necessary paperwork as outlined by KRHN’s certification process.
+ 4. Submit Application: Complete all necessary paperwork as outlined by KRHN’s certification process.
 
-  5. Undergo Site Inspection: Be prepared for an on-site inspection from KRHN representatives before receiving certification approval.
+ 5. Undergo Site Inspection: Be prepared for an on-site inspection from KRHN representatives before receiving certification approval.
 
 ## Expert Tips
 
-  1. Leverage Technology: Use software solutions like Behave360 from BehaveHealth.com [[https://behavehealth.com](<https://behavehealth.com/>)] to streamline operations such as billing, compliance tracking, and patient management.
+ 1. Leverage Technology: Use software solutions like Behave360 from BehaveHealth.com [[https://behavehealth.com](<https://behavehealth.com/>)] to streamline operations such as billing, compliance tracking, and patient management.
 
-  2. Foster Community Engagement: Build relationships with local healthcare providers and community organizations for referrals.
+ 2. Foster Community Engagement: Build relationships with local healthcare providers and community organizations for referrals.
 
-  3. Maintain Transparency: Keep open lines of communication with residents regarding house rules, expectations, and available services.
+ 3. Maintain Transparency: Keep open lines of communication with residents regarding house rules, expectations, and available services.
 
-  4. Continual Improvement: Regularly assess your facility’s operations through internal audits or third-party evaluations.
+ 4. Continual Improvement: Regularly assess your facility’s operations through internal audits or third-party evaluations.
 
-  5. Stay Informed on Policy Changes: Monitor updates from SAMHSA or other regulatory bodies regarding changes in recovery housing standards.
+ 5. Stay Informed on Policy Changes: Monitor updates from SAMHSA or other regulatory bodies regarding changes in recovery housing standards.
 
 ## Compliance and Regulation 
 
@@ -144,35 +144,35 @@ Ensuring compliance with state laws and federal regulations is critical for main
 
 ## 10-Point Compliance Checklist
 
-  1. Conduct regular risk assessments.
+ 1. Conduct regular risk assessments.
 
-  2. Implement policies protecting PHI.
+ 2. Implement policies protecting PHI.
 
-  3. Train staff on HIPAA regulations.
+ 3. Train staff on HIPAA regulations.
 
-  4. Maintain up-to-date licensing documentation.
+ 4. Maintain up-to-date licensing documentation.
 
-  5. Ensure physical security measures are in place at your facility.
+ 5. Ensure physical security measures are in place at your facility.
 
-  6. Provide residents with clear house rules upon admission.
+ 6. Provide residents with clear house rules upon admission.
 
-  7. Adhere strictly to fire safety codes.
+ 7. Adhere strictly to fire safety codes.
 
-  8. Regularly review resident feedback for quality improvement.
+ 8. Regularly review resident feedback for quality improvement.
 
-  9. Keep accurate records of all financial transactions related to resident fees.
+ 9. Keep accurate records of all financial transactions related to resident fees.
 
-  10. Stay current with changes in federal or state laws affecting recovery housing.
+ 10. Stay current with changes in federal or state laws affecting recovery housing.
 
 ## Future Trends and Updates 
 
 As we look toward the future, several trends are likely to impact how recovery residences operate:
 
-  1. Increased Focus on Reimbursement: Advocacy efforts are underway that could make recovery housing reimbursable under Medicaid or private insurance plans.
+ 1. Increased Focus on Reimbursement: Advocacy efforts are underway that could make recovery housing reimbursable under Medicaid or private insurance plans.
 
-  2. Technological Integration: More facilities are expected to adopt management software like Behave360 from BehaveHealth.com [[https://behavehealth.com](<https://behavehealth.com/>)], streamlining operations while ensuring compliance with evolving regulations.
+ 2. Technological Integration: More facilities are expected to adopt management software like Behave360 from BehaveHealth.com [[https://behavehealth.com](<https://behavehealth.com/>)], streamlining operations while ensuring compliance with evolving regulations.
 
-  3. Policy Changes: SAMHSA continues to update best practices for recovery housing based on emerging research into addiction treatment outcomes.
+ 3. Policy Changes: SAMHSA continues to update best practices for recovery housing based on emerging research into addiction treatment outcomes.
 
 BehaveHealth.com stays ahead by continuously updating its solutions based on industry trends—ensuring your facility remains compliant while providing top-tier care.
 

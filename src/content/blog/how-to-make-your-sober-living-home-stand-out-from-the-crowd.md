@@ -36,7 +36,7 @@ Why should residents choose your sober living home over another sober living hom
 
 If you don’t know the answer to this question, you need to do some soul-searching about how to best position your sober living home in a crowded market. 
 
-Today, we’ll look at how to evaluate your current sober living home for a unique “selling point” based on your ideal resident. When you do the hard work of planning up front, you can rest easy as each of these important pieces falls into place and your sober living home begins to sell itself.   
+Today, we’ll look at how to evaluate your current sober living home for a unique “selling point” based on your ideal resident. When you do the hard work of planning up front, you can rest easy as each of these important pieces falls into place and your sober living home begins to sell itself. 
 
 ## Evaluate the Competition 
 
@@ -76,7 +76,7 @@ Once you’ve identified the holes in your market, start narrowing down the ones
 
 Consider your natural strengths as an entrepreneur. Leverage the advantages you already have at your disposal. If you have strong ties to a community that is underrepresented in the market and you feel there is sufficient demand for a sober living home in that community, that’s a great place to start. 
 
-Consider, too, the type of resident you’re willing to deal with. Broadly speaking, sober living homes that cater to residents with criminal records will see a higher level of [NIMBY activity](../../../2019/11/19/dealing-with-nimbys-at-your-sober-living-housenbsp.html) than, say, sober living homes aimed at serving residents over 65. Sober living homes with a pet friendly policy will need to have higher budgets to cover the increased wear and tear on the carpet, walls, and back yard. Every demographic has positives and negatives from a business point of view. Determine the negatives you’re willing to put up with and work backwards from there. 
+Consider, too, the type of resident you’re willing to deal with. Broadly speaking, sober living homes that cater to residents with criminal records will see a higher level of [NIMBY activity](/2019/11/19/dealing-with-nimbys-at-your-sober-living-housenbsp) than, say, sober living homes aimed at serving residents over 65. Sober living homes with a pet friendly policy will need to have higher budgets to cover the increased wear and tear on the carpet, walls, and back yard. Every demographic has positives and negatives from a business point of view. Determine the negatives you’re willing to put up with and work backwards from there. 
 
 ## Uniqueness Counts 
 

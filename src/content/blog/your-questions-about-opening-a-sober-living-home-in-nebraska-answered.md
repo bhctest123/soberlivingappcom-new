@@ -60,9 +60,9 @@ The [Omaha World-Herald reported](https://omaha.com/news/local/crime-and-courts/
 
 ![sober living home nebraska recovery residence laws oversight regulation bill legislation](/images/blog/your-questions-about-opening-a-sober-living-home-in-nebraska-answered/Screen_Shot_2023-01-10_at_4.29.17_PM.png)
 
-There have been efforts in the past to bring regulation to sober living in Nebraska.  State Sen Terrekk McKinney of Omaha [introduced a bill](https://omaha.com/news/local/crime-and-courts/no-licensing-little-oversight-omaha-owner-of-homes-for-sex-offenders-faces-his-own-charge/article_24f2084c-1e6e-11ed-9206-6f312de4bffa.html) that would have required licensing of halfway houses in Nebraska, but that bill failed to become law. 
+There have been efforts in the past to bring regulation to sober living in Nebraska. State Sen Terrekk McKinney of Omaha [introduced a bill](https://omaha.com/news/local/crime-and-courts/no-licensing-little-oversight-omaha-owner-of-homes-for-sex-offenders-faces-his-own-charge/article_24f2084c-1e6e-11ed-9206-6f312de4bffa.html) that would have required licensing of halfway houses in Nebraska, but that bill failed to become law. 
 
-According to a [study](https://mhacbo.org/media/NATIONAL.OVERVIEW.RECOVERY.HOUSING.January.2020.pdf) compiled by The Mental Health & Addiction Certification Board of Oregon, there is no additional pending legislation that might make certification required for sober living homes in Nebraska.  
+According to a [study](https://mhacbo.org/media/NATIONAL. OVERVIEW. RECOVERY. HOUSING. January.2020.pdf) compiled by The Mental Health & Addiction Certification Board of Oregon, there is no additional pending legislation that might make certification required for sober living homes in Nebraska. 
 
 ## Does Nebraska have a NARR affiliate? Is there any organization or association for sober living homes in Nebraska? 
 
@@ -78,7 +78,7 @@ No, there is no third party advocacy organization for the sober living home comm
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

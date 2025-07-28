@@ -88,7 +88,7 @@ We design an EMR especially for treatment center operators called [Behave Health
 
 ## Federal, State and County Governments
 
-The public sector plays a huge role in shaping access to behavioral healthcare for so many patients. It also safeguards vulnerable populations from exploitation while protecting public health at every turn. We’d love to connect with you about [regulations in your jurisdiction](../../../2021/8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.html) as well as pending changes that may affect information technology in the behavioral healthcare landscape. 
+The public sector plays a huge role in shaping access to behavioral healthcare for so many patients. It also safeguards vulnerable populations from exploitation while protecting public health at every turn. We’d love to connect with you about [regulations in your jurisdiction](/2021/8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1) as well as pending changes that may affect information technology in the behavioral healthcare landscape. 
 
 ## NARR Affiliate Leaders, Board and Team
 
@@ -100,7 +100,7 @@ We love working with [NARR affiliates](https://narronline.org/affiliate-director
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

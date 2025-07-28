@@ -24,7 +24,7 @@ Ben Weiss
 
 [Regulations](/sober-living-app-blog/category/Regulations), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Guide](/sober-living-app-blog/category/Guide)
 
-We built this guide to give recovery industry entrepreneurs a path to success. This will be a hub of resources and tools that have been helpful to others and could be helpful to you.  Let us know what is helpful!
+We built this guide to give recovery industry entrepreneurs a path to success. This will be a hub of resources and tools that have been helpful to others and could be helpful to you. Let us know what is helpful!
 
 ### **Recovery Residences In The Continuum Of Recovery**
 

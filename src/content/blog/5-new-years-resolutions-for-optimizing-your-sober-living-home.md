@@ -36,17 +36,17 @@ Today, we’ve got 5 suggestions for New Year’s resolutions to optimize your s
 
 How easy is it for residents to make payments at your sober living home? Are you still using paper billing? Do residents have to dig through their files to figure out how much they owe you? Does payment require a face-to-face with the house manager and an old fashioned card swipe machine? 
 
-This New Year’s, stop making it so difficult for residents to make timely payments in full. Step into the future and start [accepting payment automatically online](../../../../features.html#mobile). Consider using an integrated billing service like the [Sober Living App](/) by BehaveHealth. With the Sober Living App, your residents can access all their statements through the dashboard on their phone. They can save their credit card information and make payments with the click of a single button at any time. Making it easier for residents to pay you is the ultimate win-win: you’re making residents’ lives easier and you’re improving your revenue cycle at the same time.
+This New Year’s, stop making it so difficult for residents to make timely payments in full. Step into the future and start [accepting payment automatically online](/features.html#mobile). Consider using an integrated billing service like the [Sober Living App](/) by BehaveHealth. With the Sober Living App, your residents can access all their statements through the dashboard on their phone. They can save their credit card information and make payments with the click of a single button at any time. Making it easier for residents to pay you is the ultimate win-win: you’re making residents’ lives easier and you’re improving your revenue cycle at the same time.
 
 ## Stop Using a White Board for Bed Management 
 
 ![Bed management tracking needs to be nimble and always up-to-date to give your team the tools they need to accurately respond to incoming admissions requests at your sober living home home.](/images/blog/5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp/whiteboard.png)
 
-Filling beds, keeping beds full, and planning admissions are never-ending tasks at a sober living home. You’ve got to have a way to track it all and stay organized so that your admissions team can do their job effectively.  
+Filling beds, keeping beds full, and planning admissions are never-ending tasks at a sober living home. You’ve got to have a way to track it all and stay organized so that your admissions team can do their job effectively. 
 
 Time and again, we see sober living homes still using a whiteboard system to manage this information. And the whiteboard works—until it doesn’t. With a whiteboard, you can’t scroll back in time to take a snapshot of who was in what bed at what time. Once you’ve erased the information, it’s gone forever. The whiteboard is also only available for viewing in one spot—typically the house manager’s room or office. But what if you need to access or edit that information remotely? No dice. 
 
-This year, turn the whiteboard into a decorator’s item and start using a more suitable tool for this all-important task. The Sober Living App’s [bed management tool](../../../../housing.html) replaces whiteboards and spreadsheets with a cloud-based interface that can be accessed anywhere at anytime. The result is a cleaner, easier-to-use log of your sober living home’s open beds.
+This year, turn the whiteboard into a decorator’s item and start using a more suitable tool for this all-important task. The Sober Living App’s [bed management tool](/housing) replaces whiteboards and spreadsheets with a cloud-based interface that can be accessed anywhere at anytime. The result is a cleaner, easier-to-use log of your sober living home’s open beds.
 
 ## Actually Remember to Get the Oil Changed on the Van
 
@@ -56,7 +56,7 @@ When was the last time the oil was changed on the van at your sober living home?
 
 If your sober living home is like most we work with, the task of getting the van serviced often falls to the bottom of the to-do list. There’s so many other things that need doing and it’s easy to put off the oil change—again. 
 
-This year, get it on the calendar and actually make it happen. The Sober Living App’s [business operations tools](../../../../operations.html) has a dedicated task management system especially for your fleet. Track all of your company’s vehicles and manage all maintenance and repairs using our task management system. Say goodbye to skipped oil changes and high repair bills. 
+This year, get it on the calendar and actually make it happen. The Sober Living App’s [business operations tools](/operations) has a dedicated task management system especially for your fleet. Track all of your company’s vehicles and manage all maintenance and repairs using our task management system. Say goodbye to skipped oil changes and high repair bills. 
 
 ## Get Smarter About Referrals 
 
@@ -66,13 +66,13 @@ Do you know where most of your referrals are coming from?
 
 This year, start tracking referrals and collecting data on who is referring to your sober living home. Use the information to maintain your established referral partnerships and nurture budding ones. Consider rewarding your best referral partners with holiday gifts, birthday presents, organizational donations, and in-kind service projects to recognize their contribution to your organization.
 
-BehaveHealth’s Sober Living App automatically tracks all referral information and compiles it into easy-to-interpret data that you can leverage when planning your outreach efforts for the year. You can also use the system’s CRM to [track all points of contact](../../../../features.html#organizations), making it easy to see your organization’s entire communication history with each referral partner. 
+BehaveHealth’s Sober Living App automatically tracks all referral information and compiles it into easy-to-interpret data that you can leverage when planning your outreach efforts for the year. You can also use the system’s CRM to [track all points of contact](/features.html#organizations), making it easy to see your organization’s entire communication history with each referral partner. 
 
 ## Go Paperless 
 
 ![There is no reason to still be using paper for your sober living home records in 2020.](/images/blog/5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp/stacks_of_paper.png)
 
-Still drowning in paper files? This is the year to finally kick the habit. From [admissions documents](../../../../admission.html), to billing paperwork, to resident records—all of it is easier to complete and more efficient to store in digital format. 
+Still drowning in paper files? This is the year to finally kick the habit. From [admissions documents](/admission), to billing paperwork, to resident records—all of it is easier to complete and more efficient to store in digital format. 
 
 BehaveHealth’s Sober Living App makes the transition easy with pre-loaded forms that are constantly being updated to reflect current HIPAA laws and other relevant changes in policy affecting your operation. If you haven’t made the switch to paperless yet, definitely make this your top priority in the new year. 
 

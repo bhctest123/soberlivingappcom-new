@@ -58,13 +58,13 @@ No matter where you house your intake paperwork, be sure to go over your drug te
 
 ![Get organized and schedule drug testing - even if it’s supposedly random.](/images/blog/how-to-streamline-drug-testing-at-your-sober-living-home/man_on_computer.png)
 
-Now that you have a plan, implement it. Use a calendar like the one in the Sober Living App to schedule drug testing for all residents. Link the resident and a managing staff member to the event in the app so that the drug test appears on each of their calendars. If you don’t want residents to be notified of an upcoming drug test date, just link a staff member to the event. That way, the event won’t show up in the resident’s calendar.   
+Now that you have a plan, implement it. Use a calendar like the one in the Sober Living App to schedule drug testing for all residents. Link the resident and a managing staff member to the event in the app so that the drug test appears on each of their calendars. If you don’t want residents to be notified of an upcoming drug test date, just link a staff member to the event. That way, the event won’t show up in the resident’s calendar. 
 
 If you’ve chosen to do random testing, use a random date generator [like this one ](https://www.random.org/calendar-dates/)to choose drug testing days. You can set the number of drug tests you’d like the generator to choose and the time window under which they should fall for each resident. You can even choose to exclude certain dates like holidays, birthdays, or Sundays. Again, be sure to link a staff member to the event so that they know to follow through on the task. 
 
 ## Record the Results
 
-Once your resident completes their urinalysis or breathalyzer test, it’s time to record the results. If you’re using the Sober Living App, this is as simple as opening the resident record and adding a drug test result. You’ll instantly see the resident’s entire drug testing history and you can [easily add to the record from any device](../../../../features.html#mobile) \- even while you’re standing in the lab or waiting in the parking lot.
+Once your resident completes their urinalysis or breathalyzer test, it’s time to record the results. If you’re using the Sober Living App, this is as simple as opening the resident record and adding a drug test result. You’ll instantly see the resident’s entire drug testing history and you can [easily add to the record from any device](/features.html#mobile) \- even while you’re standing in the lab or waiting in the parking lot.
 
 ## Stay Consistent With Consequences  
 
@@ -86,7 +86,7 @@ Some common approaches we’ve seen include:
 
   * The resident is moved to a facility with a higher level of care
 
-When you’re deciding on your approach, remember that relapse is contagious and that one resident’s relapse can affect other residents’ sobriety. However you decide to approach relapse, make it consistent. Be prepared for each relapse to feel like a “special circumstance” that warrants bending the rules. Resolve to stay the course no matter what.  
+When you’re deciding on your approach, remember that relapse is contagious and that one resident’s relapse can affect other residents’ sobriety. However you decide to approach relapse, make it consistent. Be prepared for each relapse to feel like a “special circumstance” that warrants bending the rules. Resolve to stay the course no matter what. 
 
 One great option for dealing with relapse is to require your resident to return to inpatient or outpatient treatment to regain their sobriety. If your organization runs sober living homes as well as inpatient or outpatient rehab, the resident records you create in the Sober Living App can seamlessly transfer to [BehaveHealth’s more robust EHR and integrated billing system](https://behavehealth.com/) should a resident needs to return to a higher level of care. Likewise, the resident records you create in the BehaveHealth system can easily carry over to the Sober Living App when residents are ready to move to sober living. This means less time spent on paperwork for both your residents and staff. 
 

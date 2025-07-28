@@ -42,7 +42,7 @@ Or worse…
 
 Regardless of how you handle bed availabilities, every open bed is an opportunity to build your brand and your business.
 
-Bed availability is a piece of good news — for the community, at least — and it should be news that you are sharing widely if you want to optimize [admissions](../../../../admission.html) at your sober living home. 
+Bed availability is a piece of good news — for the community, at least — and it should be news that you are sharing widely if you want to optimize [admissions](/admission) at your sober living home. 
 
 ## Sober Living App’s New Bed Availability Widget Advertises Open Beds For You Effortlessly
 
@@ -54,7 +54,7 @@ Until now, that is.
 
 At [Sober Living App](/), we are dedicated to helping sober living home operators help as many people as possible. That’s why we’ve automated the process for you. 
 
-With a [Sober Living App account](https://apps.behavehealth.com/signup), you can get up-to-the-minute bed availability posted to your website without adding to you or your sober living home managers’ already [mile-long to-do list](../../../2020/8/5/5-things-your-sober-living-home-manager-is-afraid-to-tell-you.html).
+With a [Sober Living App account](https://apps.behavehealth.com/signup), you can get up-to-the-minute bed availability posted to your website without adding to you or your sober living home managers’ already [mile-long to-do list](/2020/8/5/5-things-your-sober-living-home-manager-is-afraid-to-tell-you).
 
 That’s right. 
 
@@ -96,13 +96,13 @@ The choice is yours.
 
 ![At Sober Living App, we have a host of bed management tools for sober living home operators like you to track check-in and check-out times so you can leverage openings during the admissions process and minimize inefficient scheduling errors.](/images/blog/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically/Screen_Shot_2021-02-01_at_7.59.24_AM.png)
 
-The bed availability widget helps keep the general public informed about bed availability at your sober living home, but our [staff-facing bed management tools](../../../../housing.html) offer functionality for behind-the-scenes bed management, too. 
+The bed availability widget helps keep the general public informed about bed availability at your sober living home, but our [staff-facing bed management tools](/housing) offer functionality for behind-the-scenes bed management, too. 
 
 With our calendar feature, you can easily visualize your sober living home’s bed availability. 
 
 Chart check-in and check-out dates to quickly capture an accurate picture of your short-term and long-term resident landscape. 
 
-Easily spot awkward “holes” in your bed availability and avoid inefficient, expensive scheduling errors before they become a problem.  
+Easily spot awkward “holes” in your bed availability and avoid inefficient, expensive scheduling errors before they become a problem. 
 
 ## We’re Here to Help                                                    
 

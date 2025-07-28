@@ -10,13 +10,13 @@ featured: false
 
 ## Maine Association of Recovery Residences (MARR): A Comprehensive Guide to Maine's NARR State Affiliate
 
-  
-  
+ 
+ 
 
 Last Updated: November 6, 2024
 
-  
-  
+ 
+ 
 
  _Disclaimer: This information is provided for educational purposes only and should not be considered legal, medical, or professional advice. Always consult qualified professionals for specific guidance related to recovery residences and certification requirements._
 

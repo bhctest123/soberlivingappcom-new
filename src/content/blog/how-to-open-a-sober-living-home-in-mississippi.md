@@ -54,7 +54,7 @@ There is very little indication that regulations of either sober living or addic
 
 ![sober living homes recovery housing mississippi inspections regulations](/images/blog/how-to-open-a-sober-living-home-in-mississippi/Screen_Shot_2023-01-03_at_5.07.43_PM.png)
 
-According to a study completed by the Mental Health & Addiction Certification Board of Oregon entitled, “[National Overview of Recovery Housing Accreditation Legislation and Licensing](https://mhacbo.org/media/NATIONAL.OVERVIEW.RECOVERY.HOUSING.January.2020.pdf),” there are a few requirements that sober living homes in Mississippi do need to address before opening their doors to residents. 
+According to a study completed by the Mental Health & Addiction Certification Board of Oregon entitled, “[National Overview of Recovery Housing Accreditation Legislation and Licensing](https://mhacbo.org/media/NATIONAL. OVERVIEW. RECOVERY. HOUSING. January.2020.pdf),” there are a few requirements that sober living homes in Mississippi do need to address before opening their doors to residents. 
 
 They are: 
 
@@ -82,7 +82,7 @@ Sober living homes in Mississippi are also not considered personal care homes. T
 
 Although there is very little legal rationale for the opposition facing sober living homes in residentially zoned areas in Mississippi, NIMBY sentiment is still a notable presence for many sober living homes in the state. 
 
-For example, 1st Step Sober Living in Tupelo, Mississippi f[aced NIMBY opposition](https://www.djournal.com/news/local/meadow-lake-lawsuit-against-addiction-recover-center-continues/article_97540963-27c9-58ba-a763-34df31b937c0.html) when it opened an eight bed facility in a residential neighborhood. In another instance of NIMBY interference, an [Oxford Home in Jackson, Mississippi](https://www.clarionledger.com/story/news/2015/04/10/regulations-keep-oxford-house-neighborhood/25571715/) faced strong opposition to renting from a private landlord in a residential neighborhood. While none of these protests ultimately seem to have stopped the homes from operating legally in their chosen locations, the resistance did lead to increased scrutiny from the housing inspectors in at least one case.  
+For example, 1st Step Sober Living in Tupelo, Mississippi f[aced NIMBY opposition](https://www.djournal.com/news/local/meadow-lake-lawsuit-against-addiction-recover-center-continues/article_97540963-27c9-58ba-a763-34df31b937c0.html) when it opened an eight bed facility in a residential neighborhood. In another instance of NIMBY interference, an [Oxford Home in Jackson, Mississippi](https://www.clarionledger.com/story/news/2015/04/10/regulations-keep-oxford-house-neighborhood/25571715/) faced strong opposition to renting from a private landlord in a residential neighborhood. While none of these protests ultimately seem to have stopped the homes from operating legally in their chosen locations, the resistance did lead to increased scrutiny from the housing inspectors in at least one case. 
 
 ## There is No National Association for Recovery Residences State Affiliate in Mississippi
 
@@ -102,7 +102,7 @@ This means that there are sober living home community members who are speaking w
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

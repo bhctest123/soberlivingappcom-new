@@ -54,7 +54,7 @@ Buprenorphine is a schedule III drug, which means it causes physical and psychol
 
 ![Suboxone is a brand name combination of Buprenorphine and Naloxone. You’ll want to know how it works if you have sober living home residents taking the medication.](/images/blog/buprenorphine-suboxone-and-your-sober-living-home/Screen_Shot_2021-05-31_at_12.06.04_PM.png)
 
-Suboxone is a brand name drug used to treat opioid use disorder (OUD). It eliminates cravings and withdrawal symptoms for those with OUD. There are also [generic versions](https://www.drugs.com/availability/generic-suboxone.html) of Suboxone available.  
+Suboxone is a brand name drug used to treat opioid use disorder (OUD). It eliminates cravings and withdrawal symptoms for those with OUD. There are also [generic versions](https://www.drugs.com/availability/generic-suboxone.html) of Suboxone available. 
 
 Patients typically take Suboxone once per day and don’t need to make daily treks to a clinic to get their dose. With the recent changes to the law, Suboxone can be prescribed by most PCPs now, making Suboxone a convenient choice for MAT patients. 
 
@@ -70,7 +70,7 @@ First, educate yourself and your [sober living home managers](https://soberlivin
 
 Second, provide for secure storage for your resident's medication. Many sober living homes provide individual lock boxes for their MAT residents. Others store medications in a centrally located group storage area which can only be accessed by sober living staff. Some sober living homes provide supervised doses for MAT patients who need accountability with their medication. 
 
-Third, establish good communication with the resident’s medical team. For residents who are new to MAT, request a disclosure agreement that allows your sober living staff to communicate with the resident’s care team. (Don’t skip this step or you could [run afoul of HIPAA laws](https://soberlivingapp.com/sober-living-app-blog/2020/7/21/is-your-sober-living-home-accidentally-violating-hipaa-laws).) Have staff touch base periodically about dosage instructions and drug testing results to ensure that the resident is complying with the doctor’s treatment plan.  
+Third, establish good communication with the resident’s medical team. For residents who are new to MAT, request a disclosure agreement that allows your sober living staff to communicate with the resident’s care team. (Don’t skip this step or you could [run afoul of HIPAA laws](https://soberlivingapp.com/sober-living-app-blog/2020/7/21/is-your-sober-living-home-accidentally-violating-hipaa-laws).) Have staff touch base periodically about dosage instructions and drug testing results to ensure that the resident is complying with the doctor’s treatment plan. 
 
 ## Managing Buprenorphine or Suboxone Residents is Easy With Sober Living App 
 

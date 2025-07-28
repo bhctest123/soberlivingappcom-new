@@ -64,7 +64,7 @@ Make sure your sober living home manager knows that you want them to spend money
 
 ![How’s the car doing? Your sober living home manager might be falling behind on oil changes and afraid to confess.](/images/blog/5-things-your-sober-living-home-manager-is-afraid-to-tell-you/Screenshot_2020-07-30_at_9.26.19_AM.png)
 
-Like home maintenance, [car maintenance](../../../../operations.html) can also be easily ignored by sober living home managers. When day-to-day life is dramatic and full of surprises—which is almost always the case when dealing with groups of people in early recovery—sober living home managers find themselves too busy putting out fires to take care of mundane tasks like oil changes. 
+Like home maintenance, [car maintenance](/operations) can also be easily ignored by sober living home managers. When day-to-day life is dramatic and full of surprises—which is almost always the case when dealing with groups of people in early recovery—sober living home managers find themselves too busy putting out fires to take care of mundane tasks like oil changes. 
 
 [Sober Living App](/) makes car care easy. Your sober living home manager will get automatic notifications when it’s time to do an oil change. No planning necessary! 
 

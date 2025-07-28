@@ -36,13 +36,13 @@ Vermont has a huge shortage of recovery housing. When the Department of Correcti
 
 ![vermont recovery housing program action plan 2021 grant sober living home funding](/images/blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp/Screen_Shot_2023-02-26_at_7.21.04_PM.png)
 
-Now that the 2020 [Vermont Recovery Housing Action Plan](../../../../../outside.vermont.gov/agency/ACCD/ACCD_Web_Docs/CD/VCDP/RHP/CD-VCDP-RecoveryHousingProgramActionPlanApproved.pdf) has been put into action, a [$1.4 million block grant](https://vermontbiz.com/news/2022/february/02/scott-announces-14-million-grant-funding-recovery-housing-projects) will flow into the state’s sober living homes between 2021 and 2028. The grant is broken into two phases: $753,000 for the “first allocation” and $791,652 for the “second allocation.” Largely a product of advocacy from the recovery community itself, the plan explicitly recognizes the importance of sober living to the larger behavioral and mental health goals of the state. 
+Now that the 2020 [Vermont Recovery Housing Action Plan](/outside.vermont.gov/agency/ACCD/ACCD_Web_Docs/CD/VCDP/RHP/CD-VCDP-RecoveryHousingProgramActionPlanApproved.pdf) has been put into action, a [$1.4 million block grant](https://vermontbiz.com/news/2022/february/02/scott-announces-14-million-grant-funding-recovery-housing-projects) will flow into the state’s sober living homes between 2021 and 2028. The grant is broken into two phases: $753,000 for the “first allocation” and $791,652 for the “second allocation.” Largely a product of advocacy from the recovery community itself, the plan explicitly recognizes the importance of sober living to the larger behavioral and mental health goals of the state. 
 
 ## The Vermont Recovery Action Plan is an Incredible Resource for Operators Looking to Open a Sober Living Home in Vermont 
 
 ![recovery residences in Vermont sober living home map directory existing](/images/blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp/Screen_Shot_2023-02-20_at_5.52.10_PM.png)
 
-For aspiring sober home operators, there is no better state guide to the recovery housing community than [Vermont’s Recovery Action Plan](../../../../../outside.vermont.gov/agency/ACCD/ACCD_Web_Docs/CD/VCDP/RHP/CD-VCDP-RecoveryHousingProgramActionPlanApproved.pdf). The report is an incredible breakdown of existing services in the state. It goes into highly granular detail about exactly what sorts of recovery housing is needed in the state, specifying the ideal sizes, locations and populations that future homes should serve. No other state we’ve worked with has such a great resource for would-be operators. Absolutely download the plan and comb through the data you’ll find there when you’re putting together your business plan. 
+For aspiring sober home operators, there is no better state guide to the recovery housing community than [Vermont’s Recovery Action Plan](/outside.vermont.gov/agency/ACCD/ACCD_Web_Docs/CD/VCDP/RHP/CD-VCDP-RecoveryHousingProgramActionPlanApproved.pdf). The report is an incredible breakdown of existing services in the state. It goes into highly granular detail about exactly what sorts of recovery housing is needed in the state, specifying the ideal sizes, locations and populations that future homes should serve. No other state we’ve worked with has such a great resource for would-be operators. Absolutely download the plan and comb through the data you’ll find there when you’re putting together your business plan. 
 
 ## How About Opening a Sober Living Home for Women With Dependent Children in Vermont? 
 
@@ -56,31 +56,31 @@ Like many places in the United States, Vermont has struggled in recent years to 
 
 ![sober living home Vermont relapse alliance for recovery residences certification voluntary](/images/blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp/Screen_Shot_2023-02-20_at_5.29.05_PM.png)
 
-The Vermont Foundation for Recovery and the Vermont Association for Mental Health and Recovery [joined forces in 2011](https://www.burlingtonfreepress.com/story/news/2019/01/03/vermont-and-opioids-regulation-sober-houses-lacking/2054340002/) to create the [Vermont Alliance for Recovery Residences](https://vtarr.org/). In 2019, they launched a [certification process](../../../../../vtarr.org/pdfs2/VTARR-CERT-APPLICATION-AND-REQUIREMENTS.pdf) for recovery residences seeking to hold themselves to National Association of Recovery Residences (NARR) standards. 
+The Vermont Foundation for Recovery and the Vermont Association for Mental Health and Recovery [joined forces in 2011](https://www.burlingtonfreepress.com/story/news/2019/01/03/vermont-and-opioids-regulation-sober-houses-lacking/2054340002/) to create the [Vermont Alliance for Recovery Residences](https://vtarr.org/). In 2019, they launched a [certification process](/vtarr.org/pdfs2/VTARR-CERT-APPLICATION-AND-REQUIREMENTS.pdf) for recovery residences seeking to hold themselves to National Association of Recovery Residences (NARR) standards. 
 
 ## There is Unusual Legislation on the Horizon for Some Sober Living Home Regulations in Vermont 
 
 ![sober living home vermont opioid crisis certification regulation how to](/images/blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp/Screen_Shot_2023-02-20_at_5.26.36_PM.png)
 
-[Vermont’s H.783](https://legislature.vermont.gov/bill/status/2020/H.783), a bill concerning sober living home regulation, was introduced into the house in 2020.  It was then submitted to the committee on General, Housing and Military Affairs on 9/25/2020. It has been “parked” there ever since and it’s unclear when or if it will become law. 
+[Vermont’s H.783](https://legislature.vermont.gov/bill/status/2020/H.783), a bill concerning sober living home regulation, was introduced into the house in 2020. It was then submitted to the committee on General, Housing and Military Affairs on 9/25/2020. It has been “parked” there ever since and it’s unclear when or if it will become law. 
 
 H.783 is an unusual piece of legislation. It seeks to establish a voluntary sober living home certification process - a commonplace strategy in many other states - but it also works to [protect the right of sober living home operators to immediately evict](https://www.sevendaysvt.com/vermont/vermont-sober-homes-seek-the-right-to-boot-those-who-relapse/Content?oid=29875846) residents to relapse. 
 
-Most sober living homes throughout the United States promptly evict residents who use in order to maintain a home environment conducive to recovery. However, one can make the argument that this practice violates conventional landlord-tenant law. H.783 specifically responds to this argument and protects the right of all certified sober living homes to promptly evict relapsed residents while prescribing a specific set of rules in order to do so.   Under H.783, operators must verify drug test results at state-approved labs. They must also not allow residents to live at the home unless they can verify that they have another place to live, should they relapse. There is also a built-in appeals process for substance-related evictions. 
+Most sober living homes throughout the United States promptly evict residents who use in order to maintain a home environment conducive to recovery. However, one can make the argument that this practice violates conventional landlord-tenant law. H.783 specifically responds to this argument and protects the right of all certified sober living homes to promptly evict relapsed residents while prescribing a specific set of rules in order to do so. Under H.783, operators must verify drug test results at state-approved labs. They must also not allow residents to live at the home unless they can verify that they have another place to live, should they relapse. There is also a built-in appeals process for substance-related evictions. 
 
 ## Other Content Relevant Vermont Sober Living and Addiction Treatment Centers
 
 [Addiction Treatment Centers in Vermont - Behave Bridge](https://bridge.behavehealth.com/rehabs/vermont)
 
-[Regulations on Sober Living Homes in the United States - Part 1 ](../../../2021/8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.html)
+[Regulations on Sober Living Homes in the United States - Part 1 ](/2021/8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1)
 
-[Regulations on Sober Living Homes in the United States - Part 2](../../../2021/8/17/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2.html)
+[Regulations on Sober Living Homes in the United States - Part 2](/2021/8/17/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2)
 
 ## Thinking of Opening a Sober Living Home in Vermont? We Help Sober Living Succeed. 
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

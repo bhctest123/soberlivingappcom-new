@@ -36,7 +36,7 @@ HB462 adds additional terms to the certification requirements for sober living h
 
 Finally, Kentucky also recently passed [The Somerset Resolution](<https://www.kentucky.com/news/politics-government/article284574435.html>), which is designed to impede sober living home operators from actively recruiting sober living home residents from out-of-state and signing them up for Medicaid benefits inside Kentucky. This has been an ongoing problem in the state. 
 
-  
+ 
 In Kentucky, the NARR affiliate is called [Kentucky Recovery Housing Network (KRHN)](<https://www.chfs.ky.gov/agencies/dbhdid/Pages/krhn.aspx>). Unlike other NARR affiliates, KRHN is nested inside the Department of Behavioral Health, Developmental and Intellectual Disabilities. It’s a state-run organization rather than an independent non-profit, like many other NARR affiliates. 
 
 For more on sober living and addiction treatment center management in Kentucky, see:

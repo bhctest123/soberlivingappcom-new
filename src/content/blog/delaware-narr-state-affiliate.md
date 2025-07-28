@@ -90,15 +90,15 @@ Recent Statistics:
 
 ## Step-by-Step Guide for FSARR
 
-  1. Understand the Standards: Familiarize yourself with NARR's Standard 3.0.
+ 1. Understand the Standards: Familiarize yourself with NARR's Standard 3.0.
 
-  2. Seek Certification: Apply for certification through FSARR.
+ 2. Seek Certification: Apply for certification through FSARR.
 
-  3. Training: Engage in ongoing education and training to ensure compliance.
+ 3. Training: Engage in ongoing education and training to ensure compliance.
 
-  4. Quality Assurance: Implement regular audits to maintain standards.
+ 4. Quality Assurance: Implement regular audits to maintain standards.
 
-  5. Advocacy: Participate in advocacy efforts to support policy changes.
+ 5. Advocacy: Participate in advocacy efforts to support policy changes.
 
 ## 5 Expert Tips
 

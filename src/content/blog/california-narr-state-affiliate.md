@@ -11,7 +11,7 @@ imageAlt: "California NARR State Affiliate"
 ---
 
 ## Understanding the Role and Impact of the California NARR State Affiliate  
-  
+ 
 
 In the landscape of addiction recovery, the influence of state affiliates like the California NARR State affiliate cannot be overstated. Here, Behave Health explores the multifaceted role this affiliate plays in enhancing the quality and accessibility of recovery housing in California, offering insights into its operations, significance, and the broader implications for stakeholders in the healthcare sector.
 
@@ -91,15 +91,15 @@ Statistics:
 
 Here are 5 expert tips for effective engagement with the California NARR State affiliate:
 
-  1. Stay Informed: Regularly check updates from NARR and CCAPP regarding changes in standards or regulations [[National Alliance for Recovery Residences](<https://narronline.org/>)].
+ 1. Stay Informed: Regularly check updates from NARR and CCAPP regarding changes in standards or regulations [[National Alliance for Recovery Residences](<https://narronline.org/>)].
 
-  2. Engage with the Community: Participate in industry conferences and workshops to network and learn from peers [[Join Behave Health at the the 2023 NARR Conference in Dearborn Michigan Oct 9th - 11th](<https://behavehealth.com/blog/2023/10/9/join-behave-health-at-the-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th>)].
+ 2. Engage with the Community: Participate in industry conferences and workshops to network and learn from peers [[Join Behave Health at the the 2023 NARR Conference in Dearborn Michigan Oct 9th - 11th](<https://behavehealth.com/blog/2023/10/9/join-behave-health-at-the-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th>)].
 
-  3. Implement Best Practices: Ensure your recovery home adheres to NARR's best practices for resident safety and support.
+ 3. Implement Best Practices: Ensure your recovery home adheres to NARR's best practices for resident safety and support.
 
-  4. Seek Certification: Even if not mandatory, certification can enhance your home's reputation and attract more residents.
+ 4. Seek Certification: Even if not mandatory, certification can enhance your home's reputation and attract more residents.
 
-  5. Advocate for Change: Support legislative efforts to improve recovery housing quality and availability [[Planned Parenthood Affiliates of California Releases 2023 Legislative Scorecard](<https://www.plannedparenthoodaction.org/planned-parenthood-affiliates-california/media/ppac-releases-2023-legislative-scorecard>)].
+ 5. Advocate for Change: Support legislative efforts to improve recovery housing quality and availability [[Planned Parenthood Affiliates of California Releases 2023 Legislative Scorecard](<https://www.plannedparenthoodaction.org/planned-parenthood-affiliates-california/media/ppac-releases-2023-legislative-scorecard>)].
 
 ## Compliance and Regulation
 
@@ -135,7 +135,7 @@ The California NARR State affiliate, CCAPP, plays an indispensable role in shapi
 
 Explore BehaveHealth.com's Solutions: If you're involved in or interested in recovery housing, explore how BehaveHealth.com can assist with managing your recovery home through our comprehensive software solutions, designed to streamline operations, enhance compliance, and support resident success [[https://behavehealth.com](<https://behavehealth.com/>)].
 
-  
-  
+ 
+ 
 
 Last Updated: November 5, 2024

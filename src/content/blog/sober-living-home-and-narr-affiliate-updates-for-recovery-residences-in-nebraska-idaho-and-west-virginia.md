@@ -40,11 +40,11 @@ Although Nebraska struggles with [discrimination against sober living home resid
 
 Presently, Nebraska sober living homes don’t face mandatory certification, and there doesn’t appear to be much movement towards increased regulation in this state yet, despite rising regulations throughout the country for sober living homes. 
 
-In Nebraska, sober living homes are differentiated from care homes for people who require assistance with everyday living, such as care homes for the elderly or for the intellectually impaired. Sober living homes don’t provide the daily, hands-on care that care homes do, so they are considered to be “self-run programs.” “Self-run programs” don’t require certification to operate in Nebraska.  
+In Nebraska, sober living homes are differentiated from care homes for people who require assistance with everyday living, such as care homes for the elderly or for the intellectually impaired. Sober living homes don’t provide the daily, hands-on care that care homes do, so they are considered to be “self-run programs.” “Self-run programs” don’t require certification to operate in Nebraska. 
 
 For more on behavioral health business and sober living in Nebraska, see:
 
-[Your Questions About Opening a Sober Living Home in Nebraska, Answered](../../../2023/1/17/your-questions-about-opening-a-sober-living-home-in-nebraska-answered.html)
+[Your Questions About Opening a Sober Living Home in Nebraska, Answered](/2023/1/17/your-questions-about-opening-a-sober-living-home-in-nebraska-answered)
 
 [Are Behavioral Health Peer Support Services Covered in Kansas, Mississippi, New Mexico, Nebraska, or North Dakota for Sober Living Homes?](/sober-living-app-blog/are-behavioral-health-peer-support-services-covered-in-kansas-mississippi-new-mexico-nebraska-or-north-dakota-for-sober-living-homes)
 
@@ -56,7 +56,7 @@ Idaho is another state that has no NARR (National Association of Recovery Reside
 
 Idaho doesn’t keep count of the number of sober living homes in operation in the state because they aren’t regulated by any official body nor are they subjected to [certification requirements](https://www.idahopress.com/news/local/idaho-does-not-regulate-sober-living-facilities-some-boise-residents-are-concerned-about-that/article_688de923-320c-5296-bbbe-5aa843b0b1b8.html). However, in 2017, [one news article](https://www.idahostatesman.com/news/local/community/boise/article142233904.html#storylink=cpy) reported that there were 17 different behavioral health businesses operating 47 different sober living homes, all of them accepting BPA Health dollars. 
 
-Recently, a neighborhood in West Boise banded [together to resist construction](https://www.kivitv.com/west-boise/west-boise-residents-raise-concerns-over-proposed-housing-project) of a shelter assisting people in risk of homelessness. During the comment period, one neighbor claimed that the West Boise neighborhood, in particular, is “saturated with sober living homes.”  
+Recently, a neighborhood in West Boise banded [together to resist construction](https://www.kivitv.com/west-boise/west-boise-residents-raise-concerns-over-proposed-housing-project) of a shelter assisting people in risk of homelessness. During the comment period, one neighbor claimed that the West Boise neighborhood, in particular, is “saturated with sober living homes.” 
 
 Although there are no new restrictions and regulations placed on sober living home operators in Idaho, it is worth saying that In Idaho, only eight unrelated people can live in a typical single-family household according to the state’s laws. Some sober living homes in Idaho have been found to be in violation of this law, so would-be operators should take note of that restriction. Although it’s not sober living-specific, it applies to all homes that are zoned for single-family occupation, regardless of their status as sober living homes.
 
@@ -68,17 +68,17 @@ Although there are no new restrictions and regulations placed on sober living ho
 
 ![WVARR NARR affiliate west virginia sober living home recovery residence behavioral health regulation certification news updates](/images/blog/sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-nebraska-idaho-and-west-virginia/Screen_Shot_2024-12-09_at_8.48.24_AM.png)
 
-West Virginia, a small but mighty state, enjoys NARR representation by WVARR - the[ West Virginia Alliance of Recovery Residences](https://wvarr.org/). In West Virginia, the [Office of Health and Facility Licensure and Certification](http://ohflac.wvdhhr.org/), a governmental organization, works in partnership with WVARR to grant certification status to sober living homes.   
+West Virginia, a small but mighty state, enjoys NARR representation by WVARR - the[ West Virginia Alliance of Recovery Residences](https://wvarr.org/). In West Virginia, the [Office of Health and Facility Licensure and Certification](http://ohflac.wvdhhr.org/), a governmental organization, works in partnership with WVARR to grant certification status to sober living homes. 
 
-Before 2024,  West Virginia sober living homes were not technically required to seek certification. It was only when they wanted to accept state dollars (including Medicaid) or state-sponsored referrals that certification became mandatory for sober living homes. This is how optional certification requirements operate in many states, and this form of regulation is increasingly the norm for states that add sober living home regulations to their existing behavioral health certification programs. 
+Before 2024, West Virginia sober living homes were not technically required to seek certification. It was only when they wanted to accept state dollars (including Medicaid) or state-sponsored referrals that certification became mandatory for sober living homes. This is how optional certification requirements operate in many states, and this form of regulation is increasingly the norm for states that add sober living home regulations to their existing behavioral health certification programs. 
 
 However, this optional certification model changed in West Virginia in late 2024 with the [passage of Senate Bill 475](https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=475&year=2024&sessiontype=RS&btype=bill). Now, all sober living homes in West Virginia are required to register with the Office of Health Facility Licensure and Certification, and there are steep financial penalties for sober living homes that fail to do so. Additionally, the [bill made it explicit](https://westvirginiawatch.com/2024/02/01/senate-approves-bill-proponents-say-will-add-accountability-for-recovery-residences/) that the state’s existing patient brokering laws apply to sober living homes in West Virginia, as well. 
 
 [How to Open an Addiction Treatment Center in West Virginia](https://behavehealth.com/blog/2022/7/14/how-to-open-an-addiction-treatment-center-in-west-virginia)
 
-[Your Questions About Opening a Sober Living Home in West Virginia - Answered](../../../2023/1/24/your-questions-about-opening-a-sober-living-home-in-west-virginia-answered.html)
+[Your Questions About Opening a Sober Living Home in West Virginia - Answered](/2023/1/24/your-questions-about-opening-a-sober-living-home-in-west-virginia-answered)
 
-[West Virginia NARR State Affiliate: A Comprehensive Guide for Entrepreneurs, Healthcare Providers, and Administrators](../../../../west-virginia-narr-state-affiliate.html)
+[West Virginia NARR State Affiliate: A Comprehensive Guide for Entrepreneurs, Healthcare Providers, and Administrators](/west-virginia-narr-state-affiliate)
 
 [Treatment Facilities in West Virginia - Behave Health | Bridge](https://bridge.behavehealth.com/rehabs/west-virginia)
 

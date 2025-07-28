@@ -84,7 +84,7 @@ Here’s a few things to consider first:
 
 Integrating MAT patients into your sober living home is a lot of work. 
 
-Keeping track of clinics, doctors, medications, information releases, dosages, and dosing times puts an extra strain on your staff. With BehaveHealth’s Sober Living App, you can keep track of all of this information with ease. Designed specifically for sober living homes like yours, the Sober Living App is cloud-based, which means it can be accessed from any device , anywhere and at any time. Get your [free trial](https://behavehealth.com/get-started) today.  
+Keeping track of clinics, doctors, medications, information releases, dosages, and dosing times puts an extra strain on your staff. With BehaveHealth’s Sober Living App, you can keep track of all of this information with ease. Designed specifically for sober living homes like yours, the Sober Living App is cloud-based, which means it can be accessed from any device , anywhere and at any time. Get your [free trial](https://behavehealth.com/get-started) today. 
 
 Tagged: [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App), [MAT](/sober-living-app-blog/tag/MAT), [drug testing](https://soberlivingapp.com/sober-living-app-blog/tag/drug+testing), [clinical operations](https://soberlivingapp.com/sober-living-app-blog/tag/clinical+operations), [staff training](https://soberlivingapp.com/sober-living-app-blog/tag/staff+training), [lockboxes](/sober-living-app-blog/tag/lockboxes), [medication](/sober-living-app-blog/tag/medication), [12 steps](https://soberlivingapp.com/sober-living-app-blog/tag/12+steps)
 

@@ -36,7 +36,7 @@ Today, we’ll look at what it takes to open a sober living home, transitional h
 
 If you are planning on opening a sober living home in Georgia, do not expect the laissez-faire approach to regulation to continue in the near future. Georgia’s lawmakers have indicated that they are not happy with this state affairs.
 
-In July of 2021, Georgia’s General Assembly passed [Senate Bill 4 (aka SB 4)](https://www.legis.ga.gov/legislation/58874), which should send a strong signal to would-be sober living home operators that the state’s lawmakers are beginning to consider regulating sober living homes in Georgia. SB 4 bans sober living homes from engaging in unethical patient brokering, making “finder’s fees” and “referral fees” a prosecutable offense. SB 4 also cracks down on fraudulent insurance billing practices that some bad actors engage in with excessive drug testing. The bill passed the Senate unanimously.  
+In July of 2021, Georgia’s General Assembly passed [Senate Bill 4 (aka SB 4)](https://www.legis.ga.gov/legislation/58874), which should send a strong signal to would-be sober living home operators that the state’s lawmakers are beginning to consider regulating sober living homes in Georgia. SB 4 bans sober living homes from engaging in unethical patient brokering, making “finder’s fees” and “referral fees” a prosecutable offense. SB 4 also cracks down on fraudulent insurance billing practices that some bad actors engage in with excessive drug testing. The bill passed the Senate unanimously. 
 
 ## Plan for More Regulations - Mandatory Certification and Legal Definitions or Requirements - to Hit Sober Living Homes in Georgia Soon 
 

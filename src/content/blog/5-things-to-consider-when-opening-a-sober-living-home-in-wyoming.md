@@ -36,7 +36,7 @@ There is an unmet need for recovery housing in Wyoming. Read on to learn more ab
 
 Sober living homes aren’t universally required to seek certification in Wyoming. However, if you want to accept public housing dollars or state funding of any kind at your recovery residence, you’ll need to complete the same certification process that addiction treatment centers and other levels of care go through in Wyoming. 
 
-The process is a bit unusual in Wyoming. According to a [National Overview of Recovery Housing created by MHACBO](../../../../../mhacbo.org/media/NATIONAL.OVERVIEW.RECOVERY.HOUSING.January.2020.pdf), Wyoming is one of only two states in the nation that has created its own certification rules and regulations independent of NARR affiliated standards. The other state that does this is Arkansas. There is no third-party non-profit organization you’ll be dealing with during the certification process, instead, you’ll deal directly with the Department of Health. 
+The process is a bit unusual in Wyoming. According to a [National Overview of Recovery Housing created by MHACBO](/mhacbo.org/media/NATIONAL. OVERVIEW. RECOVERY. HOUSING. January.2020.pdf), Wyoming is one of only two states in the nation that has created its own certification rules and regulations independent of NARR affiliated standards. The other state that does this is Arkansas. There is no third-party non-profit organization you’ll be dealing with during the certification process, instead, you’ll deal directly with the Department of Health. 
 
 ## Wyoming Calls Certified Sober Living Homes “Supportive Transitional Drug-Free Housing Services” 
 
@@ -48,9 +48,9 @@ It can be helpful to have this term in mind when you are searching for laws and 
 
 ## You’ll Find All the Laws About Certified Sober Living Homes in the State of Wyoming Department of Health’s Rules and Regulations for Substance Abuse Standards 
 
-Chapters one through seven of the [Wyoming Department of Health’s Rules and Regulations for Substance Abuse Standards](../../../../../wyoleg.gov/ARULES/2009/AR09-062Substance.pdf) lay out all of the rules for certified sober living in the state. 
+Chapters one through seven of the [Wyoming Department of Health’s Rules and Regulations for Substance Abuse Standards](/wyoleg.gov/ARULES/2009/AR09-062Substance.pdf) lay out all of the rules for certified sober living in the state. 
 
-Section three, in particular, covers “supportive transitional drug-free housing services,” so pay careful attention to that section.  
+Section three, in particular, covers “supportive transitional drug-free housing services,” so pay careful attention to that section. 
 
 How does Wyoming define “sober living home?” Section 3(b) of the Rules and Regulations for Substance Abuse Standards defines sober living as: 
 
@@ -72,7 +72,7 @@ Wyoming’s [certification program for recovery residences](https://health.wyo.g
 
 According to Wyoming law, the state has 60 days to approve or deny your application. The review “may” include an on-site inspection, depending on the availability of inspection staff. Should your facility not meet the state’s standards, you’ll be given 15 business days to share your plan to remedy the issues the state has found with your application. 
 
-Unlike other states, which offer a lot of external, publicly available information on the certification process, Wyoming’s  process is somewhat opaque.
+Unlike other states, which offer a lot of external, publicly available information on the certification process, Wyoming’s process is somewhat opaque.
 
 ## Other Posts About Wyoming Sober Living and Addiction Treatment Centers
 
@@ -86,7 +86,7 @@ Unlike other states, which offer a lot of external, publicly available informati
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

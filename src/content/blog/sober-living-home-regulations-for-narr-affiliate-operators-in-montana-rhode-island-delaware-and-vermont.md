@@ -34,15 +34,15 @@ Montana has been roiled in recent years by sober living home fraud scandals, ran
 
 In response, the Montana sober living home community formed [RRAM](https://www.rramontana.org) in partnership with the Montana Department of Health and Human Services and the NADC. As the state’s NARR affiliate, RRAM has been issuing voluntary certifications to sober living homes that meet stringent criteria since 2023. 
 
-Simultaneously, Montana’s government began seeking increased regulations for the state’s  [largely unregulated sober living home industry](https://montanafreepress.org/2023/01/03/the-unregulated-world-of-montanas-sober-living-recovery-homes/). While Montana still allows some sober living homes to remain uncertified, several different government agencies have [begun enacting modest reforms](https://nbcmontana.com/news/local/sober-living-home-operators-push-back-against-oversight-bill). 
+Simultaneously, Montana’s government began seeking increased regulations for the state’s [largely unregulated sober living home industry](https://montanafreepress.org/2023/01/03/the-unregulated-world-of-montanas-sober-living-recovery-homes/). While Montana still allows some sober living homes to remain uncertified, several different government agencies have [begun enacting modest reforms](https://nbcmontana.com/news/local/sober-living-home-operators-push-back-against-oversight-bill). 
 
-With the passage of [Senate Bill 94](https://apps.montanafreepress.org/capitol-tracker-2023/bills/sb-94/?_gl=1*16r4d1b*_ga*YW1wLVNLMTRpcUdCRk9rZjJQanQtd1dkY2c.), Montana opened a state-wide registry for sober living homes, and began requiring sober living home operators to provide proof of certification if they wish to solicit referrals from government entities, such as those frequently made by judges, prisons, or probation and parole officers.   
+With the passage of [Senate Bill 94](https://apps.montanafreepress.org/capitol-tracker-2023/bills/sb-94/?_gl=1*16r4d1b*_ga*YW1wLVNLMTRpcUdCRk9rZjJQanQtd1dkY2c.), Montana opened a state-wide registry for sober living homes, and began requiring sober living home operators to provide proof of certification if they wish to solicit referrals from government entities, such as those frequently made by judges, prisons, or probation and parole officers. 
 
 Montana sober living home operators may also be interested in these posts:
 
 [Medicaid Unwinding and State Behavioral Health in Montana, Minnesota, New York, Arizona, Colorado, Tennessee, and Washington](https://behavehealth.com/blog/2023/4/17/medicaid-unwinding-and-state-behavioral-health-in-montana-minnesota-new-york-arizona-colorado-tennessee-and-washington)
 
-[How to Open a Sober Living Home in Montana](../../../2022/12/13/how-to-open-a-sober-living-home-in-montana.html)
+[How to Open a Sober Living Home in Montana](/2022/12/13/how-to-open-a-sober-living-home-in-montana)
 
 [Opioid settlement funding updates for sober living homes in Hawaii, Maine, Montana, New Hampshire, Rhode Island](/sober-living-app-blog/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island)
 
@@ -56,7 +56,7 @@ It’s not news that sober living homes are required to provide proof of certifi
 
 However, who provides that certification service has changed recently. In the past, an organization called The Ocean State Coalition of Recovery Houses, or[ ](https://www.recoveryhousingri.com/)OSCRH, was the NARR affiliate for the state of Rhode Island. Awkwardly, OSCRH was not chosen by the state to oversee the optional certification program. Instead, the state went through [RICARES](https://ricares.org/), an old and long-established recovery community advocacy agency, to oversee the certification program. Since then, OSCRH seems to have disappeared. RICARES has now replaced the organization as the official NARR affiliate for Rhode Island. 
 
-Our older post, [Thinking of Opening a Sober Living Home in Rhode Island?, ](../../../2023/2/7/thinking-of-opening-a-sober-living-home-in-rhode-islandnbsp.html)was written before RICARES replaced OSCRH as the official NARR affiliate for the state. 
+Our older post, [Thinking of Opening a Sober Living Home in Rhode Island?, ](/2023/2/7/thinking-of-opening-a-sober-living-home-in-rhode-islandnbsp)was written before RICARES replaced OSCRH as the official NARR affiliate for the state. 
 
 If you operate a sober living home in Rhode Island, you may also be interested in these posts:
 
@@ -70,13 +70,13 @@ If you operate a sober living home in Rhode Island, you may also be interested i
 
 Delaware has seen a lot of regulatory activity for sober living homes and NARR affiliates in recent years. 
 
-First, after a long fight, Delaware finally passed some initial sober living home regulations. At least 3 other attempts failed - including [House Bill 245](https://legis.delaware.gov/BillDetail?LegislationId=47798), [House Bill 412](https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=109517&legislationTypeId=1&docTypeId=2&legislationName=HB421), and [House Bill 412](https://fastdemocracy.com/bill-search/de/151/bills/DEB00004717/) \- but House Bill 114 finally brought Delaware into the fold. As of early 2024, sober living homes are [required to provide proof of certification](https://www.wdel.com/news/delaware-begins-certification-process-for-recovery-residences/article_4a6d16a2-1872-11ef-84f0-9f9087e55412.html) if they want to accept state funding or referrals. HB 114 also created a centralized state registry for certified sober living homes. 
+First, after a long fight, Delaware finally passed some initial sober living home regulations. At least 3 other attempts failed - including [House Bill 245](https://legis.delaware.gov/BillDetail? LegislationId=47798), [House Bill 412](https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=109517&legislationTypeId=1&docTypeId=2&legislationName=HB421), and [House Bill 412](https://fastdemocracy.com/bill-search/de/151/bills/DEB00004717/) \- but House Bill 114 finally brought Delaware into the fold. As of early 2024, sober living homes are [required to provide proof of certification](https://www.wdel.com/news/delaware-begins-certification-process-for-recovery-residences/article_4a6d16a2-1872-11ef-84f0-9f9087e55412.html) if they want to accept state funding or referrals. HB 114 also created a centralized state registry for certified sober living homes. 
 
-Second, Delaware recently gained its [own NARR affiliate](https://narronline.org/affiliate/first-state-alliance-of-recovery-residences/), FSARR, short for the [First State Alliance of Recovery Residences](https://fsarr.org/about/). FSARR began issuing certifications to sober living homes early 2024, as well. FSARR was chosen by the state to administer the voluntary certification program.   
+Second, Delaware recently gained its [own NARR affiliate](https://narronline.org/affiliate/first-state-alliance-of-recovery-residences/), FSARR, short for the [First State Alliance of Recovery Residences](https://fsarr.org/about/). FSARR began issuing certifications to sober living homes early 2024, as well. FSARR was chosen by the state to administer the voluntary certification program. 
 
 [What Addiction Treatment CPT Codes Require Pre-Certification at Highmark, Inc.?](https://behavehealth.com/blog/2022/6/7/what-addiction-treatment-cpt-codes-require-pre-certification-at-highmark-inc)
 
-[FAQ About Opening a Sober Living Home in Delaware](../../../2023/2/13/faq-about-opening-a-sober-living-home-in-delaware.html)
+[FAQ About Opening a Sober Living Home in Delaware](/2023/2/13/faq-about-opening-a-sober-living-home-in-delaware)
 
 [List of Addiction Treatment Centers in Delaware - Behave Bridge](https://bridge.behavehealth.com/rehabs/delaware)
 
@@ -94,7 +94,7 @@ Some [commenters](https://vtdigger.org/2024/05/07/tom-dalton-stripping-standard-
 
 If you’re active in the sober living home community in Vermont, you may also be interested in: 
 
-[Everything You Need to Know About Opening a Sober Living Home in Vermont ](../../../2023/2/27/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp.html)
+[Everything You Need to Know About Opening a Sober Living Home in Vermont ](/2023/2/27/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp)
 
 [Are Behavioral Health Peer Support Services Covered in Idaho, West Virginia, Hawaii, New Hampshire, and Vermont for Sober Living Homes?](/sober-living-app-blog/are-behavioral-health-peer-support-services-covered-in-idaho-west-virginia-hawaii-new-hampshire-and-vermont-for-sober-living-homes)
 

@@ -24,7 +24,7 @@ Halfway house programs often patch together funding from multiple places. Here a
 
 ### 1\. Federal Government Grants
 
-The U.S. government provides a variety of grants that halfway houses can benefit from, especially if you operate as a nonprofit. Here are some key federal grant opportunities:
+The U. S. government provides a variety of grants that halfway houses can benefit from, especially if you operate as a nonprofit. Here are some key federal grant opportunities:
 
   * **SAMHSA Grants (Substance Abuse and Mental Health Services Administration):** SAMHSA is a federal agency that funds substance use treatment and recovery support services. If your halfway house serves people recovering from addiction, SAMHSA programs are highly relevant. For example, SAMHSA’s _Grants for the Benefit of Homeless Individuals (GBHI)_ program funds community-based treatment along with housing support for people with substance use disorders. Similarly, many states receive SAMHSA’s _State Opioid Response (SOR)_ grants, and some of those dollars are used to support recovery housing for individuals on medications for opioid use disorder ([Best Practices for Recovery Housing](<../../../../../library.samhsa.gov/sites/default/files/pep23-10-00-002.pdf#:~:text=that%20has%20ravaged%20the%20nation,MOUD>)). Keep an eye on SAMHSA’s grant announcements for opportunities focusing on recovery housing or supportive services – landing one of these can significantly bolster your halfway house’s resources.
 

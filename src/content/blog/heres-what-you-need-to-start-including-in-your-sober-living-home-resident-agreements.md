@@ -32,7 +32,7 @@ You’re probably already including rules around staying sober, finding work and
 
 While these areas make up the core of your new resident agreement, there’s a few key components to new resident agreements that are frequently missing. 
 
-Too often, [sober living home operators and managers](https://soberlivingapp.com/sober-living-app-blog/2020/3/3/5-things-all-of-the-best-sober-living-home-managers-have-in-common) don’t realize how important these elements are until it’s too late. It’s much more difficult to run an orderly sober living home when resident agreements leave portions of the tenant-sober living home relationship up to interpretation.  
+Too often, [sober living home operators and managers](https://soberlivingapp.com/sober-living-app-blog/2020/3/3/5-things-all-of-the-best-sober-living-home-managers-have-in-common) don’t realize how important these elements are until it’s too late. It’s much more difficult to run an orderly sober living home when resident agreements leave portions of the tenant-sober living home relationship up to interpretation. 
 
 Today we’ll look at some of the most overlooked components of new resident agreements for sober living homes. 
 
@@ -54,7 +54,7 @@ These rights frame the “do’s and dont’s” of sober living in affirming, r
 
 ![There will be disagreements and other interpersonal problems at your sober living home. How will you deal with it?](/images/blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements/Screenshot_2020-06-25_at_8.25.21_AM.png)
 
-What happens when significant disagreements arise between [residents](https://soberlivingapp.com/sober-living-app-blog/2020/2/18/find-your-people-defining-your-ideal-sober-living-home-resident) at your sober living home? Your new resident agreement should lay out the specific process that each grievance should follow so there are no surprises.  
+What happens when significant disagreements arise between [residents](https://soberlivingapp.com/sober-living-app-blog/2020/2/18/find-your-people-defining-your-ideal-sober-living-home-resident) at your sober living home? Your new resident agreement should lay out the specific process that each grievance should follow so there are no surprises. 
 
 ## Non-discrimination Policy
 
@@ -70,7 +70,7 @@ Check with your legal team to see what would be appropriate to include for your 
 
 What happens during emergency situations at your sober living home? 
 
-This procedure should be brief and easy to follow in the event of an actual emergency. It should outline the “chain of command” at your sober living home should the [usual manager be incapacitated or absent](../2/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review.html) in some way. 
+This procedure should be brief and easy to follow in the event of an actual emergency. It should outline the “chain of command” at your sober living home should the [usual manager be incapacitated or absent](/2/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review) in some way. 
 
 ## Probationary Period
 

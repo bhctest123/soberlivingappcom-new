@@ -94,8 +94,8 @@ Each of these celebration interactions gives your alumni another reason to talk 
 
 ## Choose a Software Solution that Serves Residents—and Alumni 
 
-At the [Sober Living App](/), we specialize in easy-to-use, comprehensive software for sober living home operators. We understand the power that alumni have in driving successful recovery communities like yours. Why not give our all-in-one solution a try today? [Claim your free trial now. ](https://signup.behavehealth.com/?product=sober_living_app)﻿  
-  
+At the [Sober Living App](/), we specialize in easy-to-use, comprehensive software for sober living home operators. We understand the power that alumni have in driving successful recovery communities like yours. Why not give our all-in-one solution a try today? [Claim your free trial now. ](https://signup.behavehealth.com/?product=sober_living_app)﻿ 
+ 
 
 Tagged: [alumni](/sober-living-app-blog/tag/alumni), [discharge planning](https://soberlivingapp.com/sober-living-app-blog/tag/discharge+planning), [recovery community](/sober-living-app-blog/tag/recovery+community), [reunions](/sober-living-app-blog/tag/reunions), [outcomes data](/sober-living-app-blog/tag/outcomes+data)
 

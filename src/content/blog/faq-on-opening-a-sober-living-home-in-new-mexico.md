@@ -38,7 +38,7 @@ There have been reports that disreputable patient brokers have [attempted to spe
 
 ![new mexico has no regulations for sober living homes recovery residences halfway houses](/images/blog/faq-on-opening-a-sober-living-home-in-new-mexiconbsp/Screen_Shot_2023-01-10_at_3.56.16_PM.png)
 
-According to The Mental Health & Addiction Certification Board of Oregon’s [National Overview of Recovery Housing Accreditation Legislation and Licensing](https://mhacbo.org/media/NATIONAL.OVERVIEW.RECOVERY.HOUSING.January.2020.pdf), there is “no current private or state accreditation and none under development” for sober living homes in New Mexico. 
+According to The Mental Health & Addiction Certification Board of Oregon’s [National Overview of Recovery Housing Accreditation Legislation and Licensing](https://mhacbo.org/media/NATIONAL. OVERVIEW. RECOVERY. HOUSING. January.2020.pdf), there is “no current private or state accreditation and none under development” for sober living homes in New Mexico. 
 
 ## Are sober living homes allowed in residential areas in New Mexico?
 
@@ -64,7 +64,7 @@ New Mexico does not currently have a NARR affiliate. The [NARR website](https://
 
 ## Links of Interest to New Mexico Sober Living Business Owners and Operators
 
-[Opening an Addiction Treatment Center in New Mexico? Here’s What You Need to Know.  ](https://behavehealth.com/blog/2022/3/17/opening-an-addiction-treatment-center-in-new-mexico-heres-what-you-need-to-know-nbsp)
+[Opening an Addiction Treatment Center in New Mexico? Here’s What You Need to Know. ](https://behavehealth.com/blog/2022/3/17/opening-an-addiction-treatment-center-in-new-mexico-heres-what-you-need-to-know-nbsp)
 
 [What Addiction Treatment Diagnosis Codes Should I Use for URs With Health Care Service Corporation?](https://behavehealth.com/blog/2022/4/29/what-addiction-treatment-diagnosis-codes-should-i-use-for-urs-with-health-care-service-corporation) (HCSC is a licensee of Blue Cross Blue Shield in New Mexico)
 
@@ -76,7 +76,7 @@ New Mexico does not currently have a NARR affiliate. The [NARR website](https://
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

@@ -70,7 +70,7 @@ Yes. Here’s the state-by-state breakdown:
 
 California Peer Support Services Coverage: Both mental health and behavioral health peer support services are covered without limitation for Medical patients. There are no copay requirements.
 
-Texas Peer Support Services Coverage: Peer support services are covered in Texas and there is no copay to access these services for Medicaid patients. There is one limitation, however. Only 104 units (15 minutes per unit) may be billed within any one 6 month period, unless a documented medical necessity exists for additional units.  
+Texas Peer Support Services Coverage: Peer support services are covered in Texas and there is no copay to access these services for Medicaid patients. There is one limitation, however. Only 104 units (15 minutes per unit) may be billed within any one 6 month period, unless a documented medical necessity exists for additional units. 
 
 Florida Peer Support Services Coverage: Florida Medicaid covers peer support services without requiring any copay. However, only one 15-minute unit of service may be accessed for every day within a calendar year. 
 
@@ -94,7 +94,7 @@ Pennsylvania Peer Support Services Coverage: Pennsylvania Medicaid covers peer s
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
@@ -106,4 +106,4 @@ Share
 
 Newer Post: What CPT Billing Code Should Sober Living Homes Use for Peer Support Services in Illinois, Ohio, Georgia, North Carolina, and Michigan?
 
-Older Post: Opioid Settlement Funding Updates for Sober Living Homes in South Dakota, North Dakota, Alaska, Washington D.C., and Wyoming
+Older Post: Opioid Settlement Funding Updates for Sober Living Homes in South Dakota, North Dakota, Alaska, Washington D. C., and Wyoming

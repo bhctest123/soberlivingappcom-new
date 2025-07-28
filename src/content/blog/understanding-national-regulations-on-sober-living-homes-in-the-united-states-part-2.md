@@ -30,7 +30,7 @@ The sober living home community is facing more and more regulation every year. T
 
 In [Part 1](https://soberlivingapp.com/sober-living-app-blog/2021/8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1), we covered licensing requirements in Utah, New Jersey and Arizona, voluntary certification programs in Florida, Maryland, Massachusetts, Missouri, Rhode Island, Pennsylvania and Illinois, as well as referral partnership restrictions in Florida. 
 
-Today, we’ll cover state funding restrictions and local nuisance lawsuits at the city and county level that might affect your sober living home business, depending on your location. Remember, a lot of these restrictions begin in one state and spread to other states. It also seems likely that we’ll eventually see regulation at the federal level, although we’ve seen little in the way of concrete movement in that direction so far.  
+Today, we’ll cover state funding restrictions and local nuisance lawsuits at the city and county level that might affect your sober living home business, depending on your location. Remember, a lot of these restrictions begin in one state and spread to other states. It also seems likely that we’ll eventually see regulation at the federal level, although we’ve seen little in the way of concrete movement in that direction so far. 
 
 ## State Funding Restrictions on Unlicensed Sober Living Homes Seen in Several States 
 
@@ -50,7 +50,7 @@ Illinois is the only state with a voluntary certification program that doesn’t
 
 The sober living home has a long-documented problem with NIMBYism that we’ve spoken about [on this blog several times](https://soberlivingapp.com/sober-living-app-blog/2019/11/19/dealing-with-nimbys-at-your-sober-living-housenbsp). This problem is likely to increase, not decrease, as we continue to see courts erode the ADA and FHA protections afforded to people who are diagnosed with Substance Use Disorder (SUD). 
 
-Consider the case of [Crown Point, Indiana](https://www.nwitimes.com/news/halfway-house-amid-crown-point-family-homes-angers-residents-prompts-city-lawsuit/article_3f3eb707-5ca0-5949-96e1-ab986d74d4ab.html), where the city is seeking a permanent injunction, as well as judgement, against sober living home operators CapGrow and Pinnacle Treatment Centers. The city alleges that these operators are in violation of the zoning code for operating a sober living home in a single family residential area. The lawsuit also alleges that the sober living home’s code violations “constitutes a nuisance under Indiana Code.” 
+Consider the case of [Crown Point, Indiana](https://www.nwitimes.com/news/halfway-house-amid-crown-point-family-homes-angers-residents-prompts-city-lawsuit/article_3f3eb707-5ca0-5949-96e1-ab986d74d4ab.html), where the city is seeking a permanent injunction, as well as judgment, against sober living home operators CapGrow and Pinnacle Treatment Centers. The city alleges that these operators are in violation of the zoning code for operating a sober living home in a single family residential area. The lawsuit also alleges that the sober living home’s code violations “constitutes a nuisance under Indiana Code.” 
 
 "Defendants' violations of the zoning code also are offensive to the senses and interfere with the comfortable enjoyment of life or property, and therefore constitute a nuisance under Indiana Code Section 32-30-6-6."
 

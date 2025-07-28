@@ -38,7 +38,7 @@ Today we’ll go over some of the new features of the new resident application a
 
 Our new resident application is all cloud-based so your prospective residents won’t have to hassle with the logistics of paper applications. Simply send interested parties a link pointing towards your application. We take it from there. 
 
-When a new application is submitted, you are instantly notified. All of the information your prospect entered into their application is automatically populated into the Sober Living App’s [powerful CRM](../../../../features.html#features-overview), which means you’ll never waste another minute on needless data entry while [processing new residents](/sober-living-app-blog/mastering-admissions-at-your-sober-living-home). When the application is accepted and the prospect is assigned a move-in date, converting their file to a “resident” file happens with the click of a button.  
+When a new application is submitted, you are instantly notified. All of the information your prospect entered into their application is automatically populated into the Sober Living App’s [powerful CRM](/features.html#features-overview), which means you’ll never waste another minute on needless data entry while [processing new residents](/sober-living-app-blog/mastering-admissions-at-your-sober-living-home). When the application is accepted and the prospect is assigned a move-in date, converting their file to a “resident” file happens with the click of a button. 
 
 ## Customizable? Of Course!
 
@@ -98,7 +98,7 @@ Whether you decide to include all of the questions or pare down the application 
 
 ![Our new resident application can easily screen prospects for COVID-19. Add this option when you need it and easily drop it when the pandemic concludes.](/images/blog/introducing-our-new-resident-application-for-the-sober-living-home-app/Screenshot_2020-04-24_at_1.21.05_PM.png)
 
-Our new resident application makes it easy to include standard [COVID-19 screening questions](../21/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week.html), such as:
+Our new resident application makes it easy to include standard [COVID-19 screening questions](/21/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week), such as:
 
   *  “Are you at risk for exposure to any infectious diseases, or have you been in contact with someone who has?”
 
@@ -106,13 +106,13 @@ Our new resident application makes it easy to include standard [COVID-19 screeni
 
   * “Have you traveled outside of the country in the last 30 days?
 
-As the science and regulations around COVID-19 evolve, we will continue to update the new resident application. We will ensure that you have up-to-date access to the information you may need to gather for infectious disease risk assessments of prospective residents.  
+As the science and regulations around COVID-19 evolve, we will continue to update the new resident application. We will ensure that you have up-to-date access to the information you may need to gather for infectious disease risk assessments of prospective residents. 
 
 ## Our Number One Priority is Always Security
 
 ![All of our applications - including the sober living app’s new resident application - are built with HIPAA in mind. The security of your data is paramount.](/images/blog/introducing-our-new-resident-application-for-the-sober-living-home-app/Screenshot_2020-04-24_at_1.21.53_PM.png)
 
-As the premium cloud-based software provider for the addiction treatment and sober living home community, we at BehaveHealth and the Sober Living App are laser-focused on the security of your data. Everything we make—including the new resident application—[meets or exceeds the most stringent HIPAA security standards](../../../../security.html). 
+As the premium cloud-based software provider for the addiction treatment and sober living home community, we at BehaveHealth and the Sober Living App are laser-focused on the security of your data. Everything we make—including the new resident application—[meets or exceeds the most stringent HIPAA security standards](/security). 
 
 When prospective residents begin their new application, they have four hours to complete it before the page expires. If a resident doesn’t complete the application in time, we will automatically email or text them a link to their saved application so they can resume it when they’re ready. You don’t need to personally follow up with prospects who haven’t completed their application—the follow-up is all done using smart technology to save you time and money. 
 

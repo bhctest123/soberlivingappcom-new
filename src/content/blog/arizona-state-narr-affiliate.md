@@ -52,15 +52,15 @@ AzRHA’s mission aligns with broader healthcare goals by offering support to in
 
 ## Quick Facts
 
-  1. Founded: AzRHA is the official NARR affiliate in Arizona.
+ 1. Founded: AzRHA is the official NARR affiliate in Arizona.
 
-  2. Certification: AzRHA certifies sober living homes based on national standards.
+ 2. Certification: AzRHA certifies sober living homes based on national standards.
 
-  3. Coverage: AzRHA-certified homes are located throughout Arizona, from Yuma to Flagstaff.
+ 3. Coverage: AzRHA-certified homes are located throughout Arizona, from Yuma to Flagstaff.
 
-  4. Partnerships: Works with state agencies like the Department of Corrections.
+ 4. Partnerships: Works with state agencies like the Department of Corrections.
 
-  5. Mission: To ensure safe, accountable environments that foster long-term recovery.
+ 5. Mission: To ensure safe, accountable environments that foster long-term recovery.
 
 ## Detailed Breakdown of Arizona NARR State Affiliate
 
@@ -78,11 +78,11 @@ To become certified under AzRHA, recovery residences must meet several key requi
 
 ## Common Pitfalls and How to Avoid Them
 
-  1. Non-compliance with Safety Standards: Failure to meet safety requirements can result in loss of certification. Regular audits and adherence to local fire codes can mitigate this risk.
+ 1. Non-compliance with Safety Standards: Failure to meet safety requirements can result in loss of certification. Regular audits and adherence to local fire codes can mitigate this risk.
 
-  2. Lack of Structured Support: Homes without adequate support systems often see higher relapse rates among residents. Incorporating peer support programs can enhance resident outcomes.
+ 2. Lack of Structured Support: Homes without adequate support systems often see higher relapse rates among residents. Incorporating peer support programs can enhance resident outcomes.
 
-  3. Financial Mismanagement: Many homes struggle with budgeting for operational costs. Utilizing financial management tools like those offered by BehaveHealth.com can help streamline billing processes [[https://behavehealth.com](<https://behavehealth.com/>)] [5](<https://azpbs.org/horizon/2023/11/what-you-should-know-about-these-new-arizona-laws/>).
+ 3. Financial Mismanagement: Many homes struggle with budgeting for operational costs. Utilizing financial management tools like those offered by BehaveHealth.com can help streamline billing processes [[https://behavehealth.com](<https://behavehealth.com/>)] [5](<https://azpbs.org/horizon/2023/11/what-you-should-know-about-these-new-arizona-laws/>).
 
 ## Arizona NARR State Affiliate within the Healthcare System
 
@@ -102,27 +102,27 @@ For payers such as insurance companies or Medicaid programs like AHCCCS (Arizona
 
 ## Step-by-Step Guide
 
-  1. Understand Certification Requirements: Familiarize yourself with AzRHA’s certification process.
+ 1. Understand Certification Requirements: Familiarize yourself with AzRHA’s certification process.
 
-  2. Prepare Your Facility: Ensure your facility meets all safety standards before applying.
+ 2. Prepare Your Facility: Ensure your facility meets all safety standards before applying.
 
-  3. Implement Structured Programs: Incorporate peer mentoring or clinical services into your operations.
+ 3. Implement Structured Programs: Incorporate peer mentoring or clinical services into your operations.
 
-  4. Submit Your Application: Complete your certification application through AzRHA’s online portal.
+ 4. Submit Your Application: Complete your certification application through AzRHA’s online portal.
 
-  5. Maintain Compliance: Regularly review your facility’s operations to ensure ongoing compliance.
+ 5. Maintain Compliance: Regularly review your facility’s operations to ensure ongoing compliance.
 
 ## Expert Tips
 
-  1. Leverage Technology: Use digital tools like BehaveHealth.com’s billing solutions to streamline administrative tasks [[https://behavehealth.com](<https://behavehealth.com/>)] 
+ 1. Leverage Technology: Use digital tools like BehaveHealth.com’s billing solutions to streamline administrative tasks [[https://behavehealth.com](<https://behavehealth.com/>)] 
 
-  2. Engage with Local Agencies: Build relationships with local healthcare providers and correctional facilities.
+ 2. Engage with Local Agencies: Build relationships with local healthcare providers and correctional facilities.
 
-  3. Invest in Staff Training: Ensure your staff is trained in trauma-informed care.
+ 3. Invest in Staff Training: Ensure your staff is trained in trauma-informed care.
 
-  4. Monitor Resident Progress: Regularly assess residents’ progress using evidence-based tools.
+ 4. Monitor Resident Progress: Regularly assess residents’ progress using evidence-based tools.
 
-  5. Stay Informed on Policy Changes: Keep up-to-date with changes in state laws affecting recovery housing.
+ 5. Stay Informed on Policy Changes: Keep up-to-date with changes in state laws affecting recovery housing.
 
 ## Compliance and Regulation
 
@@ -138,25 +138,25 @@ Failure to comply with these laws can result in penalties or loss of certificati
 
 ## 10-point Actionable Compliance Checklist
 
-  1. Conduct regular safety audits.
+ 1. Conduct regular safety audits.
 
-  2. Ensure HIPAA-compliant data handling practices.
+ 2. Ensure HIPAA-compliant data handling practices.
 
-  3. Train staff on FHA requirements.
+ 3. Train staff on FHA requirements.
 
-  4. Implement clear resident agreements outlining house rules.
+ 4. Implement clear resident agreements outlining house rules.
 
-  5. Maintain up-to-date insurance coverage.
+ 5. Maintain up-to-date insurance coverage.
 
-  6. Monitor resident sobriety through testing protocols.
+ 6. Monitor resident sobriety through testing protocols.
 
-  7. Provide access to peer support programs.
+ 7. Provide access to peer support programs.
 
-  8. Keep detailed financial records.
+ 8. Keep detailed financial records.
 
-  9. Engage in continuous staff training.
+ 9. Engage in continuous staff training.
 
-  10. Stay informed about changes in local zoning laws.
+ 10. Stay informed about changes in local zoning laws.
 
 ## Future Trends and Updates
 
@@ -178,5 +178,5 @@ The role of the Arizona NARR State Affiliate is vital in maintaining high standa
 
 For those looking to streamline their operations while maintaining compliance, consider exploring BehaveHealth.com’s suite of billing solutions designed specifically for recovery facilities. 
 
-  
+ 
  _Last Updated_ : November 5th, 2024

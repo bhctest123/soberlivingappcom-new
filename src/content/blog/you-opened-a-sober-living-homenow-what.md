@@ -52,7 +52,7 @@ At BehaveHealth, we developed our [Sober Living App](/) to keep the management w
 
 At BehaveHealth, we make this dream a reality for our clients. 
 
-All the information [you and your staff need](../../../../housing.html) lives in one, centralized, easy-to-access location. That means all drug test results, house manager shifts, maintenance information, property management, clinical management, file storage, bed management, incident reports, and ongoing incident notes are available to you and your staff at the click of a button. 
+All the information [you and your staff need](/housing) lives in one, centralized, easy-to-access location. That means all drug test results, house manager shifts, maintenance information, property management, clinical management, file storage, bed management, incident reports, and ongoing incident notes are available to you and your staff at the click of a button. 
 
 ## Managing Sober Living Clinical Operations 
 
@@ -62,7 +62,7 @@ Are you offering clinical services at your sober living home?
 
 Keeping track of individual counseling appointments, group therapy appointments, and [insurance billing](https://behavehealth.com/blog/2019/4/2/3-secrets-of-efficient-insurance-billing-for-drug-rehabs) is probably another big item on you (or your staff’s) to-do list. 
 
-With BehaveHealth’s Sober Living App, your patients view and pay their bill online. Treatment plans, [case management notes](../../../../operations.html), and community connections (like AA meetings or other coordinated care providers) live in the cloud for quick access by all of your staff. 
+With BehaveHealth’s Sober Living App, your patients view and pay their bill online. Treatment plans, [case management notes](/operations), and community connections (like AA meetings or other coordinated care providers) live in the cloud for quick access by all of your staff. 
 
 No more juggling appointment books, no-shows, and cancellations. Your patients can view their appointments on the patient portal and their attendance is automatically logged every time they make a meeting. 
 
@@ -72,7 +72,7 @@ No more juggling appointment books, no-shows, and cancellations. Your patients c
 
 Getting and keeping your beds full and maintaining a low vacancy rate is critical to your sober living home’s success. 
 
-That’s why at BehaveHealth, we’ve made [custom tools](../../../../admission.html) to streamline the sober living admissions process and track resident leads. 
+That’s why at BehaveHealth, we’ve made [custom tools](/admission) to streamline the sober living admissions process and track resident leads. 
 
 To start, BehaveHealth’s Sober Living App’s built-in “New Resident Application Form” takes the guesswork out of screening new residents. Prospective residents access the application online and input all their information into your [CRM](https://behavehealth.com/crm#crm-overview), which then travels with them throughout the patient lifecycle, cutting down on annoying, redundant data entry. 
 
@@ -90,7 +90,7 @@ Sober living alumni can be powerful referral partners and community supporters o
 
 At BehaveHealth, we know how valuable sober living alumni are to the health of a vibrant sober living community. 
 
-That’s why we treat our client’s alumni to an [exclusive alumni portal](../../../../alumni.html) where graduates can easily stay in touch with your facility, access their discharge plan, and explore recovery resources. The alumni portal is generated automatically upon discharge, making outcome tracking, relapse intervention, and readmission, if necessary, a seamless process.   
+That’s why we treat our client’s alumni to an [exclusive alumni portal](/alumni) where graduates can easily stay in touch with your facility, access their discharge plan, and explore recovery resources. The alumni portal is generated automatically upon discharge, making outcome tracking, relapse intervention, and readmission, if necessary, a seamless process. 
 
 ## Curious About How BehaveHealth’s Sober Living App Can Streamline Management of Your Sober Living Home?
 

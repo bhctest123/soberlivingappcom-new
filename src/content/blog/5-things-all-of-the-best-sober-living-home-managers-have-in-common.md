@@ -40,7 +40,7 @@ Ask any domestic engineer: running a home is a complicated matter. There are a t
 
 Add to that the dividing and assigning chores to residents, tracking resident payments, managing group activities, scheduling [drug testing](https://soberlivingapp.com/sober-living-app-blog/2019/12/17/how-to-streamline-drug-testing-at-your-sober-living-home), arranging for home maintenance work, maintaining residence vehicles, and everything else that goes into running a sober living home smoothly and you have quite the “to do” list to contend with.
 
-Good sober living home managers are organized. They have systems (like the [Sober Living App](/), perhaps?) to keep track of everything that needs to be done. Automated reminders and easy-to-use templates make the workflow easier to manage.  
+Good sober living home managers are organized. They have systems (like the [Sober Living App](/), perhaps?) to keep track of everything that needs to be done. Automated reminders and easy-to-use templates make the workflow easier to manage. 
 
 ## Good Sober Living Home Managers are Consistent
 
@@ -72,7 +72,7 @@ Find a sober living home manager who is responsive to your texts, calls and/or e
 
 ![When good sober living home managers are in doubt, they write it down.](/images/blog/5-things-all-of-the-best-sober-living-home-managers-have-in-common/laptop-3196481_1280.jpg)
 
-There is a lot to document at a sober living home: behavioral incidents, damage reports, rent payments, drug testing results, chores. A good sober living home manager doesn’t shy away from documentation, in fact, their motto is, “when in doubt, document.” Strong documentation not only helps with smooth day-to-day operations and easy bookkeeping, but it also helps coordinate care between managers and other players in the residents’ care team. Moreover, excellent documentation acts as a kind of insurance against liability claims or other potential disputes with residents, [community members](../../../2019/11/19/dealing-with-nimbys-at-your-sober-living-housenbsp.html), or even maintenance workers. A good sober living home manager will never have to resort to “he said, she said” debates because they’ll have access to written documentation about most incidents. 
+There is a lot to document at a sober living home: behavioral incidents, damage reports, rent payments, drug testing results, chores. A good sober living home manager doesn’t shy away from documentation, in fact, their motto is, “when in doubt, document.” Strong documentation not only helps with smooth day-to-day operations and easy bookkeeping, but it also helps coordinate care between managers and other players in the residents’ care team. Moreover, excellent documentation acts as a kind of insurance against liability claims or other potential disputes with residents, [community members](/2019/11/19/dealing-with-nimbys-at-your-sober-living-housenbsp), or even maintenance workers. A good sober living home manager will never have to resort to “he said, she said” debates because they’ll have access to written documentation about most incidents. 
 
 ## Every Good Sober Living Home Manager Needs the Right Tools to Get the Job Done
 

@@ -66,7 +66,7 @@ Florida began distributing opioid settlement money last year. It [amounts to $20
 
 The state controls some of the money, counties will control another part of the money in a regional fund, and, finally, a third pool of money is set aside for direct aid to individual cities and counties which sought their own settlements.
 
-Although the state created a Statewide Council on Opioid Abatement, that entity will only monitor spending and act in an advisory capacity to governments about spending strategies that will be most impactful.   
+Although the state created a Statewide Council on Opioid Abatement, that entity will only monitor spending and act in an advisory capacity to governments about spending strategies that will be most impactful. 
 
 You can see a list of approved ways to use the opioid settlement money in Florida [here](https://nationalopioidsettlement.com/wp-content/uploads/2021/11/EXHIBIT-B.pdf). 
 
@@ -76,13 +76,13 @@ You can see a list of approved ways to use the opioid settlement money in Florid
 
 Ohio’s [rollout of a viable grant distribution program](https://www.pbs.org/newshour/nation/ohio-foundation-begins-process-to-distribute-over-860-million-in-opioid-settlement-money) for [opioid settlement money](https://ohiosettlement.org/) just began earlier this month in March 2024. Over $1 billion will ultimately be distributed by the state, with $860 million to be distributed by the [Ohio Opioid Settlement Project](https://www.oneohiofoundation.com/), created by Harm Reduction Ohio. 
 
-The [grant headquarters page](https://www.oneohiofoundation.com/grants) on the Ohio Opioid Settlement Project website is highly informative about the application process that has just opened for organizations seeking opioid settlement-backed funding. Grant registration opened March 4th, Applications will open April 2nd, and submissions are due May 3rd. You can access the OneOhio Grant Portal [here](https://goapply2.akoyago.com/ONEOHIO/Identity/Account/Login?ReturnUrl=%2FONEOHIO%2Fapplication%2FOrgRegistration). 
+The [grant headquarters page](https://www.oneohiofoundation.com/grants) on the Ohio Opioid Settlement Project website is highly informative about the application process that has just opened for organizations seeking opioid settlement-backed funding. Grant registration opened March 4th, Applications will open April 2nd, and submissions are due May 3rd. You can access the OneOhio Grant Portal [here](https://goapply2.akoyago.com/ONEOHIO/Identity/Account/Login? ReturnUrl=%2FONEOHIO%2Fapplication%2FOrgRegistration). 
 
 ## Sober Living App Helps Sober Living Succeed 
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

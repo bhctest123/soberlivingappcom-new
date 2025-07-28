@@ -60,15 +60,15 @@ One option is to create a dedicated “med room” for storing medications. Othe
 
 ![To make MAT patients feel welcome, avoid singling them out or doing anything that draws attention to their medication status unnecessarily.](/images/blog/3-mistakes-you-might-be-making-with-mat-patients-at-your-sober-living-home/Screenshot_2020-12-31_at_12.55.28_PM.png)
 
-MAT patients are acutely aware that they are not welcomed by all in the recovery community. [The stigma around MAT](../../../2019/11/19/dealing-with-nimbys-at-your-sober-living-housenbsp.html) frequently extends to the patient’s family and friends. Many MAT patients [struggle with negative self-talk](https://soberlivingapp.com/sober-living-app-blog/2020/10/20/4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress) for needing to resort to medication to help control their disease.
+MAT patients are acutely aware that they are not welcomed by all in the recovery community. [The stigma around MAT](/2019/11/19/dealing-with-nimbys-at-your-sober-living-housenbsp) frequently extends to the patient’s family and friends. Many MAT patients [struggle with negative self-talk](https://soberlivingapp.com/sober-living-app-blog/2020/10/20/4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress) for needing to resort to medication to help control their disease.
 
 As a sober living home operator, it’s important to ensure that MAT patients stay safe while also minimizing their “difference” among other residents. Do not make MAT patients wear buttons or put special markings on their room highlighting their medication status (yes, this has really happened). If you are doing supervised dosing, avoid creating a public spectacle around dosing times by administering medications in a [private](https://soberlivingapp.com/sober-living-app-blog/2020/7/21/is-your-sober-living-home-accidentally-violating-hipaa-laws) or semi-private place within the home with little fanfare. 
 
 ## We’re Here to Help Your Sober Living Home Manage MAT 
 
-Allowing MAT patients into your sober living home introduces new administrative and clinical tasks that can quickly overwhelm even the most organized [sober living home manager.](../../../2020/8/5/5-things-your-sober-living-home-manager-is-afraid-to-tell-you.html) 
+Allowing MAT patients into your sober living home introduces new administrative and clinical tasks that can quickly overwhelm even the most organized [sober living home manager.](/2020/8/5/5-things-your-sober-living-home-manager-is-afraid-to-tell-you) 
 
-At  [Sober Living App](/), we have all the built-in functionality you need to help you and your residents keep track of doses, doctors, appointments and clinics. 
+At [Sober Living App](/), we have all the built-in functionality you need to help you and your residents keep track of doses, doctors, appointments and clinics. 
 
 Our platform is simple, powerful and intuitive, saving your operation time, money and sanity. 
 

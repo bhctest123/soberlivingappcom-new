@@ -26,7 +26,7 @@ Ben Weiss
 
 ![Take your sober living home admissions process into the future with a cloud-based solution you can access anywhere at anytime.](/images/blog/mastering-admissions-at-your-sober-living-home/check_in_screen.png)
 
-What’s the [admissions process](../../../../admission.html) like at your sober living home? 
+What’s the [admissions process](/admission) like at your sober living home? 
 
 Organized? Disorganized? A file full of multicolored papers that need to be signed? A clunky mixture of paper and electronic documents?
 
@@ -42,7 +42,7 @@ Today, let’s look at the four best tips for refining the admissions process at
 
 ![Your potential residents have a lot to worry about. Applying to your sober living home shouldn’t be one of them.](/images/blog/mastering-admissions-at-your-sober-living-home/man_with_leaf.png)
 
-Lowering barriers for application to your sober living home starts with making access to the actual application easy. [The Sober Living App](../../../../admission.html)’s admissions application webform puts your sober living home admissions application on the phones and computers of prospective residents instantly, at any time of day. Prospective residents don’t need to wait to place a call, make an appointment, or receive an application in the mail—they can act on their impulse to apply when it’s on the top of their mind. 
+Lowering barriers for application to your sober living home starts with making access to the actual application easy. [The Sober Living App](/admission)’s admissions application webform puts your sober living home admissions application on the phones and computers of prospective residents instantly, at any time of day. Prospective residents don’t need to wait to place a call, make an appointment, or receive an application in the mail—they can act on their impulse to apply when it’s on the top of their mind. 
 
 ## Oil Your Lead Generation Pipeline 
 
@@ -70,7 +70,7 @@ If you don’t know where your existing residents are coming from, it is impossi
 
 Collecting data on where your residents are coming from enables you to quantify the value of each of your referral partnerships so that you can strategically prioritize those relationships. 
 
-The Sober Living App’s CRM automatically collects data on referral channels during the admissions process so that your [house manager](https://soberlivingapp.com/sober-living-app-blog/2020/3/3/5-things-all-of-the-best-sober-living-home-managers-have-in-common) has one less thing to remember during intakes.  
+The Sober Living App’s CRM automatically collects data on referral channels during the admissions process so that your [house manager](https://soberlivingapp.com/sober-living-app-blog/2020/3/3/5-things-all-of-the-best-sober-living-home-managers-have-in-common) has one less thing to remember during intakes. 
 
 ## Sharpen Your Admissions Process the Smart Way 
 

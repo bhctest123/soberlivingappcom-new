@@ -42,7 +42,7 @@ When you’re thinking about the number of bedrooms, consider how you plan on fi
 
 Remember that just because you have three bedrooms doesn’t mean you can necessarily have six residents in your sober living home. We recommend employing a full-time house manager at your facility and giving them a room to themselves rent-free in exchange for their house management work. So, for a three bedroom single family home, you can house one house manager and four residents comfortably. A four bedroom can house six residents. 
 
-When the time comes to manage all these beds, check out the [Sober Living App](http://soberlivingapp.com)’s [bed management features](../../../../housing.html) to simplify and streamline the process, saving you time and money. Our all-in-one cloud-based system makes it easy to keep track of residents, move-in dates, applications, resident incidents, UA results, and payments from any device.  
+When the time comes to manage all these beds, check out the [Sober Living App](http://soberlivingapp.com)’s [bed management features](/housing) to simplify and streamline the process, saving you time and money. Our all-in-one cloud-based system makes it easy to keep track of residents, move-in dates, applications, resident incidents, UA results, and payments from any device. 
 
 ## Sober Living Home Purchase Must-Have #2: Turn-Key Condition or a Very Healthy Rehab Budget
 
@@ -50,13 +50,13 @@ When the time comes to manage all these beds, check out the [Sober Living App](h
 
 Because the monthly cash-flow of sober living homes is typically high, most investors choose to buy properties that are already in good condition so that they can start collecting rents right away. 
 
-Why? Because time spent in rehabbing a fixer-upper is time lost in rent collection and money lost in holding costs. It’s also common to run into unknown issues during renovations that can easily destroy a rehab budget and put you in the red before you even open your facility.  
+Why? Because time spent in rehabbing a fixer-upper is time lost in rent collection and money lost in holding costs. It’s also common to run into unknown issues during renovations that can easily destroy a rehab budget and put you in the red before you even open your facility. 
 
 For all these reasons, we recommend buying a turn-key property with only a few make-ready repairs at most. 
 
 Remember, of course, that all properties need routine maintenance regardless of condition at closing. Toilets will leak, gutters will clog, and windows will break. Expect higher maintenance costs and more maintenance calls in a sober living home versus a traditional buy-and-hold rental due to the higher number of residents in the sober living home model. 
 
-In addition to budgeting at least 10% of the total rents for maintenance costs, check out the Sober Living App’s [property management features](../../../../features.html#properties) designed to simplify sober living home property management tasks like routine maintenance. We put all repair information, contractor contact details, maintenance appointments, invoices, and recurring bills into one easy-to-find place. All staff members and residents can instantly access updates about maintenance issues, like when the toilet will be serviced, from their phones.     
+In addition to budgeting at least 10% of the total rents for maintenance costs, check out the Sober Living App’s [property management features](/features.html#properties) designed to simplify sober living home property management tasks like routine maintenance. We put all repair information, contractor contact details, maintenance appointments, invoices, and recurring bills into one easy-to-find place. All staff members and residents can instantly access updates about maintenance issues, like when the toilet will be serviced, from their phones. 
 
 ## Sober Living Home Purchase Must-Have #3: A Great Location 
 
@@ -70,7 +70,7 @@ Next, remember that many people don’t view a new sober living home in their ne
 
 Finally, you’ll want to find a property in a decent residential area with access to public transportation and community resources, like libraries, career centers, community support groups, and other social services. Reintegration into the community is an important part of recovery for sober living home residents. 
 
-Managing all of the various vendors, organizations, and health care providers that interact with your residents is a big job. Check out the BehaveHealth Sober Living App’s [Community and Organizations features](../../../../features.html#organizations) to see how we easily organize this information for your staff and your residents, putting the resources they need at their fingertips to ensure a smooth transition into the recovery lifestyle. 
+Managing all of the various vendors, organizations, and health care providers that interact with your residents is a big job. Check out the BehaveHealth Sober Living App’s [Community and Organizations features](/features.html#organizations) to see how we easily organize this information for your staff and your residents, putting the resources they need at their fingertips to ensure a smooth transition into the recovery lifestyle. 
 
 ## Ready to Take the Plunge?
 

@@ -28,7 +28,7 @@ At the end of 2020, Governor DeWine of Ohio signed [Senate Bill 310](<https://ww
 
 ## Community Capital Project Funding for Sober Living Homes in Ohio Has a Project Maximum of $750,000
 
-Unlike previous rounds of funding that the state of Ohio has granted the recovery community (which we cover below), this round of funding has a [project maximum of $750,000](<https://mha.ohio.gov/wps/wcm/connect/gov/30647d5a-c5b2-40fc-a401-242174170d64/Board+Capital+Memo+6_2021.pdf?MOD=AJPERES&CVID=nNQHkyh>). No more than 50% of the project can be funded using state money, so if your project total exceeds $1,500,000, you’ll still only qualify for a total of $750,000. 
+Unlike previous rounds of funding that the state of Ohio has granted the recovery community (which we cover below), this round of funding has a [project maximum of $750,000](<https://mha.ohio.gov/wps/wcm/connect/gov/30647d5a-c5b2-40fc-a401-242174170d64/Board+Capital+Memo+6_2021.pdf? MOD=AJPERES&CVID=nNQHkyh>). No more than 50% of the project can be funded using state money, so if your project total exceeds $1,500,000, you’ll still only qualify for a total of $750,000. 
 
 ## In 2019, Ohio Gave Away $22.5 Million Dollars to Sober Living Home Operators
 

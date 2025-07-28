@@ -36,7 +36,7 @@ Today, we’ll look at what makes Kansas a great state to open a sober living ho
 
 Because sober living homes are in a completely separate category from addiction treatment centers, they are exempt from the bulk of state [oversight requirements](https://kdads.ks.gov/docs/librariesprovider17/survey-certification-and-credentialing-commission/behavioral-health-licensing/sud-facilities/standards.pdf?sfvrsn=51439ee_2) that addiction treatment centers must consider in Kansas. Addiction treatment centers must be certified in Kansas in order to do business. 
 
-The Secretary of Social and Rehabilitation Services oversees the certification of addiction treatment centers in Kansas, but there is no corresponding regulatory body that oversees sober living in the state because no such certification program exists.   
+The Secretary of Social and Rehabilitation Services oversees the certification of addiction treatment centers in Kansas, but there is no corresponding regulatory body that oversees sober living in the state because no such certification program exists. 
 
 ## There is a Strong Network of Oxford Homes in Kansas - And They Have Their Own Advocacy Organization 
 
@@ -82,7 +82,7 @@ Though most states have a NARR affiliate that is either pre-existing or in the p
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

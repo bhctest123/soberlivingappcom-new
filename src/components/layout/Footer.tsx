@@ -39,7 +39,7 @@ const Footer = () => {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 mb-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           {/* Product Links */}
           <div className="space-y-4">
             <h3 className="text-lg font-semibold text-white">Product</h3>
@@ -65,25 +65,8 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="/security" className="text-sm text-gray-400 hover:text-white transition-colors">
-                  Security
-                </a>
-              </li>
-            </ul>
-          </div>
-
-          {/* Resources */}
-          <div className="space-y-4">
-            <h3 className="text-lg font-semibold text-white">Resources</h3>
-            <ul className="space-y-2">
-              <li>
-                <a href="/blog" className="text-sm text-gray-400 hover:text-white transition-colors">
-                  Blog
-                </a>
-              </li>
-              <li>
-                <a href="/guides" className="text-sm text-gray-400 hover:text-white transition-colors">
-                  Guides
+                <a href="/download" className="text-sm text-gray-400 hover:text-white transition-colors">
+                  Downloads
                 </a>
               </li>
             </ul>
@@ -101,6 +84,16 @@ const Footer = () => {
               <li>
                 <a href="/contact" className="text-sm text-gray-400 hover:text-white transition-colors">
                   Contact
+                </a>
+              </li>
+              <li>
+                <a href="/blog" className="text-sm text-gray-400 hover:text-white transition-colors">
+                  Blog
+                </a>
+              </li>
+              <li>
+                <a href="/security" className="text-sm text-gray-400 hover:text-white transition-colors">
+                  Security
                 </a>
               </li>
             </ul>

@@ -50,7 +50,7 @@ While certification for sober living homes in Rhode Island is voluntary, only ho
 
 ![sober living home certification process rhode island](/images/blog/thinking-of-opening-a-sober-living-home-in-rhode-islandnbsp/Screen_Shot_2023-02-01_at_9.12.48_AM.png)
 
-RICARES’ Recovery House certification application steps can be found [here](https://ricares.org/recovery-housing-certification/). The organization also provides a pre-inspection [checklist](https://docs.google.com/document/d/1vITNUIt90pIH_j4Fd97WlMwl2Wu-GUeg9YSHj5YWHiA/edit?usp=sharing) to help you prepare and organize your [application](https://docs.google.com/forms/d/e/1FAIpQLSdeepJQZbjNQVwKSeMltTRQkyX1u96mvnS1mYK7UMbPIxtF9w/viewform?usp=sf_link).  
+RICARES’ Recovery House certification application steps can be found [here](https://ricares.org/recovery-housing-certification/). The organization also provides a pre-inspection [checklist](https://docs.google.com/document/d/1vITNUIt90pIH_j4Fd97WlMwl2Wu-GUeg9YSHj5YWHiA/edit?usp=sharing) to help you prepare and organize your [application](https://docs.google.com/forms/d/e/1FAIpQLSdeepJQZbjNQVwKSeMltTRQkyX1u96mvnS1mYK7UMbPIxtF9w/viewform?usp=sf_link). 
 
 ## What additional pieces of information must I provide in order to open a certified sober living home in Rhode Island?
 
@@ -102,15 +102,15 @@ You may also want to consider using the state’s [overdose-related 911 call “
 
 [List of Addiction Treatment Centers in Rhode Island - Behave Bridge ](https://bridge.behavehealth.com/rehabs/rhode-island)
 
-[Regulations on Sober Living Homes in the United States - Part 1 ](../../../2021/8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.html)
+[Regulations on Sober Living Homes in the United States - Part 1 ](/2021/8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1)
 
-[Regulations on Sober Living Homes in the United States - Part 2](../../../2021/8/17/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2.html)
+[Regulations on Sober Living Homes in the United States - Part 2](/2021/8/17/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2)
 
 ## Thinking of Opening a Sober Living Home in Rhode Island? We Help Sober Living Succeed. 
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

@@ -54,7 +54,7 @@ For more information on sober living in Georgia, see [Opening an Sober Living Ho
 
 Kentucky is receiving [$900 million in opioid settlement money](https://www.ag.ky.gov/Priorities/Tackling-the-Drug-Epidemic/Pages/Opioid-Abatement-Advisory-Commission-.aspx). Half of the money will go to the state and the other half will go to cities and counties in Kentucky. 
 
-The state has already begun dispersing money through ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​The Kentucky Opioid Abatement Advisory Commission (KYOAAC)​, which was created under HB427. The Commission has a [very informative website](https://www.ag.ky.gov/Priorities/Tackling-the-Drug-Epidemic/Pages/Opioid-Abatement-Advisory-Commission-.aspx) that lists out requirements for grant recipients, hosts an application portal and gives award updates as they are made. You can find the application portal login [here](https://kyjusticeigx.intelligrants.com/IGXLogin). While sober living homes and programs are eligible for funding, the money cannot be spent on land purchases, construction, renovation, building permits, or vehicles, so applicants will need to get creative in how to tie opioid settlement money into a sober living home context.  
+The state has already begun dispersing money through ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​The Kentucky Opioid Abatement Advisory Commission (KYOAAC)​, which was created under HB427. The Commission has a [very informative website](https://www.ag.ky.gov/Priorities/Tackling-the-Drug-Epidemic/Pages/Opioid-Abatement-Advisory-Commission-.aspx) that lists out requirements for grant recipients, hosts an application portal and gives award updates as they are made. You can find the application portal login [here](https://kyjusticeigx.intelligrants.com/IGXLogin). While sober living homes and programs are eligible for funding, the money cannot be spent on land purchases, construction, renovation, building permits, or vehicles, so applicants will need to get creative in how to tie opioid settlement money into a sober living home context. 
 
 For more on sober living in Kentucky, see [How to Open a Sober Living Home in Kentucky](https://soberlivingapp.com/sober-living-app-blog/2022/12/27/how-to-open-a-sober-living-home-in-kentucky).
 
@@ -66,13 +66,13 @@ West Virginia is considered ground zero of the opioid crisis and has, by far, th
 
 West Virginia was very aggressive in pursuing charges against all the bad actors behind this scenario, and the state will be receiving a [total of $1 billion in reparations](https://apnews.com/article/opioid-lawsuit-settlement-west-virginia-1784a2e990a6cdbbd7873edcf760fd64) over the course of the next 18 years. Roughly 75% of that money will be controlled by the [West Virginia First Foundation, Inc](https://wvfirst.org/). The remainder will go to local governments to be used at their discretion. The West Virginia First Foundation is currently accepting [applications](https://wvfirst.org/requests-for-proposals/) for grants. 
 
-For more about sober living in West Virginia, see: [Your Questions About Opening a Sober Living Home in West Virginia - Answered](../../../2023/1/24/your-questions-about-opening-a-sober-living-home-in-west-virginia-answered.html).
+For more about sober living in West Virginia, see: [Your Questions About Opening a Sober Living Home in West Virginia - Answered](/2023/1/24/your-questions-about-opening-a-sober-living-home-in-west-virginia-answered).
 
 ## Sober Living App Helps Sober Living Succeed 
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
@@ -84,4 +84,4 @@ Share
 
 Newer Post: Opioid settlement funding updates for sober living homes in Hawaii, Maine, Montana, New Hampshire, Rhode Island
 
-Older Post: Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida,  Ohio
+Older Post: Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida, Ohio

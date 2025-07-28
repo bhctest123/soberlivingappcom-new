@@ -48,11 +48,11 @@ Studies show that landscaping updates have one of the highest ROI of any improve
 
 Sprucing up the landscaping at your sober living home in 2021 is a smart strategy for a number of reasons.
 
-  1. New landscaping could boost your appraisal numbers ahead of a re-fi, allowing you to maximize the amount of equity you could pull from the property.
+ 1. New landscaping could boost your appraisal numbers ahead of a re-fi, allowing you to maximize the amount of equity you could pull from the property.
 
-  2. It’s possible that you could exchange board or discount rent for landscape work from one or more of the tenants. 
+ 2. It’s possible that you could exchange board or discount rent for landscape work from one or more of the tenants. 
 
-  3. Nice landscaping might help with neighborhood relations and diffuse any [NIMBY problems](https://soberlivingapp.com/sober-living-app-blog/2019/11/19/dealing-with-nimbys-at-your-sober-living-housenbsp) you may be encountering. It’s more difficult to argue that you’re lowering property values when your yard is the nicest one on the block!
+ 3. Nice landscaping might help with neighborhood relations and diffuse any [NIMBY problems](https://soberlivingapp.com/sober-living-app-blog/2019/11/19/dealing-with-nimbys-at-your-sober-living-housenbsp) you may be encountering. It’s more difficult to argue that you’re lowering property values when your yard is the nicest one on the block!
 
 ## Befriend Your Sober Living Home’s Competitors 
 
@@ -106,7 +106,7 @@ This year, clean up your internet “footprint” and make sure you’re project
 
 Are you tired of working too hard at making your sober living home successful? Always feel like you’re letting details fall through the cracks? Do you feel overwhelmed by the chaos of it all? 
 
-Looking to run your sober living home the smart way?  
+Looking to run your sober living home the smart way? 
 
 At [Sober Living App](/), we designed a solution just for your business. We don’t serve anyone but sober living operators just like you. We’ve tailored our all-in-one housing program solution to meet the specific needs of sober living home operators who want to work smarter, not harder. 
 

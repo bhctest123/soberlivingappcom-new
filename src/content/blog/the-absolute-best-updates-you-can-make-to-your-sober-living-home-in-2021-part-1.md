@@ -44,7 +44,7 @@ Without further ado, here’s some of the ideas we’re loving for sober living 
 
 ![Training sober living home staff - whether that’s managers, leaders, or maintenance people - communicates respect and investment. When employees feel respected at your sober living home, they’re more likely to work hard and stay loyal.](/images/blog/the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-1/Screen_Shot_2021-02-15_at_3.51.11_PM.png)
 
-Your sober living home manager (or sober living home leader) is probably already [overqualified for the job](../../../2020/8/5/5-things-your-sober-living-home-manager-is-afraid-to-tell-you.html). 
+Your sober living home manager (or sober living home leader) is probably already [overqualified for the job](/2020/8/5/5-things-your-sober-living-home-manager-is-afraid-to-tell-you). 
 
 Between their lived experience, communication skills, grit and natural leadership ability, they should be holding down the fort pretty well. (And, if they’re not, [here’s how to change that.](https://soberlivingapp.com/sober-living-app-blog/2020/3/3/5-things-all-of-the-best-sober-living-home-managers-have-in-common))
 
@@ -74,7 +74,7 @@ You already know that many other sober living homes have [fully automated their 
 
 So what are you waiting for? 
 
-2021 is definitely the year to take the leap and [automate your admissions process](../../../../admission.html). 
+2021 is definitely the year to take the leap and [automate your admissions process](/admission). 
 
 With customizable cloud-based forms, automatic data population, eSignatures, referral management, call log tracking and loads of other smart features, [Sober Living App](http://soberlivingapp.com) is a great option for sober living home operators looking to make the switch. 
 

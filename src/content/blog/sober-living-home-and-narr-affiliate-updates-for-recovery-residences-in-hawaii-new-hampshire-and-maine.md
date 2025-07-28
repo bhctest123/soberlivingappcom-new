@@ -46,7 +46,7 @@ Here’s some recent regulation updates for sober living home operators in Hawai
 
   * Hawaii began a voluntary registry for sober living homes in 2014, well ahead of the curve of most state regulations for recovery residences.
 
-  * The act that created the “Clean and Sober Home Registry” is called [Act 193](../../../../../www.capitol.hawaii.gov/sessions/Session2015/Testimony/HB1291_TESTIMONY_HLT_02-18-15_.PDF). 
+  * The act that created the “Clean and Sober Home Registry” is called [Act 193](/www.capitol.hawaii.gov/sessions/Session2015/Testimony/HB1291_TESTIMONY_HLT_02-18-15_. PDF). 
 
   * No certification is required for sober living homes in Hawaii as of 2024. 
 
@@ -56,7 +56,7 @@ If you’re interested in behavioral health business in Hawaii, check out these 
 
 [Medicaid Unwinding and State Behavioral Health in West Virginia, Hawaii, New Hampshire, Maine, Rhode Island, and Delaware](https://behavehealth.com/blog/2023/5/2/medicaid-unwinding-and-state-behavioral-health-in-west-virginia-hawaii-new-hampshire-maine-rhode-island-and-delaware)
 
-[Everything You Want to Know About Opening a Sober Living Home in Hawaii](../../../2023/1/26/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii.html)
+[Everything You Want to Know About Opening a Sober Living Home in Hawaii](/2023/1/26/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii)
 
 [Addiction treatment centers in Hawaii - Behave Bridge](https://bridge.behavehealth.com/rehabs/hawaii)
 
@@ -74,7 +74,7 @@ New Hampshire has not one, but two sober living home advocacy organizations. How
 
   * While the NHPRR certification is voluntary for all sober living home operators in New Hampshire, owners must still get certified with NHPRR in order to be eligible for state dollars of any kind, including scholarships and financial assistance. 
 
-  * Additionally, all sober living homes that wish to receive referrals from providers or other stakeholders must do two things: 1) seek certification with NHPRR and, then, 2) [register with the voluntary registry](../../../../../www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents2/updated-new-hampshire-recovery-house-registration-form-11-2024.pdf). 
+  * Additionally, all sober living homes that wish to receive referrals from providers or other stakeholders must do two things: 1) seek certification with NHPRR and, then, 2) [register with the voluntary registry](/www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents2/updated-new-hampshire-recovery-house-registration-form-11-2024.pdf). 
 
 If you own sober living homes in New Hampshire, you may be interested in these blog posts, as well:
 
@@ -98,7 +98,7 @@ Here’s some key takeaways for sober living homes navigating the unpredictable 
 
 If you operate sober living homes in Maine, you may find these posts to be useful: 
 
-[FAQ About How to Open an Sober Living Home in Maine](../../../2023/1/19/faq-about-how-to-open-an-sober-living-home-in-maine.html)
+[FAQ About How to Open an Sober Living Home in Maine](/2023/1/19/faq-about-how-to-open-an-sober-living-home-in-maine)
 
 [Addiction Treatment centers in Maine](https://bridge.behavehealth.com/rehabs/maine)
 

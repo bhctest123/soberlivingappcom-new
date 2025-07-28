@@ -40,7 +40,7 @@ The best way to handle the novel coronavirus at your sober living home is to pre
 
 We’ve written elsewhere about some of the [best policies sober living homes can adopt](https://soberlivingapp.com/sober-living-app-blog/2020/4/21/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week) in order to reduce the risk of viral transmission. Be sure that your sober living homes are taking the virus seriously and continuing to employ safer practices around socializing, working, and sharing living space. Even as states begin to “reopen” for business, 
 
-it’s important that sober living home operators stay vigilant. We know that residential settings are one of the most inviting environments for COVID-19.  
+it’s important that sober living home operators stay vigilant. We know that residential settings are one of the most inviting environments for COVID-19. 
 
 ## Take Stock of the Sober Living Home Manager’s Duties 
 
@@ -66,7 +66,7 @@ If you own more than one sober living home, could a manager at another location 
 
 One important thing you can do today to prepare for emergencies at your sober living home is to invest in a centralized repository for all the little details that go into running your sober living home. When information is unintentionally hoarded by sober living home managers, it makes it much harder for someone else to step in if needed. 
 
-The Sober Living App is like the “external brain” of your sober living home manager. This all-in-one custom software solution designed especially for sober living homes is accessible on any device, anywhere, at any time. Use it to create and process paperless [new resident applications](https://soberlivingapp.com/sober-living-app-blog/2020/4/28/introducing-our-new-resident-application-for-the-sober-living-home-app), track new resident leads, create chore plans, [manage beds](../../../../housing.html), process resident payments, log important contact information, and more. The [resident portal](../../../../portal.html) lets residents easily access all of their reminders and make monthly payments all from the convenience of their phone.
+The Sober Living App is like the “external brain” of your sober living home manager. This all-in-one custom software solution designed especially for sober living homes is accessible on any device, anywhere, at any time. Use it to create and process paperless [new resident applications](https://soberlivingapp.com/sober-living-app-blog/2020/4/28/introducing-our-new-resident-application-for-the-sober-living-home-app), track new resident leads, create chore plans, [manage beds](/housing), process resident payments, log important contact information, and more. The [resident portal](/portal) lets residents easily access all of their reminders and make monthly payments all from the convenience of their phone.
 
 With a software solution like the Sober Living App, anyone who has to fill in for an ill sober living home manager will have everything they need to pick up right where the manager left off.
 

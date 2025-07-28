@@ -54,13 +54,13 @@ While sober living homes are not required to seek licensure, certification or re
 
 Representative Olson introduced House Bill 1161 in January 2022, which seeks to make registration of sober living homes a mandatory requirement for all operators in the state. (Note: This bill is not to be confused with a recent failed bill that goes by the same number introduced in a different year that concerned transgender students. That’s a different HB1161.) 
 
-As it’s written, House Bill 1161 requires “compliance with local building codes and zoning requirements'' as well as standard rules for all sober living homes in the state. The bill proposes that registration be overseen by the Department of Social Services. House Bill 1161 [passed the house in February of 2022](https://mylrc.sdlegislature.gov/api/Documents/Bill/234043.html?Year=2022) but it still needs to pass the Senate and be signed into law before it will affect sober living homes in South Dakota. 
+As it’s written, House Bill 1161 requires “compliance with local building codes and zoning requirements'' as well as standard rules for all sober living homes in the state. The bill proposes that registration be overseen by the Department of Social Services. House Bill 1161 [passed the house in February of 2022](https://mylrc.sdlegislature.gov/api/Documents/Bill/234043.html? Year=2022) but it still needs to pass the Senate and be signed into law before it will affect sober living homes in South Dakota. 
 
 ## South Dakota Has Unusual Sobriety Rules that Require Remote Monitoring for People Out on Bail That Sober Living Homes Should Understand
 
 ![South Dakota sober living 24/7 sobriety program recovery residence attorney general how to](/images/blog/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota/Screen_Shot_2023-02-08_at_7.14.38_PM.png)
 
-[South Dakota’s 24/7 Sobriety Program](https://www.sdnewswatch.org/stories/south-dakotas-24-7-sobriety-experiment-could-roll-out-nationwide/) enforces sobriety by requiring twice daily breathalyzer tests for certain criminal justice-involved individuals. This is typically people who are out on bail or individuals who are not yet in jail but awaiting sentencing. If offenders “blow hot” during their monitoring period, they are automatically sent to jail. This program is seen as draconian by some, but it has apparently caused a reduction in DUIs in the state.  
+[South Dakota’s 24/7 Sobriety Program](https://www.sdnewswatch.org/stories/south-dakotas-24-7-sobriety-experiment-could-roll-out-nationwide/) enforces sobriety by requiring twice daily breathalyzer tests for certain criminal justice-involved individuals. This is typically people who are out on bail or individuals who are not yet in jail but awaiting sentencing. If offenders “blow hot” during their monitoring period, they are automatically sent to jail. This program is seen as draconian by some, but it has apparently caused a reduction in DUIs in the state. 
 
 ## South Dakota Sober Living Homes May Force Residents to Leave if They Use, but South Dakota Addiction Treatment Centers Are Barred from Doing So
 
@@ -76,15 +76,15 @@ In nearly every state of the union, it is perfectly legal to “kick out” pati
 
 [Should Your Addiction Treatment Center Require Vaccines for Employees?](https://behavehealth.com/blog/2021/9/7/should-your-addiction-treatment-center-require-vaccines-for-employees)
 
-[Regulations on Sober Living Homes in the United States - Part 1 ](../../../2021/8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.html)
+[Regulations on Sober Living Homes in the United States - Part 1 ](/2021/8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1)
 
-[Regulations on Sober Living Homes in the United States - Part 2](../../../2021/8/17/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2.html)
+[Regulations on Sober Living Homes in the United States - Part 2](/2021/8/17/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2)
 
 ## Thinking of Opening a Sober Living Home in South Dakota? We Help Sober Living Succeed. 
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

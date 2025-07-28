@@ -38,7 +38,7 @@ Today, we’ll look at all of the recent developments in sober living home regul
 
 The motivations behind these regulations are complex. 
 
-Some areas of the country are inundated with a dense number of sober living homes. Sober living homes frequently struggle with good neighbor relationships and NIMBYism. A small number of unethically managed sober living homes continue to engage - either directly or indirectly - in patient brokering. Some regulations come from within the sober living home community itself.   
+Some areas of the country are inundated with a dense number of sober living homes. Sober living homes frequently struggle with good neighbor relationships and NIMBYism. A small number of unethically managed sober living homes continue to engage - either directly or indirectly - in patient brokering. Some regulations come from within the sober living home community itself. 
 
 In large part, because of a few bad actors, well-meaning sober living home operators now face extra hurdles to building a healthy business model designed to support people in recovery. For sober living home operators and those looking to get started in the sober living home business, tracking the ever-changing patchwork of laws and regulations that affect sober living homes can feel overwhelming. This is especially true when laws and regulations are subject to change with short notice. 
 

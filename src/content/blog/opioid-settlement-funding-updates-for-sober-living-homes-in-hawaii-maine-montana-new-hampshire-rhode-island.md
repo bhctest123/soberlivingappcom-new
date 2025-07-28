@@ -40,7 +40,7 @@ This state of affairs should change soon and Hawaii will eventually begin making
 
 Maine will spend over [$235 million in opioid settlement money](https://themainemonitor.org/tracking-opioid-settlement-maine/) over the next 20 years. The Maine Recovery Council will disburse half of that money. The remaining 50% will be divided between the Office of the Attorney General and local governments - counties, cities, and towns - for distribution with varying degrees of oversight. Specifically, the AG will receive 20% of the total, while local governments will divide up the remaining 30% of the funding. 
 
-The [Maine Recovery Council](https://www.maine.gov/ag/recovery-council/index.shtml) approves a variety of uses of their piece of the pie, including: naloxone distribution, increasing access to evidence-based treatment modalities like MAT, prevention programs and special education programs in public schools.  
+The [Maine Recovery Council](https://www.maine.gov/ag/recovery-council/index.shtml) approves a variety of uses of their piece of the pie, including: naloxone distribution, increasing access to evidence-based treatment modalities like MAT, prevention programs and special education programs in public schools. 
 
 Recovery residences seeking funding for special projects will likely have the best luck contacting their local governments to learn about how to be considered for funding. 
 
@@ -66,7 +66,7 @@ Rhode Island is slated to receive [over $190 million](https://rhodeislandcurrent
 
 Rhode Island will disburse 20% of funds to local governments, cities and towns for use at their discretion. The funds will be distributed to these bodies according to population. These funds must be set aside to address the opioid crisis and nothing else. The remaining 80% of the money is controlled by the [Opioid Settlement Advisory Committee](https://eohhs.ri.gov/Opioid-Settlement-Advisory-Committee) in association with Rhode Island Health and Human Services. 
 
-It’s unclear how to formally ask that a project be considered for funding by the Advisory Committee. You can reach out to the committee at their email address with questions at [OHHS.Opioidsettlement@ohhs.ri.gov](mailto:OHHS.Opioidsettlement@ohhs.ri.gov). 
+It’s unclear how to formally ask that a project be considered for funding by the Advisory Committee. You can reach out to the committee at their email address with questions at [OHHS. Opioidsettlement@ohhs.ri.gov](mailto:OHHS. Opioidsettlement@ohhs.ri.gov). 
 
 ## More Updates on Opioid Settlement Money and How Sober Living Homes Can Leverage This Important Resource
 
@@ -74,13 +74,13 @@ It’s unclear how to formally ask that a project be considered for funding by t
 
 [Opioid Settlement Funding Updates for Sober Living Homes in Montana, Colorado, Arizona, New York, Missouri, and Vermont](https://soberlivingapp.com/sober-living-app-blog/2024/3/10/opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont)
 
-[Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida,  Ohio](https://soberlivingapp.com/sober-living-app-blog/2024/3/20/opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-floridanbsp-ohio)
+[Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida, Ohio](https://soberlivingapp.com/sober-living-app-blog/2024/3/20/opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-floridanbsp-ohio)
 
 ## Sober Living App Helps Sober Living Succeed 
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
@@ -90,6 +90,6 @@ Tagged: [Hawaii](/sober-living-app-blog/tag/Hawaii), [Maine](/sober-living-app-b
 
 Share
 
-Newer Post: Opioid Settlement Funding Updates for Sober Living Homes in South Dakota, North Dakota, Alaska, Washington D.C., and Wyoming
+Newer Post: Opioid Settlement Funding Updates for Sober Living Homes in South Dakota, North Dakota, Alaska, Washington D. C., and Wyoming
 
 Older Post: Opioid Settlement Funding Updates for Sober Living Homes in North Carolina, Georgia, Kentucky and West Virginia

@@ -40,7 +40,7 @@ Read on for more information about opening a sober living home in the state of O
 
 ![Ohio state code makes it clear that most sober living homes that aren’t also providing proper drug and alcohol treatment are exempt from state certification and licensure.](/images/blog/how-to-open-a-sober-living-home-in-ohio/Screen_Shot_2021-10-07_at_6.53.31_PM.png)
 
-According to [Section 340.034 of the Ohio Revised Code](https://codes.ohio.gov/ohio-revised-code/section-340.034), updated in 2017, no sober living home will be required to obtain licensure or certification in order to operate in the state of Ohio.  
+According to [Section 340.034 of the Ohio Revised Code](https://codes.ohio.gov/ohio-revised-code/section-340.034), updated in 2017, no sober living home will be required to obtain licensure or certification in order to operate in the state of Ohio. 
 
 The pertinent sections are here: 
 
@@ -74,7 +74,7 @@ Absent from all of these? Proper Drug and Alcohol Treatment, including treatment
 
 At Sober Living App, we wish every state had resources like Ohio does for sober living home operators. Ohio has actually put some effort into helping you open your sober living home! It’s refreshing to see a state step up and meet sober living home operators half way as we provide this vital resource to the community.
 
-Definitely check out the [Ohio Mental Health and Addiction Services Recovery Housing Development Guidebook ](https://mha.ohio.gov/Portals/0/assets/SchoolsAndCommunities/CommunityAndHousing/HousingResources/RecoveryHousing/Recovery_Housing_Guidebook_Final.pdf?ver=2019-07-26-111942-127)for a thorough run-down of what it takes to open a sober living home in the state. This resource was developed as a supplement to the [OhioMHAS Quality Housing Criteria](https://mha.ohio.gov/Portals/0/assets/SchoolsAndCommunities/CommunityAndHousing/HousingResources/QualityHousingCriteria/OMHAS_Quality_Housing_Criteria_Final_1_7_19.pdf?ver=2019-01-16-083515-573), which will be useful to you if you intend to receive state funding (such as subsidized housing vouchers) at your sober living home.  
+Definitely check out the [Ohio Mental Health and Addiction Services Recovery Housing Development Guidebook ](https://mha.ohio.gov/Portals/0/assets/SchoolsAndCommunities/CommunityAndHousing/HousingResources/RecoveryHousing/Recovery_Housing_Guidebook_Final.pdf?ver=2019-07-26-111942-127)for a thorough run-down of what it takes to open a sober living home in the state. This resource was developed as a supplement to the [OhioMHAS Quality Housing Criteria](https://mha.ohio.gov/Portals/0/assets/SchoolsAndCommunities/CommunityAndHousing/HousingResources/QualityHousingCriteria/OMHAS_Quality_Housing_Criteria_Final_1_7_19.pdf?ver=2019-01-16-083515-573), which will be useful to you if you intend to receive state funding (such as subsidized housing vouchers) at your sober living home. 
 
 The Ohio Mental Health and Addiction Services Recovery Housing Development Guidebook lists all of the considerations you’ll want to make before opening your doors to residents. They include important steps like:
 
@@ -104,7 +104,7 @@ You’ll also want to check out the [Recovery Housing Project Toolkit](https://m
 
 ![Ohio has also done extensive study on its existing sober living home residences. These surveys are useful for people interested in opening a sober living home in the state because they can aid in creating a competitive strategy for your sober living…](/images/blog/how-to-open-a-sober-living-home-in-ohio/Screen_Shot_2021-10-07_at_6.53.55_PM.png)
 
-Another important document to check out as you are considering opening a sober living home in Ohio is the [Recovery Housing in the State of Ohio](https://www.neomed.edu/wp-content/uploads/CJCCOE_I4_RecoveryHousing.pdf) report compiled by [The Ohio Council of Behavioral Health and Family Services Providers](https://www.theohiocouncil.org/). This extremely thorough report details the contours of the sober living home “scene” in Ohio state, noting many different opportunities for further development.   
+Another important document to check out as you are considering opening a sober living home in Ohio is the [Recovery Housing in the State of Ohio](https://www.neomed.edu/wp-content/uploads/CJCCOE_I4_RecoveryHousing.pdf) report compiled by [The Ohio Council of Behavioral Health and Family Services Providers](https://www.theohiocouncil.org/). This extremely thorough report details the contours of the sober living home “scene” in Ohio state, noting many different opportunities for further development. 
 
 Another great resource to check out is local state NARR affiliate, [Ohio Recovery Housing](https://www.ohiorecoveryhousing.org). 
 

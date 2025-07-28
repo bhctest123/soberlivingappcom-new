@@ -62,7 +62,7 @@ And if a resident is comparing nearly identical sober living homes, then they wi
 
 If your house is the cheapest, then it will beat the competition in the race to the bottom. 
 
-Have you really won in that scenario? Maybe. If your business model is solely  based on providing a lot of rooms to the highest number of residents possible, then perhaps you have won. 
+Have you really won in that scenario? Maybe. If your business model is solely based on providing a lot of rooms to the highest number of residents possible, then perhaps you have won. 
 
 In many instances, though, sober living home operators want to provide excellent housing options for people in recovery. Dealing in “lowest price” sober living doesn’t leave enough margin to provide a quality experience. 
 

@@ -26,7 +26,7 @@ Ben Weiss
 
 ![Maintenance is such an important part of running a successful sober living home - but it can also be the last item on your to-do list. Ignore maintenance tasks at your own risks!](/images/blog/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do/Screen_Shot_2021-06-09_at_8.46.20_PM.png)
 
-If you’re a [sober living home manager](../../../2020/3/3/5-things-all-of-the-best-sober-living-home-managers-have-in-common.html) (or owner) ask yourself:
+If you’re a [sober living home manager](/2020/3/3/5-things-all-of-the-best-sober-living-home-managers-have-in-common) (or owner) ask yourself:
 
   * When was the last time you changed the air filter on your HVAC? 
 
@@ -90,7 +90,7 @@ Still, flushing the water heater is an easy way to extend the life of the unit. 
 
 Running a profitable sober living home business means staying responsive to your properties and the people living in them. While most sober living home operators don’t intend to neglect their properties, the truth is that the sheer number of details involved with running a sober living home can feel overwhelming, even to the most fastidious owner. 
 
-At [Sober Living App](/), we’ve designed a software solution for sober living home management overwhelm. Specifically created to “hack” your sober living home’s most tedious tasks - from HVAC filter changes to [bed management](../../../../housing.html) to new resident paperwork - Sober Living App saves you time, money and sanity. 
+At [Sober Living App](/), we’ve designed a software solution for sober living home management overwhelm. Specifically created to “hack” your sober living home’s most tedious tasks - from HVAC filter changes to [bed management](/housing) to new resident paperwork - Sober Living App saves you time, money and sanity. 
 
 We’ve actually created a new feature specifically for this purpose called To-Do 2.0. This feature allows you to schedule recurring to-do items that can be shared with anyone in your system. Assign the tasks to residents, staff, or both. 
 

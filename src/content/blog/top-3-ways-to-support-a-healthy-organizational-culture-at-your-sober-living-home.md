@@ -34,7 +34,7 @@ The solution?
 
 Proactively plan for a healthy organizational culture before a toxic environment can ever develop.
 
-Today at the [Sober Living App](/) blog, we’ll look at 5 things all sober living home operators can do to proactively support a healthy organizational culture at their sober living homes.  
+Today at the [Sober Living App](/) blog, we’ll look at 5 things all sober living home operators can do to proactively support a healthy organizational culture at their sober living homes. 
 
 ## Healthy Organizational Culture Tip #1: Post the Philosophy and Rules of Your Sober Living Home in a Prominent Place 
 

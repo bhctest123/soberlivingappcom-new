@@ -32,7 +32,7 @@ Is [resident turnover](/sober-living-app-blog/got-open-sober-living-home-beds-le
 
 Are you getting frequent [visits from police](https://soberlivingapp.com/sober-living-app-blog/2020/12/15/when-should-your-sober-living-home-call-911-the-answer-is-complicated) and emergency services? 
 
-Are your [sober living home managers](../../../2020/3/3/5-things-all-of-the-best-sober-living-home-managers-have-in-common.html) burned out? 
+Are your [sober living home managers](/2020/3/3/5-things-all-of-the-best-sober-living-home-managers-have-in-common) burned out? 
 
 If you’ve answered yes to any of these questions, it might be time to take a second look at how you are screening your new residents. 
 
@@ -44,7 +44,7 @@ Today, we’ll dive into the top 3 types of sober living home residents you need
 
 ![This is probably the most commonly admitted sober living home resident who you should really think twice about. If the resident can’t cover move-in costs, how will they pay you when rent’s due at the end of the month?](/images/blog/3-types-of-sober-living-home-residents-you-need-to-stop-admitting/Screen_Shot_2021-03-29_at_9.09.25_AM.png)
 
-Your sober living home [collects the first two weeks of rent upfront](../../../2020/10/6/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier.html) before you allow new residents to move-in — right? 
+Your sober living home [collects the first two weeks of rent upfront](/2020/10/6/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier) before you allow new residents to move-in — right? 
 
 May sober living homes strive to do this but often end up bending the rules for desperate would-be residents with a good story. Occasionally skirting the rules makes sense in extraordinary circumstances, but most of the time, you will regret that decision. 
 
@@ -56,9 +56,9 @@ If your newest admission can’t pay you now — how will they pay you later? Mo
 
 Sober living homes are a community of people who want to get sober together. You have to be present at the home in order to reap the benefits of the model and contribute to the sober living home’s community responsibly. 
 
-When residents want to live at your sober living home part-time, they are signaling that they want to “do this recovery thing” part-time. That simply does not work.  
+When residents want to live at your sober living home part-time, they are signaling that they want to “do this recovery thing” part-time. That simply does not work. 
 
-It’s always a good idea to require residents to live on-site at least 5 days a week. Your [sober living home resident agreements](../../../2020/6/30/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements.html) should state this in no uncertain terms and your sober living home manager should be sure to stick to this rule. 
+It’s always a good idea to require residents to live on-site at least 5 days a week. Your [sober living home resident agreements](/2020/6/30/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements) should state this in no uncertain terms and your sober living home manager should be sure to stick to this rule. 
 
 Any less and you risk engaging unmotivated residents at high-risk for relapse. That translates into more drama, costs and turnover for you. 
 

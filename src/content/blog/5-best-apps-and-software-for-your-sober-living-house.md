@@ -26,7 +26,7 @@ Ben Weiss
 
 ![Managing a sober living house is easier with the right apps and software.](/images/blog/5-best-apps-and-software-for-your-sober-living-house/computer_keyboard.png)
 
-Managing a sober living house is a demanding, time-consuming task. It’s important to outsource as much of the work as possible in order  to keep the workload in check. Oftentimes, that means turning to technology—apps and software designed to do the heavy lifting —for a helping hand. 
+Managing a sober living house is a demanding, time-consuming task. It’s important to outsource as much of the work as possible in order to keep the workload in check. Oftentimes, that means turning to technology—apps and software designed to do the heavy lifting —for a helping hand. 
 
 Today, let’s learn about 5 of the best apps and software for managing your sober living house. 
 
@@ -90,7 +90,7 @@ Hootsuite is a freemium social media management platform perfect for planning an
 
 The integration with Pinterest, Instagram, and YouTube is a little clunky because of the way these platforms operate, but posting to Facebook, LinkedIn, and Twitter is a breeze. 
 
-Remember to never post photos of residents or alumni and to never refer to residents or alumni by name  in any of your social media profiles. Keep photos limited to staff and the facility only unless you have written permission from your residents.
+Remember to never post photos of residents or alumni and to never refer to residents or alumni by name in any of your social media profiles. Keep photos limited to staff and the facility only unless you have written permission from your residents.
 
 Tagged: [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App), [software](/sober-living-app-blog/tag/software), [sobriety](/sober-living-app-blog/tag/sobriety), [marketing](/sober-living-app-blog/tag/marketing), [bed management](/sober-living-app-blog/tag/bed+management), [property management](/sober-living-app-blog/tag/property+management), [EHR](/sober-living-app-blog/tag/EHR)
 

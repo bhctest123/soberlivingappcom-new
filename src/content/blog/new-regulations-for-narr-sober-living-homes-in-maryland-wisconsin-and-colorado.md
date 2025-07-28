@@ -28,9 +28,9 @@ For more on Maryland sober living home business strategy, and the behavioral hea
 
 [Opening an Addiction Treatment Center in Maryland? Here’s How. ](<https://behavehealth.com/blog/2022/1/11/opening-an-addiction-treatment-center-in-maryland-heres-hownbsp>)
 
-[What Maryland Doesn't Want You To Know About Opening a Sober Living Home](<../../../2022/11/3/what-maryland-doesnt-want-you-to-know-about-opening-a-sober-living-home.html>)  
-  
-  
+[What Maryland Doesn't Want You To Know About Opening a Sober Living Home](<../../../2022/11/3/what-maryland-doesnt-want-you-to-know-about-opening-a-sober-living-home.html>) 
+ 
+ 
 
 ## Wisconsin NARR affiliate, WASH, seeks to vet sober living homes on behalf of the state
 

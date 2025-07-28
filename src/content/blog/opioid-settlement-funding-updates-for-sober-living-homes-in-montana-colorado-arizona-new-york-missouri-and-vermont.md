@@ -46,7 +46,7 @@ According to guidelines, any applicant that “provides treatment and recovery s
 
 ![opioid abatement council colorado sober living home recovery residence grant opportunities](/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont/Screen_Shot_2024-03-06_at_7.20.36_PM.png)
 
-Colorado has received over $7 million dollars from settlements with pharmaceutical companies to be used towards addiction treatment services in the state. $4.5 million dollars of that total is allocated to the Denver area. The state expects to receive more funding from settlements in the future over the course of “many years'' according to it’s [website](https://coag.gov/opioids/colorado-opioid-abatement-council/). The funding is controlled by the Colorado Opioid Abatement Council, which meets twice a year to consider proposals and disburse funds. There are 19 regional councils which work directly with organizations seeking finding.  
+Colorado has received over $7 million dollars from settlements with pharmaceutical companies to be used towards addiction treatment services in the state. $4.5 million dollars of that total is allocated to the Denver area. The state expects to receive more funding from settlements in the future over the course of “many years'' according to it’s [website](https://coag.gov/opioids/colorado-opioid-abatement-council/). The funding is controlled by the Colorado Opioid Abatement Council, which meets twice a year to consider proposals and disburse funds. There are 19 regional councils which work directly with organizations seeking finding. 
 
 Recovery housing is a big priority in Southwest Colorado. The SouthWEST Opioid Response District is [spending over half of the $1.5 million settlement](https://www.durangoherald.com/articles/opioid-settlement-dollars-to-fund-recovery-housing-in-southwest-colorado/) on building recovery housing. The rest of the money will fund grants for local and regional organizations. 
 
@@ -70,7 +70,7 @@ Missouri received $88.8 million from pharmaceutical settlements in 2023. Sober l
 
 ## Vermont Opioid Settlement Money for Sober Living Homes 
 
-Vermont received over [$100  million in lawsuit money](https://www.vermontpublic.org/local-news/2022-09-06/vermont-is-getting-more-than-100-million-from-opioid-lawsuits-with-more-on-the-way-what-will-it-do-with-the-windfall) from pharmaceutical companies. The money is managed by the [Vermont Opioid Settlement Advisory Committee](https://www.healthvermont.gov/alcohol-drugs/reports/public-meetings). 
+Vermont received over [$100 million in lawsuit money](https://www.vermontpublic.org/local-news/2022-09-06/vermont-is-getting-more-than-100-million-from-opioid-lawsuits-with-more-on-the-way-what-will-it-do-with-the-windfall) from pharmaceutical companies. The money is managed by the [Vermont Opioid Settlement Advisory Committee](https://www.healthvermont.gov/alcohol-drugs/reports/public-meetings). 
 
 Recovery residences are eligible for the settlement money. One organization, Recovery Partners of Vermont, recently [wrote a proposal](https://legislature.vermont.gov/Documents/2024/WorkGroups/Senate%20Health%20and%20Welfare/Recovery%20Day/W~Jeffrey%20Moreau~Recovery%20Residence%20FY25%20Budget%20Handout~2-14-2024.pdf) requesting funding for 16 certified recovery residences within the state. The proposal requested a total of $3,040,000 in funding across 16 residences, with $190,000 allocated for each sober living home. 
 
@@ -90,6 +90,6 @@ Tagged: [Opioid settlement money](/sober-living-app-blog/tag/Opioid+settlement+m
 
 Share
 
-Newer Post: Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida,  Ohio
+Newer Post: Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida, Ohio
 
 Older Post: Are You a Good Candidate for Behave Health's Sober Living Startup Program?

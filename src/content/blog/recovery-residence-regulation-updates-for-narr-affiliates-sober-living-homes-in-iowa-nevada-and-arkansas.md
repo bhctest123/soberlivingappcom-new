@@ -37,7 +37,7 @@ The state of Nevada has no active or emerging NARR affiliate representing sober 
 
 While certification is required for all sober living homes in Nevada, those certifications are issued directly by the [Department of Health and Human Services Nevada Division of Public and Behavioral Health](<https://dpbh.nv.gov/Reg/HealthFacilities/HF_-_Non-Medical/HWH/>). Nevada’s official term for sober living homes and recovery residences is “halfway houses for recovering alcohol and drug abusers.” They are considered to be “facilities for the dependent” according to Nevada Revised Statutes, specifically outlines in [NRS 449.0045](<https://www.leg.state.nv.us/NRS/NRS-449.html#NRS449Sec008>).
 
-Sober living homes located in Las Vegas, Nevada are subject to [additional city-specific rules](<https://www5.lasvegasnevada.gov/LCAT/Bus_Lic_Instructions.aspx?Category=T55&CategoryName=Transitional%20Living%20Facility>). Those homes must pay extra fees to the city for a business license as “transitional living facilities” and prove that they meet certain zoning and compliance rules. 
+Sober living homes located in Las Vegas, Nevada are subject to [additional city-specific rules](<https://www5.lasvegasnevada.gov/LCAT/Bus_Lic_Instructions.aspx? Category=T55&CategoryName=Transitional%20Living%20Facility>). Those homes must pay extra fees to the city for a business license as “transitional living facilities” and prove that they meet certain zoning and compliance rules. 
 
 There does not appear to be a movement towards increasing or decreasing sober living home regulations in Nevada. The Department of Health and Human Services states that they use NARR standards to evaluate new sober living homes, but they are not, themselves, a NARR affiliate. 
 

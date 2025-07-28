@@ -42,7 +42,7 @@ Most of the time, yes.
 
 In this case - no, we actually want to give your organization quite a bit of value for zero dollars. 
 
-Sure, our free accounts are no substitute for our more fully-featured options for sober living home operators —  like our Basic, Plus and Pro accounts —  but they pack a punch nonetheless. 
+Sure, our free accounts are no substitute for our more fully-featured options for sober living home operators — like our Basic, Plus and Pro accounts — but they pack a punch nonetheless. 
 
 In each free HIPAA-ready Sober Living App account, you can expect: 
 

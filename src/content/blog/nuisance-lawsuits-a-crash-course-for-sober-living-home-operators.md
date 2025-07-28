@@ -48,11 +48,11 @@ Today, we’ll look at three examples of how nuisance lawsuits have been used at
 
 ![The nuisance lawsuit facing CapGrow and Pinnacle Treatment Centers in Crown Point, Indiana serve as an object lesson in how nuisance lawsuits are being used by local governments to shut down sober living homes in the United States despite disability…](/images/blog/nuisance-lawsuits-a-crash-course-for-sober-living-home-operators/Screen_Shot_2021-08-26_at_2.24.44_PM.png)
 
-Note: We talked about this case in [Part 2](../17/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2.html) of our two part series on “Understanding National Regulations on Sober Living Homes in the United States.” (If you’re interested in the whole series, you can start with [Part 1](https://soberlivingapp.com/sober-living-app-blog/2021/8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1) if you prefer.)
+Note: We talked about this case in [Part 2](/17/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2) of our two part series on “Understanding National Regulations on Sober Living Homes in the United States.” (If you’re interested in the whole series, you can start with [Part 1](https://soberlivingapp.com/sober-living-app-blog/2021/8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1) if you prefer.)
 
 Sober living real estate investors, CapGrow and sober living home operators, Pinnacle Treatment Centers, [came under local fire](https://www.nwitimes.com/news/halfway-house-amid-crown-point-family-homes-angers-residents-prompts-city-lawsuit/article_3f3eb707-5ca0-5949-96e1-ab986d74d4ab.html) for opening a sober living home in a single-family residential area of Crown Point, Indiana in 2020. 
 
-After many neighborhood complaints, the city of Crown Point is seeking an injunction, as well as a judgement, against both entities for zoning code violations. They’re also attempting to sue the sober living home operators for “constituting a nuisance” and “interfering with the comfortable enjoyment of life or property” through their zoning violations. 
+After many neighborhood complaints, the city of Crown Point is seeking an injunction, as well as a judgment, against both entities for zoning code violations. They’re also attempting to sue the sober living home operators for “constituting a nuisance” and “interfering with the comfortable enjoyment of life or property” through their zoning violations. 
 
 Like many sober living providers, CapGrow and Pinnacle Treatment Centers argue that typical zoning laws should not apply to sober living home residents, who benefit from living in supportive sober communities in residential settings on account of their disability and, as such, are protected under the ADA.
 
@@ -66,7 +66,7 @@ The nuisance lawsuit case is still on-going but the future looks grim for CapGro
 
 [Nuisance lawsuits](https://www.latimes.com/socal/daily-pilot/news/story/2020-04-03/costa-mesa-wins-sober-living-home-lawsuit) also came for sober living home operators, Pacific Shores Recovery in Costa Mesa, California. Pacific Shores Recovery is currently appealing the federal decision made in 2020 against their sober living home, which the City of Costa Mesa maintains violates municipal codes.
 
-As the court battle between this sober living home operator and the city rages on, the Orange County Superior Court granted judgement for the city in an abatement action against Pacific Shores Recovery. This means that, for the time being, Pacific Shores Recovery must cease operation of their sober living home in the city. 
+As the court battle between this sober living home operator and the city rages on, the Orange County Superior Court granted judgment for the city in an abatement action against Pacific Shores Recovery. This means that, for the time being, Pacific Shores Recovery must cease operation of their sober living home in the city. 
 
 Like the nuisance lawsuits being visited on the sober living home operators in Indiana, the lawsuits filed against Pacific Shores Recovery are also seeking attorney fees from the sober living home operators, making the entire experience even more expensive. 
 

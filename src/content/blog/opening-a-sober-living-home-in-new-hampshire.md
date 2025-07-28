@@ -30,7 +30,7 @@ Ben Weiss
 
 ![New Hampshire coalition of recovery residences state certification sober living](/images/blog/opening-a-sober-living-home-in-new-hampshire/Screen_Shot_2023-01-24_at_4.34.37_PM.png)
 
-The [New Hampshire Coalition of Recovery Residences](https://www.nhcorr.org/), also known as NHCORR, represents the National Alliance for Recovery Residences, or [NARR](https://narronline.org/),  in New Hampshire. NHCORR is a non-profit, and unaffiliated with the state government, but state laws require sober living homes to complete the NHCORR certification process before they are allowed to apply for entry into the state’s voluntary registry for sober living homes. 
+The [New Hampshire Coalition of Recovery Residences](https://www.nhcorr.org/), also known as NHCORR, represents the National Alliance for Recovery Residences, or [NARR](https://narronline.org/), in New Hampshire. NHCORR is a non-profit, and unaffiliated with the state government, but state laws require sober living homes to complete the NHCORR certification process before they are allowed to apply for entry into the state’s voluntary registry for sober living homes. 
 
 ## Is certification or registration required for New Hampshire sober living homes? 
 
@@ -82,7 +82,7 @@ There are many benefits to getting your sober living home certified with HNCORR.
 
 ## How much does it cost to get my sober living home certified in New Hampshire? 
 
-New Hampshire’s certification costs, by way of NHCORR, are relatively low. For one, there is only a single fee: an application fee. Other states and organizations levy not only application fees, but sometimes also apply inspection fees, renewal fees, “per bed” fees, and other additional charges to the total certification bill. In New Hampshire, you can certify your sober living home for only $275 total. The certification is good for one year.  
+New Hampshire’s certification costs, by way of NHCORR, are relatively low. For one, there is only a single fee: an application fee. Other states and organizations levy not only application fees, but sometimes also apply inspection fees, renewal fees, “per bed” fees, and other additional charges to the total certification bill. In New Hampshire, you can certify your sober living home for only $275 total. The certification is good for one year. 
 
 ## Links of Interest to Sober Living Home and Addiction Treatment Center Operators in New Hampshire 
 
@@ -96,7 +96,7 @@ New Hampshire’s certification costs, by way of NHCORR, are relatively low. For
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

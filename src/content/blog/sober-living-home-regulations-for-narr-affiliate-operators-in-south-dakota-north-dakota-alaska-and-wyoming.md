@@ -32,7 +32,7 @@ It’s also true that North Dakota was home to the[ National Sober Living Associ
 
 [4 Best Kept Secrets About Opening a Sober Living Home in North Dakota](<../../../2023/2/16/4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota.html>)
 
-[Opioid Settlement Funding Updates for Sober Living Homes in South Dakota, North Dakota, Alaska, Washington D.C., and Wyoming](<../../../2024/4/17/opioid-settlement-funding-updates-for-sober-living-homes-in-south-dakota-north-dakota-alaska-washington-dc-and-wyoming.html>)
+[Opioid Settlement Funding Updates for Sober Living Homes in South Dakota, North Dakota, Alaska, Washington D. C., and Wyoming](<../../../2024/4/17/opioid-settlement-funding-updates-for-sober-living-homes-in-south-dakota-north-dakota-alaska-washington-dc-and-wyoming.html>)
 
 ## Alaska nonprofit receives large sober living grant despite lack of NARR affiliate in the state 
 

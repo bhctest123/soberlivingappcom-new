@@ -38,7 +38,7 @@ If you’re interested in discovering whether or not your organization needs to 
 
 For more on behavioral health business startup information in Kansas, see:
 
-[Kansas is a Great State to Open a Sober Living Home](../../../2023/1/10/kansas-is-a-great-state-to-open-a-sober-living-home.html)
+[Kansas is a Great State to Open a Sober Living Home](/2023/1/10/kansas-is-a-great-state-to-open-a-sober-living-home)
 
 [Opening an Addiction Treatment Center in Kansas: Low Fees and a Relatively Easy Process ](https://behavehealth.com/blog/2022/3/15/opening-an-addiction-treatment-center-in-kansas-low-fees-and-a-relatively-easy-processnbsp)
 
@@ -74,21 +74,21 @@ For more on sober living home strategy and management in Mississippi, see:
 
 [Pros and Cons of Opening an Addiction Treatment Center in Mississippi](https://behavehealth.com/blog/2022/3/10/pros-and-cons-of-opening-an-addiction-treatment-center-in-mississippi)
 
-[How to Open a Sober Living Home in Mississippi](../../../2023/1/9/how-to-open-a-sober-living-home-in-mississippi.html)
+[How to Open a Sober Living Home in Mississippi](/2023/1/9/how-to-open-a-sober-living-home-in-mississippi)
 
 ## New Mexico sober living community still reeling from mutli-state scandal, no regulations or NARR affiliate on the immediate horizon
 
 ![new mexico sober living home scandal regulation NARR affiliate recovery residence](/images/blog/sober-living-home-regulation-and-certification-updates-for-narr-affiliates-in-kansas-mississippi-and-new-mexico/Screen_Shot_2024-12-04_at_7.39.20_PM.png)
 
-Despite recent scandals, sober living homes still do not need to be certified in New Mexico, according to a recovery housing PDF from the [City of Albuquerque’s website](../../../../../www.cabq.gov/health-housing-homelessness/documents/recover-housing-study_final.pdf). There is also no NARR affiliate in New Mexico, although interested sober living home operators may [contact NARR directly](https://narronline.org/) to begin the process of opening one in the state. 
+Despite recent scandals, sober living homes still do not need to be certified in New Mexico, according to a recovery housing PDF from the [City of Albuquerque’s website](/www.cabq.gov/health-housing-homelessness/documents/recover-housing-study_final.pdf). There is also no NARR affiliate in New Mexico, although interested sober living home operators may [contact NARR directly](https://narronline.org/) to begin the process of opening one in the state. 
 
-Most of the recent news surrounding sober living homes in New Mexico focuses not on regulation or certification programs, but on a multi-state sober living home scandal that [defrauded Medicaid for billions of dollars](https://www.koat.com/article/new-mexico-fraud-arrests-missing-cases/61478668). This scheme essentially subjected somewhere between 5000 - 7000 Native Americans from a variety of Indigenous Nations - all of them suffering from SUD, many actively in a behavioral health crisis - to human trafficking and other abuses. Many of the Native Americans targeted in this scheme were picked up in New Mexico and subsequently moved to fraudulent homes in other states, including Arizona. In response, the Navajo Nation launched a “rescue mission” called [Operation Rainbow Bridge](https://operationrainbowbridge.com/) to help [return displaced and exploited Tribal Members to their homes](https://www.aspenpublicradio.org/2024-10-09/efforts-continue-to-bring-home-navajo-tribal-members-targeted-by-fraudulent-sober-living-homes).  
+Most of the recent news surrounding sober living homes in New Mexico focuses not on regulation or certification programs, but on a multi-state sober living home scandal that [defrauded Medicaid for billions of dollars](https://www.koat.com/article/new-mexico-fraud-arrests-missing-cases/61478668). This scheme essentially subjected somewhere between 5000 - 7000 Native Americans from a variety of Indigenous Nations - all of them suffering from SUD, many actively in a behavioral health crisis - to human trafficking and other abuses. Many of the Native Americans targeted in this scheme were picked up in New Mexico and subsequently moved to fraudulent homes in other states, including Arizona. In response, the Navajo Nation launched a “rescue mission” called [Operation Rainbow Bridge](https://operationrainbowbridge.com/) to help [return displaced and exploited Tribal Members to their homes](https://www.aspenpublicradio.org/2024-10-09/efforts-continue-to-bring-home-navajo-tribal-members-targeted-by-fraudulent-sober-living-homes). 
 
 Sober living home operators and addiction treatment providers in New Mexico may also enjoy:
 
-[Opening an Addiction Treatment Center in New Mexico? Here’s What You Need to Know.  ](https://behavehealth.com/blog/2022/3/17/opening-an-addiction-treatment-center-in-new-mexico-heres-what-you-need-to-know-nbsp)
+[Opening an Addiction Treatment Center in New Mexico? Here’s What You Need to Know. ](https://behavehealth.com/blog/2022/3/17/opening-an-addiction-treatment-center-in-new-mexico-heres-what-you-need-to-know-nbsp)
 
-[FAQ on Opening a Sober Living Home in New Mexico ](../../../2023/1/12/faq-on-opening-a-sober-living-home-in-new-mexiconbsp.html)
+[FAQ on Opening a Sober Living Home in New Mexico ](/2023/1/12/faq-on-opening-a-sober-living-home-in-new-mexiconbsp)
 
 [Are Behavioral Health Peer Support Services Covered in Kansas, Mississippi, New Mexico, Nebraska, or North Dakota for Sober Living Homes?](/sober-living-app-blog/are-behavioral-health-peer-support-services-covered-in-kansas-mississippi-new-mexico-nebraska-or-north-dakota-for-sober-living-homes)
 

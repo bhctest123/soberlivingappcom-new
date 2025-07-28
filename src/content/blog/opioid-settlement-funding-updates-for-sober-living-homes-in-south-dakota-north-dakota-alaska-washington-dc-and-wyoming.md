@@ -16,7 +16,7 @@ Ben Weiss
 
 [Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup), [Funding](/sober-living-app-blog/category/Funding), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [Opioid Settlement Funding Updates for Sober Living Homes in South Dakota, North Dakota, Alaska, Washington D.C., and Wyoming]
+#  [Opioid Settlement Funding Updates for Sober Living Homes in South Dakota, North Dakota, Alaska, Washington D. C., and Wyoming]
 
 Ben Weiss
 
@@ -42,7 +42,7 @@ The [Department of Social Services](https://dss.sd.gov/behavioralhealth/grantinf
 
 North Dakota has empowered its [Health and Human Services Behavioral Health Division](https://www.hhs.nd.gov/behavioral-health) to create a mechanism for distributing the [$7 million opioid settlement](https://bismarcktribune.com/news/state-regional/government-politics/north-dakota-opioid-settlement-fund-grant/article_b6843724-8959-11ee-90b9-13dfbb02c3ea.html) it is slated to receive. At least 20% of that money must be used for opioid use prevention. 
 
-Grant proposals are currently being accepted on a rolling basis, with deadlines for applications coming in July 2024 and October 2024.  
+Grant proposals are currently being accepted on a rolling basis, with deadlines for applications coming in July 2024 and October 2024. 
 
 ## Alaska is Lagging Behind Other States with Opioid Settlement Funding Opportunities
 
@@ -50,7 +50,7 @@ Alaska has a small population compared to other states, but the opioid crisis ha
 
 Unfortunately, Alaska is lagging behind other states in disbursing the $58 million it is expecting to receive in opioid settlement money. Lawmakers have not yet established how the funds will be used, who will direct those decisions, or what checks and balances will be put in place to ensure that the money is spent responsibly.
 
-## Washington D.C. is not Forthcoming With Information About Opioid Settlement Funding Grant Application Process
+## Washington D. C. is not Forthcoming With Information About Opioid Settlement Funding Grant Application Process
 
 ![washington d.c. opioid settlement money funding grant startup sober living home](/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-south-dakota-north-dakota-alaska-washington-dc-and-wyoming/Screen_Shot_2024-04-15_at_6.13.36_PM.png)
 
@@ -70,19 +70,19 @@ Oversight of local government spending is limited, but we do know that the Wyomi
 
 ## More Updates on Opioid Settlement Money and How Sober Living Homes Can Leverage This Important Resource
 
-[Opioid settlement funding updates for sober living homes in Hawaii, Maine, Montana, New Hampshire, Rhode Island](../10/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island.html)
+[Opioid settlement funding updates for sober living homes in Hawaii, Maine, Montana, New Hampshire, Rhode Island](/10/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island)
 
 [Opioid Settlement Funding Updates for Sober Living Homes in North Carolina, Georgia, Kentucky and West Virginia](/sober-living-app-blog/opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia)
 
 [Opioid Settlement Funding Updates for Sober Living Homes in Montana, Colorado, Arizona, New York, Missouri, and Vermont](/sober-living-app-blog/opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont)
 
-[Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida,  Ohio](https://soberlivingapp.com/sober-living-app-blog/2024/3/20/opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-floridanbsp-ohio)
+[Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida, Ohio](https://soberlivingapp.com/sober-living-app-blog/2024/3/20/opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-floridanbsp-ohio)
 
 ## Sober Living App Helps Sober Living Succeed 
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

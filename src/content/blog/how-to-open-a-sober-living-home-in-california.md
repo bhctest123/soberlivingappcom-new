@@ -64,7 +64,7 @@ If you want to make sure your sober living home is exempt from Department of Hea
 
 [According to DHCS](https://www.dhcs.ca.gov/individuals/Pages/Sud-Complaints.aspx), “If a sober living facility is providing **_just one_** of these services, then it should be classified as a residential program and must obtain a valid license from DHCS.” The website also notes that house meetings to address housekeeping tasks such as chore division and conflict resolution do not automatically count as “group sessions.” For a house meeting to be considered a “group session,” it must focus on addiction problems and recovery strategies specifically. 
 
-Likewise, individual meetings between a resident and [program staff](../../../2020/8/5/5-things-your-sober-living-home-manager-is-afraid-to-tell-you.html) are not considered “individual sessions” unless the time is spent engaging in some of the hallmarks of formal alcohol and drug counseling, such as identifying SUD-related problems and supporting behavior change around those problems. 
+Likewise, individual meetings between a resident and [program staff](/2020/8/5/5-things-your-sober-living-home-manager-is-afraid-to-tell-you) are not considered “individual sessions” unless the time is spent engaging in some of the hallmarks of formal alcohol and drug counseling, such as identifying SUD-related problems and supporting behavior change around those problems. 
 
 ## California Lawmakers are Somewhat Active in Trying to Pass Legislation to Introduce Sober Living Home Regulations 
 
@@ -78,7 +78,7 @@ At present, the bill is stuck in committee. It’s unclear whether it will ever 
 
 At Sober Living App, we love helping sober living operators get their homes started the right way — the first time. 
 
-Our all-in-one app for sober living management takes care of all the little details of running your business — from [rental apps](../../../2020/6/30/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements.html), to property management, to bed management — and lets you focus on the big picture. 
+Our all-in-one app for sober living management takes care of all the little details of running your business — from [rental apps](/2020/6/30/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements), to property management, to bed management — and lets you focus on the big picture. 
 
 Every shred of information about your sober living home, its residents and its staff live in the cloud so you get access to everything you need from any device, anywhere. 
 

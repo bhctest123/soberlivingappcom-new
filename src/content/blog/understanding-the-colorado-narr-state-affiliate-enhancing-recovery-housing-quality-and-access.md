@@ -100,15 +100,15 @@ Key Statistics:
 
 ## Step-by-Step Guide for Colorado NARR State Affiliate
 
-  1. Understand the Standards: Familiarize yourself with NARR's Standard 3.0 [[About NARR](<https://narronline.org/about/>)].
+ 1. Understand the Standards: Familiarize yourself with NARR's Standard 3.0 [[About NARR](<https://narronline.org/about/>)].
 
-  2. Seek Certification: Apply for certification through the Colorado affiliate.
+ 2. Seek Certification: Apply for certification through the Colorado affiliate.
 
-  3. Training: Engage in ongoing education and training to ensure compliance.
+ 3. Training: Engage in ongoing education and training to ensure compliance.
 
-  4. Quality Assurance: Implement regular audits to maintain standards.
+ 4. Quality Assurance: Implement regular audits to maintain standards.
 
-  5. Advocacy: Participate in advocacy efforts to support policy changes.
+ 5. Advocacy: Participate in advocacy efforts to support policy changes.
 
 ## 5 Expert Tips for Colorado NARR State Affiliate
 
@@ -184,7 +184,7 @@ The Colorado NARR State Affiliate provides a framework for quality recovery hous
 
 Call-to-Action: Explore how BehaveHealth.com can support your recovery housing operations with our comprehensive software solutions, designed to streamline compliance, enhance care, and support resident recovery [[https://behavehealth.com](<https://behavehealth.com/>)].
 
-  
-  
+ 
+ 
 
 Last Updated: November 5, 2024

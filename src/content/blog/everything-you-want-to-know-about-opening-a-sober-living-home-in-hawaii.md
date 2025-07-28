@@ -34,7 +34,7 @@ No. Hawaii Department of Health, Alcohol & Drug Abuse Division does not issue li
 
 ![](/images/blog/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii/Screen_Shot_2023-01-22_at_6.35.30_PM.png)
 
-In 2014, Hawaii’s House of Representatives passed [Act 193](../../../../../www.capitol.hawaii.gov/sessions/Session2015/Testimony/HB1291_TESTIMONY_HLT_02-18-15_.PDF), which established the “Clean and Sober Home Registry” and altered county zoning laws to accommodate sober living homes. The registry was [finally launched in 2019](https://nichawaii.egov.com/hawaiis-clean-and-sober-home-registry-provides-support-for-recovery-efforts/). The registry itself is described in [Chapter 178 of Hawaii Administrative Rules](https://casetext.com/regulation/hawaii-administrative-rules/title-11-department-of-health/subtitle-1-general-departmental-provisions/chapter-178-clean-and-sober-homes-registry). It is essentially a special list of homes that have passed state inspection. The homes must meet certain criteria in order to be entered in the the list. 
+In 2014, Hawaii’s House of Representatives passed [Act 193](/www.capitol.hawaii.gov/sessions/Session2015/Testimony/HB1291_TESTIMONY_HLT_02-18-15_. PDF), which established the “Clean and Sober Home Registry” and altered county zoning laws to accommodate sober living homes. The registry was [finally launched in 2019](https://nichawaii.egov.com/hawaiis-clean-and-sober-home-registry-provides-support-for-recovery-efforts/). The registry itself is described in [Chapter 178 of Hawaii Administrative Rules](https://casetext.com/regulation/hawaii-administrative-rules/title-11-department-of-health/subtitle-1-general-departmental-provisions/chapter-178-clean-and-sober-homes-registry). It is essentially a special list of homes that have passed state inspection. The homes must meet certain criteria in order to be entered in the the list. 
 
 Registered and in good standing with the “clean and sober homes registry” can advertise that they are “clean and sober homes”
 
@@ -64,7 +64,7 @@ Requirements for registration are typical of other state’s sober living regula
 
   * Good neighbor agreements regarding noise, smoking, etc 
 
-The [compliance checklist](../../../../../health.hawaii.gov/substance-abuse/files/2022/08/Clean-and-Sober-Home-Registry-Standards-Checklist.pdf) contains the complete list of requirements. There is also a powerpoint presentation of an orientation designed for people looking to add their sober living home to Hawaii’s Clean and Sober Homes Registry [available online](../../../../../health.hawaii.gov/substance-abuse/files/2019/03/CLEAN-SOBER-HOMES-REGISTRY-Orientation.pdf). 
+The [compliance checklist](/health.hawaii.gov/substance-abuse/files/2022/08/Clean-and-Sober-Home-Registry-Standards-Checklist.pdf) contains the complete list of requirements. There is also a powerpoint presentation of an orientation designed for people looking to add their sober living home to Hawaii’s Clean and Sober Homes Registry [available online](/health.hawaii.gov/substance-abuse/files/2019/03/CLEAN-SOBER-HOMES-REGISTRY-Orientation.pdf). 
 
 ## How much does it cost to be entered into the Clean and Sober Home Registry?
 
@@ -98,7 +98,7 @@ While any sober facility is Hawaii can call itself a “recovery residence” or
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

@@ -84,7 +84,7 @@ For example, if you offer weekly massages at two different properties at two dif
 
 If you run a sober living home, then you have repeating charges. Rent, storage space, amenities: these all take place on a repeating basis. 
 
-Our automated repeating charges feature make payment collection truly “set and forget.” Sit back and watch our repeating charges feature generate bills (and send reminders!) at whatever frequency works for your sober living home. It’s that easy.  
+Our automated repeating charges feature make payment collection truly “set and forget.” Sit back and watch our repeating charges feature generate bills (and send reminders!) at whatever frequency works for your sober living home. It’s that easy. 
 
 ## Our Updated Billing Assistant Gives Your Sober Living Home the Ability to Seamlessly Collect from Multiple Payers 
 

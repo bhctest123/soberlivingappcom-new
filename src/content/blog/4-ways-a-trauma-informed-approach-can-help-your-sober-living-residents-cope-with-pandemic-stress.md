@@ -46,7 +46,7 @@ Implementing universal screening for trauma during your [new resident applicatio
 
 For residents with a history of trauma, unpredictable environments feel unsafe. COVID has [disturbed all of the daily routines](/sober-living-app-blog/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week) and patterns that signal to our brains that everything is normal. When big pattern shifts occur - like the ones we are all experiencing around COVID - trauma affected residents are more likely to respond negatively to the change. 
 
-That’s why it’s so important to create as much pattern and predictability in our “new normal” as possible for your residents. Do everything you can to make sure that your sober living home’s COVID guidelines are predictable and consistent. Develop new routines around cleaning, visitation and socializing so that your residents always know what to expect, even during these uncertain times.  
+That’s why it’s so important to create as much pattern and predictability in our “new normal” as possible for your residents. Do everything you can to make sure that your sober living home’s COVID guidelines are predictable and consistent. Develop new routines around cleaning, visitation and socializing so that your residents always know what to expect, even during these uncertain times. 
 
 ## Institute the Buddy System or Other Peer Support Program at Your Sober Living Home
 
@@ -56,7 +56,7 @@ Does your sober living home offer in-house peer support?
 
 Do you have a buddy system between residents? 
 
-If the answer is no, now might be a good time to start. Consider linking up “old timer” residents with new residents. When trauma affected residents are experiencing symptoms of isolation and dissociation, a quick check in with a buddy can help turn their day around.   
+If the answer is no, now might be a good time to start. Consider linking up “old timer” residents with new residents. When trauma affected residents are experiencing symptoms of isolation and dissociation, a quick check in with a buddy can help turn their day around. 
 
 ## Get Curious About Problem Behaviors at Your Sober Living Home
 

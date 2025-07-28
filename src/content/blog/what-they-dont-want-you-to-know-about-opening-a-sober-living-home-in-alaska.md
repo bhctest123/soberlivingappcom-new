@@ -34,7 +34,7 @@ Alaska has no state-wide licensing or certification requirements for sober livin
 
 That said, Alaskan sober living is not a complete free-for-all, of course. As in all states, sober living homes in Alaska must abide by basic residential health and safety requirements and comply with standard building codes and zoning regulations.
 
-While there is no pending legislation that threatens to change the laissez-faire regulatory environment for sober living home operators in Alaska, this could change soon. Sober living home certification programs - voluntary and involuntary - are trending in state governments in the United States and could easily make their way to Alaska, as well.    
+While there is no pending legislation that threatens to change the laissez-faire regulatory environment for sober living home operators in Alaska, this could change soon. Sober living home certification programs - voluntary and involuntary - are trending in state governments in the United States and could easily make their way to Alaska, as well. 
 
 ## There is Not Nearly Enough Sober Living Facilities to Meet the Demand for Recovery Residences in Alaska
 
@@ -42,7 +42,7 @@ While there is no pending legislation that threatens to change the laissez-faire
 
 Addiction is a very serious public health concern in the state of Alaska and there are not nearly enough sober living home beds to meet the demand of the community. In Alaska, homelessness and addiction are closely linked and Anchorage made waves recently by [closing the largest homeless shelter](https://alaskapublic.org/2022/07/01/emotions-high-as-anchorages-largest-homeless-shelter-shuts-down-after-more-than-2-years/) in the area, with many residents stating that they had no other place to go, and certainly no other place to pursue sober living. 
 
-It should come as no surprise, then, that an [Alaska Advisory Board on Alcoholism and Drug Abuse](https://health.alaska.gov/abada/Pages/default.aspx) study listed the need to “Increase access to treatment and sober housing/shelter options for people who are seeking to recover from or maintain recovery from substance abuse” as a long-term strategy for addressing homelessness in Alaska.  
+It should come as no surprise, then, that an [Alaska Advisory Board on Alcoholism and Drug Abuse](https://health.alaska.gov/abada/Pages/default.aspx) study listed the need to “Increase access to treatment and sober housing/shelter options for people who are seeking to recover from or maintain recovery from substance abuse” as a long-term strategy for addressing homelessness in Alaska. 
 
 ## You’ll Need to Get a Business License to Operate a Sober Living Home in Alaska 
 
@@ -62,9 +62,9 @@ Of those, women are less likely to die from overdose than men in Alaska.
 
 American Indian/Alaska Native (AI/AN) people experience a disproportionately high rate of overdose compared with other races in Alaska. AI/AN people suffered 77.7 deaths per 100,000 in 2020, while white people in Alaska experienced an overdose death rate of 28.8 deaths per 100,000 individuals. 
 
-According to the same study, young adults and middle-aged people were the most likely to experience overdose death than people of other ages. Young people between the ages of 25 to 34 years old saw death rates of 64.6 deaths per 100,000.   
+According to the same study, young adults and middle-aged people were the most likely to experience overdose death than people of other ages. Young people between the ages of 25 to 34 years old saw death rates of 64.6 deaths per 100,000. 
 
-These statistics demonstrate that the greatest need for sober living will likely be found in the male, AI/AN and young- to -middle-aged populations. This information can be helpful in the planning and development phases of opening your sober living home.  
+These statistics demonstrate that the greatest need for sober living will likely be found in the male, AI/AN and young- to -middle-aged populations. This information can be helpful in the planning and development phases of opening your sober living home. 
 
 ## Sober Living Home Operators Take Note: Alaska Has a Very Serious Drug Overdose Issue 
 
@@ -84,7 +84,7 @@ In terms of geographic “hot spots” for overdose activity, Anchorage Public H
 
 [Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
-Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
+Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 

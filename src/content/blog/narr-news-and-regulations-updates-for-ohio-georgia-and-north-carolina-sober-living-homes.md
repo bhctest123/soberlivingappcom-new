@@ -38,7 +38,7 @@ For more on sober living home business strategy, management, and regulation in O
 
 ## Georgia Presses for Some Mild Regulation of Sober Living Homes in 2021, 2023, and 2024 Legislative Sessions
 
-Georgia’s NARR affiliate is the Georgia Association of Recovery Residences (GARR). They are one of the oldest sober living home affiliates in the nation, with history dating back to 1987.   
+Georgia’s NARR affiliate is the Georgia Association of Recovery Residences (GARR). They are one of the oldest sober living home affiliates in the nation, with history dating back to 1987. 
 Georgia has seen some movement during the 2023 and 2024 legislative sessions on the question of addiction treatment and sober living home regulations. In 2024, [House Bill 1073](<https://www.gpb.org/news/2024/06/03/new-zoning-law-may-help-prevent-stigma-against-housing-for-people-in-addiction>) sped up the start-up process for new sober living homes in Georgia by removing state code requirements that forced sober living home operators to submit to long wait times for zoning approval. In 2023, the house [established standards for sober living homes](<https://www.gpb.org/news/2022/08/04/its-the-most-important-part-of-addiction-recovery-and-often-the-most-difficult>), which is often one of the first steps to creating a mandatory certification program. Earlier, in 2021, [Senate Bill 4](<https://www.legis.ga.gov/legislation/58874>) explicitly banned sober living home and addiction treatment operators from receiving illegal kickbacks for patient referrals. 
 
 That said, certification for sober living homes is still optional in Georgia.
