@@ -18,27 +18,27 @@ keyBenefits:
 features:
   - title: "Lead Management"
     description: "Track prospects from initial inquiry through admission with comprehensive lead scoring and status tracking."
-    icon: "/images/icons/features/admissions.png"
+    icon: "/images/icons/ic_leads.png"
   
   - title: "Intake Workflow"
     description: "Streamlined digital intake process with customizable forms, document collection, and approval workflows."
-    icon: "/images/icons/features/admissions.png"
+    icon: "/images/icons/ic_intake_forms.png"
   
   - title: "Bed Availability"
     description: "Real-time visibility into bed availability across all properties with automated waitlist management."
-    icon: "/images/icons/features/bed-management.png"
+    icon: "/images/icons/ic_bed_management.png"
   
   - title: "Document Management"
     description: "Secure storage and organization of intake documents, insurance verification, and compliance records."
-    icon: "/images/icons/features/file-storage.png"
+    icon: "/images/icons/ic_files.png"
   
   - title: "Communication Hub"
     description: "Centralized communication tracking with automated follow-up reminders and multi-channel messaging."
-    icon: "/images/icons/features/communication-logs.png"
+    icon: "/images/icons/ic_communication_logs.png"
   
   - title: "Analytics & Reporting"
     description: "Comprehensive reporting on admission metrics, conversion rates, and pipeline performance."
-    icon: "/images/icons/features/dashboard.png"
+    icon: "/images/icons/ic_dashboard.png"
 
 additionalSections:
   - title: "Why Choose Our Admissions Management?"

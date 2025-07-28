@@ -1,8 +1,253 @@
 {
-  "check_date": "2025-07-28T00:41:59.499948",
-  "base_url": "https://soberlivingappcom.netlify.app",
+  "check_date": "2025-07-28T00:47:30.518422",
+  "base_url": "http://localhost:4321",
   "total_pages_checked": 42,
-  "pages_with_broken_images": 0,
-  "total_broken_images": 0,
-  "broken_images_by_page": {}
+  "pages_with_broken_images": 12,
+  "total_broken_images": 44,
+  "broken_images_by_page": {
+    "/download": [
+      {
+        "src": "http://localhost:4321/images/icons/arrow_forward.png",
+        "alt": "Arrow",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/arrow_forward.png",
+        "alt": "Arrow",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/arrow_forward.png",
+        "alt": "Arrow",
+        "type": "img"
+      }
+    ],
+    "/west-virginia-narr-state-affiliate": [
+      {
+        "src": "http://localhost:4321/images/icons/arrow_forward.png",
+        "alt": "Arrow",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/residents.png",
+        "alt": "Patients",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/organizations-providers.png",
+        "alt": "Providers",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/billing.png",
+        "alt": "Payers",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/error.png",
+        "alt": "Risk",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/error.png",
+        "alt": "Risk",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/arrow_forward.png",
+        "alt": "Arrow",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/arrow_forward.png",
+        "alt": "Arrow",
+        "type": "img"
+      }
+    ],
+    "/features/admissions": [
+      {
+        "src": "http://localhost:4321/images/icons/features/admissions.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/admissions.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/bed-management.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/file-storage.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/communication-logs.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/dashboard.png",
+        "alt": "",
+        "type": "img"
+      }
+    ],
+    "/features/alumni": [
+      {
+        "src": "http://localhost:4321/images/icons/features/alumni.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/alumni.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/alumni.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/alumni.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/alumni.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/admissions.png",
+        "alt": "",
+        "type": "img"
+      }
+    ],
+    "/features/bed-management": [
+      {
+        "src": "http://localhost:4321/images/icons/features/properties.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/bed-management.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/dashboard.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/admissions.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/properties.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/dashboard.png",
+        "alt": "",
+        "type": "img"
+      }
+    ],
+    "/features/billing": [
+      {
+        "src": "http://localhost:4321/images/icons/features/billing.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/portal.png",
+        "alt": "",
+        "type": "img"
+      }
+    ],
+    "/features/employees": [
+      {
+        "src": "http://localhost:4321/images/icons/features/employees.png",
+        "alt": "",
+        "type": "img"
+      }
+    ],
+    "/features/housing": [
+      {
+        "src": "http://localhost:4321/images/icons/features/ic_vehicles_large.png",
+        "alt": "",
+        "type": "img"
+      }
+    ],
+    "/features/operations": [
+      {
+        "src": "http://localhost:4321/images/icons/features/ic_clinical_notes.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/ic_financials.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/ic_payment.png",
+        "alt": "",
+        "type": "img"
+      }
+    ],
+    "/features/portal": [
+      {
+        "src": "http://localhost:4321/images/icons/features/ic_financials.png",
+        "alt": "",
+        "type": "img"
+      }
+    ],
+    "/features/properties": [
+      {
+        "src": "http://localhost:4321/images/icons/features/ic_housing_shifts.png",
+        "alt": "",
+        "type": "img"
+      }
+    ],
+    "/features/residents": [
+      {
+        "src": "http://localhost:4321/images/icons/features/residents.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/admissions.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/residents.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/residents.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/alumni.png",
+        "alt": "",
+        "type": "img"
+      },
+      {
+        "src": "http://localhost:4321/images/icons/features/security.png",
+        "alt": "",
+        "type": "img"
+      }
+    ]
+  }
 }

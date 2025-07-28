@@ -18,27 +18,27 @@ keyBenefits:
 features:
   - title: "Daily Progress Notes"
     description: "Document resident progress, behaviors, and milestones with structured note-taking tools."
-    icon: "/images/icons/features/housing-notes.png"
+    icon: "/images/icons/ic_clinical_notes.png"
   
   - title: "Incident Reporting"
     description: "Comprehensive incident documentation with automated workflows and notification systems."
-    icon: "/images/icons/features/housing-notes.png"
+    icon: "/images/icons/ic_grievance_incident_forms.png"
   
   - title: "Note Categories"
     description: "Organize notes by type including behavioral, medical, disciplinary, and general observations."
-    icon: "/images/icons/features/housing-notes.png"
+    icon: "/images/icons/ic_lists.png"
   
   - title: "Staff Collaboration"
     description: "Share notes across shifts and departments with real-time updates and notifications."
-    icon: "/images/icons/features/housing-notes.png"
+    icon: "/images/icons/ic_communication_logs.png"
   
   - title: "Search & Analytics"
     description: "Powerful search capabilities and reporting tools to identify patterns and trends."
-    icon: "/images/icons/features/dashboard.png"
+    icon: "/images/icons/ic_search.png"
   
   - title: "Compliance Ready"
     description: "Meet documentation requirements with timestamped, attributed, and secure record keeping."
-    icon: "/images/icons/features/security.png"
+    icon: "/images/icons/ic_certificate.png"
 
 additionalSections:
   - title: "Documentation That Supports Quality Care"
