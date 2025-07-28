@@ -117,11 +117,13 @@ additionalSections:
           <div class="border-b border-gray-200 pb-6">
             <h4 class="text-lg font-semibold text-gray-900 mb-3">How does automated billing reduce late payments?</h4>
             <p class="text-gray-700 leading-relaxed">Our system sends automated payment reminders, processes recurring payments, and offers flexible payment plans. Recovery facilities using our billing software report 35-45% reduction in late payments and 60% less time spent on collections.</p>
+            <p class="text-sm text-blue-600 mt-2">Related reading: <a href="/sober-living-app-blog/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier" class="hover:underline">New Billing Assistant Makes Getting Paid Easier</a></p>
           </div>
           
           <div class="border-b border-gray-200 pb-6">
             <h4 class="text-lg font-semibold text-gray-900 mb-3">Can family members pay for residents online?</h4>
             <p class="text-gray-700 leading-relaxed">Yes, our family portal allows parents and guardians to view invoices, make payments, and set up automatic payment plans. This eliminates the back-and-forth communication and makes it easier for families to stay current on payments.</p>
+            <p class="text-sm text-blue-600 mt-2">Related reading: <a href="/sober-living-app-blog/5-cool-ways-to-engage-your-sober-living-home-alumni" class="hover:underline">5 Ways to Engage Alumni and Families</a></p>
           </div>
           
           <div class="border-b border-gray-200 pb-6">
@@ -137,6 +139,7 @@ additionalSections:
           <div>
             <h4 class="text-lg font-semibold text-gray-900 mb-3">How are late fees and payment plans managed?</h4>
             <p class="text-gray-700 leading-relaxed">The system automatically calculates late fees based on your policies, sends payment reminders, and can set up custom payment plans. You can also offer payment deferrals or modifications when needed, all tracked within the system.</p>
+            <p class="text-sm text-blue-600 mt-2">Related reading: <a href="/sober-living-app-blog/grants-for-recovery-homes-and-halfway-houses-how-to-secure-funding-for-your-transitional-home" class="hover:underline">Grants and Funding for Recovery Homes</a></p>
           </div>
         </div>
         

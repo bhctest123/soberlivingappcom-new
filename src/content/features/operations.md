@@ -125,6 +125,7 @@ additionalSections:
           <div class="border-b border-gray-200 pb-6">
             <h4 class="text-lg font-semibold text-gray-900 mb-3">How does operations management software reduce administrative time?</h4>
             <p class="text-gray-700 leading-relaxed">Our system automates routine tasks like payment processing, communication logging, and case note documentation. Recovery facilities report 50-70% reduction in administrative time, allowing staff to focus more on direct resident care and program development.</p>
+            <p class="text-sm text-blue-600 mt-2">Related reading: <a href="/sober-living-app-blog/software-tools-for-sober-living-homes" class="hover:underline">Software Tools for Sober Living Homes</a></p>
           </div>
           
           <div class="border-b border-gray-200 pb-6">
@@ -135,6 +136,7 @@ additionalSections:
           <div class="border-b border-gray-200 pb-6">
             <h4 class="text-lg font-semibold text-gray-900 mb-3">How does case management integration work?</h4>
             <p class="text-gray-700 leading-relaxed">All resident interactions, communications, and case notes are centralized in one system. Case managers can view complete resident histories, track progress goals, and coordinate with other departments seamlessly. This eliminates information silos and improves care coordination.</p>
+            <p class="text-sm text-blue-600 mt-2">Related reading: <a href="/sober-living-app-blog/mastering-admissions-at-your-sober-living-home" class="hover:underline">Mastering Admissions at Your Sober Living Home</a></p>
           </div>
           
           <div class="border-b border-gray-200 pb-6">
@@ -145,6 +147,7 @@ additionalSections:
           <div>
             <h4 class="text-lg font-semibold text-gray-900 mb-3">Is the system suitable for multi-site operations?</h4>
             <p class="text-gray-700 leading-relaxed">Absolutely. Our operations management platform scales from single facilities to multi-state operations. You get centralized reporting, standardized processes across locations, and the ability to transfer residents between facilities while maintaining complete records.</p>
+            <p class="text-sm text-blue-600 mt-2">Related reading: <a href="/sober-living-app-blog/top-3-ways-to-support-a-healthy-organizational-culture-at-your-sober-living-home" class="hover:underline">Supporting Healthy Organizational Culture</a></p>
           </div>
         </div>
         

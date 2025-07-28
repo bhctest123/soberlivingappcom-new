@@ -26,8 +26,13 @@ const {
 
 const siteTitle = "Sober Living App";
 const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
-const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site);
-const imageURL = new URL(image, Astro.site).href;
+
+// Get the current URL (works for both production and staging)
+const currentSite = Astro.url.origin || Astro.site;
+const canonicalURL = canonical || new URL(Astro.url.pathname, currentSite).href;
+
+// Build absolute image URL that works on both staging and production
+const imageURL = image.startsWith('http') ? image : new URL(image, currentSite).href;
 ---
 
 <!DOCTYPE html>

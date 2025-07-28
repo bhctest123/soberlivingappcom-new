@@ -121,11 +121,13 @@ additionalSections:
           <div class="border-b border-gray-200 pb-6">
             <h4 class="text-lg font-semibold text-gray-900 mb-3">How does bed management software help with occupancy rates?</h4>
             <p class="text-gray-700 leading-relaxed">Our bed management system provides real-time visibility into bed availability, wait lists, and turnover rates. Recovery facilities using our platform report 15-25% improvement in occupancy rates due to better bed utilization tracking and faster resident placement.</p>
+            <p class="text-sm text-blue-600 mt-2">Related reading: <a href="/sober-living-app-blog/best-practices-resident-management" class="hover:underline">Best Practices for Resident Management</a></p>
           </div>
           
           <div class="border-b border-gray-200 pb-6">
             <h4 class="text-lg font-semibold text-gray-900 mb-3">Can the system handle multiple properties and locations?</h4>
             <p class="text-gray-700 leading-relaxed">Yes, our housing management software is designed for multi-property operations. You can manage unlimited properties from a single dashboard, track maintenance across locations, and get consolidated reporting for your entire operation.</p>
+            <p class="text-sm text-blue-600 mt-2">Related reading: <a href="/sober-living-app-blog/how-to-make-your-sober-living-home-stand-out-from-the-crowd" class="hover:underline">How to Make Your Sober Living Home Stand Out</a></p>
           </div>
           
           <div class="border-b border-gray-200 pb-6">
@@ -141,6 +143,7 @@ additionalSections:
           <div>
             <h4 class="text-lg font-semibold text-gray-900 mb-3">What kind of maintenance tracking is included?</h4>
             <p class="text-gray-700 leading-relaxed">The system includes comprehensive maintenance management with work order creation, vendor tracking, cost monitoring, and preventive maintenance scheduling. You can track everything from routine repairs to major property improvements with full cost visibility.</p>
+            <p class="text-sm text-blue-600 mt-2">Related reading: <a href="/sober-living-app-blog/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do" class="hover:underline">Top 5 Maintenance Tasks You're Forgetting</a></p>
           </div>
         </div>
         

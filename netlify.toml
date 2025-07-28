@@ -5,6 +5,13 @@
 [build.environment]
   NODE_VERSION = "18"
 
+# Set the URL for staging deployments
+[context.deploy-preview.environment]
+  URL = "https://soberlivingappcom.netlify.app"
+
+[context.branch-deploy.environment]
+  URL = "https://soberlivingappcom.netlify.app"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
