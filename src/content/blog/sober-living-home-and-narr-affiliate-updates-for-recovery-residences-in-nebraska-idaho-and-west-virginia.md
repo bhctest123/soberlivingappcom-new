@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - NE, ID, WV Sober Living & NARR Affiliate Updates"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[December 10, 2024](sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-nebraska-idaho-and-west-virginia.html)
+[December 10, 2024]
 
-[Certification](../../../category/Certification.html), [News](../../../category/News.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [NARR](../../../category/NARR.html)
+[Certification](/sober-living-app-blog/category/Certification), [News](/sober-living-app-blog/category/News), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [NARR](/sober-living-app-blog/category/NARR)
 
-#  [Sober Living Home and NARR Affiliate Updates for Recovery Residences in Nebraska, Idaho, and West Virginia](sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-nebraska-idaho-and-west-virginia.html)
+#  [Sober Living Home and NARR Affiliate Updates for Recovery Residences in Nebraska, Idaho, and West Virginia]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[December 10, 2024](sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-nebraska-idaho-and-west-virginia.html)
+[December 10, 2024]
 
-[Certification](../../../category/Certification.html), [News](../../../category/News.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [NARR](../../../category/NARR.html)
+[Certification](/sober-living-app-blog/category/Certification), [News](/sober-living-app-blog/category/News), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [NARR](/sober-living-app-blog/category/NARR)
 
 ![Nebrasa Idaho West Virginia NARR WVARR sober living home recovery residence regulation certification required](/images/blog/sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-nebraska-idaho-and-west-virginia/Screen_Shot_2024-12-09_at_8.47.59_AM.png)
 
@@ -84,7 +84,7 @@ However, this optional certification model changed in West Virginia in late 2024
 
 ## Managing a sober living home in Nebraska, Idaho, or West Virginia? Let us help.
 
-[Sober Living App](../../../../index.html) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.
 
@@ -94,12 +94,12 @@ Our all-in-one app handles rent collection, admissions, property management, res
 
 Discover if Behave Health’s new[ NARR Affiliate Management Platform (AMP)](https://behavehealth.com/narr-affiliate) is right for your organization.
 
-Tagged: [Nebraska](../../../tag/Nebraska.html), [Idaho](../../../tag/Idaho.html), [West Virginia](../../../tag/West+Virginia.html), [NARR](../../../tag/NARR.html), [sober living](../../../tag/sober+living.html), [regulation](../../../tag/regulation.html), [certificaton](../../../tag/certificaton.html)
+Tagged: [Nebraska](/sober-living-app-blog/tag/Nebraska), [Idaho](/sober-living-app-blog/tag/Idaho), [West Virginia](/sober-living-app-blog/tag/West+Virginia), [NARR](/sober-living-app-blog/tag/NARR), [sober living](/sober-living-app-blog/tag/sober+living), [regulation](/sober-living-app-blog/tag/regulation), [certificaton](/sober-living-app-blog/tag/certificaton)
 
 0 Likes
 
 Share
 
-Newer Post[Sober Living Home and NARR Affiliate Updates for Recovery Residences in Hawaii, New Hampshire, and Maine](../29/sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-hawaii-new-hampshire-and-maine.html)
+Newer Post: Sober Living Home and NARR Affiliate Updates for Recovery Residences in Hawaii, New Hampshire, and Maine
 
-Older Post[Sober Living Home Regulation and Certification Updates for NARR Affiliates in Kansas, Mississippi, and New Mexico](../4/sober-living-home-regulation-and-certification-updates-for-narr-affiliates-in-kansas-mississippi-and-new-mexico.html)
+Older Post: Sober Living Home Regulation and Certification Updates for NARR Affiliates in Kansas, Mississippi, and New Mexico

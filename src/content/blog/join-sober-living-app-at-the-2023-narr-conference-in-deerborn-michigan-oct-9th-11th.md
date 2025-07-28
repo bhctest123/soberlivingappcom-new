@@ -10,25 +10,25 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Join Sober Living App at the 2023 NARR Conference in Dearborn Michigan Oct 9th - 11th"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 9, 2023](join-sober-living-app-at-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th.html)
+[October 9, 2023]
 
-[Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Property Management](../../../category/Property+Management.html)
+[Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Property Management](/sober-living-app-blog/category/Property+Management)
 
-#  [Join Sober Living App at the 2023 NARR Conference in Dearborn Michigan Oct 9th - 11th](join-sober-living-app-at-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th.html)
+#  [Join Sober Living App at the 2023 NARR Conference in Dearborn Michigan Oct 9th - 11th]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 9, 2023](join-sober-living-app-at-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th.html)
+[October 9, 2023]
 
-[Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Property Management](../../../category/Property+Management.html)
+[Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Property Management](/sober-living-app-blog/category/Property+Management)
 
 ![NARR conference 2023 deerborn michigan sober living recovery residence best practices summit software EHR EMR](/images/blog/join-sober-living-app-at-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th/Screen_Shot_2023-10-05_at_8.45.40_PM.png)
 
 Sober Living App will be at the [National Association of Recovery Residences 2023 “Best Practices Summit” in Dearborn Michigan](https://events.narronline.org/2023/3190580) from October 9th to 11th! 
 
-We would absolutely love to see you there. Please swing by our table and get to know our Founder/CEO, Ben Weiss. We’d be happy to show you some of our best “secret weapons” for turning sober living chaos into sober living order, starting with [Sober Living App](../../../../index.html). 
+We would absolutely love to see you there. Please swing by our table and get to know our Founder/CEO, Ben Weiss. We’d be happy to show you some of our best “secret weapons” for turning sober living chaos into sober living order, starting with [Sober Living App](/). 
 
 ## Here’s a Few of the Most Exciting Events on the 2023 NARR Conference Agenda for Sober Living Home Operators, Recovery Residence Researchers, and More
 
@@ -98,18 +98,18 @@ We love working with [NARR affiliates](https://narronline.org/affiliate-director
 
 ## You Don’t Need to Visit Michigan to Try Sober Living App. We’ll Come to You!
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [NARR](../../../tag/NARR.html), [Best Practices Summit](../../../tag/Best+Practices+Summit.html), [2023](../../../tag/2023.html), [sober living](../../../tag/sober+living.html), [Sober Living App](../../../tag/Sober+Living+App.html)
+Tagged: [NARR](/sober-living-app-blog/tag/NARR), [Best Practices Summit](/sober-living-app-blog/tag/Best+Practices+Summit), [2023](/sober-living-app-blog/tag/2023), [sober living](/sober-living-app-blog/tag/sober+living), [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App)
 
 0 Likes
 
 Share
 
-Newer Post[ASAM Collaborates with NARR to Include Standards for Sober Living in Latest ASAM Criteria Edition ](../13/asam-collaborates-with-narr-to-include-standards-for-sober-living-in-latest-asam-criteria-editionnbsp.html)
+Newer Post: ASAM Collaborates with NARR to Include Standards for Sober Living in Latest ASAM Criteria Edition 
 
-Older Post[The ASAM Criteria 4th Edition: What Recovery Residences Need to Know](../../9/30/the-asam-criteria-4th-edition-what-recovery-residences-need-to-know.html)
+Older Post: The ASAM Criteria 4th Edition: What Recovery Residences Need to Know

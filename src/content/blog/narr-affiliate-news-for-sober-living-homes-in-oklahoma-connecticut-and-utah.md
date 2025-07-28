@@ -64,7 +64,7 @@ For more on behavioral health business management in Utah, see:
 
 ## Managing a sober living home in Oklahoma, Connecticut, or Utah? Let us help.
 
-[Sober Living App](<../../../../index.html>) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](</>) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 

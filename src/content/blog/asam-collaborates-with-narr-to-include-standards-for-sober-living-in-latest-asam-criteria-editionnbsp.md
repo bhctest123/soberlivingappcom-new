@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - ASAM Collaborates with NARR to Include Standards for Sober Living in Latest ASAM Criteria Edition"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 13, 2023](asam-collaborates-with-narr-to-include-standards-for-sober-living-in-latest-asam-criteria-editionnbsp.html)
+[October 13, 2023]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [News](../../../category/News.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [News](/sober-living-app-blog/category/News), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [ASAM Collaborates with NARR to Include Standards for Sober Living in Latest ASAM Criteria Edition ](asam-collaborates-with-narr-to-include-standards-for-sober-living-in-latest-asam-criteria-editionnbsp.html)
+#  [ASAM Collaborates with NARR to Include Standards for Sober Living in Latest ASAM Criteria Edition ]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 13, 2023](asam-collaborates-with-narr-to-include-standards-for-sober-living-in-latest-asam-criteria-editionnbsp.html)
+[October 13, 2023]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [News](../../../category/News.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [News](/sober-living-app-blog/category/News), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![ASAM criteria changes 4th edition sober living recovery residence NARR news new](/images/blog/asam-collaborates-with-narr-to-include-standards-for-sober-living-in-latest-asam-criteria-editionnbsp/Screen_Shot_2023-10-12_at_9.19.31_AM.png)
 
@@ -74,7 +74,7 @@ There have been many revisions to the 3rd edition of the ASAM criteria in the pr
 
 ## Don’t Let Policy Changes in Recovery Housing or Sober Living Sneak Up On You. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 We also strive to make it easy to automatically incorporate best practices for Sober Living regardless of what the future holds. 
 
@@ -82,12 +82,12 @@ Our all-in-one app handles rent collection, admissions, property management, res
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [ASAM](https://soberlivingapp.com/sober-living-app-blog/tag/ASAM), [ASAM 4th Edition](https://soberlivingapp.com/sober-living-app-blog/tag/ASAM+4th+Edition), [ASAM Criteria](https://soberlivingapp.com/sober-living-app-blog/tag/ASAM+Criteria), [Hazelden Betty Ford Center](https://soberlivingapp.com/sober-living-app-blog/tag/Hazelden+Betty+Ford+Center), [Hazelden Publishing](https://soberlivingapp.com/sober-living-app-blog/tag/Hazelden+Publishing), [1.0 Level of Care](https://soberlivingapp.com/sober-living-app-blog/tag/1.0+Level+of+Care), [MAT](../../../tag/MAT.html), [recovery support services](https://soberlivingapp.com/sober-living-app-blog/tag/recovery+support+services), [harm reduction](https://soberlivingapp.com/sober-living-app-blog/tag/harm+reduction), [locus of control](https://soberlivingapp.com/sober-living-app-blog/tag/locus+of+control), [chronic care model of treatment](https://soberlivingapp.com/sober-living-app-blog/tag/chronic+care+model+of+treatment), [disease model](https://soberlivingapp.com/sober-living-app-blog/tag/disease+model), [integrated care](https://soberlivingapp.com/sober-living-app-blog/tag/integrated+care), [co-occuring disorders](https://soberlivingapp.com/sober-living-app-blog/tag/co-occuring+disorders)
+Tagged: [ASAM](https://soberlivingapp.com/sober-living-app-blog/tag/ASAM), [ASAM 4th Edition](https://soberlivingapp.com/sober-living-app-blog/tag/ASAM+4th+Edition), [ASAM Criteria](https://soberlivingapp.com/sober-living-app-blog/tag/ASAM+Criteria), [Hazelden Betty Ford Center](https://soberlivingapp.com/sober-living-app-blog/tag/Hazelden+Betty+Ford+Center), [Hazelden Publishing](https://soberlivingapp.com/sober-living-app-blog/tag/Hazelden+Publishing), [1.0 Level of Care](https://soberlivingapp.com/sober-living-app-blog/tag/1.0+Level+of+Care), [MAT](/sober-living-app-blog/tag/MAT), [recovery support services](https://soberlivingapp.com/sober-living-app-blog/tag/recovery+support+services), [harm reduction](https://soberlivingapp.com/sober-living-app-blog/tag/harm+reduction), [locus of control](https://soberlivingapp.com/sober-living-app-blog/tag/locus+of+control), [chronic care model of treatment](https://soberlivingapp.com/sober-living-app-blog/tag/chronic+care+model+of+treatment), [disease model](https://soberlivingapp.com/sober-living-app-blog/tag/disease+model), [integrated care](https://soberlivingapp.com/sober-living-app-blog/tag/integrated+care), [co-occuring disorders](https://soberlivingapp.com/sober-living-app-blog/tag/co-occuring+disorders)
 
 0 Likes
 
 Share
 
-Newer Post[How to Choose a Sober Living Home Startup Consultant](../../12/17/how-to-choose-a-sober-living-home-startup-consultant.html)
+Newer Post: How to Choose a Sober Living Home Startup Consultant
 
-Older Post[Join Sober Living App at the 2023 NARR Conference in Dearborn Michigan Oct 9th - 11th](../9/join-sober-living-app-at-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th.html)
+Older Post: Join Sober Living App at the 2023 NARR Conference in Dearborn Michigan Oct 9th - 11th

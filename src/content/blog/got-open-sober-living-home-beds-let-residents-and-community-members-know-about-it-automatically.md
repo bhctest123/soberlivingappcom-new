@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Open sober living beds? Notify residents & community automatically!"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 2, 2021](got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically.html)
+[February 2, 2021]
 
-[Admissions](../../../category/Admissions.html), [Property Management](../../../category/Property+Management.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Technology](../../../category/Technology.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Property Management](/sober-living-app-blog/category/Property+Management), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Technology](/sober-living-app-blog/category/Technology)
 
-#  [Got Open Sober Living Home Beds? Let Residents and Community Members Know About It - Automatically!](got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically.html)
+#  [Got Open Sober Living Home Beds? Let Residents and Community Members Know About It - Automatically!]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 2, 2021](got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically.html)
+[February 2, 2021]
 
-[Admissions](../../../category/Admissions.html), [Property Management](../../../category/Property+Management.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Technology](../../../category/Technology.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Property Management](/sober-living-app-blog/category/Property+Management), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Technology](/sober-living-app-blog/category/Technology)
 
 ![Bed management is vital to a profitable sober living home business. Advertising open beds isn’t always in the budget - until now. Introducing the bed availability widget from Sober Living App.](/images/blog/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically/Screen_Shot_2021-02-01_at_7.58.35_AM.png)
 
@@ -52,7 +52,7 @@ The truth is, sober living home operators like you don’t always have the time 
 
 Until now, that is. 
 
-At [Sober Living App](../../../../index.html), we are dedicated to helping sober living home operators help as many people as possible. That’s why we’ve automated the process for you. 
+At [Sober Living App](/), we are dedicated to helping sober living home operators help as many people as possible. That’s why we’ve automated the process for you. 
 
 With a [Sober Living App account](https://apps.behavehealth.com/signup), you can get up-to-the-minute bed availability posted to your website without adding to you or your sober living home managers’ already [mile-long to-do list](../../../2020/8/5/5-things-your-sober-living-home-manager-is-afraid-to-tell-you.html).
 
@@ -110,12 +110,12 @@ At Sober Living App, we want everyone who serves those in recovery to have acces
 
 [Get your free account today](https://apps.behavehealth.com/signup).
 
-Tagged: [bed management](../../../tag/bed+management.html), [admissions](../../../tag/admissions.html), [check-in](../../../tag/check-in.html), [check-out](../../../tag/check-out.html), [Sober Living App](../../../tag/Sober+Living+App.html), [sober living home management](../../../tag/sober+living+home+management.html), [marketing](../../../tag/marketing.html), [web presence](https://soberlivingapp.com/sober-living-app-blog/tag/web+presence), [widget](https://soberlivingapp.com/sober-living-app-blog/tag/widget), [digital marketing](../../../tag/digital+marketing.html)
+Tagged: [bed management](/sober-living-app-blog/tag/bed+management), [admissions](/sober-living-app-blog/tag/admissions), [check-in](/sober-living-app-blog/tag/check-in), [check-out](/sober-living-app-blog/tag/check-out), [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App), [sober living home management](/sober-living-app-blog/tag/sober+living+home+management), [marketing](/sober-living-app-blog/tag/marketing), [web presence](https://soberlivingapp.com/sober-living-app-blog/tag/web+presence), [widget](https://soberlivingapp.com/sober-living-app-blog/tag/widget), [digital marketing](/sober-living-app-blog/tag/digital+marketing)
 
 0 Likes
 
 Share
 
-Newer Post[The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 1)](../15/the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-1.html)
+Newer Post: The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 1)
 
-Older Post[Limited Time Offer: Get Our Software Solution for Sober Living Homes for Free](../../1/26/limited-time-offer-get-our-software-solution-for-sober-living-homes-for-free.html)
+Older Post: Limited Time Offer: Get Our Software Solution for Sober Living Homes for Free

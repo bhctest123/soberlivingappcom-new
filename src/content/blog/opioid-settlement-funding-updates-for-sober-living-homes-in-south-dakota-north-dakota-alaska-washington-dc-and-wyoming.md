@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Opioid Settlement Funding Updates for Sober Living in SD, ND, AK, DC, WY"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[April 18, 2024](opioid-settlement-funding-updates-for-sober-living-homes-in-south-dakota-north-dakota-alaska-washington-dc-and-wyoming.html)
+[April 18, 2024]
 
-[Sober Living Startup](../../../category/Sober+Living+Startup.html), [Funding](../../../category/Funding.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup), [Funding](/sober-living-app-blog/category/Funding), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [Opioid Settlement Funding Updates for Sober Living Homes in South Dakota, North Dakota, Alaska, Washington D.C., and Wyoming](opioid-settlement-funding-updates-for-sober-living-homes-in-south-dakota-north-dakota-alaska-washington-dc-and-wyoming.html)
+#  [Opioid Settlement Funding Updates for Sober Living Homes in South Dakota, North Dakota, Alaska, Washington D.C., and Wyoming]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[April 18, 2024](opioid-settlement-funding-updates-for-sober-living-homes-in-south-dakota-north-dakota-alaska-washington-dc-and-wyoming.html)
+[April 18, 2024]
 
-[Sober Living Startup](../../../category/Sober+Living+Startup.html), [Funding](../../../category/Funding.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup), [Funding](/sober-living-app-blog/category/Funding), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![grant funding opportunity startup money opioid settlement money north dakota south alaska washington d.c. wyoming](/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-south-dakota-north-dakota-alaska-washington-dc-and-wyoming/Screen_Shot_2024-04-15_at_6.13.15_PM.png)
 
@@ -80,18 +80,18 @@ Oversight of local government spending is limited, but we do know that the Wyomi
 
 ## Sober Living App Helps Sober Living Succeed 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [South Dakota](../../../tag/South+Dakota.html), [North Dakota](../../../tag/North+Dakota.html), [Alaska](../../../tag/Alaska.html), [Washington DC](../../../tag/Washington+DC.html), [Wyoming](../../../tag/Wyoming.html), [Opioid settlement money](../../../tag/Opioid+settlement+money.html), [grants](../../../tag/grants.html), [Funding](../../../tag/Funding.html), [startup](../../../tag/Startup.html)
+Tagged: [South Dakota](/sober-living-app-blog/tag/South+Dakota), [North Dakota](/sober-living-app-blog/tag/North+Dakota), [Alaska](/sober-living-app-blog/tag/Alaska), [Washington DC](/sober-living-app-blog/tag/Washington+DC), [Wyoming](/sober-living-app-blog/tag/Wyoming), [Opioid settlement money](/sober-living-app-blog/tag/Opioid+settlement+money), [grants](/sober-living-app-blog/tag/grants), [Funding](/sober-living-app-blog/tag/Funding), [startup](/sober-living-app-blog/tag/Startup)
 
 0 Likes
 
 Share
 
-Newer Post[Are Behavioral Health Peer Support Services Covered in California, Texas, Florida, New York, and Pennsylvania Sober Living Homes and Addiction Treatment Programs? ](../../5/29/are-behavioral-health-peer-support-services-covered-in-california-texas-florida-new-york-and-pennsylvania-sober-living-homes-and-addiction-treatment-programsnbsp.html)
+Newer Post: Are Behavioral Health Peer Support Services Covered in California, Texas, Florida, New York, and Pennsylvania Sober Living Homes and Addiction Treatment Programs? 
 
-Older Post[Opioid settlement funding updates for sober living homes in Hawaii, Maine, Montana, New Hampshire, Rhode Island](../10/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island.html)
+Older Post: Opioid settlement funding updates for sober living homes in Hawaii, Maine, Montana, New Hampshire, Rhode Island

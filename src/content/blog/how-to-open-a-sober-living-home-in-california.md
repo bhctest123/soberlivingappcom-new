@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - How to Open a Sober Living Home in California"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[May 11, 2021](how-to-open-a-sober-living-home-in-california.html)
+[May 11, 2021]
 
-[Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [How to Open a Sober Living Home in California](how-to-open-a-sober-living-home-in-california.html)
+#  [How to Open a Sober Living Home in California]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[May 11, 2021](how-to-open-a-sober-living-home-in-california.html)
+[May 11, 2021]
 
-[Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![California currently has very few requirements for sober living homes. That means that opening a sober living home state in California is relatively free of red tape.](/images/blog/how-to-open-a-sober-living-home-in-california/Screen_Shot_2021-05-11_at_9.45.36_AM.png)
 
@@ -84,12 +84,12 @@ Every shred of information about your sober living home, its residents and its s
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [California](../../../tag/California.html), [licensure](../../../tag/licensure.html), [sober living home management](../../../tag/sober+living+home+management.html), [Sober Living App](../../../tag/Sober+Living+App.html), [DHCS](https://soberlivingapp.com/sober-living-app-blog/tag/DHCS), [AB 1779](https://soberlivingapp.com/sober-living-app-blog/tag/AB+1779)
+Tagged: [California](/sober-living-app-blog/tag/California), [licensure](/sober-living-app-blog/tag/licensure), [sober living home management](/sober-living-app-blog/tag/sober+living+home+management), [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App), [DHCS](https://soberlivingapp.com/sober-living-app-blog/tag/DHCS), [AB 1779](https://soberlivingapp.com/sober-living-app-blog/tag/AB+1779)
 
 8 Likes
 
 Share
 
-Newer Post[Considering Opening a Sober Living Home in Florida? Here's How.](../18/considering-opening-a-sober-living-home-in-florida-heres-how.html)
+Newer Post: Considering Opening a Sober Living Home in Florida? Here's How.
 
-Older Post[3 Types of Sober Living Home Residents You Need to Stop Admitting](https://soberlivingapp.com/sober-living-app-blog/2021/3/30/3-types-of-sober-living-home-residents-you-need-to-stop-admitting)
+Older Post: 3 Types of Sober Living Home Residents You Need to Stop Admitting

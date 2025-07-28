@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Your Questions About Opening a Sober Living Home in West Virginia - Answered"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 24, 2023](your-questions-about-opening-a-sober-living-home-in-west-virginia-answered.html)
+[January 24, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [Your Questions About Opening a Sober Living Home in West Virginia - Answered](your-questions-about-opening-a-sober-living-home-in-west-virginia-answered.html)
+#  [Your Questions About Opening a Sober Living Home in West Virginia - Answered]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 24, 2023](your-questions-about-opening-a-sober-living-home-in-west-virginia-answered.html)
+[January 24, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![west virginia sober living home recovery residences how to open opening regulations certifications](/images/blog/your-questions-about-opening-a-sober-living-home-in-west-virginia-answered/Screen_Shot_2023-01-16_at_9.04.00_AM.png)
 
@@ -92,18 +92,18 @@ Because of so many recent complaints in the community regarding the sober living
 
 ## Considering Opening a West Virginia Sober Living Residence? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [West Virginia](../../../tag/West+Virginia.html), [West Virginia Health and Facility Licensure and Certiification](../../../tag/West+Virginia+Health+and+Facility+Licensure+and+Certiification.html), [West Virginia Alliance of Recovery Residences](https://soberlivingapp.com/sober-living-app-blog/tag/West+Virginia+Alliance+of+Recovery+Residences), [WVARR](https://soberlivingapp.com/sober-living-app-blog/tag/WVARR), [West Virginia Department of Health and Human Resources](https://soberlivingapp.com/sober-living-app-blog/tag/West+Virginia+Department+of+Health+and+Human+Resources), [Wood County](https://soberlivingapp.com/sober-living-app-blog/tag/Wood+County), [NIMBYism](../../../tag/NIMBYism.html), [West Virginia US Attorney's Office](https://soberlivingapp.com/sober-living-app-blog/tag/West+Virginia+US+Attorney%27s+Office), [Medicare](https://soberlivingapp.com/sober-living-app-blog/tag/Medicare), [Medicaid](../../../tag/Medicaid.html), [fraud](https://soberlivingapp.com/sober-living-app-blog/tag/fraud)
+Tagged: [West Virginia](/sober-living-app-blog/tag/West+Virginia), [West Virginia Health and Facility Licensure and Certiification](/sober-living-app-blog/tag/West+Virginia+Health+and+Facility+Licensure+and+Certiification), [West Virginia Alliance of Recovery Residences](https://soberlivingapp.com/sober-living-app-blog/tag/West+Virginia+Alliance+of+Recovery+Residences), [WVARR](https://soberlivingapp.com/sober-living-app-blog/tag/WVARR), [West Virginia Department of Health and Human Resources](https://soberlivingapp.com/sober-living-app-blog/tag/West+Virginia+Department+of+Health+and+Human+Resources), [Wood County](https://soberlivingapp.com/sober-living-app-blog/tag/Wood+County), [NIMBYism](/sober-living-app-blog/tag/NIMBYism), [West Virginia US Attorney's Office](https://soberlivingapp.com/sober-living-app-blog/tag/West+Virginia+US+Attorney%27s+Office), [Medicare](https://soberlivingapp.com/sober-living-app-blog/tag/Medicare), [Medicaid](/sober-living-app-blog/tag/Medicaid), [fraud](https://soberlivingapp.com/sober-living-app-blog/tag/fraud)
 
 0 Likes
 
 Share
 
-Newer Post[Everything You Want to Know About Opening a Sober Living Home in Hawaii](../26/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii.html)
+Newer Post: Everything You Want to Know About Opening a Sober Living Home in Hawaii
 
-Older Post[FAQ About How to Open an Sober Living Home in Maine](https://soberlivingapp.com/sober-living-app-blog/2023/1/19/faq-about-how-to-open-an-sober-living-home-in-maine)
+Older Post: FAQ About How to Open an Sober Living Home in Maine

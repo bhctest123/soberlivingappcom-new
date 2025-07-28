@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Understanding National Regulations on Sober Living Homes in the United States - Part 2"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[August 17, 2021](understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2.html)
+[August 17, 2021]
 
-[Licensing](../../../category/Licensing.html), [Guide](../../../category/Guide.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Licensing](/sober-living-app-blog/category/Licensing), [Guide](/sober-living-app-blog/category/Guide), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [Understanding National Regulations on Sober Living Homes in the United States - Part 2](understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2.html)
+#  [Understanding National Regulations on Sober Living Homes in the United States - Part 2]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[August 17, 2021](understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2.html)
+[August 17, 2021]
 
-[Licensing](../../../category/Licensing.html), [Guide](../../../category/Guide.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Licensing](/sober-living-app-blog/category/Licensing), [Guide](/sober-living-app-blog/category/Guide), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![National regulations and restrictions for sober living homes are changing rapidly in the United States. Here’s the latest.](/images/blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2/Screen_Shot_2021-08-11_at_5.24.53_PM.png)
 
@@ -60,18 +60,18 @@ In this case, if CapGrow and Pinnacle Treatment Centers are found “guilty,” 
 
 ![Behave Health is a all in one software solution designed especially for sober living home owners and operators. We stay on top of national regulations so you don’t have to.](/images/blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2/Screen_Shot_2021-08-11_at_5.27.26_PM.png)
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [regulations](../../../tag/regulations.html), [certification](../../../tag/certification.html), [licensure](../../../tag/licensure.html), [legal issues](../../../tag/legal+issues.html), [lawsuits](https://soberlivingapp.com/sober-living-app-blog/tag/lawsuits), [nuisance lawsuits](https://soberlivingapp.com/sober-living-app-blog/tag/nuisance+lawsuits), [state funding](../../../tag/state+funding.html), [Maryland](../../../tag/Maryland.html), [Missouri](../../../tag/Missouri.html), [Rhode Island](../../../tag/Rhode+Island.html), [Pennsylvania](../../../tag/Pennsylvania.html), [Florida](../../../tag/Florida.html), [Florida Model](https://soberlivingapp.com/sober-living-app-blog/tag/Florida+Model), [Indiana](../../../tag/Indiana.html), [FHA](https://soberlivingapp.com/sober-living-app-blog/tag/FHA), [ADA](https://soberlivingapp.com/sober-living-app-blog/tag/ADA), [NIMBYism](../../../tag/NIMBYism.html), [city code](../../../tag/city+code.html), [zoning](../../../tag/zoning.html)
+Tagged: [regulations](/sober-living-app-blog/tag/regulations), [certification](/sober-living-app-blog/tag/certification), [licensure](/sober-living-app-blog/tag/licensure), [legal issues](/sober-living-app-blog/tag/legal+issues), [lawsuits](https://soberlivingapp.com/sober-living-app-blog/tag/lawsuits), [nuisance lawsuits](https://soberlivingapp.com/sober-living-app-blog/tag/nuisance+lawsuits), [state funding](/sober-living-app-blog/tag/state+funding), [Maryland](/sober-living-app-blog/tag/Maryland), [Missouri](/sober-living-app-blog/tag/Missouri), [Rhode Island](/sober-living-app-blog/tag/Rhode+Island), [Pennsylvania](/sober-living-app-blog/tag/Pennsylvania), [Florida](/sober-living-app-blog/tag/Florida), [Florida Model](https://soberlivingapp.com/sober-living-app-blog/tag/Florida+Model), [Indiana](/sober-living-app-blog/tag/Indiana), [FHA](https://soberlivingapp.com/sober-living-app-blog/tag/FHA), [ADA](https://soberlivingapp.com/sober-living-app-blog/tag/ADA), [NIMBYism](/sober-living-app-blog/tag/NIMBYism), [city code](/sober-living-app-blog/tag/city+code), [zoning](/sober-living-app-blog/tag/zoning)
 
 2 Likes
 
 Share
 
-Newer Post[Nuisance Lawsuits: A Crash Course for Sober Living Home Operators](https://soberlivingapp.com/sober-living-app-blog/2021/8/31/nuisance-lawsuits-a-crash-course-for-sober-living-home-operators)
+Newer Post: Nuisance Lawsuits: A Crash Course for Sober Living Home Operators
 
-Older Post[Understanding National Regulations on Sober Living Homes in the United States - Part 1](https://soberlivingapp.com/sober-living-app-blog/2021/8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1)
+Older Post: Understanding National Regulations on Sober Living Homes in the United States - Part 1

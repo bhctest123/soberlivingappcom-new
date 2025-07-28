@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - Sober Living Opioid Fund Updates: TN, MN, TX, CA, FL, OH.'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 21, 2024](opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-floridanbsp-ohio.html)
+[March 21, 2024]
 
-[Sober Living Startup](../../../category/Sober+Living+Startup.html), [Funding](../../../category/Funding.html)
+[Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup), [Funding](/sober-living-app-blog/category/Funding)
 
-#  [Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida,  Ohio](opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-floridanbsp-ohio.html)
+#  [Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida,  Ohio]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 21, 2024](opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-floridanbsp-ohio.html)
+[March 21, 2024]
 
-[Sober Living Startup](../../../category/Sober+Living+Startup.html), [Funding](../../../category/Funding.html)
+[Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup), [Funding](/sober-living-app-blog/category/Funding)
 
 ![florida sober living home opioid settlement funding grant money tennesee minnesota texas california florida ohio](/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-floridanbsp-ohio/Screen_Shot_2024-03-10_at_6.23.06_PM.png)
 
@@ -80,18 +80,18 @@ The [grant headquarters page](https://www.oneohiofoundation.com/grants) on the O
 
 ## Sober Living App Helps Sober Living Succeed 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Tennessee](../../../tag/Tennessee.html), [Minnesota](../../../tag/Minnesota.html), [Texas](../../../tag/Texas.html), [California](../../../tag/California.html), [Florida](../../../tag/Florida.html), [Ohio](../../../tag/Ohio.html), [Opioid settl](../../../tag/Opioid+settl.html), [Funding](../../../tag/Funding.html), [funding](../../../tag/Funding.html)
+Tagged: [Tennessee](/sober-living-app-blog/tag/Tennessee), [Minnesota](/sober-living-app-blog/tag/Minnesota), [Texas](/sober-living-app-blog/tag/Texas), [California](/sober-living-app-blog/tag/California), [Florida](/sober-living-app-blog/tag/Florida), [Ohio](/sober-living-app-blog/tag/Ohio), [Opioid settl](/sober-living-app-blog/tag/Opioid+settl), [Funding](/sober-living-app-blog/tag/Funding), [funding](/sober-living-app-blog/tag/Funding)
 
 0 Likes
 
 Share
 
-Newer Post[Opioid Settlement Funding Updates for Sober Living Homes in North Carolina, Georgia, Kentucky and West Virginia](../26/opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia.html)
+Newer Post: Opioid Settlement Funding Updates for Sober Living Homes in North Carolina, Georgia, Kentucky and West Virginia
 
-Older Post[Opioid Settlement Funding Updates for Sober Living Homes in Montana, Colorado, Arizona, New York, Missouri, and Vermont](../10/opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont.html)
+Older Post: Opioid Settlement Funding Updates for Sober Living Homes in Montana, Colorado, Arizona, New York, Missouri, and Vermont

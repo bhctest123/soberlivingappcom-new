@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - 5 Things to Consider When Opening a Sober Living Home in Wyoming"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 1, 2023](5-things-to-consider-when-opening-a-sober-living-home-in-wyoming.html)
+[March 1, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations)
 
-#  [5 Things to Consider When Opening a Sober Living Home in Wyoming](5-things-to-consider-when-opening-a-sober-living-home-in-wyoming.html)
+#  [5 Things to Consider When Opening a Sober Living Home in Wyoming]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 1, 2023](5-things-to-consider-when-opening-a-sober-living-home-in-wyoming.html)
+[March 1, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations)
 
 ![wyoming sober living home how to open certification regulation](/images/blog/5-things-to-consider-when-opening-a-sober-living-home-in-wyoming/Screen_Shot_2023-02-26_at_7.39.40_PM.png)
 
@@ -84,18 +84,18 @@ Unlike other states, which offer a lot of external, publicly available informati
 
 ## Thinking of Opening a Sober Living Home in Wyoming? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Wyoming](../../../tag/Wyoming.html), [certified substance use providers database](../../../tag/certified+substance+use+providers+database.html), [Wyoming Department of Health](../../../tag/Wyoming+Department+of+Health.html), [Rules and Regulation for Substance Abuse Standards](../../../tag/Rules+and+Regulation+for+Substance+Abuse+Standards.html), [supportive transitional drug-free housing services](../../../tag/supportive+transitional+drug-free+housing+services.html), [NARR](../../../tag/NARR.html)
+Tagged: [Wyoming](/sober-living-app-blog/tag/Wyoming), [certified substance use providers database](/sober-living-app-blog/tag/certified+substance+use+providers+database), [Wyoming Department of Health](/sober-living-app-blog/tag/Wyoming+Department+of+Health), [Rules and Regulation for Substance Abuse Standards](/sober-living-app-blog/tag/Rules+and+Regulation+for+Substance+Abuse+Standards), [supportive transitional drug-free housing services](/sober-living-app-blog/tag/supportive+transitional+drug-free+housing+services), [NARR](/sober-living-app-blog/tag/NARR)
 
 0 Likes
 
 Share
 
-Newer Post[The ASAM Criteria 4th Edition: What Recovery Residences Need to Know](../../9/30/the-asam-criteria-4th-edition-what-recovery-residences-need-to-know.html)
+Newer Post: The ASAM Criteria 4th Edition: What Recovery Residences Need to Know
 
-Older Post[Everything You Need to Know About Opening a Sober Living Home in Vermont ](../../2/27/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp.html)
+Older Post: Everything You Need to Know About Opening a Sober Living Home in Vermont 

@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Sober Living Reg/Cert Updates for NARR Affiliates in KS, MS, NM"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[December 5, 2024](sober-living-home-regulation-and-certification-updates-for-narr-affiliates-in-kansas-mississippi-and-new-mexico.html)
+[December 5, 2024]
 
-[Regulations](../../../category/Regulations.html), [Sober Living Startup](../../../category/Sober+Living+Startup.html), [News](../../../category/News.html), [Certification](../../../category/Certification.html)
+[Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup), [News](/sober-living-app-blog/category/News), [Certification](/sober-living-app-blog/category/Certification)
 
-#  [Sober Living Home Regulation and Certification Updates for NARR Affiliates in Kansas, Mississippi, and New Mexico](sober-living-home-regulation-and-certification-updates-for-narr-affiliates-in-kansas-mississippi-and-new-mexico.html)
+#  [Sober Living Home Regulation and Certification Updates for NARR Affiliates in Kansas, Mississippi, and New Mexico]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[December 5, 2024](sober-living-home-regulation-and-certification-updates-for-narr-affiliates-in-kansas-mississippi-and-new-mexico.html)
+[December 5, 2024]
 
-[Regulations](../../../category/Regulations.html), [Sober Living Startup](../../../category/Sober+Living+Startup.html), [News](../../../category/News.html), [Certification](../../../category/Certification.html)
+[Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup), [News](/sober-living-app-blog/category/News), [Certification](/sober-living-app-blog/category/Certification)
 
 ![Kansas Mississippi New Mexico sober living home recovery residence NARR affiliate news regulation law](/images/blog/sober-living-home-regulation-and-certification-updates-for-narr-affiliates-in-kansas-mississippi-and-new-mexico/Screen_Shot_2024-12-04_at_7.40.48_PM.png)
 
@@ -94,7 +94,7 @@ Sober living home operators and addiction treatment providers in New Mexico may 
 
 ## Managing a sober living home in Kansas, Mississippi, or New Mexico? Let us help.
 
-[Sober Living App](../../../../index.html) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
@@ -104,12 +104,12 @@ Our all-in-one app handles rent collection, admissions, property management, res
 
 Discover if Behave Health’s new[ NARR Affiliate Management Platform (AMP)](https://behavehealth.com/narr-affiliate) is right for your organization.
 
-Tagged: [Kansas](../../../tag/Kansas.html), [Mississippi](../../../tag/Mississippi.html), [New Mexico](../../../tag/New+Mexico.html), [KRHN](../../../tag/KRHN.html), [Oxford homes](../../../tag/Oxford+homes.html), [Tupelo](../../../tag/Tupelo.html), [Albuquerque](../../../tag/Albuquerque.html), [Operation Rainbow Bridge](../../../tag/Operation+Rainbow+Bridge.html)
+Tagged: [Kansas](/sober-living-app-blog/tag/Kansas), [Mississippi](/sober-living-app-blog/tag/Mississippi), [New Mexico](/sober-living-app-blog/tag/New+Mexico), [KRHN](/sober-living-app-blog/tag/KRHN), [Oxford homes](/sober-living-app-blog/tag/Oxford+homes), [Tupelo](/sober-living-app-blog/tag/Tupelo), [Albuquerque](/sober-living-app-blog/tag/Albuquerque), [Operation Rainbow Bridge](/sober-living-app-blog/tag/Operation+Rainbow+Bridge)
 
 0 Likes
 
 Share
 
-Newer Post[Sober Living Home and NARR Affiliate Updates for Recovery Residences in Nebraska, Idaho, and West Virginia](../9/sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-nebraska-idaho-and-west-virginia.html)
+Newer Post: Sober Living Home and NARR Affiliate Updates for Recovery Residences in Nebraska, Idaho, and West Virginia
 
-Older Post[Recovery residence regulation updates for NARR affiliates sober living homes in Iowa, Nevada, and Arkansas](../../11/24/recovery-residence-regulation-updates-for-narr-affiliates-sober-living-homes-in-iowa-nevada-and-arkansas.html)
+Older Post: Recovery residence regulation updates for NARR affiliates sober living homes in Iowa, Nevada, and Arkansas

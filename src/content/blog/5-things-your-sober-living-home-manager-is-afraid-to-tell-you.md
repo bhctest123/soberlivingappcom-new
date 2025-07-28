@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - 5 Things Your Sober Living Home Manager is Afraid to Tell You"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[August 5, 2020](5-things-your-sober-living-home-manager-is-afraid-to-tell-you.html)
+[August 5, 2020]
 
-[Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Technology](../../../category/Technology.html)
+[Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Technology](/sober-living-app-blog/category/Technology)
 
-#  [5 Things Your Sober Living Home Manager is Afraid to Tell You](5-things-your-sober-living-home-manager-is-afraid-to-tell-you.html)
+#  [5 Things Your Sober Living Home Manager is Afraid to Tell You]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[August 5, 2020](5-things-your-sober-living-home-manager-is-afraid-to-tell-you.html)
+[August 5, 2020]
 
-[Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Technology](../../../category/Technology.html)
+[Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Technology](/sober-living-app-blog/category/Technology)
 
 ![Your sober living home’s success hinges on the candor of your sober living home manager. But what are they afraid to tell you?](/images/blog/5-things-your-sober-living-home-manager-is-afraid-to-tell-you/Screenshot_2020-07-30_at_9.21.51_AM.png)
 
@@ -58,7 +58,7 @@ With all of the focus on managing people, it’s easy to forget that sober livin
 
 If your sober living home manager feels uncomfortable bringing problems to you, or if they worry about “stressing you out,” then it’s possible that they will ignore home maintenance issues until they become big, expensive repairs. Slow drains become massive plumbing jobs. One leaky gutter leads to an entirely flooded basement. 
 
-Make sure your sober living home manager knows that you want them to spend money on maintenance and repairs for the home. Greet issues they bring to you with enthusiasm and gratitude so that they feel good about identifying problems early. Consider streamlining repairs with [Sober Living App](../../../../index.html), which makes it easy to schedule routine maintenance before problems balloon into catastrophes. 
+Make sure your sober living home manager knows that you want them to spend money on maintenance and repairs for the home. Greet issues they bring to you with enthusiasm and gratitude so that they feel good about identifying problems early. Consider streamlining repairs with [Sober Living App](/), which makes it easy to schedule routine maintenance before problems balloon into catastrophes. 
 
 ## Sober Living Manager Confession #4: I Have No Idea the Last Time I Changed the Oil on the Car
 
@@ -66,7 +66,7 @@ Make sure your sober living home manager knows that you want them to spend money
 
 Like home maintenance, [car maintenance](../../../../operations.html) can also be easily ignored by sober living home managers. When day-to-day life is dramatic and full of surprises—which is almost always the case when dealing with groups of people in early recovery—sober living home managers find themselves too busy putting out fires to take care of mundane tasks like oil changes. 
 
-[Sober Living App](../../../../index.html) makes car care easy. Your sober living home manager will get automatic notifications when it’s time to do an oil change. No planning necessary! 
+[Sober Living App](/) makes car care easy. Your sober living home manager will get automatic notifications when it’s time to do an oil change. No planning necessary! 
 
 ## Sober Living Manager Confession #5: I Really Want Your Opinion—Sometimes
 
@@ -82,16 +82,16 @@ If you find yourself second guessing your sober living home management often, co
 
 Sometimes all your sober living home management needs is the right tool for the job. 
 
-[Sober Living App](../../../../index.html) is an all-in-one software solution that is especially designed to take the guesswork and chaos out of sober living home management. Access everything you need from any device, anywhere. 
+[Sober Living App](/) is an all-in-one software solution that is especially designed to take the guesswork and chaos out of sober living home management. Access everything you need from any device, anywhere. 
 
 [Claim your free trial today.](https://behavehealth.com/get-started)﻿
 
-Tagged: [sober living home management](../../../tag/sober+living+home+management.html), [Sober Living App](../../../tag/Sober+Living+App.html), [NIMBYism](../../../tag/NIMBYism.html)
+Tagged: [sober living home management](/sober-living-app-blog/tag/sober+living+home+management), [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App), [NIMBYism](/sober-living-app-blog/tag/NIMBYism)
 
 0 Likes
 
 Share
 
-Newer Post[Sober Living App's New Billing Assistant Makes Getting Paid Even Easier](https://soberlivingapp.com/sober-living-app-blog/2020/10/6/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier)
+Newer Post: Sober Living App's New Billing Assistant Makes Getting Paid Even Easier
 
-Older Post[Is Your Sober Living Home Accidentally Violating HIPAA Laws?](https://soberlivingapp.com/sober-living-app-blog/2020/7/21/is-your-sober-living-home-accidentally-violating-hipaa-laws)
+Older Post: Is Your Sober Living Home Accidentally Violating HIPAA Laws?

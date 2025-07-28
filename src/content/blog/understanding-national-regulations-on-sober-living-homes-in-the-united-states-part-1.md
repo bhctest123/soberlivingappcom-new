@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Understanding National Regulations on Sober Living Homes in the United States - Part 1"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[August 3, 2021](understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.html)
+[August 3, 2021]
 
-[Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Licensing](../../../category/Licensing.html)
+[Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Licensing](/sober-living-app-blog/category/Licensing)
 
-#  [Understanding National Regulations on Sober Living Homes in the United States - Part 1](understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.html)
+#  [Understanding National Regulations on Sober Living Homes in the United States - Part 1]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[August 3, 2021](understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.html)
+[August 3, 2021]
 
-[Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Licensing](../../../category/Licensing.html)
+[Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Licensing](/sober-living-app-blog/category/Licensing)
 
 ![How are sober living homes in the United States regulated? What laws affect sober living homes? National regulations? Read on to discover the answers to these questions.](/images/blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1/Screen_Shot_2021-07-29_at_5.15.06_PM.png)
 
@@ -72,20 +72,20 @@ In 2015, Florida Governor, Rick Scott, passed a law that states that addiction t
 
 ## Run a Sober Living Home? We’re Here to Help 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, alumni and more - all from the convenience of your phone. (And, yes, computers, too!) 
 
-[Sober Living App](../../../../index.html) is intuitive and easy to use. No learning curve. No “super-users.” Just open it up and start using it right away. 
+[Sober Living App](/) is intuitive and easy to use. No learning curve. No “super-users.” Just open it up and start using it right away. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [regulations](../../../tag/regulations.html), [laws](https://soberlivingapp.com/sober-living-app-blog/tag/laws), [licensure](../../../tag/licensure.html), [Florida Model](../../../tag/Florida+Model.html), [Florida](../../../tag/Florida.html), [NARR](../../../tag/NARR.html), [NIMBYism](../../../tag/NIMBYism.html), [certification](../../../tag/certification.html)
+Tagged: [regulations](/sober-living-app-blog/tag/regulations), [laws](https://soberlivingapp.com/sober-living-app-blog/tag/laws), [licensure](/sober-living-app-blog/tag/licensure), [Florida Model](/sober-living-app-blog/tag/Florida+Model), [Florida](/sober-living-app-blog/tag/Florida), [NARR](/sober-living-app-blog/tag/NARR), [NIMBYism](/sober-living-app-blog/tag/NIMBYism), [certification](/sober-living-app-blog/tag/certification)
 
 0 Likes
 
 Share
 
-Newer Post[Understanding National Regulations on Sober Living Homes in the United States - Part 2](../17/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2.html)
+Newer Post: Understanding National Regulations on Sober Living Homes in the United States - Part 2
 
-Older Post[5 Cool Ways to Engage Your Sober Living Home Alumni](https://soberlivingapp.com/sober-living-app-blog/2021/7/15/5-cool-ways-to-engage-your-sober-living-home-alumni)
+Older Post: 5 Cool Ways to Engage Your Sober Living Home Alumni

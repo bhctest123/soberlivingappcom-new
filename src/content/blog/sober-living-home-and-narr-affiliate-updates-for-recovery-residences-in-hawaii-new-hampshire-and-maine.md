@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Sober Living & NARR Updates for Recovery Residences in HI, NH, ME"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[December 30, 2024](sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-hawaii-new-hampshire-and-maine.html)
+[December 30, 2024]
 
-[Certification](../../../category/Certification.html), [Regulations](../../../category/Regulations.html), [NARR](../../../category/NARR.html)
+[Certification](/sober-living-app-blog/category/Certification), [Regulations](/sober-living-app-blog/category/Regulations), [NARR](/sober-living-app-blog/category/NARR)
 
-#  [Sober Living Home and NARR Affiliate Updates for Recovery Residences in Hawaii, New Hampshire, and Maine](sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-hawaii-new-hampshire-and-maine.html)
+#  [Sober Living Home and NARR Affiliate Updates for Recovery Residences in Hawaii, New Hampshire, and Maine]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[December 30, 2024](sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-hawaii-new-hampshire-and-maine.html)
+[December 30, 2024]
 
-[Certification](../../../category/Certification.html), [Regulations](../../../category/Regulations.html), [NARR](../../../category/NARR.html)
+[Certification](/sober-living-app-blog/category/Certification), [Regulations](/sober-living-app-blog/category/Regulations), [NARR](/sober-living-app-blog/category/NARR)
 
 ![Hawaii New Hampshire Maine sober living home regulations NARR affiliate affiliation certification laws rules](/images/blog/sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-hawaii-new-hampshire-and-maine/Screen_Shot_2024-12-29_at_6.17.43_PM.png)
 
@@ -106,7 +106,7 @@ If you operate sober living homes in Maine, you may find these posts to be usefu
 
 ## Managing a sober living home in Hawaii, New Hampshire, or Maine? Let us help.
 
-[Sober Living App](../../../../index.html) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
@@ -116,12 +116,12 @@ Our all-in-one app handles rent collection, admissions, property management, res
 
 Discover if Behave Health’s new[ NARR Affiliate Management Platform (AMP)](https://behavehealth.com/narr-affiliate) is right for your organization.
 
-Tagged: [NARR](../../../tag/NARR.html), [New Hampshire](../../../tag/New+Hampshire.html), [Maine](../../../tag/Maine.html), [Hawaii](../../../tag/Hawaii.html), [MARR](../../../tag/MARR.html), [NHCORR](../../../tag/NHCORR.html), [NHPRR](../../../tag/NHPRR.html)
+Tagged: [NARR](/sober-living-app-blog/tag/NARR), [New Hampshire](/sober-living-app-blog/tag/New+Hampshire), [Maine](/sober-living-app-blog/tag/Maine), [Hawaii](/sober-living-app-blog/tag/Hawaii), [MARR](/sober-living-app-blog/tag/MARR), [NHCORR](/sober-living-app-blog/tag/NHCORR), [NHPRR](/sober-living-app-blog/tag/NHPRR)
 
 0 Likes
 
 Share
 
-Newer Post[Sober Living Home Regulations for NARR Affiliate Operators in Montana, Rhode Island, Delaware, and Vermont](sober-living-home-regulations-for-narr-affiliate-operators-in-montana-rhode-island-delaware-and-vermont.html)
+Newer Post[Sober Living Home Regulations for NARR Affiliate Operators in Montana, Rhode Island, Delaware, and Vermont]
 
-Older Post[Sober Living Home and NARR Affiliate Updates for Recovery Residences in Nebraska, Idaho, and West Virginia](../9/sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-nebraska-idaho-and-west-virginia.html)
+Older Post: Sober Living Home and NARR Affiliate Updates for Recovery Residences in Nebraska, Idaho, and West Virginia

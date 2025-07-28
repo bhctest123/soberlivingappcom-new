@@ -10,23 +10,23 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - Limited Time Offer: Get Our Software Solution for Sober Living Homes for Free'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 26, 2021](limited-time-offer-get-our-software-solution-for-sober-living-homes-for-free.html)
+[January 26, 2021]
 
-[News](../../../category/News.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Technology](../../../category/Technology.html)
+[News](/sober-living-app-blog/category/News), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Technology](/sober-living-app-blog/category/Technology)
 
-#  [Limited Time Offer: Get Our Software Solution for Sober Living Homes for Free](limited-time-offer-get-our-software-solution-for-sober-living-homes-for-free.html)
+#  [Limited Time Offer: Get Our Software Solution for Sober Living Homes for Free]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 26, 2021](limited-time-offer-get-our-software-solution-for-sober-living-homes-for-free.html)
+[January 26, 2021]
 
-[News](../../../category/News.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Technology](../../../category/Technology.html)
+[News](/sober-living-app-blog/category/News), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Technology](/sober-living-app-blog/category/Technology)
 
 ![Sober Living App is giving away free accounts for a limited time to sober living home operators.](/images/blog/limited-time-offer-get-our-software-solution-for-sober-living-homes-for-free/Screenshot_2021-01-21_at_8.54.22_PM.png)
 
-We are thrilled to announce the release of our brand new FREE accounts for [Sober Living App](../../../../index.html). 
+We are thrilled to announce the release of our brand new FREE accounts for [Sober Living App](/). 
 
 Yes, you heard that right: We are giving away our best-in-class, lightning quick, super intuitive software designed especially for Sober Living Homes absolutely free! 
 
@@ -100,12 +100,12 @@ All of Sober Living App’s plans - including the free plan - don’t include an
 
 Again, this is a limited time offer, so don’t wait to [claim your free Sober Living App account now.](https://behavehealth.com/get-started) 
 
-Tagged: [free offer](../../../tag/free+offer.html), [HIPAA-ready](../../../tag/HIPAA-ready.html), [EHR](../../../tag/EHR.html), [small business](../../../tag/small+business.html), [BAA](../../../tag/BAA.html), [healthcare facilities](../../../tag/healthcare+facilities.html), [admissions](../../../tag/admissions.html)
+Tagged: [free offer](/sober-living-app-blog/tag/free+offer), [HIPAA-ready](/sober-living-app-blog/tag/HIPAA-ready), [EHR](/sober-living-app-blog/tag/EHR), [small business](/sober-living-app-blog/tag/small+business), [BAA](/sober-living-app-blog/tag/BAA), [healthcare facilities](/sober-living-app-blog/tag/healthcare+facilities), [admissions](/sober-living-app-blog/tag/admissions)
 
 0 Likes
 
 Share
 
-Newer Post[Got Open Sober Living Home Beds? Let Residents and Community Members Know About It - Automatically!](https://soberlivingapp.com/sober-living-app-blog/2021/2/2/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically)
+Newer Post: Got Open Sober Living Home Beds? Let Residents and Community Members Know About It - Automatically!
 
-Older Post[3 Mistakes You Might be Making with MAT Patients at Your Sober Living Home](../6/3-mistakes-you-might-be-making-with-mat-patients-at-your-sober-living-home.html)
+Older Post: 3 Mistakes You Might be Making with MAT Patients at Your Sober Living Home

@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - Sober Living App''s New Billing Assistant Makes Getting Paid Even Easier'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 6, 2020](sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier.html)
+[October 6, 2020]
 
-[Property Management](../../../category/Property+Management.html), [Technology](../../../category/Technology.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Recovery Community](../../../category/Recovery+Community.html), [News](../../../category/News.html)
+[Property Management](/sober-living-app-blog/category/Property+Management), [Technology](/sober-living-app-blog/category/Technology), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [News](/sober-living-app-blog/category/News)
 
-#  [Sober Living App's New Billing Assistant Makes Getting Paid Even Easier](sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier.html)
+#  [Sober Living App's New Billing Assistant Makes Getting Paid Even Easier]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 6, 2020](sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier.html)
+[October 6, 2020]
 
-[Property Management](../../../category/Property+Management.html), [Technology](../../../category/Technology.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Recovery Community](../../../category/Recovery+Community.html), [News](../../../category/News.html)
+[Property Management](/sober-living-app-blog/category/Property+Management), [Technology](/sober-living-app-blog/category/Technology), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [News](/sober-living-app-blog/category/News)
 
 ![Sober living app’s new billing assistant is making getting paid even easier!](/images/blog/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier/Screenshot_2020-10-01_at_1.02.51_PM.png)
 
@@ -30,7 +30,7 @@ It’s probably safe to say that collecting payments at your sober living home i
 
 But every month, [COVID-19](../../4/21/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week.html) or no, it needs to be done. 
 
-At [Sober Living App](../../../../index.html), we’re excited to announce some new tools we’ve added to our [Summer 2020 update](https://info.behavehealth.com/en/behave-health-summer-2020-update) that are designed to make getting paid as easy as possible - every time.
+At [Sober Living App](/), we’re excited to announce some new tools we’ve added to our [Summer 2020 update](https://info.behavehealth.com/en/behave-health-summer-2020-update) that are designed to make getting paid as easy as possible - every time.
 
 ## Sober Living Homes Often Collect Payments in a Disorganized Way
 
@@ -116,12 +116,12 @@ Curious to learn more?
 
 Reach out to us to [claim your free trial ](https://behavehealth.com/get-started)to see the Sober Living App difference today. 
 
-Tagged: [billing](../../../tag/billing.html), [payment collections](../../../tag/payment+collections.html), [residential portal](../../../tag/residential+portal.html), [services book](https://soberlivingapp.com/sober-living-app-blog/tag/services+book), [automatic recurring charges](https://soberlivingapp.com/sober-living-app-blog/tag/automatic+recurring+charges)
+Tagged: [billing](/sober-living-app-blog/tag/billing), [payment collections](/sober-living-app-blog/tag/payment+collections), [residential portal](/sober-living-app-blog/tag/residential+portal), [services book](https://soberlivingapp.com/sober-living-app-blog/tag/services+book), [automatic recurring charges](https://soberlivingapp.com/sober-living-app-blog/tag/automatic+recurring+charges)
 
 0 Likes
 
 Share
 
-Newer Post[4 Ways a Trauma-Informed Approach Can Help Your Sober Living Residents Cope with Pandemic Stress](https://soberlivingapp.com/sober-living-app-blog/2020/10/20/4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress)
+Newer Post: 4 Ways a Trauma-Informed Approach Can Help Your Sober Living Residents Cope with Pandemic Stress
 
-Older Post[5 Things Your Sober Living Home Manager is Afraid to Tell You](../../8/5/5-things-your-sober-living-home-manager-is-afraid-to-tell-you.html)
+Older Post: 5 Things Your Sober Living Home Manager is Afraid to Tell You

@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - How to Open a Sober Living Home in Ohio"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 12, 2021](how-to-open-a-sober-living-home-in-ohio.html)
+[October 12, 2021]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Regulations](../../../category/Regulations.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Regulations](/sober-living-app-blog/category/Regulations)
 
-#  [How to Open a Sober Living Home in Ohio](how-to-open-a-sober-living-home-in-ohio.html)
+#  [How to Open a Sober Living Home in Ohio]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 12, 2021](how-to-open-a-sober-living-home-in-ohio.html)
+[October 12, 2021]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Regulations](../../../category/Regulations.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Regulations](/sober-living-app-blog/category/Regulations)
 
 ![Most sober living homes in Ohio don’t need to be licensed or certified by the state. Instead, Ohio has made it very easy to open a sober living home for would-be recovery home owners and operators.](/images/blog/how-to-open-a-sober-living-home-in-ohio/Screen_Shot_2021-10-07_at_6.53.15_PM.png)
 
@@ -110,18 +110,18 @@ Another great resource to check out is local state NARR affiliate, [Ohio Recover
 
 ## Need Help With Your Sober Living Home? We’re Here for You
 
-[Sober Living App](../../../../index.html) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Ohio](../../../tag/Ohio.html), [licensure](../../../tag/licensure.html), [legal issues](../../../tag/legal+issues.html), [certification](../../../tag/certification.html), [CARF](https://soberlivingapp.com/sober-living-app-blog/tag/CARF), [Affordable housing](https://soberlivingapp.com/sober-living-app-blog/tag/Affordable+housing), [real estate](../../../tag/real+estate.html)
+Tagged: [Ohio](/sober-living-app-blog/tag/Ohio), [licensure](/sober-living-app-blog/tag/licensure), [legal issues](/sober-living-app-blog/tag/legal+issues), [certification](/sober-living-app-blog/tag/certification), [CARF](https://soberlivingapp.com/sober-living-app-blog/tag/CARF), [Affordable housing](https://soberlivingapp.com/sober-living-app-blog/tag/Affordable+housing), [real estate](/sober-living-app-blog/tag/real+estate)
 
 7 Likes
 
 Share
 
-Newer Post[How to Open a Sober Living Home Business in Pennsylvania](../26/how-to-open-a-sober-living-home-business-in-pennsylvania.html)
+Newer Post: How to Open a Sober Living Home Business in Pennsylvania
 
-Older Post[How to Write an Awesome Good Neighbor Agreement for Your Sober Living Home](../../9/21/how-to-write-an-awesome-good-neighbor-agreement-for-your-sober-living-home.html)
+Older Post: How to Write an Awesome Good Neighbor Agreement for Your Sober Living Home

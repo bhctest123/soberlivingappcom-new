@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Sober Living Home Startup Guide"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[November 14, 2017](sober-living-home-startup-guide.html)
+[November 14, 2017]
 
-[Regulations](../../../category/Regulations.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Guide](../../../category/Guide.html)
+[Regulations](/sober-living-app-blog/category/Regulations), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Guide](/sober-living-app-blog/category/Guide)
 
-#  [Sober Living Home Startup Guide](sober-living-home-startup-guide.html)
+#  [Sober Living Home Startup Guide]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[November 14, 2017](sober-living-home-startup-guide.html)
+[November 14, 2017]
 
-[Regulations](../../../category/Regulations.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Guide](../../../category/Guide.html)
+[Regulations](/sober-living-app-blog/category/Regulations), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Guide](/sober-living-app-blog/category/Guide)
 
 We built this guide to give recovery industry entrepreneurs a path to success. This will be a hub of resources and tools that have been helpful to others and could be helpful to you.  Let us know what is helpful!
 
@@ -72,12 +72,12 @@ We built this guide to give recovery industry entrepreneurs a path to success. T
 
 Reference: Pennsylvania Alliance of Recovery Residences - <http://fredway7.wixsite.com/parr/support-levels>
 
-Tagged: [guide](../../../tag/guide.html), [startup](../../../tag/Startup.html), [standards](https://soberlivingapp.com/sober-living-app-blog/tag/standards), [regulations](../../../tag/regulations.html)
+Tagged: [guide](/sober-living-app-blog/tag/guide), [startup](/sober-living-app-blog/tag/Startup), [standards](https://soberlivingapp.com/sober-living-app-blog/tag/standards), [regulations](/sober-living-app-blog/tag/regulations)
 
 0 Likes
 
 Share
 
-Newer Post[What is a sober living home?](what-is-a-sober-living-home.html)
+Newer Post[What is a sober living home?]
 
-Older Post[Software Tools for Sober Living Homes](https://soberlivingapp.com/sober-living-app-blog/2018/4/8/software-tools-for-sober-living-homes)
+Older Post: Software Tools for Sober Living Homes

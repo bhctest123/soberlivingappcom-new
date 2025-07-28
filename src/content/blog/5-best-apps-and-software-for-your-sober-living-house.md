@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - 5 Best Apps and Software for Your Sober Living House"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[November 18, 2019](5-best-apps-and-software-for-your-sober-living-house.html)
+[November 18, 2019]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [Property Management](../../../category/Property+Management.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Technology](../../../category/Technology.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Technology](/sober-living-app-blog/category/Technology)
 
-#  [5 Best Apps and Software for Your Sober Living House ](5-best-apps-and-software-for-your-sober-living-house.html)
+#  [5 Best Apps and Software for Your Sober Living House ]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[November 18, 2019](5-best-apps-and-software-for-your-sober-living-house.html)
+[November 18, 2019]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [Property Management](../../../category/Property+Management.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Technology](../../../category/Technology.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Technology](/sober-living-app-blog/category/Technology)
 
 ![Managing a sober living house is easier with the right apps and software.](/images/blog/5-best-apps-and-software-for-your-sober-living-house/computer_keyboard.png)
 
@@ -34,7 +34,7 @@ Today, let’s learn about 5 of the best apps and software for managing your sob
 
 ![The Sober Living App is one of the most useful pieces of software you’ll want in your toolbox for your sober living house.](/images/blog/5-best-apps-and-software-for-your-sober-living-house/behavehealth_dashboard.png)
 
-Any list of apps and software designed for sober living homes would be sorely incomplete if it did not include the [Sober Living App](../../../../index.html) we developed. Yes, we made it and we have an interest in making sure you know about it but the features alone will make you understand why this app is number one on our list. 
+Any list of apps and software designed for sober living homes would be sorely incomplete if it did not include the [Sober Living App](/) we developed. Yes, we made it and we have an interest in making sure you know about it but the features alone will make you understand why this app is number one on our list. 
 
 Consider what the Sober Living App includes: 
 
@@ -92,12 +92,12 @@ The integration with Pinterest, Instagram, and YouTube is a little clunky becaus
 
 Remember to never post photos of residents or alumni and to never refer to residents or alumni by name  in any of your social media profiles. Keep photos limited to staff and the facility only unless you have written permission from your residents.
 
-Tagged: [Sober Living App](../../../tag/Sober+Living+App.html), [software](../../../tag/software.html), [sobriety](../../../tag/sobriety.html), [marketing](../../../tag/marketing.html), [bed management](../../../tag/bed+management.html), [property management](../../../tag/property+management.html), [EHR](../../../tag/EHR.html)
+Tagged: [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App), [software](/sober-living-app-blog/tag/software), [sobriety](/sober-living-app-blog/tag/sobriety), [marketing](/sober-living-app-blog/tag/marketing), [bed management](/sober-living-app-blog/tag/bed+management), [property management](/sober-living-app-blog/tag/property+management), [EHR](/sober-living-app-blog/tag/EHR)
 
 0 Likes
 
 Share
 
-Newer Post[Dealing with NIMBYs at Your Sober Living House ](../../11/19/dealing-with-nimbys-at-your-sober-living-housenbsp.html)
+Newer Post: Dealing with NIMBYs at Your Sober Living House 
 
-Older Post[3 Things to Look for in Your First Sober Living Home Real Estate Deal](https://soberlivingapp.com/sober-living-app-blog/2019/5/28/3-things-to-look-for-in-your-first-sober-living-home-real-estate-deal)
+Older Post: 3 Things to Look for in Your First Sober Living Home Real Estate Deal

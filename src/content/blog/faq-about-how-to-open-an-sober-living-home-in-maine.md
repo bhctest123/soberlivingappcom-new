@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - FAQ About How to Open an Sober Living Home in Maine"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 19, 2023](faq-about-how-to-open-an-sober-living-home-in-maine.html)
+[January 19, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [FAQ About How to Open an Sober Living Home in Maine](faq-about-how-to-open-an-sober-living-home-in-maine.html)
+#  [FAQ About How to Open an Sober Living Home in Maine]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 19, 2023](faq-about-how-to-open-an-sober-living-home-in-maine.html)
+[January 19, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![sober living home licensing certification how to open Maine](/images/blog/faq-about-how-to-open-an-sober-living-home-in-maine/Screen_Shot_2023-01-15_at_5.04.52_PM.png)
 
@@ -84,18 +84,18 @@ There are several benefits to certification. For one, MARR certified sober livin
 
 ## Considering Opening a Maine Sober Living Residence? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Maine](../../../tag/Maine.html), [sober living](../../../tag/sober+living.html), [HUD grants](../../../tag/HUD+grants.html), [grants](../../../tag/grants.html), [funding](../../../tag/Funding.html), [NARR](../../../tag/NARR.html), [MARR](../../../tag/MARR.html), [Maine's Recovery Residence Pilot Program](https://soberlivingapp.com/sober-living-app-blog/tag/Maine%27s+Recovery+Residence+Pilot+Program), [Rural Drug and Alcohol Research Program](https://soberlivingapp.com/sober-living-app-blog/tag/Rural+Drug+and+Alcohol+Research+Program), [University of Maine](https://soberlivingapp.com/sober-living-app-blog/tag/University+of+Maine), [outcomes data](https://soberlivingapp.com/sober-living-app-blog/tag/outcomes+data)
+Tagged: [Maine](/sober-living-app-blog/tag/Maine), [sober living](/sober-living-app-blog/tag/sober+living), [HUD grants](/sober-living-app-blog/tag/HUD+grants), [grants](/sober-living-app-blog/tag/grants), [funding](/sober-living-app-blog/tag/Funding), [NARR](/sober-living-app-blog/tag/NARR), [MARR](/sober-living-app-blog/tag/MARR), [Maine's Recovery Residence Pilot Program](https://soberlivingapp.com/sober-living-app-blog/tag/Maine%27s+Recovery+Residence+Pilot+Program), [Rural Drug and Alcohol Research Program](https://soberlivingapp.com/sober-living-app-blog/tag/Rural+Drug+and+Alcohol+Research+Program), [University of Maine](https://soberlivingapp.com/sober-living-app-blog/tag/University+of+Maine), [outcomes data](https://soberlivingapp.com/sober-living-app-blog/tag/outcomes+data)
 
 0 Likes
 
 Share
 
-Newer Post[Your Questions About Opening a Sober Living Home in West Virginia - Answered](../24/your-questions-about-opening-a-sober-living-home-in-west-virginia-answered.html)
+Newer Post: Your Questions About Opening a Sober Living Home in West Virginia - Answered
 
-Older Post[Your Questions About Opening a Sober Living Home in Nebraska, Answered](https://soberlivingapp.com/sober-living-app-blog/2023/1/17/your-questions-about-opening-a-sober-living-home-in-nebraska-answered)
+Older Post: Your Questions About Opening a Sober Living Home in Nebraska, Answered

@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - What They Don''t Want You to Know About Opening a Sober Living Home in Alaska'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 22, 2023](what-they-dont-want-you-to-know-about-opening-a-sober-living-home-in-alaska.html)
+[February 22, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [What They Don't Want You to Know About Opening a Sober Living Home in Alaska](what-they-dont-want-you-to-know-about-opening-a-sober-living-home-in-alaska.html)
+#  [What They Don't Want You to Know About Opening a Sober Living Home in Alaska]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 22, 2023](what-they-dont-want-you-to-know-about-opening-a-sober-living-home-in-alaska.html)
+[February 22, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![Alaksa opening a sober living home recovery residence how to](/images/blog/what-they-dont-want-you-to-know-about-opening-a-sober-living-home-in-alaska/Screen_Shot_2023-02-12_at_4.14.33_PM.png)
 
@@ -82,18 +82,18 @@ In terms of geographic “hot spots” for overdose activity, Anchorage Public H
 
 ## Thinking of Opening a Sober Living Home in Alaska? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Alasaka](../../../tag/Alasaka.html), [Anchorage](../../../tag/Anchorage.html), [Alaska Advisory Board on Alcoholism and Drug Abuse](../../../tag/Alaska+Advisory+Board+on+Alcoholism+and+Drug+Abuse.html), [Department of Commerce](https://soberlivingapp.com/sober-living-app-blog/tag/Department+of+Commerce), [Alaska Department of Health](https://soberlivingapp.com/sober-living-app-blog/tag/Alaska+Department+of+Health), [Drug Overdose Mortality Update](https://soberlivingapp.com/sober-living-app-blog/tag/Drug+Overdose+Mortality+Update), [American Indian/Alaska Native](https://soberlivingapp.com/sober-living-app-blog/tag/American+Indian%2FAlaska+Native), [AI/AN](https://soberlivingapp.com/sober-living-app-blog/tag/AI%2FAN), [Anchorage Public Health Region](https://soberlivingapp.com/sober-living-app-blog/tag/Anchorage+Public+Health+Region), [Opioids](../../../tag/opioids.html), [opioid overdose](https://soberlivingapp.com/sober-living-app-blog/tag/opioid+overdose)
+Tagged: [Alasaka](/sober-living-app-blog/tag/Alasaka), [Anchorage](/sober-living-app-blog/tag/Anchorage), [Alaska Advisory Board on Alcoholism and Drug Abuse](/sober-living-app-blog/tag/Alaska+Advisory+Board+on+Alcoholism+and+Drug+Abuse), [Department of Commerce](https://soberlivingapp.com/sober-living-app-blog/tag/Department+of+Commerce), [Alaska Department of Health](https://soberlivingapp.com/sober-living-app-blog/tag/Alaska+Department+of+Health), [Drug Overdose Mortality Update](https://soberlivingapp.com/sober-living-app-blog/tag/Drug+Overdose+Mortality+Update), [American Indian/Alaska Native](https://soberlivingapp.com/sober-living-app-blog/tag/American+Indian%2FAlaska+Native), [AI/AN](https://soberlivingapp.com/sober-living-app-blog/tag/AI%2FAN), [Anchorage Public Health Region](https://soberlivingapp.com/sober-living-app-blog/tag/Anchorage+Public+Health+Region), [Opioids](/sober-living-app-blog/tag/opioids), [opioid overdose](https://soberlivingapp.com/sober-living-app-blog/tag/opioid+overdose)
 
 0 Likes
 
 Share
 
-Newer Post[Everything You Need to Know About Opening a Sober Living Home in Vermont ](../27/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp.html)
+Newer Post: Everything You Need to Know About Opening a Sober Living Home in Vermont 
 
-Older Post[4 Best Kept Secrets About Opening a Sober Living Home in North Dakota](../16/4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota.html)
+Older Post: 4 Best Kept Secrets About Opening a Sober Living Home in North Dakota

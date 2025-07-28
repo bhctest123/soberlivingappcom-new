@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - 5 New Year''s Resolutions for Optimizing Your Sober Living Home'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[December 31, 2019](5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp.html)
+[December 31, 2019]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [Property Management](../../../category/Property+Management.html), [Technology](../../../category/Technology.html), [Recovery Industry](../../../category/Recovery+Industry.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Property Management](/sober-living-app-blog/category/Property+Management), [Technology](/sober-living-app-blog/category/Technology), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
-#  [5 New Year's Resolutions for Optimizing Your Sober Living Home ](5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp.html)
+#  [5 New Year's Resolutions for Optimizing Your Sober Living Home ]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[December 31, 2019](5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp.html)
+[December 31, 2019]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [Property Management](../../../category/Property+Management.html), [Technology](../../../category/Technology.html), [Recovery Industry](../../../category/Recovery+Industry.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Property Management](/sober-living-app-blog/category/Property+Management), [Technology](/sober-living-app-blog/category/Technology), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
 ![The New Year is a great time to reevaluate and fine tune systems at your sober living home.](/images/blog/5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp/fireworks.png)
 
@@ -36,7 +36,7 @@ Today, we’ve got 5 suggestions for New Year’s resolutions to optimize your s
 
 How easy is it for residents to make payments at your sober living home? Are you still using paper billing? Do residents have to dig through their files to figure out how much they owe you? Does payment require a face-to-face with the house manager and an old fashioned card swipe machine? 
 
-This New Year’s, stop making it so difficult for residents to make timely payments in full. Step into the future and start [accepting payment automatically online](../../../../features.html#mobile). Consider using an integrated billing service like the [Sober Living App](../../../../index.html) by BehaveHealth. With the Sober Living App, your residents can access all their statements through the dashboard on their phone. They can save their credit card information and make payments with the click of a single button at any time. Making it easier for residents to pay you is the ultimate win-win: you’re making residents’ lives easier and you’re improving your revenue cycle at the same time.
+This New Year’s, stop making it so difficult for residents to make timely payments in full. Step into the future and start [accepting payment automatically online](../../../../features.html#mobile). Consider using an integrated billing service like the [Sober Living App](/) by BehaveHealth. With the Sober Living App, your residents can access all their statements through the dashboard on their phone. They can save their credit card information and make payments with the click of a single button at any time. Making it easier for residents to pay you is the ultimate win-win: you’re making residents’ lives easier and you’re improving your revenue cycle at the same time.
 
 ## Stop Using a White Board for Bed Management 
 
@@ -80,12 +80,12 @@ BehaveHealth’s Sober Living App makes the transition easy with pre-loaded form
 
 We created the Sober Living App to help you save time and money so you can focus on the important work of saving lives through sober living. We know the business inside and out. Our tools are designed especially for your needs. Why not start[ ](https://signup.behavehealth.com/)[ your free trial today](https://behavehealth.com/get-started)? See for yourself how the Sober Living App can make the new year your organization’s best yet.
 
-Tagged: [New Year's Resolutions](../../../tag/New+Year's+Resolutions.html), [payment collections](../../../tag/payment+collections.html), [bed management](../../../tag/bed+management.html), [vehicle maintenance](https://soberlivingapp.com/sober-living-app-blog/tag/vehicle+maintenance), [referrals](../../../tag/referrals.html), [paperless](https://soberlivingapp.com/sober-living-app-blog/tag/paperless), [admissions](../../../tag/admissions.html), [CRM](https://soberlivingapp.com/sober-living-app-blog/tag/CRM), [operations optimization](https://soberlivingapp.com/sober-living-app-blog/tag/operations+optimization)
+Tagged: [New Year's Resolutions](/sober-living-app-blog/tag/New+Year's+Resolutions), [payment collections](/sober-living-app-blog/tag/payment+collections), [bed management](/sober-living-app-blog/tag/bed+management), [vehicle maintenance](https://soberlivingapp.com/sober-living-app-blog/tag/vehicle+maintenance), [referrals](/sober-living-app-blog/tag/referrals), [paperless](https://soberlivingapp.com/sober-living-app-blog/tag/paperless), [admissions](/sober-living-app-blog/tag/admissions), [CRM](https://soberlivingapp.com/sober-living-app-blog/tag/CRM), [operations optimization](https://soberlivingapp.com/sober-living-app-blog/tag/operations+optimization)
 
 1 Likes
 
 Share
 
-Newer Post[MAT and Sober Living Deemed More Compatible Than Ever Before](../../../2020/1/21/mat-and-sober-living-deemed-more-compatible-than-ever-before.html)
+Newer Post: MAT and Sober Living Deemed More Compatible Than Ever Before
 
-Older Post[How to Streamline Drug Testing at Your Sober Living Home](../17/how-to-streamline-drug-testing-at-your-sober-living-home.html)
+Older Post: How to Streamline Drug Testing at Your Sober Living Home

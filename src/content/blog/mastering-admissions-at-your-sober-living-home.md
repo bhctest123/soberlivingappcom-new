@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Mastering Admissions at Your Sober Living Home"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 17, 2020](mastering-admissions-at-your-sober-living-home.html)
+[March 17, 2020]
 
-[Admissions](../../../category/Admissions.html)
+[Admissions](/sober-living-app-blog/category/Admissions)
 
-#  [Mastering Admissions at Your Sober Living Home](mastering-admissions-at-your-sober-living-home.html)
+#  [Mastering Admissions at Your Sober Living Home]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 17, 2020](mastering-admissions-at-your-sober-living-home.html)
+[March 17, 2020]
 
-[Admissions](../../../category/Admissions.html)
+[Admissions](/sober-living-app-blog/category/Admissions)
 
 ![Take your sober living home admissions process into the future with a cloud-based solution you can access anywhere at anytime.](/images/blog/mastering-admissions-at-your-sober-living-home/check_in_screen.png)
 
@@ -76,12 +76,12 @@ The Sober Living App’s CRM automatically collects data on referral channels du
 
 See what a smoother admissions process can do for your sober living home operation today. The Sober Living App is free to try with absolutely no strings attached. Why not [claim your free trial now](https://behavehealth.com/get-started)?
 
-Tagged: [CRM](https://soberlivingapp.com/sober-living-app-blog/tag/CRM), [admissions](../../../tag/admissions.html), [referrals](../../../tag/referrals.html), [lead generation](https://soberlivingapp.com/sober-living-app-blog/tag/lead+generation), [paperless](https://soberlivingapp.com/sober-living-app-blog/tag/paperless)
+Tagged: [CRM](https://soberlivingapp.com/sober-living-app-blog/tag/CRM), [admissions](/sober-living-app-blog/tag/admissions), [referrals](/sober-living-app-blog/tag/referrals), [lead generation](https://soberlivingapp.com/sober-living-app-blog/tag/lead+generation), [paperless](https://soberlivingapp.com/sober-living-app-blog/tag/paperless)
 
 0 Likes
 
 Share
 
-Newer Post[5 Ways Coronavirus is Changing the Sober Living Industry ](../31/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp.html)
+Newer Post: 5 Ways Coronavirus is Changing the Sober Living Industry 
 
-Older Post[5 Things All of the Best Sober Living Home Managers Have in Common](https://soberlivingapp.com/sober-living-app-blog/2020/3/3/5-things-all-of-the-best-sober-living-home-managers-have-in-common)
+Older Post: 5 Things All of the Best Sober Living Home Managers Have in Common

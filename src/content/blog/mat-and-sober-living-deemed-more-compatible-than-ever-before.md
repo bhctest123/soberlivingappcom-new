@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - MAT and Sober Living Deemed More Compatible Than Ever Before"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 21, 2020](mat-and-sober-living-deemed-more-compatible-than-ever-before.html)
+[January 21, 2020]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [Medication](../../../category/Medication.html), [News](../../../category/News.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Medication](/sober-living-app-blog/category/Medication), [News](/sober-living-app-blog/category/News)
 
-#  [MAT and Sober Living Deemed More Compatible Than Ever Before](mat-and-sober-living-deemed-more-compatible-than-ever-before.html)
+#  [MAT and Sober Living Deemed More Compatible Than Ever Before]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 21, 2020](mat-and-sober-living-deemed-more-compatible-than-ever-before.html)
+[January 21, 2020]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [Medication](../../../category/Medication.html), [News](../../../category/News.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Medication](/sober-living-app-blog/category/Medication), [News](/sober-living-app-blog/category/News)
 
 ![More and more sober living homes are beginning to accept MAT patients. Should your sober living home make the switch?](/images/blog/mat-and-sober-living-deemed-more-compatible-than-ever-before/woman_in_a_glowing_sunset.png)
 
@@ -86,12 +86,12 @@ Integrating MAT patients into your sober living home is a lot of work.
 
 Keeping track of clinics, doctors, medications, information releases, dosages, and dosing times puts an extra strain on your staff. With BehaveHealth’s Sober Living App, you can keep track of all of this information with ease. Designed specifically for sober living homes like yours, the Sober Living App is cloud-based, which means it can be accessed from any device , anywhere and at any time. Get your [free trial](https://behavehealth.com/get-started) today.  
 
-Tagged: [Sober Living App](../../../tag/Sober+Living+App.html), [MAT](../../../tag/MAT.html), [drug testing](https://soberlivingapp.com/sober-living-app-blog/tag/drug+testing), [clinical operations](https://soberlivingapp.com/sober-living-app-blog/tag/clinical+operations), [staff training](https://soberlivingapp.com/sober-living-app-blog/tag/staff+training), [lockboxes](../../../tag/lockboxes.html), [medication](../../../tag/medication.html), [12 steps](https://soberlivingapp.com/sober-living-app-blog/tag/12+steps)
+Tagged: [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App), [MAT](/sober-living-app-blog/tag/MAT), [drug testing](https://soberlivingapp.com/sober-living-app-blog/tag/drug+testing), [clinical operations](https://soberlivingapp.com/sober-living-app-blog/tag/clinical+operations), [staff training](https://soberlivingapp.com/sober-living-app-blog/tag/staff+training), [lockboxes](/sober-living-app-blog/tag/lockboxes), [medication](/sober-living-app-blog/tag/medication), [12 steps](https://soberlivingapp.com/sober-living-app-blog/tag/12+steps)
 
 3 Likes
 
 Share
 
-Newer Post[How to Make Your Sober Living Home Stand Out from the Crowd](https://soberlivingapp.com/sober-living-app-blog/2020/2/4/how-to-make-your-sober-living-home-stand-out-from-the-crowd)
+Newer Post: How to Make Your Sober Living Home Stand Out from the Crowd
 
-Older Post[5 New Year's Resolutions for Optimizing Your Sober Living Home ](https://soberlivingapp.com/sober-living-app-blog/2019/12/31/5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp)
+Older Post: 5 New Year's Resolutions for Optimizing Your Sober Living Home 

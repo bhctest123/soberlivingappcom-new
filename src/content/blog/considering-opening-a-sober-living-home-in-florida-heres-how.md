@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - Considering Opening a Sober Living Home in Florida? Here''s How.'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[May 18, 2021](considering-opening-a-sober-living-home-in-florida-heres-how.html)
+[May 18, 2021]
 
-[Guide](../../../category/Guide.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [Considering Opening a Sober Living Home in Florida? Here's How.](considering-opening-a-sober-living-home-in-florida-heres-how.html)
+#  [Considering Opening a Sober Living Home in Florida? Here's How.]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[May 18, 2021](considering-opening-a-sober-living-home-in-florida-heres-how.html)
+[May 18, 2021]
 
-[Guide](../../../category/Guide.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![Opening a sober living home in Florida is complicated.](/images/blog/considering-opening-a-sober-living-home-in-florida-heres-how/Screen_Shot_2021-05-18_at_2.51.03_PM.png)
 
@@ -66,7 +66,7 @@ Once FARR grants your sober living home a “certificate of compliance,” you'l
 
 ## We’re Here to Help You Open Your Sober Living Home in Florida 
 
-At [Sober Living App](../../../../index.html), we love empowering new sober living home operators with our ready-made tools designed to make sober living management a breeze. 
+At [Sober Living App](/), we love empowering new sober living home operators with our ready-made tools designed to make sober living management a breeze. 
 
 Our all-in-one software solution for sober living tracks all the details of your home — [resident agreements](https://soberlivingapp.com/sober-living-app-blog/2020/6/30/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements), [beds](https://soberlivingapp.com/sober-living-app-blog/2021/2/2/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically), maintenance, scheduling, turnover, utilities — and makes them available to you anytime, anywhere, from any device. 
 
@@ -74,12 +74,12 @@ The best part? It’s free to try.
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Florida](../../../tag/Florida.html), [Florida Model](../../../tag/Florida+Model.html), [licensure](../../../tag/licensure.html), [regulations](../../../tag/regulations.html)
+Tagged: [Florida](/sober-living-app-blog/tag/Florida), [Florida Model](/sober-living-app-blog/tag/Florida+Model), [licensure](/sober-living-app-blog/tag/licensure), [regulations](/sober-living-app-blog/tag/regulations)
 
 4 Likes
 
 Share
 
-Newer Post[Buprenorphine, Suboxone and Your Sober Living Home](../31/buprenorphine-suboxone-and-your-sober-living-home.html)
+Newer Post: Buprenorphine, Suboxone and Your Sober Living Home
 
-Older Post[How to Open a Sober Living Home in California](https://soberlivingapp.com/sober-living-app-blog/2021/5/11/how-to-open-a-sober-living-home-in-california)
+Older Post: How to Open a Sober Living Home in California

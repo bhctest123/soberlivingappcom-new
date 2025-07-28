@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - COVID Small Business Relief Guide for Sober Living Homes"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[May 19, 2020](need-help-how-to-get-small-business-relief-for-your-sober-living-home-during-the-coronavirus-pandemic.html)
+[May 19, 2020]
 
-[Epidemic](../../../category/Epidemic.html), [Clinical Operations](../../../category/Clinical+Operations.html), [Guide](../../../category/Guide.html), [Recovery Industry](../../../category/Recovery+Industry.html)
+[Epidemic](/sober-living-app-blog/category/Epidemic), [Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Guide](/sober-living-app-blog/category/Guide), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
-#  [Need Help? How to Get Small Business Relief for Your Sober Living Home During the Coronavirus Pandemic](need-help-how-to-get-small-business-relief-for-your-sober-living-home-during-the-coronavirus-pandemic.html)
+#  [Need Help? How to Get Small Business Relief for Your Sober Living Home During the Coronavirus Pandemic]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[May 19, 2020](need-help-how-to-get-small-business-relief-for-your-sober-living-home-during-the-coronavirus-pandemic.html)
+[May 19, 2020]
 
-[Epidemic](../../../category/Epidemic.html), [Clinical Operations](../../../category/Clinical+Operations.html), [Guide](../../../category/Guide.html), [Recovery Industry](../../../category/Recovery+Industry.html)
+[Epidemic](/sober-living-app-blog/category/Epidemic), [Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Guide](/sober-living-app-blog/category/Guide), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
 ![There’s financial assistance for sober living homes impacted by the COVID-19 pandemic. Here’s how to find it.](/images/blog/need-help-how-to-get-small-business-relief-for-your-sober-living-home-during-the-coronavirus-pandemic/Screenshot_2020-05-14_at_9.52.40_AM.png)
 
@@ -86,14 +86,14 @@ You can read about FEMA’s Disaster Assistance program [here](https://www.disas
 
 ## During These Uncertain Times, We’re Here to Help 
 
-The [Sober Living App’](../../../../index.html)s team is here to help you and your business get through these unusual times. It’s more important than ever for sober living homes to run lean and stay agile. Our all-in-one software solution for sober living home management streamlines your business and saves you time and money every day. Why not give our app a try today and [claim your free trial](https://signup.behavehealth.com/?product=sober_living_app) so you can see the Sober Living App difference for yourself?  
+The [Sober Living App’](/)s team is here to help you and your business get through these unusual times. It’s more important than ever for sober living homes to run lean and stay agile. Our all-in-one software solution for sober living home management streamlines your business and saves you time and money every day. Why not give our app a try today and [claim your free trial](https://signup.behavehealth.com/?product=sober_living_app) so you can see the Sober Living App difference for yourself?  
 
-Tagged: [COVID 19](../../../tag/COVID+19.html), [government](../../../tag/government.html), [assistance](../../../tag/assistance.html), [CARES Act](../../../tag/CARES+Act.html), [SAMHSA](../../../tag/SAMHSA.html), [FEMA](https://soberlivingapp.com/sober-living-app-blog/tag/FEMA)
+Tagged: [COVID 19](/sober-living-app-blog/tag/COVID+19), [government](/sober-living-app-blog/tag/government), [assistance](/sober-living-app-blog/tag/assistance), [CARES Act](/sober-living-app-blog/tag/CARES+Act), [SAMHSA](/sober-living-app-blog/tag/SAMHSA), [FEMA](https://soberlivingapp.com/sober-living-app-blog/tag/FEMA)
 
 0 Likes
 
 Share
 
-Newer Post[What if Your Sober Living Home Manager Gets Coronavirus? A Contingency Plan Review](../../6/2/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review.html)
+Newer Post: What if Your Sober Living Home Manager Gets Coronavirus? A Contingency Plan Review
 
-Older Post[Introducing Our New Resident Application for the Sober Living Home App](https://soberlivingapp.com/sober-living-app-blog/2020/4/28/introducing-our-new-resident-application-for-the-sober-living-home-app)
+Older Post: Introducing Our New Resident Application for the Sober Living Home App

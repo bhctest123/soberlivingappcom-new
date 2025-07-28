@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Thinking of Opening a Sober Living Home in Rhode Island?"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 7, 2023](thinking-of-opening-a-sober-living-home-in-rhode-islandnbsp.html)
+[February 7, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [Thinking of Opening a Sober Living Home in Rhode Island? ](thinking-of-opening-a-sober-living-home-in-rhode-islandnbsp.html)
+#  [Thinking of Opening a Sober Living Home in Rhode Island? ]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 7, 2023](thinking-of-opening-a-sober-living-home-in-rhode-islandnbsp.html)
+[February 7, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![rhode island sober living home certification opening regulations laws rules](/images/blog/thinking-of-opening-a-sober-living-home-in-rhode-islandnbsp/Screen_Shot_2023-02-01_at_9.44.22_AM.png)
 
@@ -108,18 +108,18 @@ You may also want to consider using the state’s [overdose-related 911 call “
 
 ## Thinking of Opening a Sober Living Home in Rhode Island? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Rhode Island](../../../tag/Rhode+Island.html), [RICARES](https://soberlivingapp.com/sober-living-app-blog/tag/RICARES), [OSCRH](https://soberlivingapp.com/sober-living-app-blog/tag/OSCRH), [state funding](../../../tag/state+funding.html), [state fees](../../../tag/state+fees.html), [state licesning](../../../tag/state+licesning.html), [state certification](../../../tag/state+certification.html), [regulations](../../../tag/regulations.html)
+Tagged: [Rhode Island](/sober-living-app-blog/tag/Rhode+Island), [RICARES](https://soberlivingapp.com/sober-living-app-blog/tag/RICARES), [OSCRH](https://soberlivingapp.com/sober-living-app-blog/tag/OSCRH), [state funding](/sober-living-app-blog/tag/state+funding), [state fees](/sober-living-app-blog/tag/state+fees), [state licesning](/sober-living-app-blog/tag/state+licesning), [state certification](/sober-living-app-blog/tag/state+certification), [regulations](/sober-living-app-blog/tag/regulations)
 
 0 Likes
 
 Share
 
-Newer Post[FAQ About Opening a Sober Living Home in Delaware](../13/faq-about-opening-a-sober-living-home-in-delaware.html)
+Newer Post: FAQ About Opening a Sober Living Home in Delaware
 
-Older Post[Opening a Sober Living Home in New Hampshire](../2/opening-a-sober-living-home-in-new-hampshire.html)
+Older Post: Opening a Sober Living Home in New Hampshire

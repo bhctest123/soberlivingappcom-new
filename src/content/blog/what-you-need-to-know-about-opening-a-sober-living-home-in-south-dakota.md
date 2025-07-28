@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - What You Need to Know About Opening a Sober Living Home in South Dakota"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 14, 2023](what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota.html)
+[February 14, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [What You Need to Know About Opening a Sober Living Home in South Dakota](what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota.html)
+#  [What You Need to Know About Opening a Sober Living Home in South Dakota]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 14, 2023](what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota.html)
+[February 14, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![South Dakota sober living home how to open](/images/blog/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota/Screen_Shot_2023-02-08_at_7.17.11_PM.png)
 
@@ -82,18 +82,18 @@ In nearly every state of the union, it is perfectly legal to “kick out” pati
 
 ## Thinking of Opening a Sober Living Home in South Dakota? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [South Dakota](../../../tag/South+Dakota.html), [opioids](../../../tag/opioids.html), [methamphetamines](../../../tag/methamphetamines.html), [OUD](../../../tag/OUD.html), [MAT](../../../tag/MAT.html), [state licesning](../../../tag/state+licesning.html), [state funding](../../../tag/state+funding.html), [state certification](../../../tag/state+certification.html), [HB1161](../../../tag/HB1161.html), [24/7 Sobriety Program](../../../tag/24%EA%A4%B77+Sobriety+Program.html)
+Tagged: [South Dakota](/sober-living-app-blog/tag/South+Dakota), [opioids](/sober-living-app-blog/tag/opioids), [methamphetamines](/sober-living-app-blog/tag/methamphetamines), [OUD](/sober-living-app-blog/tag/OUD), [MAT](/sober-living-app-blog/tag/MAT), [state licesning](/sober-living-app-blog/tag/state+licesning), [state funding](/sober-living-app-blog/tag/state+funding), [state certification](/sober-living-app-blog/tag/state+certification), [HB1161](/sober-living-app-blog/tag/HB1161), [24/7 Sobriety Program](/sober-living-app-blog/tag/24%EA%A4%B77+Sobriety+Program)
 
 0 Likes
 
 Share
 
-Newer Post[4 Best Kept Secrets About Opening a Sober Living Home in North Dakota](../16/4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota.html)
+Newer Post: 4 Best Kept Secrets About Opening a Sober Living Home in North Dakota
 
-Older Post[FAQ About Opening a Sober Living Home in Delaware](../13/faq-about-opening-a-sober-living-home-in-delaware.html)
+Older Post: FAQ About Opening a Sober Living Home in Delaware

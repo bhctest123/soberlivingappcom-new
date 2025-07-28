@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - “Medical Cannabis Maintenance” and Your Sober Living Home: Friend or Foe?'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[June 29, 2021](medical-cannabis-maintenance-and-your-sober-living-home-friend-or-foe.html)
+[June 29, 2021]
 
-[Admissions](https://soberlivingapp.com/sober-living-app-blog/category/Admissions), [Medication](https://soberlivingapp.com/sober-living-app-blog/category/Medication), [News](../../../category/News.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Admissions](https://soberlivingapp.com/sober-living-app-blog/category/Admissions), [Medication](https://soberlivingapp.com/sober-living-app-blog/category/Medication), [News](/sober-living-app-blog/category/News), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [“Medical Cannabis Maintenance” and Your Sober Living Home: Friend or Foe?](medical-cannabis-maintenance-and-your-sober-living-home-friend-or-foe.html)
+#  [“Medical Cannabis Maintenance” and Your Sober Living Home: Friend or Foe?]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[June 29, 2021](medical-cannabis-maintenance-and-your-sober-living-home-friend-or-foe.html)
+[June 29, 2021]
 
-[Admissions](https://soberlivingapp.com/sober-living-app-blog/category/Admissions), [Medication](https://soberlivingapp.com/sober-living-app-blog/category/Medication), [News](../../../category/News.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Admissions](https://soberlivingapp.com/sober-living-app-blog/category/Admissions), [Medication](https://soberlivingapp.com/sober-living-app-blog/category/Medication), [News](/sober-living-app-blog/category/News), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![A man enjoys medical cannabis at a sober living home.](/images/blog/medical-cannabis-maintenance-and-your-sober-living-home-friend-or-foe/Screen_Shot_2021-06-29_at_9.25.10_AM.png)
 
@@ -60,7 +60,7 @@ If the evidence for medical cannabis continues to grow, it seems likely that we 
 
 ## If Your Sober Living Home is Considering Incorporating Medical Cannabis, We Can Help  
 
-At [Sober Living App](../../../../index.html), we build digital tools to make it easier, more lucrative and more fun to operate sober living homes. 
+At [Sober Living App](/), we build digital tools to make it easier, more lucrative and more fun to operate sober living homes. 
 
 Our all-in-one app helps you manage properties, vehicles, residents, rent collection, care coordination, community contacts, admissions, alumni - and more. Because our app is flexible and intuitive, you can easily manage all the details that go along with hosting residents who use medical cannabis.
 
@@ -68,12 +68,12 @@ And, you access everything 24/7 from the device of your choice.
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [medication](https://soberlivingapp.com/sober-living-app-blog/tag/medication), [medication management](https://soberlivingapp.com/sober-living-app-blog/tag/medication+management), [MAT](../../../tag/MAT.html), [Utah](../../../tag/Utah.html), [marijuana](https://soberlivingapp.com/sober-living-app-blog/tag/marijuana), [PTSD](https://soberlivingapp.com/sober-living-app-blog/tag/PTSD), [chronic pain](https://soberlivingapp.com/sober-living-app-blog/tag/chronic+pain), [12](https://soberlivingapp.com/sober-living-app-blog/tag/12), [co-occuring disorders](../../../tag/co-occuring+disorders.html), [coaddictions](https://soberlivingapp.com/sober-living-app-blog/tag/coaddictions), [sobriety](https://soberlivingapp.com/sober-living-app-blog/tag/sobriety), [recovery community](../../../tag/recovery+community.html)
+Tagged: [medication](https://soberlivingapp.com/sober-living-app-blog/tag/medication), [medication management](https://soberlivingapp.com/sober-living-app-blog/tag/medication+management), [MAT](/sober-living-app-blog/tag/MAT), [Utah](/sober-living-app-blog/tag/Utah), [marijuana](https://soberlivingapp.com/sober-living-app-blog/tag/marijuana), [PTSD](https://soberlivingapp.com/sober-living-app-blog/tag/PTSD), [chronic pain](https://soberlivingapp.com/sober-living-app-blog/tag/chronic+pain), [12](https://soberlivingapp.com/sober-living-app-blog/tag/12), [co-occuring disorders](/sober-living-app-blog/tag/co-occuring+disorders), [coaddictions](https://soberlivingapp.com/sober-living-app-blog/tag/coaddictions), [sobriety](https://soberlivingapp.com/sober-living-app-blog/tag/sobriety), [recovery community](/sober-living-app-blog/tag/recovery+community)
 
 5 Likes
 
 Share
 
-Newer Post[5 Cool Ways to Engage Your Sober Living Home Alumni](https://soberlivingapp.com/sober-living-app-blog/2021/7/15/5-cool-ways-to-engage-your-sober-living-home-alumni)
+Newer Post: 5 Cool Ways to Engage Your Sober Living Home Alumni
 
-Older Post[Top 5 Sober Living Home Maintenance Tasks that You're Forgetting to Do](https://soberlivingapp.com/sober-living-app-blog/2021/6/13/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do)
+Older Post: Top 5 Sober Living Home Maintenance Tasks that You're Forgetting to Do

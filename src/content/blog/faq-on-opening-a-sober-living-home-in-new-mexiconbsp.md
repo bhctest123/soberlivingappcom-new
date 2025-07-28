@@ -10,15 +10,15 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - FAQ on Opening a Sober Living Home in New Mexico"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 12, 2023](faq-on-opening-a-sober-living-home-in-new-mexiconbsp.html)
+[January 12, 2023]
 
-#  [FAQ on Opening a Sober Living Home in New Mexico ](faq-on-opening-a-sober-living-home-in-new-mexiconbsp.html)
+#  [FAQ on Opening a Sober Living Home in New Mexico ]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 12, 2023](faq-on-opening-a-sober-living-home-in-new-mexiconbsp.html)
+[January 12, 2023]
 
 ![sober living home New Mexico no license or certification required no regulations](/images/blog/faq-on-opening-a-sober-living-home-in-new-mexiconbsp/Screen_Shot_2023-01-10_at_3.58.46_PM.png)
 
@@ -74,18 +74,18 @@ New Mexico does not currently have a NARR affiliate. The [NARR website](https://
 
 ## Considering Opening a New Mexico Sober Living Residence? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [New Mexico](../../../tag/New+Mexico.html), [Native Americans](../../../tag/Native+Americans.html), [Navajo Nation](../../../tag/Navajo+Nation.html), [Albuquerque](../../../tag/Albuquerque.html), [health facility](../../../tag/health+facility.html), [grants](../../../tag/grants.html), [Recovery Housing Program](https://soberlivingapp.com/sober-living-app-blog/tag/Recovery+Housing+Program), [NARR](../../../tag/NARR.html), [HCSC](https://soberlivingapp.com/sober-living-app-blog/tag/HCSC), [Health Care Service Corporation](https://soberlivingapp.com/sober-living-app-blog/tag/Health+Care+Service+Corporation)
+Tagged: [New Mexico](/sober-living-app-blog/tag/New+Mexico), [Native Americans](/sober-living-app-blog/tag/Native+Americans), [Navajo Nation](/sober-living-app-blog/tag/Navajo+Nation), [Albuquerque](/sober-living-app-blog/tag/Albuquerque), [health facility](/sober-living-app-blog/tag/health+facility), [grants](/sober-living-app-blog/tag/grants), [Recovery Housing Program](https://soberlivingapp.com/sober-living-app-blog/tag/Recovery+Housing+Program), [NARR](/sober-living-app-blog/tag/NARR), [HCSC](https://soberlivingapp.com/sober-living-app-blog/tag/HCSC), [Health Care Service Corporation](https://soberlivingapp.com/sober-living-app-blog/tag/Health+Care+Service+Corporation)
 
 0 Likes
 
 Share
 
-Newer Post[Your Questions About Opening a Sober Living Home in Nebraska, Answered](../17/your-questions-about-opening-a-sober-living-home-in-nebraska-answered.html)
+Newer Post: Your Questions About Opening a Sober Living Home in Nebraska, Answered
 
-Older Post[Kansas is a Great State to Open a Sober Living Home](../10/kansas-is-a-great-state-to-open-a-sober-living-home.html)
+Older Post: Kansas is a Great State to Open a Sober Living Home

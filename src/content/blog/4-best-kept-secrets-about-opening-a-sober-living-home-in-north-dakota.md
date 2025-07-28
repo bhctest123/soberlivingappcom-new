@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - 4 Best Kept Secrets About Opening a Sober Living Home in North Dakota"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 16, 2023](4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota.html)
+[February 16, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Regulations](../../../category/Regulations.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Regulations](/sober-living-app-blog/category/Regulations)
 
-#  [4 Best Kept Secrets About Opening a Sober Living Home in North Dakota](4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota.html)
+#  [4 Best Kept Secrets About Opening a Sober Living Home in North Dakota]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 16, 2023](4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota.html)
+[February 16, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Regulations](../../../category/Regulations.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Regulations](/sober-living-app-blog/category/Regulations)
 
 ![North Dakota sober living home recovery residence how to open](/images/blog/4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota/Screen_Shot_2023-02-12_at_4.15.19_PM.png)
 
@@ -70,18 +70,18 @@ What does this mean for North Dakota sober living homes? This data is useful in 
 
 ## Thinking of Opening a Sober Living Home in North Dakota? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [North Dakota](../../../tag/North+Dakota.html), [Recovery Housing Assistance Program](../../../tag/Recovery+Housing+Assistance+Program.html), [RHAP](../../../tag/RHAP.html), [NARR](../../../tag/NARR.html), [National Association of Recovery Residences](../../../tag/National+Association+of+Recovery+Residences.html), [National Sober Living Association](../../../tag/National+Sober+Living+Association.html), [NSLA](../../../tag/NSLA.html), [Bismarck](../../../tag/Bismarck.html), [North Dakota Stigma Survey](../../../tag/North+Dakota+Stigma+Survey.html)
+Tagged: [North Dakota](/sober-living-app-blog/tag/North+Dakota), [Recovery Housing Assistance Program](/sober-living-app-blog/tag/Recovery+Housing+Assistance+Program), [RHAP](/sober-living-app-blog/tag/RHAP), [NARR](/sober-living-app-blog/tag/NARR), [National Association of Recovery Residences](/sober-living-app-blog/tag/National+Association+of+Recovery+Residences), [National Sober Living Association](/sober-living-app-blog/tag/National+Sober+Living+Association), [NSLA](/sober-living-app-blog/tag/NSLA), [Bismarck](/sober-living-app-blog/tag/Bismarck), [North Dakota Stigma Survey](/sober-living-app-blog/tag/North+Dakota+Stigma+Survey)
 
 0 Likes
 
 Share
 
-Newer Post[What They Don't Want You to Know About Opening a Sober Living Home in Alaska](../22/what-they-dont-want-you-to-know-about-opening-a-sober-living-home-in-alaska.html)
+Newer Post: What They Don't Want You to Know About Opening a Sober Living Home in Alaska
 
-Older Post[What You Need to Know About Opening a Sober Living Home in South Dakota](../14/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota.html)
+Older Post: What You Need to Know About Opening a Sober Living Home in South Dakota

@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Opioid Settlement Funding Updates for Sober Living Homes in NC, GA, KY, WV"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 26, 2024](opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia.html)
+[March 26, 2024]
 
-[Funding](../../../category/Funding.html), [News](../../../category/News.html), [Sober Living Startup](../../../category/Sober+Living+Startup.html)
+[Funding](/sober-living-app-blog/category/Funding), [News](/sober-living-app-blog/category/News), [Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup)
 
-#  [Opioid Settlement Funding Updates for Sober Living Homes in North Carolina, Georgia, Kentucky and West Virginia](opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia.html)
+#  [Opioid Settlement Funding Updates for Sober Living Homes in North Carolina, Georgia, Kentucky and West Virginia]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 26, 2024](opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia.html)
+[March 26, 2024]
 
-[Funding](../../../category/Funding.html), [News](../../../category/News.html), [Sober Living Startup](../../../category/Sober+Living+Startup.html)
+[Funding](/sober-living-app-blog/category/Funding), [News](/sober-living-app-blog/category/News), [Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup)
 
 ![opioid settlement money grants north carolina georgia kentucky west virginia](/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia/Screen_Shot_2024-03-26_at_3.08.02_PM.png)
 
@@ -70,18 +70,18 @@ For more about sober living in West Virginia, see: [Your Questions About Opening
 
 ## Sober Living App Helps Sober Living Succeed 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [North Carolina](../../../tag/North+Carolina.html), [Georgia](https://soberlivingapp.com/sober-living-app-blog/tag/Georgia), [Kentucky](../../../tag/Kentucky.html), [West Virginia](../../../tag/West+Virginia.html), [Opioid settlement money](https://soberlivingapp.com/sober-living-app-blog/tag/Opioid+settlement+money), [funding](../../../tag/Funding.html), [state funding](../../../tag/state+funding.html), [startup](../../../tag/Startup.html)
+Tagged: [North Carolina](/sober-living-app-blog/tag/North+Carolina), [Georgia](https://soberlivingapp.com/sober-living-app-blog/tag/Georgia), [Kentucky](/sober-living-app-blog/tag/Kentucky), [West Virginia](/sober-living-app-blog/tag/West+Virginia), [Opioid settlement money](https://soberlivingapp.com/sober-living-app-blog/tag/Opioid+settlement+money), [funding](/sober-living-app-blog/tag/Funding), [state funding](/sober-living-app-blog/tag/state+funding), [startup](/sober-living-app-blog/tag/Startup)
 
 0 Likes
 
 Share
 
-Newer Post[Opioid settlement funding updates for sober living homes in Hawaii, Maine, Montana, New Hampshire, Rhode Island](../../4/10/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island.html)
+Newer Post: Opioid settlement funding updates for sober living homes in Hawaii, Maine, Montana, New Hampshire, Rhode Island
 
-Older Post[Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida,  Ohio](https://soberlivingapp.com/sober-living-app-blog/2024/3/20/opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-floridanbsp-ohio)
+Older Post: Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida,  Ohio

@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - The Fastest Way to Open a Sober Living Home in Arkansas"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 3, 2023](the-fastest-way-to-open-a-sober-living-home-in-arkansas.html)
+[January 3, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Regulations](../../../category/Regulations.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Regulations](/sober-living-app-blog/category/Regulations)
 
-#  [The Fastest Way to Open a Sober Living Home in Arkansas](the-fastest-way-to-open-a-sober-living-home-in-arkansas.html)
+#  [The Fastest Way to Open a Sober Living Home in Arkansas]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 3, 2023](the-fastest-way-to-open-a-sober-living-home-in-arkansas.html)
+[January 3, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Regulations](../../../category/Regulations.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Regulations](/sober-living-app-blog/category/Regulations)
 
 ![sober living home arkansas no regulation no certification how to open](/images/blog/the-fastest-way-to-open-a-sober-living-home-in-arkansas/Screen_Shot_2022-12-28_at_6.38.03_PM.png)
 
@@ -64,18 +64,18 @@ Arkansas’ fees for sober living home licensing are quite low. It only costs $2
 
 ## Considering Opening a Arkansas State Sober Living Residence? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Arkansas](https://soberlivingapp.com/sober-living-app-blog/tag/Arkansas), [transitional housing](https://soberlivingapp.com/sober-living-app-blog/tag/transitional+housing), [sober living](../../../tag/sober+living.html), [recovery residence](../../../tag/recovery+residence.html), [reentry](https://soberlivingapp.com/sober-living-app-blog/tag/reentry), [NARR](../../../tag/NARR.html), [transitional facility](https://soberlivingapp.com/sober-living-app-blog/tag/transitional+facility), [regulation](../../../tag/regulation.html)
+Tagged: [Arkansas](https://soberlivingapp.com/sober-living-app-blog/tag/Arkansas), [transitional housing](https://soberlivingapp.com/sober-living-app-blog/tag/transitional+housing), [sober living](/sober-living-app-blog/tag/sober+living), [recovery residence](/sober-living-app-blog/tag/recovery+residence), [reentry](https://soberlivingapp.com/sober-living-app-blog/tag/reentry), [NARR](/sober-living-app-blog/tag/NARR), [transitional facility](https://soberlivingapp.com/sober-living-app-blog/tag/transitional+facility), [regulation](/sober-living-app-blog/tag/regulation)
 
 1 Likes
 
 Share
 
-Newer Post[How to Open a Sober Living Home in Mississippi](../9/how-to-open-a-sober-living-home-in-mississippi.html)
+Newer Post: How to Open a Sober Living Home in Mississippi
 
-Older Post[Answering Your Questions About How to Open a Sober Living Home in Nevada ](https://soberlivingapp.com/sober-living-app-blog/2022/12/29/answering-your-questions-about-how-to-open-a-sober-living-home-in-nevadanbsp)
+Older Post: Answering Your Questions About How to Open a Sober Living Home in Nevada 

@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - How to Open a Sober Living Home Business in Pennsylvania"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 26, 2021](how-to-open-a-sober-living-home-business-in-pennsylvania.html)
+[October 26, 2021]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [News](../../../category/News.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [News](/sober-living-app-blog/category/News), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations)
 
-#  [How to Open a Sober Living Home Business in Pennsylvania](how-to-open-a-sober-living-home-business-in-pennsylvania.html)
+#  [How to Open a Sober Living Home Business in Pennsylvania]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 26, 2021](how-to-open-a-sober-living-home-business-in-pennsylvania.html)
+[October 26, 2021]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [News](../../../category/News.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [News](/sober-living-app-blog/category/News), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations)
 
 ![](/images/blog/how-to-open-a-sober-living-home-business-in-pennsylvania/Screen_Shot_2021-10-21_at_3.42.23_PM.png)
 
@@ -88,18 +88,18 @@ If so, you’ll want to check out our blog post on [Opening a Treatment Center i
 
 ## Need Help With Your Sober Living Home? We’re Here for You
 
-[Sober Living App](../../../../index.html) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Pennsylvania](../../../tag/Pennsylvania.html), [regulations](../../../tag/regulations.html), [licensure](../../../tag/licensure.html), [women](https://soberlivingapp.com/sober-living-app-blog/tag/women), [halfway house](https://soberlivingapp.com/sober-living-app-blog/tag/halfway+house), [certification](../../../tag/certification.html), [compliance](../../../tag/compliance.html), [complaints](https://soberlivingapp.com/sober-living-app-blog/tag/complaints), [fees](../../../tag/fees.html)
+Tagged: [Pennsylvania](/sober-living-app-blog/tag/Pennsylvania), [regulations](/sober-living-app-blog/tag/regulations), [licensure](/sober-living-app-blog/tag/licensure), [women](https://soberlivingapp.com/sober-living-app-blog/tag/women), [halfway house](https://soberlivingapp.com/sober-living-app-blog/tag/halfway+house), [certification](/sober-living-app-blog/tag/certification), [compliance](/sober-living-app-blog/tag/compliance), [complaints](https://soberlivingapp.com/sober-living-app-blog/tag/complaints), [fees](/sober-living-app-blog/tag/fees)
 
 4 Likes
 
 Share
 
-Newer Post[How to Open a Sober Living Home in Illinois](../../11/9/how-to-open-a-sober-living-home-in-illinois.html)
+Newer Post: How to Open a Sober Living Home in Illinois
 
-Older Post[How to Open a Sober Living Home in Ohio](https://soberlivingapp.com/sober-living-app-blog/2021/10/12/how-to-open-a-sober-living-home-in-ohio)
+Older Post: How to Open a Sober Living Home in Ohio

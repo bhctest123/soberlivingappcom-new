@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - 5 Cool Ways to Engage Your Sober Living Home Alumni"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[July 20, 2021](5-cool-ways-to-engage-your-sober-living-home-alumni.html)
+[July 20, 2021]
 
-[Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Technology](../../../category/Technology.html)
+[Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Technology](/sober-living-app-blog/category/Technology)
 
-#  [5 Cool Ways to Engage Your Sober Living Home Alumni](5-cool-ways-to-engage-your-sober-living-home-alumni.html)
+#  [5 Cool Ways to Engage Your Sober Living Home Alumni]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[July 20, 2021](5-cool-ways-to-engage-your-sober-living-home-alumni.html)
+[July 20, 2021]
 
-[Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Technology](../../../category/Technology.html)
+[Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Technology](/sober-living-app-blog/category/Technology)
 
 ![Sober living alumni are the real MVP of your sober living home, but do you know how to engage them?](/images/blog/5-cool-ways-to-engage-your-sober-living-home-alumni/Screen_Shot_2021-07-14_at_1.48.19_PM.png)
 
@@ -92,7 +92,7 @@ When you’re looking to hire any work out at your sober living home, why not co
 
 ## If You’re Looking for More Ways to Engage Your Sober Living Home Alumni, We Can Help 
 
-[Sober Living App](../../../../index.html) is all about making life easier for the sober living home community — that includes sober living home alumni. 
+[Sober Living App](/) is all about making life easier for the sober living home community — that includes sober living home alumni. 
 
 Our all-in-one app helps you tackle every part of the alumni experience - from discharge planning, to recovery navigation, to outcome tracking and relapse prevention. Our robust alumni portal keeps your alumni on-track with easy access to all of the tools and resources they need to succeed in recovery. Should your alumni need additional help after move-out, we make it easy to readmit them to your program. 
 
@@ -100,12 +100,12 @@ Even better?  You (and your alumni!) can access everything 24/7 from your phone.
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [alumni](../../../tag/alumni.html), [marketing](../../../tag/marketing.html), [reviews](https://soberlivingapp.com/sober-living-app-blog/tag/reviews), [testimonials](https://soberlivingapp.com/sober-living-app-blog/tag/testimonials), [reunions](https://soberlivingapp.com/sober-living-app-blog/tag/reunions), [outcomes data](../../../tag/outcomes+data.html)
+Tagged: [alumni](/sober-living-app-blog/tag/alumni), [marketing](/sober-living-app-blog/tag/marketing), [reviews](https://soberlivingapp.com/sober-living-app-blog/tag/reviews), [testimonials](https://soberlivingapp.com/sober-living-app-blog/tag/testimonials), [reunions](https://soberlivingapp.com/sober-living-app-blog/tag/reunions), [outcomes data](/sober-living-app-blog/tag/outcomes+data)
 
 0 Likes
 
 Share
 
-Newer Post[Understanding National Regulations on Sober Living Homes in the United States - Part 1](../../8/3/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1.html)
+Newer Post: Understanding National Regulations on Sober Living Homes in the United States - Part 1
 
-Older Post[“Medical Cannabis Maintenance” and Your Sober Living Home: Friend or Foe?](../../6/29/medical-cannabis-maintenance-and-your-sober-living-home-friend-or-foe.html)
+Older Post: “Medical Cannabis Maintenance” and Your Sober Living Home: Friend or Foe?

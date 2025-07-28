@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 1)"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 16, 2021](the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-1.html)
+[February 16, 2021]
 
-[Admissions](../../../category/Admissions.html), [Clinical Operations](../../../category/Clinical+Operations.html), [Guide](../../../category/Guide.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Recovery Industry](../../../category/Recovery+Industry.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Guide](/sober-living-app-blog/category/Guide), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
-#  [The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 1)](the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-1.html)
+#  [The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 1)]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 16, 2021](the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-1.html)
+[February 16, 2021]
 
-[Admissions](../../../category/Admissions.html), [Clinical Operations](../../../category/Clinical+Operations.html), [Guide](../../../category/Guide.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Recovery Industry](../../../category/Recovery+Industry.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Guide](/sober-living-app-blog/category/Guide), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
 ![2021 is the year to make big updates at your sober living home. Owners, executives, investors and managers can all learn something in this blog post about strategies that are working for sober living home operators now.](/images/blog/the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-1/Screen_Shot_2021-02-15_at_3.51.02_PM.png)
 
@@ -32,7 +32,7 @@ What’s the smart money in sober living doing to stay competitive and keep grow
 
 Today, we’ll look at some of the best ideas we’ve heard lately about how to approach sober living in 2021 - shared with permission, of course! 
 
-The [Sober Living App](../../../../index.html) community’s creativity, passion for service and business savvy are just some of the many reasons we love creating awesome software for addiction treatment professionals. 
+The [Sober Living App](/) community’s creativity, passion for service and business savvy are just some of the many reasons we love creating awesome software for addiction treatment professionals. 
 
 You folks rock!
 
@@ -110,12 +110,12 @@ We’ve got more ideas for you, so stay tuned for part 2 of “The Absolute Best
 
 In the meantime, check out the [latest feature](https://soberlivingapp.com/sober-living-app-blog/2021/2/2/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically) we’ve added to Sober Living App or if you’re ready to dive in and see what makes Sober Living App the gold standard tool for sober living home management, just [claim your free account now](https://apps.behavehealth.com/signup). 
 
-Tagged: [sober living home management](../../../tag/sober+living+home+management.html), [Sober Living App](../../../tag/Sober+Living+App.html), [admissions](../../../tag/admissions.html), [staff training](../../../tag/staff+training.html), [staff](../../../tag/staff.html), [expansion](../../../tag/expansion.html), [scaling up](../../../tag/scaling+up.html)
+Tagged: [sober living home management](/sober-living-app-blog/tag/sober+living+home+management), [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App), [admissions](/sober-living-app-blog/tag/admissions), [staff training](/sober-living-app-blog/tag/staff+training), [staff](/sober-living-app-blog/tag/staff), [expansion](/sober-living-app-blog/tag/expansion), [scaling up](/sober-living-app-blog/tag/scaling+up)
 
 0 Likes
 
 Share
 
-Newer Post[Can Your Sober Living Home Require COVID-19 Vaccination? It Depends](https://soberlivingapp.com/sober-living-app-blog/2021/3/2/can-your-sober-living-home-require-covid-19-vaccination-it-depends)
+Newer Post: Can Your Sober Living Home Require COVID-19 Vaccination? It Depends
 
-Older Post[Got Open Sober Living Home Beds? Let Residents and Community Members Know About It - Automatically!](https://soberlivingapp.com/sober-living-app-blog/2021/2/2/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically)
+Older Post: Got Open Sober Living Home Beds? Let Residents and Community Members Know About It - Automatically!

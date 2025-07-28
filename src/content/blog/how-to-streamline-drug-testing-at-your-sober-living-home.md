@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - How to Streamline Drug Testing at Your Sober Living Home"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[December 17, 2019](how-to-streamline-drug-testing-at-your-sober-living-home.html)
+[December 17, 2019]
 
-[Clinical Operations](../../../category/Clinical+Operations.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations)
 
-#  [How to Streamline Drug Testing at Your Sober Living Home](how-to-streamline-drug-testing-at-your-sober-living-home.html)
+#  [How to Streamline Drug Testing at Your Sober Living Home]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[December 17, 2019](how-to-streamline-drug-testing-at-your-sober-living-home.html)
+[December 17, 2019]
 
-[Clinical Operations](../../../category/Clinical+Operations.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations)
 
 ![Regular drug testing is an important part of running a sober living home. Streamlining the process is vital.](/images/blog/how-to-streamline-drug-testing-at-your-sober-living-home/drug_testing.png)
 
@@ -50,7 +50,7 @@ Some common approaches we’ve seen sober living homes take are:
 
   * Some combination of the above 
 
-Whatever you decide to do at your sober living home, stay consistent. Write down your drug testing rules in your resident handbook (you have one, right?) and make every resident read and sign the document before moving in. If you’re using the [Sober Living App](../../../../index.html), you can have your resident read and complete all of their paperwork—including their intake forms—on the device of their choice. 
+Whatever you decide to do at your sober living home, stay consistent. Write down your drug testing rules in your resident handbook (you have one, right?) and make every resident read and sign the document before moving in. If you’re using the [Sober Living App](/), you can have your resident read and complete all of their paperwork—including their intake forms—on the device of their choice. 
 
 No matter where you house your intake paperwork, be sure to go over your drug testing rules in detail during the intake process. Drug testing rules should never be a surprise to any of your residents and the testing schedule should feel fair and even-handed, never arbitrary. 
 
@@ -94,12 +94,12 @@ One great option for dealing with relapse is to require your resident to return 
 
 Drug testing is just one example, but the Sober Living App can help you streamline so many aspects of your sober living home. Stop letting the details fall through the cracks. Why not [start your free trial today](https://behavehealth.com/get-started)?
 
-Tagged: [drug testing](../../../tag/drug+testing.html), [resident record](https://soberlivingapp.com/sober-living-app-blog/tag/resident+record), [resident handbook](../../../tag/resident+handbook.html), [admissions](../../../tag/admissions.html), [clinical operations](../../../tag/clinical+operations.html)
+Tagged: [drug testing](/sober-living-app-blog/tag/drug+testing), [resident record](https://soberlivingapp.com/sober-living-app-blog/tag/resident+record), [resident handbook](/sober-living-app-blog/tag/resident+handbook), [admissions](/sober-living-app-blog/tag/admissions), [clinical operations](/sober-living-app-blog/tag/clinical+operations)
 
 0 Likes
 
 Share
 
-Newer Post[5 New Year's Resolutions for Optimizing Your Sober Living Home ](https://soberlivingapp.com/sober-living-app-blog/2019/12/31/5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp)
+Newer Post: 5 New Year's Resolutions for Optimizing Your Sober Living Home 
 
-Older Post[Dealing with NIMBYs at Your Sober Living House ](../../11/19/dealing-with-nimbys-at-your-sober-living-housenbsp.html)
+Older Post: Dealing with NIMBYs at Your Sober Living House 

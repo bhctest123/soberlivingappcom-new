@@ -12,17 +12,17 @@ imageAlt: "Sober Living App - Dealing with NIMBYs at Your Sober Living House"
 
 [Guest User](../../../../sober-living-app-blog%EF%B9%96author=68473b7d2a4ddc30b0712c0e.html)
 
-[November 19, 2019](dealing-with-nimbys-at-your-sober-living-housenbsp.html)
+[November 19, 2019]
 
-[Property Management](../../../category/Property+Management.html), [Regulations](../../../category/Regulations.html), [Recovery Industry](../../../category/Recovery+Industry.html)
+[Property Management](/sober-living-app-blog/category/Property+Management), [Regulations](/sober-living-app-blog/category/Regulations), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
-#  [Dealing with NIMBYs at Your Sober Living House ](dealing-with-nimbys-at-your-sober-living-housenbsp.html)
+#  [Dealing with NIMBYs at Your Sober Living House ]
 
 [Guest User](../../../../sober-living-app-blog%EF%B9%96author=68473b7d2a4ddc30b0712c0e.html)
 
-[November 19, 2019](dealing-with-nimbys-at-your-sober-living-housenbsp.html)
+[November 19, 2019]
 
-[Property Management](../../../category/Property+Management.html), [Regulations](../../../category/Regulations.html), [Recovery Industry](../../../category/Recovery+Industry.html)
+[Property Management](/sober-living-app-blog/category/Property+Management), [Regulations](/sober-living-app-blog/category/Regulations), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
 ![NIMBYs are a fact of life. How you deal with them will make or break your sober living house.](/images/blog/dealing-with-nimbys-at-your-sober-living-housenbsp/sober_living_home_with_lights_on.png)
 
@@ -102,14 +102,14 @@ If NIMBYs push your city to begin to unfairly or unevenly enforce regulations ag
 
 The NIMBY phenomenon is here to stay. How you deal with it can make or break your sober living home project. If you’re contacting neighbors and building community relationships, you’re going to need a tool to track all of those connections.
 
-BehaveHealth’s [Sober Living App](../../../../index.html) is designed for managing all of these relationships in one, easy-to-use cloud-based app. You can use it to manage all aspects of your sober living home—including tracking communications and contact info of neighbors and potential NIMBYs. [Start your free trial today](https://behavehealth.com/get-started) and see how the Sober Living App can revolutionize the way you manage your sober living home. 
+BehaveHealth’s [Sober Living App](/) is designed for managing all of these relationships in one, easy-to-use cloud-based app. You can use it to manage all aspects of your sober living home—including tracking communications and contact info of neighbors and potential NIMBYs. [Start your free trial today](https://behavehealth.com/get-started) and see how the Sober Living App can revolutionize the way you manage your sober living home. 
 
-Tagged: [Sober Living App](../../../tag/Sober+Living+App.html), [NIMBYism](../../../tag/NIMBYism.html), [real estate](https://soberlivingapp.com/sober-living-app-blog/tag/real+estate), [relationships](https://soberlivingapp.com/sober-living-app-blog/tag/relationships), [Fair Housing Act](https://soberlivingapp.com/sober-living-app-blog/tag/Fair+Housing+Act), [regulations](../../../tag/regulations.html)
+Tagged: [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App), [NIMBYism](/sober-living-app-blog/tag/NIMBYism), [real estate](https://soberlivingapp.com/sober-living-app-blog/tag/real+estate), [relationships](https://soberlivingapp.com/sober-living-app-blog/tag/relationships), [Fair Housing Act](https://soberlivingapp.com/sober-living-app-blog/tag/Fair+Housing+Act), [regulations](/sober-living-app-blog/tag/regulations)
 
 0 Likes
 
 Share
 
-Newer Post[How to Streamline Drug Testing at Your Sober Living Home](https://soberlivingapp.com/sober-living-app-blog/2019/12/17/how-to-streamline-drug-testing-at-your-sober-living-home)
+Newer Post: How to Streamline Drug Testing at Your Sober Living Home
 
-Older Post[5 Best Apps and Software for Your Sober Living House ](https://soberlivingapp.com/sober-living-app-blog/2019/6/12/5-best-apps-and-software-for-your-sober-living-house)
+Older Post: 5 Best Apps and Software for Your Sober Living House 

@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - 3 Mistakes You Might be Making with MAT Patients at Your Sober Living Home"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 6, 2021](3-mistakes-you-might-be-making-with-mat-patients-at-your-sober-living-home.html)
+[January 6, 2021]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [Medication](../../../category/Medication.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Medication](/sober-living-app-blog/category/Medication), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [3 Mistakes You Might be Making with MAT Patients at Your Sober Living Home](3-mistakes-you-might-be-making-with-mat-patients-at-your-sober-living-home.html)
+#  [3 Mistakes You Might be Making with MAT Patients at Your Sober Living Home]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 6, 2021](3-mistakes-you-might-be-making-with-mat-patients-at-your-sober-living-home.html)
+[January 6, 2021]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [Medication](../../../category/Medication.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Medication](/sober-living-app-blog/category/Medication), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![MAT patients often don’t feel at home at sober living homes - either because they are singled out for their medication status or simply excluded from residing at sober living homes at all. Here’s what you can do to fix the top 3 mistakes we see sobe…](/images/blog/3-mistakes-you-might-be-making-with-mat-patients-at-your-sober-living-home/Screenshot_2020-12-31_at_12.53.04_PM.png)
 
@@ -68,18 +68,18 @@ As a sober living home operator, it’s important to ensure that MAT patients st
 
 Allowing MAT patients into your sober living home introduces new administrative and clinical tasks that can quickly overwhelm even the most organized [sober living home manager.](../../../2020/8/5/5-things-your-sober-living-home-manager-is-afraid-to-tell-you.html) 
 
-At  [Sober Living App](../../../../index.html), we have all the built-in functionality you need to help you and your residents keep track of doses, doctors, appointments and clinics. 
+At  [Sober Living App](/), we have all the built-in functionality you need to help you and your residents keep track of doses, doctors, appointments and clinics. 
 
 Our platform is simple, powerful and intuitive, saving your operation time, money and sanity. 
 
 [Claim your free trial today.](https://behavehealth.com/get-started)
 
-Tagged: [MAT](../../../tag/MAT.html), [medication](../../../tag/medication.html), [sobriety](../../../tag/sobriety.html), [sober living home management](../../../tag/sober+living+home+management.html), [new resident applications](../../../tag/new+resident+applications.html), [resident agreement](https://soberlivingapp.com/sober-living-app-blog/tag/resident+agreement), [residential portal](https://soberlivingapp.com/sober-living-app-blog/tag/residential+portal), [resident handbook](https://soberlivingapp.com/sober-living-app-blog/tag/resident+handbook), [recovery community](../../../tag/recovery+community.html)
+Tagged: [MAT](/sober-living-app-blog/tag/MAT), [medication](/sober-living-app-blog/tag/medication), [sobriety](/sober-living-app-blog/tag/sobriety), [sober living home management](/sober-living-app-blog/tag/sober+living+home+management), [new resident applications](/sober-living-app-blog/tag/new+resident+applications), [resident agreement](https://soberlivingapp.com/sober-living-app-blog/tag/resident+agreement), [residential portal](https://soberlivingapp.com/sober-living-app-blog/tag/residential+portal), [resident handbook](https://soberlivingapp.com/sober-living-app-blog/tag/resident+handbook), [recovery community](/sober-living-app-blog/tag/recovery+community)
 
 0 Likes
 
 Share
 
-Newer Post[Limited Time Offer: Get Our Software Solution for Sober Living Homes for Free](https://soberlivingapp.com/sober-living-app-blog/2021/1/26/limited-time-offer-get-our-software-solution-for-sober-living-homes-for-free)
+Newer Post: Limited Time Offer: Get Our Software Solution for Sober Living Homes for Free
 
-Older Post[When Should Your Sober Living Home Call 911? The Answer is Complicated.](https://soberlivingapp.com/sober-living-app-blog/2020/12/15/when-should-your-sober-living-home-call-911-the-answer-is-complicated)
+Older Post: When Should Your Sober Living Home Call 911? The Answer is Complicated.

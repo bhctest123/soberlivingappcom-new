@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - 3 Coronavirus Changes Your Sober Living Home Needs to Make This Week"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[April 21, 2020](3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week.html)
+[April 21, 2020]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [Admissions](../../../category/Admissions.html), [Epidemic](../../../category/Epidemic.html), [News](../../../category/News.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Property Management](../../../category/Property+Management.html), [Regulations](../../../category/Regulations.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Admissions](/sober-living-app-blog/category/Admissions), [Epidemic](/sober-living-app-blog/category/Epidemic), [News](/sober-living-app-blog/category/News), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Property Management](/sober-living-app-blog/category/Property+Management), [Regulations](/sober-living-app-blog/category/Regulations)
 
-#  [3 Coronavirus Changes Your Sober Living Home Needs to Make This Week](3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week.html)
+#  [3 Coronavirus Changes Your Sober Living Home Needs to Make This Week]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[April 21, 2020](3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week.html)
+[April 21, 2020]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [Admissions](../../../category/Admissions.html), [Epidemic](../../../category/Epidemic.html), [News](../../../category/News.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Property Management](../../../category/Property+Management.html), [Regulations](../../../category/Regulations.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Admissions](/sober-living-app-blog/category/Admissions), [Epidemic](/sober-living-app-blog/category/Epidemic), [News](/sober-living-app-blog/category/News), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Property Management](/sober-living-app-blog/category/Property+Management), [Regulations](/sober-living-app-blog/category/Regulations)
 
 ![The way you do shopping, staffing, bed management and resident safety all need to change in response to COVID-19 at your sober living home.](/images/blog/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week/Screenshot_2020-04-16_at_10.28.45_AM.png)
 
@@ -70,12 +70,12 @@ You can’t implement good policies around COVID-19 without a solid foundation o
 
 [Give the Sober Living App a try today](https://behavehealth.com/get-started)—it’s free and there’s no obligation to buy. 
 
-Tagged: [coronavirus](../../../tag/coronavirus.html), [COVID 19](../../../tag/COVID+19.html), [saftey](https://soberlivingapp.com/sober-living-app-blog/tag/saftey), [shopping](https://soberlivingapp.com/sober-living-app-blog/tag/shopping), [staff training](../../../tag/staff+training.html), [organization](https://soberlivingapp.com/sober-living-app-blog/tag/organization), [bed management](https://soberlivingapp.com/sober-living-app-blog/tag/bed+management), [contingency planning](https://soberlivingapp.com/sober-living-app-blog/tag/contingency+planning), [disaster response](https://soberlivingapp.com/sober-living-app-blog/tag/disaster+response), [disaster preparedness](https://soberlivingapp.com/sober-living-app-blog/tag/disaster+preparedness)
+Tagged: [coronavirus](/sober-living-app-blog/tag/coronavirus), [COVID 19](/sober-living-app-blog/tag/COVID+19), [saftey](https://soberlivingapp.com/sober-living-app-blog/tag/saftey), [shopping](https://soberlivingapp.com/sober-living-app-blog/tag/shopping), [staff training](/sober-living-app-blog/tag/staff+training), [organization](https://soberlivingapp.com/sober-living-app-blog/tag/organization), [bed management](https://soberlivingapp.com/sober-living-app-blog/tag/bed+management), [contingency planning](https://soberlivingapp.com/sober-living-app-blog/tag/contingency+planning), [disaster response](https://soberlivingapp.com/sober-living-app-blog/tag/disaster+response), [disaster preparedness](https://soberlivingapp.com/sober-living-app-blog/tag/disaster+preparedness)
 
 0 Likes
 
 Share
 
-Newer Post[Introducing Our New Resident Application for the Sober Living Home App](https://soberlivingapp.com/sober-living-app-blog/2020/4/28/introducing-our-new-resident-application-for-the-sober-living-home-app)
+Newer Post: Introducing Our New Resident Application for the Sober Living Home App
 
-Older Post[5 Ways Coronavirus is Changing the Sober Living Industry ](../../3/31/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp.html)
+Older Post: 5 Ways Coronavirus is Changing the Sober Living Industry 

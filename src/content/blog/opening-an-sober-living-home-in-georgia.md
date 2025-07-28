@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Opening an Sober Living Home in Georgia"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[November 23, 2021](opening-an-sober-living-home-in-georgia.html)
+[November 23, 2021]
 
-[Guide](../../../category/Guide.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [News](../../../category/News.html), [Licensing](../../../category/Licensing.html)
+[Guide](/sober-living-app-blog/category/Guide), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [News](/sober-living-app-blog/category/News), [Licensing](/sober-living-app-blog/category/Licensing)
 
-#  [Opening an Sober Living Home in Georgia](opening-an-sober-living-home-in-georgia.html)
+#  [Opening an Sober Living Home in Georgia]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[November 23, 2021](opening-an-sober-living-home-in-georgia.html)
+[November 23, 2021]
 
-[Guide](../../../category/Guide.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [News](../../../category/News.html), [Licensing](../../../category/Licensing.html)
+[Guide](/sober-living-app-blog/category/Guide), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [News](/sober-living-app-blog/category/News), [Licensing](/sober-living-app-blog/category/Licensing)
 
 ![](/images/blog/opening-an-sober-living-home-in-georgia/Screen_Shot_2021-11-23_at_9.47.29_AM.png)
 
@@ -58,18 +58,18 @@ GARR maintains a database of all current members (as well as membership fees) [h
 
 ## Need Help With Your Sober Living Home in Georgia? We’re Here for You
 
-[Sober Living App](../../../../index.html) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Georgia](../../../tag/Georgia.html), [certification](../../../tag/certification.html), [regulations](../../../tag/regulations.html), [Senate Bill 4](https://soberlivingapp.com/sober-living-app-blog/tag/Senate+Bill+4), [patient brokering](https://soberlivingapp.com/sober-living-app-blog/tag/patient+brokering), [finder's fees](https://soberlivingapp.com/sober-living-app-blog/tag/finder%27s+fees), [referrals](../../../tag/referrals.html), [GARR](../../../tag/GARR.html), [NARR](../../../tag/NARR.html)
+Tagged: [Georgia](/sober-living-app-blog/tag/Georgia), [certification](/sober-living-app-blog/tag/certification), [regulations](/sober-living-app-blog/tag/regulations), [Senate Bill 4](https://soberlivingapp.com/sober-living-app-blog/tag/Senate+Bill+4), [patient brokering](https://soberlivingapp.com/sober-living-app-blog/tag/patient+brokering), [finder's fees](https://soberlivingapp.com/sober-living-app-blog/tag/finder%27s+fees), [referrals](/sober-living-app-blog/tag/referrals), [GARR](/sober-living-app-blog/tag/GARR), [NARR](/sober-living-app-blog/tag/NARR)
 
 2 Likes
 
 Share
 
-Newer Post[Opening a Sober Living Home In North Carolina? Learn What it Takes](../../../2022/7/11/opening-a-sober-living-home-in-north-carolina-learn-what-it-takes.html)
+Newer Post: Opening a Sober Living Home In North Carolina? Learn What it Takes
 
-Older Post[How to Open a Sober Living Home in Illinois](../9/how-to-open-a-sober-living-home-in-illinois.html)
+Older Post: How to Open a Sober Living Home in Illinois

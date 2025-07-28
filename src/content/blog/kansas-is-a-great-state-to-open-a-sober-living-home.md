@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Kansas is a Great State to Open a Sober Living Home"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 10, 2023](kansas-is-a-great-state-to-open-a-sober-living-home.html)
+[January 10, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [Kansas is a Great State to Open a Sober Living Home](kansas-is-a-great-state-to-open-a-sober-living-home.html)
+#  [Kansas is a Great State to Open a Sober Living Home]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 10, 2023](kansas-is-a-great-state-to-open-a-sober-living-home.html)
+[January 10, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![Kansas sober living home certification regulations how to open](/images/blog/kansas-is-a-great-state-to-open-a-sober-living-home/Screen_Shot_2023-01-03_at_5.16.55_PM.png)
 
@@ -80,18 +80,18 @@ Though most states have a NARR affiliate that is either pre-existing or in the p
 
 ## Considering Opening a Kansas Sober Living Residence? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Kansas](../../../tag/Kansas.html), [licensing](https://soberlivingapp.com/sober-living-app-blog/tag/licensing), [certification](../../../tag/certification.html), [oxford housing](https://soberlivingapp.com/sober-living-app-blog/tag/oxford+housing), [oxford home](https://soberlivingapp.com/sober-living-app-blog/tag/oxford+home), [Friends of Recovery Association](https://soberlivingapp.com/sober-living-app-blog/tag/Friends+of+Recovery+Association), [NIMBYism](../../../tag/NIMBYism.html), [NARR](../../../tag/NARR.html)
+Tagged: [Kansas](/sober-living-app-blog/tag/Kansas), [licensing](https://soberlivingapp.com/sober-living-app-blog/tag/licensing), [certification](/sober-living-app-blog/tag/certification), [oxford housing](https://soberlivingapp.com/sober-living-app-blog/tag/oxford+housing), [oxford home](https://soberlivingapp.com/sober-living-app-blog/tag/oxford+home), [Friends of Recovery Association](https://soberlivingapp.com/sober-living-app-blog/tag/Friends+of+Recovery+Association), [NIMBYism](/sober-living-app-blog/tag/NIMBYism), [NARR](/sober-living-app-blog/tag/NARR)
 
 0 Likes
 
 Share
 
-Newer Post[FAQ on Opening a Sober Living Home in New Mexico ](https://soberlivingapp.com/sober-living-app-blog/2023/1/12/faq-on-opening-a-sober-living-home-in-new-mexiconbsp)
+Newer Post: FAQ on Opening a Sober Living Home in New Mexico 
 
-Older Post[How to Open a Sober Living Home in Mississippi](https://soberlivingapp.com/sober-living-app-blog/2023/1/9/how-to-open-a-sober-living-home-in-mississippi)
+Older Post: How to Open a Sober Living Home in Mississippi

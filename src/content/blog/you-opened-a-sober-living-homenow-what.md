@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - You Opened a Sober Living Home—Now What?"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[May 15, 2019](you-opened-a-sober-living-homenow-what.html)
+[May 15, 2019]
 
-[Technology](../../../category/Technology.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Clinical Operations](../../../category/Clinical+Operations.html), [Admissions](../../../category/Admissions.html)
+[Technology](/sober-living-app-blog/category/Technology), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Admissions](/sober-living-app-blog/category/Admissions)
 
-#  [You Opened a Sober Living Home—Now What?](you-opened-a-sober-living-homenow-what.html)
+#  [You Opened a Sober Living Home—Now What?]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[May 15, 2019](you-opened-a-sober-living-homenow-what.html)
+[May 15, 2019]
 
-[Technology](../../../category/Technology.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Clinical Operations](../../../category/Clinical+Operations.html), [Admissions](../../../category/Admissions.html)
+[Technology](/sober-living-app-blog/category/Technology), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Admissions](/sober-living-app-blog/category/Admissions)
 
 ![Opening a sober living home is just the beginning.](/images/blog/you-opened-a-sober-living-homenow-what/manwithlaptop.png)
 
@@ -48,7 +48,7 @@ Keeping track of your tenants, your properties, your house managers, and your ve
 
 Between managing repairs and routine maintenance of your assets, scheduling house manager shifts, staying on top of room assignments, minimizing vacancies, and documenting incidents in your sober living home, you’ve got a lot going on. 
 
-At BehaveHealth, we developed our [Sober Living App](../../../../index.html) to keep the management workflow of your investment predictable and organized. Imagine how much time you would save if all the moving parts of your sober living home were automatically tracked and documented in a secure, cloud-based system accessible from any device! 
+At BehaveHealth, we developed our [Sober Living App](/) to keep the management workflow of your investment predictable and organized. Imagine how much time you would save if all the moving parts of your sober living home were automatically tracked and documented in a secure, cloud-based system accessible from any device! 
 
 At BehaveHealth, we make this dream a reality for our clients. 
 
@@ -98,12 +98,12 @@ We’ve created a [free trial](https://signup.soberlivingapp.com/) of the Sober 
 
 The future of sober living home management is here. Why not [try it out today](https://signup.soberlivingapp.com/)? 
 
-Tagged: [outcomes data](../../../tag/outcomes+data.html), [vacancies](https://soberlivingapp.com/sober-living-app-blog/tag/vacancies), [clinical operations](../../../tag/clinical+operations.html), [insurance billing](../../../tag/insurance+billing.html), [admissions](../../../tag/admissions.html), [CRM](https://soberlivingapp.com/sober-living-app-blog/tag/CRM), [payment collections](../../../tag/payment+collections.html), [alumni](https://soberlivingapp.com/sober-living-app-blog/tag/alumni)
+Tagged: [outcomes data](/sober-living-app-blog/tag/outcomes+data), [vacancies](https://soberlivingapp.com/sober-living-app-blog/tag/vacancies), [clinical operations](/sober-living-app-blog/tag/clinical+operations), [insurance billing](/sober-living-app-blog/tag/insurance+billing), [admissions](/sober-living-app-blog/tag/admissions), [CRM](https://soberlivingapp.com/sober-living-app-blog/tag/CRM), [payment collections](/sober-living-app-blog/tag/payment+collections), [alumni](https://soberlivingapp.com/sober-living-app-blog/tag/alumni)
 
 0 Likes
 
 Share
 
-Newer Post[3 Things to Look for in Your First Sober Living Home Real Estate Deal](https://soberlivingapp.com/sober-living-app-blog/2019/5/28/3-things-to-look-for-in-your-first-sober-living-home-real-estate-deal)
+Newer Post: 3 Things to Look for in Your First Sober Living Home Real Estate Deal
 
-Older Post[Overdose deaths shift from prescription medications to synthetic opioids ](https://soberlivingapp.com/sober-living-app-blog/2018/5/2/overdose-deaths-shift-from-prescription-medications-to-synthetic-opioids)
+Older Post: Overdose deaths shift from prescription medications to synthetic opioids 

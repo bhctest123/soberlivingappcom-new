@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Buprenorphine, Suboxone and Your Sober Living Home"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[May 31, 2021](buprenorphine-suboxone-and-your-sober-living-home.html)
+[May 31, 2021]
 
-[Sober Living Management](../../../category/Sober+Living+Management.html), [Regulations](../../../category/Regulations.html), [News](../../../category/News.html), [Medication](../../../category/Medication.html)
+[Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Regulations](/sober-living-app-blog/category/Regulations), [News](/sober-living-app-blog/category/News), [Medication](/sober-living-app-blog/category/Medication)
 
-#  [Buprenorphine, Suboxone and Your Sober Living Home](buprenorphine-suboxone-and-your-sober-living-home.html)
+#  [Buprenorphine, Suboxone and Your Sober Living Home]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[May 31, 2021](buprenorphine-suboxone-and-your-sober-living-home.html)
+[May 31, 2021]
 
-[Sober Living Management](../../../category/Sober+Living+Management.html), [Regulations](../../../category/Regulations.html), [News](../../../category/News.html), [Medication](../../../category/Medication.html)
+[Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Regulations](/sober-living-app-blog/category/Regulations), [News](/sober-living-app-blog/category/News), [Medication](/sober-living-app-blog/category/Medication)
 
 ![Buprenorphine and Suboxone are on the rise. You’ll be seeing residents at your sober living home who are taking this medication soon, if you haven’t started seeing them already.](/images/blog/buprenorphine-suboxone-and-your-sober-living-home/Screen_Shot_2021-05-31_at_12.05.50_PM.png)
 
@@ -78,18 +78,18 @@ Tracking MAT residents is a slightly more detailed process than managing non-MAT
 
 It’s a _lot_ , actually. 
 
-[Sober Living App](../../../../index.html) can transform the overwhelm and help make all the extra house-keeping involved with MAT residents a snap. 
+[Sober Living App](/) can transform the overwhelm and help make all the extra house-keeping involved with MAT residents a snap. 
 
 Our cloud based app is designed especially for busy sober living home operators. If you’re looking for a simple, intuitive tool to calm the chaos and tame the details of sober living home management, Sober Living App is for you. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [MAT](../../../tag/MAT.html), [Buprenorphine](../../../tag/Buprenorphine.html), [Suboxone](../../../tag/Suboxone.html), [medication](../../../tag/medication.html), [medication management](../../../tag/medication+management.html), [lockboxes](https://soberlivingapp.com/sober-living-app-blog/tag/lockboxes), [taper](https://soberlivingapp.com/sober-living-app-blog/tag/taper)
+Tagged: [MAT](/sober-living-app-blog/tag/MAT), [Buprenorphine](/sober-living-app-blog/tag/Buprenorphine), [Suboxone](/sober-living-app-blog/tag/Suboxone), [medication](/sober-living-app-blog/tag/medication), [medication management](/sober-living-app-blog/tag/medication+management), [lockboxes](https://soberlivingapp.com/sober-living-app-blog/tag/lockboxes), [taper](https://soberlivingapp.com/sober-living-app-blog/tag/taper)
 
 0 Likes
 
 Share
 
-Newer Post[Top 5 Sober Living Home Maintenance Tasks that You're Forgetting to Do](https://soberlivingapp.com/sober-living-app-blog/2021/6/13/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do)
+Newer Post: Top 5 Sober Living Home Maintenance Tasks that You're Forgetting to Do
 
-Older Post[Considering Opening a Sober Living Home in Florida? Here's How.](https://soberlivingapp.com/sober-living-app-blog/2021/5/18/considering-opening-a-sober-living-home-in-florida-heres-how)
+Older Post: Considering Opening a Sober Living Home in Florida? Here's How.

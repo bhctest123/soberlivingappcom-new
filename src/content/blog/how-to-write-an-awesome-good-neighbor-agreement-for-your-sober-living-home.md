@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - How to Write an Awesome Good Neighbor Agreement for Your Sober Living Home"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[September 21, 2021](how-to-write-an-awesome-good-neighbor-agreement-for-your-sober-living-home.html)
+[September 21, 2021]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [How to Write an Awesome Good Neighbor Agreement for Your Sober Living Home](how-to-write-an-awesome-good-neighbor-agreement-for-your-sober-living-home.html)
+#  [How to Write an Awesome Good Neighbor Agreement for Your Sober Living Home]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[September 21, 2021](how-to-write-an-awesome-good-neighbor-agreement-for-your-sober-living-home.html)
+[September 21, 2021]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![A Good Neighbor Agreement is a powerful tool for developing and maintaining positive neighbor relationships with the community surrounding your sober living home.](/images/blog/how-to-write-an-awesome-good-neighbor-agreement-for-your-sober-living-home/Screen_Shot_2021-09-21_at_2.30.22_PM.png)
 
@@ -102,18 +102,18 @@ There are so many behaviors that go into being a “good neighbor” that can’
 
 ## Need Help With Your Sober Living Home? We’re Here for You
 
-[Sober Living App](../../../../index.html) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Good Neighbor Agreement](../../../tag/Good+Neighbor+Agreement.html), [NIMBYism](../../../tag/NIMBYism.html), [zoning](../../../tag/zoning.html), [ADA](../../../tag/ADA.html), [FHA](../../../tag/FHA.html)
+Tagged: [Good Neighbor Agreement](/sober-living-app-blog/tag/Good+Neighbor+Agreement), [NIMBYism](/sober-living-app-blog/tag/NIMBYism), [zoning](/sober-living-app-blog/tag/zoning), [ADA](/sober-living-app-blog/tag/ADA), [FHA](/sober-living-app-blog/tag/FHA)
 
 0 Likes
 
 Share
 
-Newer Post[How to Open a Sober Living Home in Ohio](https://soberlivingapp.com/sober-living-app-blog/2021/10/12/how-to-open-a-sober-living-home-in-ohio)
+Newer Post: How to Open a Sober Living Home in Ohio
 
-Older Post[Nuisance Lawsuits: A Crash Course for Sober Living Home Operators](../../8/31/nuisance-lawsuits-a-crash-course-for-sober-living-home-operators.html)
+Older Post: Nuisance Lawsuits: A Crash Course for Sober Living Home Operators

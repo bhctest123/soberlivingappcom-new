@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Top 3 Ways to Support a Healthy Organizational Culture at Your Sober Living Home"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[November 3, 2020](top-3-ways-to-support-a-healthy-organizational-culture-at-your-sober-living-home.html)
+[November 3, 2020]
 
-[Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [Top 3 Ways to Support a Healthy Organizational Culture at Your Sober Living Home](top-3-ways-to-support-a-healthy-organizational-culture-at-your-sober-living-home.html)
+#  [Top 3 Ways to Support a Healthy Organizational Culture at Your Sober Living Home]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[November 3, 2020](top-3-ways-to-support-a-healthy-organizational-culture-at-your-sober-living-home.html)
+[November 3, 2020]
 
-[Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![A healthy organizational culture at your sober living home begins with you. Learn how to implement the right policies and procedures to help foster a congenial, therapeutic environment at your sober living home.](/images/blog/top-3-ways-to-support-a-healthy-organizational-culture-at-your-sober-living-home/Screenshot_2020-10-29_at_12.37.29_PM.png)
 
@@ -34,7 +34,7 @@ The solution?
 
 Proactively plan for a healthy organizational culture before a toxic environment can ever develop.
 
-Today at the [Sober Living App](../../../../index.html) blog, we’ll look at 5 things all sober living home operators can do to proactively support a healthy organizational culture at their sober living homes.  
+Today at the [Sober Living App](/) blog, we’ll look at 5 things all sober living home operators can do to proactively support a healthy organizational culture at their sober living homes.  
 
 ## Healthy Organizational Culture Tip #1: Post the Philosophy and Rules of Your Sober Living Home in a Prominent Place 
 
@@ -76,12 +76,12 @@ We’ve distilled all the chaos that can easily overwhelm sober living home oper
 
 [Claim your free, no-strings free trial today](https://info.behavehealth.com/en-us/start-free-trial) and see the Sober Living App difference for yourself. 
 
-Tagged: [healthy organizational culture](https://soberlivingapp.com/sober-living-app-blog/tag/healthy+organizational+culture), [communication](https://soberlivingapp.com/sober-living-app-blog/tag/communication), [safety](https://soberlivingapp.com/sober-living-app-blog/tag/safety), [conflict management](https://soberlivingapp.com/sober-living-app-blog/tag/conflict+management), [hiring](../../../tag/hiring.html), [conflict resolution](https://soberlivingapp.com/sober-living-app-blog/tag/conflict+resolution), [non-violent communication](https://soberlivingapp.com/sober-living-app-blog/tag/non-violent+communication), [new resident applications](../../../tag/new+resident+applications.html), [new resident agreements](https://soberlivingapp.com/sober-living-app-blog/tag/new+resident+agreements), [sober living home management](../../../tag/sober+living+home+management.html), [interpersonal boundaries](https://soberlivingapp.com/sober-living-app-blog/tag/interpersonal+boundaries)
+Tagged: [healthy organizational culture](https://soberlivingapp.com/sober-living-app-blog/tag/healthy+organizational+culture), [communication](https://soberlivingapp.com/sober-living-app-blog/tag/communication), [safety](https://soberlivingapp.com/sober-living-app-blog/tag/safety), [conflict management](https://soberlivingapp.com/sober-living-app-blog/tag/conflict+management), [hiring](/sober-living-app-blog/tag/hiring), [conflict resolution](https://soberlivingapp.com/sober-living-app-blog/tag/conflict+resolution), [non-violent communication](https://soberlivingapp.com/sober-living-app-blog/tag/non-violent+communication), [new resident applications](/sober-living-app-blog/tag/new+resident+applications), [new resident agreements](https://soberlivingapp.com/sober-living-app-blog/tag/new+resident+agreements), [sober living home management](/sober-living-app-blog/tag/sober+living+home+management), [interpersonal boundaries](https://soberlivingapp.com/sober-living-app-blog/tag/interpersonal+boundaries)
 
 1 Likes
 
 Share
 
-Newer Post[What Can Your Sober Living Home Do for Racial Equity? A Lot, Actually.](https://soberlivingapp.com/sober-living-app-blog/2020/11/17/what-can-your-sober-living-home-do-for-racial-equity-a-lot-actually)
+Newer Post: What Can Your Sober Living Home Do for Racial Equity? A Lot, Actually.
 
-Older Post[Chaotic Admissions and Billing? Check Out Sober Living Apps' Admissions 2.0 Update](../../9/22/chaotic-admissions-and-billing-check-out-sober-living-apps-admissions-20-update.html)
+Older Post: Chaotic Admissions and Billing? Check Out Sober Living Apps' Admissions 2.0 Update

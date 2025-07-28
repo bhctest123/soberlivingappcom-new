@@ -10,21 +10,21 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - Chaotic Admissions and Billing? Check Out Sober Living Apps'' Admissions 2.0 Update'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 22, 2020](chaotic-admissions-and-billing-check-out-sober-living-apps-admissions-20-update.html)
+[October 22, 2020]
 
-[Admissions](../../../category/Admissions.html), [Clinical Operations](../../../category/Clinical+Operations.html), [News](../../../category/News.html), [Recovery Industry](../../../category/Recovery+Industry.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [News](/sober-living-app-blog/category/News), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
-#  [Chaotic Admissions and Billing? Check Out Sober Living Apps' Admissions 2.0 Update](chaotic-admissions-and-billing-check-out-sober-living-apps-admissions-20-update.html)
+#  [Chaotic Admissions and Billing? Check Out Sober Living Apps' Admissions 2.0 Update]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 22, 2020](chaotic-admissions-and-billing-check-out-sober-living-apps-admissions-20-update.html)
+[October 22, 2020]
 
-[Admissions](../../../category/Admissions.html), [Clinical Operations](../../../category/Clinical+Operations.html), [News](../../../category/News.html), [Recovery Industry](../../../category/Recovery+Industry.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [News](/sober-living-app-blog/category/News), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
-One of the best parts of working on the team at the [Sober Living App](../../../../index.html) is working with sober living home operators around the country. Leading by example, the recovery housing community continually inspires us to work harder and stretch further than we thought possible. 
+One of the best parts of working on the team at the [Sober Living App](/) is working with sober living home operators around the country. Leading by example, the recovery housing community continually inspires us to work harder and stretch further than we thought possible. 
 
 At the Sober Living App, we don’t just serve the recovery community, we are the recovery community. 
 
@@ -92,12 +92,12 @@ Operating sober living homes is hard, but it doesn’t have to be chaotic. Let u
 
 [Claim your free trial today](https://behavehealth.com/get-started). 
 
-Tagged: [Admissions](../../../tag/admissions.html), [COVID 19](../../../tag/COVID+19.html), [coronavirus](https://soberlivingapp.com/sober-living-app-blog/tag/coronavirus), [signatures](https://soberlivingapp.com/sober-living-app-blog/tag/signatures), [cash flow](https://soberlivingapp.com/sober-living-app-blog/tag/cash+flow), [accounting](https://soberlivingapp.com/sober-living-app-blog/tag/accounting), [payment collections](https://soberlivingapp.com/sober-living-app-blog/tag/payment+collections), [vital signs](https://soberlivingapp.com/sober-living-app-blog/tag/vital+signs), [drug testing](../../../tag/drug+testing.html)
+Tagged: [Admissions](/sober-living-app-blog/tag/admissions), [COVID 19](/sober-living-app-blog/tag/COVID+19), [coronavirus](https://soberlivingapp.com/sober-living-app-blog/tag/coronavirus), [signatures](https://soberlivingapp.com/sober-living-app-blog/tag/signatures), [cash flow](https://soberlivingapp.com/sober-living-app-blog/tag/cash+flow), [accounting](https://soberlivingapp.com/sober-living-app-blog/tag/accounting), [payment collections](https://soberlivingapp.com/sober-living-app-blog/tag/payment+collections), [vital signs](https://soberlivingapp.com/sober-living-app-blog/tag/vital+signs), [drug testing](/sober-living-app-blog/tag/drug+testing)
 
 1 Likes
 
 Share
 
-Newer Post[Top 3 Ways to Support a Healthy Organizational Culture at Your Sober Living Home](https://soberlivingapp.com/sober-living-app-blog/2020/11/3/top-3-ways-to-support-a-healthy-organizational-culture-at-your-sober-living-home)
+Newer Post: Top 3 Ways to Support a Healthy Organizational Culture at Your Sober Living Home
 
-Older Post[4 Ways a Trauma-Informed Approach Can Help Your Sober Living Residents Cope with Pandemic Stress](https://soberlivingapp.com/sober-living-app-blog/2020/10/20/4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress)
+Older Post: 4 Ways a Trauma-Informed Approach Can Help Your Sober Living Residents Cope with Pandemic Stress

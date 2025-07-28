@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - How to Make Your Sober Living Home Stand Out from the Crowd"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 4, 2020](how-to-make-your-sober-living-home-stand-out-from-the-crowd.html)
+[February 4, 2020]
 
-[Recovery Industry](../../../category/Recovery+Industry.html)
+[Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
-#  [How to Make Your Sober Living Home Stand Out from the Crowd](how-to-make-your-sober-living-home-stand-out-from-the-crowd.html)
+#  [How to Make Your Sober Living Home Stand Out from the Crowd]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 4, 2020](how-to-make-your-sober-living-home-stand-out-from-the-crowd.html)
+[February 4, 2020]
 
-[Recovery Industry](../../../category/Recovery+Industry.html)
+[Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
 ![What makes your sober living home unique? Answering this question is a key part of how you market yourself in a crowded market.](/images/blog/how-to-make-your-sober-living-home-stand-out-from-the-crowd/glass_house.png)
 
@@ -84,14 +84,14 @@ Consider, too, the type of resident you’re willing to deal with. Broadly speak
 
 When you make your business model unique, residents will find you organically. They’ll hear about the LGBTQ-only sober living home, the sober living home that offers yoga classes, or the only sober living home in the area that takes pets. You’ve given people a talking point about your facility that is remarkable and shareable. People who feel your home is a good fit for them will be drawn to you naturally.
 
-Whatever unique selling proposition you choose, [BehaveHealth’s Sober Living App](../../../../index.html) can help you stay organized and run your facility efficiently. Handle everything from intake paperwork to billing to facilities maintenance all from the convenience of your phone. Store every piece of information about your business in our cloud-based system and never misplace another important document again. See why more and more sober living home operators are making the switch to the Sober Living App. Start your[ free trial ](https://behavehealth.com/get-started)today. 
+Whatever unique selling proposition you choose, [BehaveHealth’s Sober Living App](/) can help you stay organized and run your facility efficiently. Handle everything from intake paperwork to billing to facilities maintenance all from the convenience of your phone. Store every piece of information about your business in our cloud-based system and never misplace another important document again. See why more and more sober living home operators are making the switch to the Sober Living App. Start your[ free trial ](https://behavehealth.com/get-started)today. 
 
-Tagged: [USP](../../../tag/USP.html), [marketing](../../../tag/marketing.html), [differentiation](https://soberlivingapp.com/sober-living-app-blog/tag/differentiation), [competition](https://soberlivingapp.com/sober-living-app-blog/tag/competition)
+Tagged: [USP](/sober-living-app-blog/tag/USP), [marketing](/sober-living-app-blog/tag/marketing), [differentiation](https://soberlivingapp.com/sober-living-app-blog/tag/differentiation), [competition](https://soberlivingapp.com/sober-living-app-blog/tag/competition)
 
 0 Likes
 
 Share
 
-Newer Post[Find Your People: Defining Your Ideal Sober Living Home Resident](../18/find-your-people-defining-your-ideal-sober-living-home-resident.html)
+Newer Post: Find Your People: Defining Your Ideal Sober Living Home Resident
 
-Older Post[MAT and Sober Living Deemed More Compatible Than Ever Before](../../1/21/mat-and-sober-living-deemed-more-compatible-than-ever-before.html)
+Older Post: MAT and Sober Living Deemed More Compatible Than Ever Before

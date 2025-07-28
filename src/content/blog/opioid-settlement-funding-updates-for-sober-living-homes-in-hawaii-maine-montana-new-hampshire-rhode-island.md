@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - Opioid Settlement Funding for Sober Living: HI, ME, MT, NH, RI Updates.'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[April 10, 2024](opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island.html)
+[April 10, 2024]
 
-[News](../../../category/News.html), [Sober Living Startup](../../../category/Sober+Living+Startup.html), [Funding](../../../category/Funding.html)
+[News](/sober-living-app-blog/category/News), [Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup), [Funding](/sober-living-app-blog/category/Funding)
 
-#  [Opioid settlement funding updates for sober living homes in Hawaii, Maine, Montana, New Hampshire, Rhode Island](opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island.html)
+#  [Opioid settlement funding updates for sober living homes in Hawaii, Maine, Montana, New Hampshire, Rhode Island]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[April 10, 2024](opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island.html)
+[April 10, 2024]
 
-[News](../../../category/News.html), [Sober Living Startup](../../../category/Sober+Living+Startup.html), [Funding](../../../category/Funding.html)
+[News](/sober-living-app-blog/category/News), [Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup), [Funding](/sober-living-app-blog/category/Funding)
 
 ![hawaii maine montana new hampshire rhode island opioid settlement money funding grants sober living](/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island/Screen_Shot_2024-04-10_at_8.14.24_PM.png)
 
@@ -78,18 +78,18 @@ It’s unclear how to formally ask that a project be considered for funding by t
 
 ## Sober Living App Helps Sober Living Succeed 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Hawaii](../../../tag/Hawaii.html), [Maine](../../../tag/Maine.html), [New Hampshire](../../../tag/New+Hampshire.html), [Montana](../../../tag/Montana.html), [Rhode Island](../../../tag/Rhode+Island.html)
+Tagged: [Hawaii](/sober-living-app-blog/tag/Hawaii), [Maine](/sober-living-app-blog/tag/Maine), [New Hampshire](/sober-living-app-blog/tag/New+Hampshire), [Montana](/sober-living-app-blog/tag/Montana), [Rhode Island](/sober-living-app-blog/tag/Rhode+Island)
 
 0 Likes
 
 Share
 
-Newer Post[Opioid Settlement Funding Updates for Sober Living Homes in South Dakota, North Dakota, Alaska, Washington D.C., and Wyoming](https://soberlivingapp.com/sober-living-app-blog/2024/4/17/opioid-settlement-funding-updates-for-sober-living-homes-in-south-dakota-north-dakota-alaska-washington-dc-and-wyoming)
+Newer Post: Opioid Settlement Funding Updates for Sober Living Homes in South Dakota, North Dakota, Alaska, Washington D.C., and Wyoming
 
-Older Post[Opioid Settlement Funding Updates for Sober Living Homes in North Carolina, Georgia, Kentucky and West Virginia](https://soberlivingapp.com/sober-living-app-blog/2024/3/26/opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia)
+Older Post: Opioid Settlement Funding Updates for Sober Living Homes in North Carolina, Georgia, Kentucky and West Virginia

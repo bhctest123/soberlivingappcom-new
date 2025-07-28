@@ -106,7 +106,7 @@ For level 3 and level 4 sober living facilities, a complete certification applic
 
 ## Need Help With Opening Your Sober Living Home or Recovery Residence in Colorado? 
 
-[Sober Living App](<../../../../index.html>) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](</>) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 

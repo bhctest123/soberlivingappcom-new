@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - Are You a Good Candidate for Behave Health''s Sober Living Startup Program?'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 28, 2024](are-you-a-good-candidate-for-behave-healths-sober-living-startup-program.html)
+[February 28, 2024]
 
-[Sober Living Startup](../../../category/Sober+Living+Startup.html)
+[Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup)
 
-#  [Are You a Good Candidate for Behave Health's Sober Living Startup Program?](are-you-a-good-candidate-for-behave-healths-sober-living-startup-program.html)
+#  [Are You a Good Candidate for Behave Health's Sober Living Startup Program?]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 28, 2024](are-you-a-good-candidate-for-behave-healths-sober-living-startup-program.html)
+[February 28, 2024]
 
-[Sober Living Startup](../../../category/Sober+Living+Startup.html)
+[Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup)
 
 ![behave health sober living startup program](/images/blog/are-you-a-good-candidate-for-behave-healths-sober-living-startup-program/Screen_Shot_2024-02-25_at_3.20.25_PM.png)
 
@@ -158,12 +158,12 @@ Our all-in-one app puts clinical, administration, staff, admissions, alumni, res
 
 PS. Just getting started with behavioral health? Need help with certification, too? Behave Health can also help direct you to the right resources for help with Licensing or Accreditation by either[ The Joint Commission](https://www.jointcommission.org/) or[ CARF](http://www.carf.org/). Mention to your product specialist that you’re interested in this service after you start your free trial!
 
-Tagged: [Behave Health's Sober Living Startup Program](../../../tag/Behave+Health's+Sober+Living+Startup+Program.html), [recovery residence](../../../tag/recovery+residence.html)
+Tagged: [Behave Health's Sober Living Startup Program](/sober-living-app-blog/tag/Behave+Health's+Sober+Living+Startup+Program), [recovery residence](/sober-living-app-blog/tag/recovery+residence)
 
 0 Likes
 
 Share
 
-Newer Post[Opioid Settlement Funding Updates for Sober Living Homes in Montana, Colorado, Arizona, New York, Missouri, and Vermont](../../3/10/opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont.html)
+Newer Post: Opioid Settlement Funding Updates for Sober Living Homes in Montana, Colorado, Arizona, New York, Missouri, and Vermont
 
-Older Post[How to Choose a Sober Living Home Startup Consultant](../../../2023/12/17/how-to-choose-a-sober-living-home-startup-consultant.html)
+Older Post: How to Choose a Sober Living Home Startup Consultant

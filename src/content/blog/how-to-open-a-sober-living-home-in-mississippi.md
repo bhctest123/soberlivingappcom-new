@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - How to Open a Sober Living Home in Mississippi"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 9, 2023](how-to-open-a-sober-living-home-in-mississippi.html)
+[January 9, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [How to Open a Sober Living Home in Mississippi](how-to-open-a-sober-living-home-in-mississippi.html)
+#  [How to Open a Sober Living Home in Mississippi]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 9, 2023](how-to-open-a-sober-living-home-in-mississippi.html)
+[January 9, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![mississippi sober living home opening certification](/images/blog/how-to-open-a-sober-living-home-in-mississippi/Screen_Shot_2023-01-03_at_5.14.53_PM.png)
 
@@ -100,18 +100,18 @@ This means that there are sober living home community members who are speaking w
 
 ## Considering Opening a Mississippi Sober Living Residence? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Mississippi](../../../tag/Mississippi.html), [Congregate living inspection](https://soberlivingapp.com/sober-living-app-blog/tag/Congregate+living+inspection), [housing quality standards](https://soberlivingapp.com/sober-living-app-blog/tag/housing+quality+standards), [fire inspection](https://soberlivingapp.com/sober-living-app-blog/tag/fire+inspection), [Chemical Dependency Units](https://soberlivingapp.com/sober-living-app-blog/tag/Chemical+Dependency+Units), [Personal Care Homes](https://soberlivingapp.com/sober-living-app-blog/tag/Personal+Care+Homes), [NIMBYism](../../../tag/NIMBYism.html), [NARR](../../../tag/NARR.html)
+Tagged: [Mississippi](/sober-living-app-blog/tag/Mississippi), [Congregate living inspection](https://soberlivingapp.com/sober-living-app-blog/tag/Congregate+living+inspection), [housing quality standards](https://soberlivingapp.com/sober-living-app-blog/tag/housing+quality+standards), [fire inspection](https://soberlivingapp.com/sober-living-app-blog/tag/fire+inspection), [Chemical Dependency Units](https://soberlivingapp.com/sober-living-app-blog/tag/Chemical+Dependency+Units), [Personal Care Homes](https://soberlivingapp.com/sober-living-app-blog/tag/Personal+Care+Homes), [NIMBYism](/sober-living-app-blog/tag/NIMBYism), [NARR](/sober-living-app-blog/tag/NARR)
 
 0 Likes
 
 Share
 
-Newer Post[Kansas is a Great State to Open a Sober Living Home](../10/kansas-is-a-great-state-to-open-a-sober-living-home.html)
+Newer Post: Kansas is a Great State to Open a Sober Living Home
 
-Older Post[The Fastest Way to Open a Sober Living Home in Arkansas](https://soberlivingapp.com/sober-living-app-blog/2023/1/2/the-fastest-way-to-open-a-sober-living-home-in-arkansas)
+Older Post: The Fastest Way to Open a Sober Living Home in Arkansas

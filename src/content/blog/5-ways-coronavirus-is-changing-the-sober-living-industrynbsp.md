@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - 5 Ways Coronavirus is Changing the Sober Living Industry"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 31, 2020](5-ways-coronavirus-is-changing-the-sober-living-industrynbsp.html)
+[March 31, 2020]
 
-[Admissions](../../../category/Admissions.html), [Epidemic](https://soberlivingapp.com/sober-living-app-blog/category/Epidemic), [Medication](../../../category/Medication.html), [News](../../../category/News.html), [Recovery Industry](../../../category/Recovery+Industry.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Epidemic](https://soberlivingapp.com/sober-living-app-blog/category/Epidemic), [Medication](/sober-living-app-blog/category/Medication), [News](/sober-living-app-blog/category/News), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
-#  [5 Ways Coronavirus is Changing the Sober Living Industry ](5-ways-coronavirus-is-changing-the-sober-living-industrynbsp.html)
+#  [5 Ways Coronavirus is Changing the Sober Living Industry ]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 31, 2020](5-ways-coronavirus-is-changing-the-sober-living-industrynbsp.html)
+[March 31, 2020]
 
-[Admissions](../../../category/Admissions.html), [Epidemic](https://soberlivingapp.com/sober-living-app-blog/category/Epidemic), [Medication](../../../category/Medication.html), [News](../../../category/News.html), [Recovery Industry](../../../category/Recovery+Industry.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Epidemic](https://soberlivingapp.com/sober-living-app-blog/category/Epidemic), [Medication](/sober-living-app-blog/category/Medication), [News](/sober-living-app-blog/category/News), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
 ![COVID 19 is changing everything about our world - including the sober living industry.](/images/blog/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp/Screenshot_2020-03-26_at_9.38.09_AM.png)
 
@@ -80,12 +80,12 @@ This pandemic brings a particular set of complications to any [residents partici
 
 There are no quick fixes to the COVID-19 pandemic, but staying organized in a time of crisis is essential. Sober living homes using the [Sober Living App](http://soberlivingapp.com) report that now—more than ever—they appreciate the ability to streamline the admissions process, conduct bed management, and schedule residents’ chores all from the device of their choice. With the Sober Living App, it’s easy to create enhanced sanitization tasks and deliver automatic reminders to residents with the simple push of a button. Our online admissions process is simple to adapt for enhanced COVID-19 screening. An app won’t fix this crisis but it can help ease the burden of this virus on your sober living home. When you’re ready, consider claiming[ your free trial](https://behavehealth.com/get-started) of the Sober Living App. 
 
-Tagged: [COVID 19](https://soberlivingapp.com/sober-living-app-blog/tag/COVID+19), [MAT](../../../tag/MAT.html), [sober living home management](../../../tag/sober+living+home+management.html), [chores](https://soberlivingapp.com/sober-living-app-blog/tag/chores), [admissions](https://soberlivingapp.com/sober-living-app-blog/tag/admissions)
+Tagged: [COVID 19](https://soberlivingapp.com/sober-living-app-blog/tag/COVID+19), [MAT](/sober-living-app-blog/tag/MAT), [sober living home management](/sober-living-app-blog/tag/sober+living+home+management), [chores](https://soberlivingapp.com/sober-living-app-blog/tag/chores), [admissions](https://soberlivingapp.com/sober-living-app-blog/tag/admissions)
 
 0 Likes
 
 Share
 
-Newer Post[3 Coronavirus Changes Your Sober Living Home Needs to Make This Week](https://soberlivingapp.com/sober-living-app-blog/2020/4/21/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week)
+Newer Post: 3 Coronavirus Changes Your Sober Living Home Needs to Make This Week
 
-Older Post[Mastering Admissions at Your Sober Living Home](https://soberlivingapp.com/sober-living-app-blog/2020/3/17/mastering-admissions-at-your-sober-living-home)
+Older Post: Mastering Admissions at Your Sober Living Home

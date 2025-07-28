@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - 3 Types of Sober Living Home Residents You Need to Stop Admitting"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 30, 2021](3-types-of-sober-living-home-residents-you-need-to-stop-admitting.html)
+[March 30, 2021]
 
-[Admissions](../../../category/Admissions.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Technology](../../../category/Technology.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Technology](/sober-living-app-blog/category/Technology)
 
-#  [3 Types of Sober Living Home Residents You Need to Stop Admitting](3-types-of-sober-living-home-residents-you-need-to-stop-admitting.html)
+#  [3 Types of Sober Living Home Residents You Need to Stop Admitting]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 30, 2021](3-types-of-sober-living-home-residents-you-need-to-stop-admitting.html)
+[March 30, 2021]
 
-[Admissions](../../../category/Admissions.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Technology](../../../category/Technology.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Technology](/sober-living-app-blog/category/Technology)
 
 ![Not all sober living home residents should be living in a sober living home. Here’s what to look for when you are working through your admissions process to save time, money and sanity as a sober living home opertor.](/images/blog/3-types-of-sober-living-home-residents-you-need-to-stop-admitting/Screen_Shot_2021-03-29_at_9.09.18_AM.png)
 
@@ -70,7 +70,7 @@ It’s not worth it.
 
 Your application process should be simple. 
 
-(If it’s not - check out [Sober Living App](../../../../index.html)’s cloud-based [new resident application](https://soberlivingapp.com/sober-living-app-blog/2020/4/28/introducing-our-new-resident-application-for-the-sober-living-home-app). Residents can complete it on their phone in a few minutes.) 
+(If it’s not - check out [Sober Living App](/)’s cloud-based [new resident application](https://soberlivingapp.com/sober-living-app-blog/2020/4/28/introducing-our-new-resident-application-for-the-sober-living-home-app). Residents can complete it on their phone in a few minutes.) 
 
 Unless your would-be resident struggles with English as a second language or a reading disability, they should be able to sit down for a few minutes and complete the application. 
 
@@ -90,12 +90,12 @@ That’s why we’ve created our intuitive, cloud-based tools especially for sob
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [sober living home management](../../../tag/sober+living+home+management.html), [Sober Living App](../../../tag/Sober+Living+App.html), [resident agreement](../../../tag/resident+agreement.html), [resident handbook](../../../tag/resident+handbook.html), [new resident applications](../../../tag/new+resident+applications.html), [new resident agreements](../../../tag/new+resident+agreements.html), [move-in](../../../tag/move-in.html), [screening](../../../tag/screening.html)
+Tagged: [sober living home management](/sober-living-app-blog/tag/sober+living+home+management), [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App), [resident agreement](/sober-living-app-blog/tag/resident+agreement), [resident handbook](/sober-living-app-blog/tag/resident+handbook), [new resident applications](/sober-living-app-blog/tag/new+resident+applications), [new resident agreements](/sober-living-app-blog/tag/new+resident+agreements), [move-in](/sober-living-app-blog/tag/move-in), [screening](/sober-living-app-blog/tag/screening)
 
 2 Likes
 
 Share
 
-Newer Post[How to Open a Sober Living Home in California](../../5/11/how-to-open-a-sober-living-home-in-california.html)
+Newer Post: How to Open a Sober Living Home in California
 
-Older Post[The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 2)](../16/the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-2.html)
+Older Post: The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 2)

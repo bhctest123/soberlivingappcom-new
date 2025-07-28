@@ -16,11 +16,7 @@ const Footer = () => {
           </div>
           <div className="flex items-center gap-2 text-gray-400">
             <img src="/images/icons/lock.png" alt="Security" className="w-6 h-6" />
-            <span>Bank-Level Security</span>
-          </div>
-          <div className="flex items-center gap-2 text-gray-400">
-            <img src="/images/icons/phone_call.png" alt="Support" className="w-6 h-6" />
-            <span>24/7 Support</span>
+            <span>Secure & Private</span>
           </div>
           <div className="flex items-center gap-2 text-gray-400">
             <img src="/images/icons/circle_tick.png" alt="Uptime" className="w-6 h-6" />

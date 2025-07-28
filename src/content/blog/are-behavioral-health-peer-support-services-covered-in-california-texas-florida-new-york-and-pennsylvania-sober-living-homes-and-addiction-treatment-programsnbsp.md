@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Is Peer Support Covered in CA, TX, FL, NY, PA SLHs & Treatment Programs?"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[May 30, 2024](are-behavioral-health-peer-support-services-covered-in-california-texas-florida-new-york-and-pennsylvania-sober-living-homes-and-addiction-treatment-programsnbsp.html)
+[May 30, 2024]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [Guide](../../../category/Guide.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Billing](../../../category/Billing.html), [Insurance](../../../category/Insurance.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Guide](/sober-living-app-blog/category/Guide), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Billing](/sober-living-app-blog/category/Billing), [Insurance](/sober-living-app-blog/category/Insurance)
 
-#  [Are Behavioral Health Peer Support Services Covered in California, Texas, Florida, New York, and Pennsylvania Sober Living Homes and Addiction Treatment Programs? ](are-behavioral-health-peer-support-services-covered-in-california-texas-florida-new-york-and-pennsylvania-sober-living-homes-and-addiction-treatment-programsnbsp.html)
+#  [Are Behavioral Health Peer Support Services Covered in California, Texas, Florida, New York, and Pennsylvania Sober Living Homes and Addiction Treatment Programs? ]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[May 30, 2024](are-behavioral-health-peer-support-services-covered-in-california-texas-florida-new-york-and-pennsylvania-sober-living-homes-and-addiction-treatment-programsnbsp.html)
+[May 30, 2024]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [Guide](../../../category/Guide.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Billing](../../../category/Billing.html), [Insurance](../../../category/Insurance.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Guide](/sober-living-app-blog/category/Guide), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Billing](/sober-living-app-blog/category/Billing), [Insurance](/sober-living-app-blog/category/Insurance)
 
 ![peer support recovery services addiction treatment sober living billing california texas florida new york pennsylvania medicaid](/images/blog/are-behavioral-health-peer-support-services-covered-in-california-texas-florida-new-york-and-pennsylvania-sober-living-homes-and-addiction-treatment-programsnbsp/Screen_Shot_2024-05-29_at_9.02.35_PM.png)
 
@@ -92,18 +92,18 @@ Pennsylvania Peer Support Services Coverage: Pennsylvania Medicaid covers peer s
 
 ## Sober Living App Helps Sober Living Succeed 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Pennsylvania](../../../tag/Pennsylvania.html), [New York](../../../tag/New+York.html), [Florida](../../../tag/Florida.html), [Texas](../../../tag/Texas.html), [California](../../../tag/California.html), [Peer Support Services](../../../tag/Peer+Support+Services.html), [billing](../../../tag/billing.html), [insurance billing](../../../tag/insurance+billing.html), [CPT codes](../../../tag/CPT+codes.html), [H0038](../../../tag/H0038.html), [Medicaid](../../../tag/Medicaid.html)
+Tagged: [Pennsylvania](/sober-living-app-blog/tag/Pennsylvania), [New York](/sober-living-app-blog/tag/New+York), [Florida](/sober-living-app-blog/tag/Florida), [Texas](/sober-living-app-blog/tag/Texas), [California](/sober-living-app-blog/tag/California), [Peer Support Services](/sober-living-app-blog/tag/Peer+Support+Services), [billing](/sober-living-app-blog/tag/billing), [insurance billing](/sober-living-app-blog/tag/insurance+billing), [CPT codes](/sober-living-app-blog/tag/CPT+codes), [H0038](/sober-living-app-blog/tag/H0038), [Medicaid](/sober-living-app-blog/tag/Medicaid)
 
 0 Likes
 
 Share
 
-Newer Post[What CPT Billing Code Should Sober Living Homes Use for Peer Support Services in Illinois, Ohio, Georgia, North Carolina, and Michigan?](../../6/2/what-cpt-billing-code-should-sober-living-homes-use-for-peer-support-services-in-illinois-ohio-georgia-north-carolina-and-michigan.html)
+Newer Post: What CPT Billing Code Should Sober Living Homes Use for Peer Support Services in Illinois, Ohio, Georgia, North Carolina, and Michigan?
 
-Older Post[Opioid Settlement Funding Updates for Sober Living Homes in South Dakota, North Dakota, Alaska, Washington D.C., and Wyoming](https://soberlivingapp.com/sober-living-app-blog/2024/4/17/opioid-settlement-funding-updates-for-sober-living-homes-in-south-dakota-north-dakota-alaska-washington-dc-and-wyoming)
+Older Post: Opioid Settlement Funding Updates for Sober Living Homes in South Dakota, North Dakota, Alaska, Washington D.C., and Wyoming

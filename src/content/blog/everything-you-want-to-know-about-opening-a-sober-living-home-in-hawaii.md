@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Everything You Want to Know About Opening a Sober Living Home in Hawaii"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 26, 2023](everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii.html)
+[January 26, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [Everything You Want to Know About Opening a Sober Living Home in Hawaii](everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii.html)
+#  [Everything You Want to Know About Opening a Sober Living Home in Hawaii]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 26, 2023](everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii.html)
+[January 26, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![sober living home how to open Hawaii license registration regulations law](/images/blog/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii/Screen_Shot_2023-01-22_at_7.33.18_PM.png)
 
@@ -96,18 +96,18 @@ While any sober facility is Hawaii can call itself a “recovery residence” or
 
 ## Considering Opening a Hawaii Sober Living Residence? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Hawaii](../../../tag/Hawaii.html), [Hawaii Department of Health](../../../tag/Hawaii+Department+of+Health.html), [ACT 193](../../../tag/ACT+193.html), [Hawaii Administrative Rules](../../../tag/Hawaii+Administrative+Rules.html), [Clean and Sober Home Registry](../../../tag/Clean+and+Sober+Home+Registry.html), [referrals](../../../tag/referrals.html)
+Tagged: [Hawaii](/sober-living-app-blog/tag/Hawaii), [Hawaii Department of Health](/sober-living-app-blog/tag/Hawaii+Department+of+Health), [ACT 193](/sober-living-app-blog/tag/ACT+193), [Hawaii Administrative Rules](/sober-living-app-blog/tag/Hawaii+Administrative+Rules), [Clean and Sober Home Registry](/sober-living-app-blog/tag/Clean+and+Sober+Home+Registry), [referrals](/sober-living-app-blog/tag/referrals)
 
 0 Likes
 
 Share
 
-Newer Post[Opening a Sober Living Home in New Hampshire](../../2/2/opening-a-sober-living-home-in-new-hampshire.html)
+Newer Post: Opening a Sober Living Home in New Hampshire
 
-Older Post[Your Questions About Opening a Sober Living Home in West Virginia - Answered](../24/your-questions-about-opening-a-sober-living-home-in-west-virginia-answered.html)
+Older Post: Your Questions About Opening a Sober Living Home in West Virginia - Answered

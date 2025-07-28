@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - Sober Living Opioid Fund Updates: MT, CO, AZ, NY, MO, VT.'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 12, 2024](opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont.html)
+[March 12, 2024]
 
-[Funding](../../../category/Funding.html), [News](../../../category/News.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Startup](../../../category/Sober+Living+Startup.html)
+[Funding](/sober-living-app-blog/category/Funding), [News](/sober-living-app-blog/category/News), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup)
 
-#  [Opioid Settlement Funding Updates for Sober Living Homes in Montana, Colorado, Arizona, New York, Missouri, and Vermont](opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont.html)
+#  [Opioid Settlement Funding Updates for Sober Living Homes in Montana, Colorado, Arizona, New York, Missouri, and Vermont]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 12, 2024](opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont.html)
+[March 12, 2024]
 
-[Funding](../../../category/Funding.html), [News](../../../category/News.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Startup](../../../category/Sober+Living+Startup.html)
+[Funding](/sober-living-app-blog/category/Funding), [News](/sober-living-app-blog/category/News), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Startup](/sober-living-app-blog/category/Sober+Living+Startup)
 
 ![montana colorado arizona new york missouri vermont sober living home recovery residence opioid settlement funding grant money](/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont/Screen_Shot_2024-02-25_at_3.17.54_PM.png)
 
@@ -84,12 +84,12 @@ Our all-in-one app puts clinical, administration, staff, admissions, alumni, res
 
 PS. Just getting started with behavioral health? Need help with certification, too? Behave Health can also help direct you to the right resources for help with Licensing or Accreditation by either[ The Joint Commission](https://www.jointcommission.org/) or[ CARF](http://www.carf.org/). Mention to your product specialist that you’re interested in this service after you start your free trial!
 
-Tagged: [Opioid settlement money](../../../tag/Opioid+settlement+money.html), [funding](../../../tag/Funding.html), [state funding](../../../tag/state+funding.html), [Montana](../../../tag/Montana.html), [Colorado](../../../tag/Colorado.html), [Arizona](../../../tag/Arizona.html), [New York](../../../tag/New+York.html), [Missouri](../../../tag/Missouri.html), [Vermont](../../../tag/Vermont.html)
+Tagged: [Opioid settlement money](/sober-living-app-blog/tag/Opioid+settlement+money), [funding](/sober-living-app-blog/tag/Funding), [state funding](/sober-living-app-blog/tag/state+funding), [Montana](/sober-living-app-blog/tag/Montana), [Colorado](/sober-living-app-blog/tag/Colorado), [Arizona](/sober-living-app-blog/tag/Arizona), [New York](/sober-living-app-blog/tag/New+York), [Missouri](/sober-living-app-blog/tag/Missouri), [Vermont](/sober-living-app-blog/tag/Vermont)
 
 0 Likes
 
 Share
 
-Newer Post[Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida,  Ohio](https://soberlivingapp.com/sober-living-app-blog/2024/3/20/opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-floridanbsp-ohio)
+Newer Post: Opioid Settlement Funding Updates for Sober Living Homes in Tennessee, Minnesota, Texas, California, Florida,  Ohio
 
-Older Post[Are You a Good Candidate for Behave Health's Sober Living Startup Program?](https://soberlivingapp.com/sober-living-app-blog/2024/2/27/are-you-a-good-candidate-for-behave-healths-sober-living-startup-program)
+Older Post: Are You a Good Candidate for Behave Health's Sober Living Startup Program?

@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - What if Your Sober Living Home Manager Gets Coronavirus? A Contingency Plan Review"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[June 2, 2020](what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review.html)
+[June 2, 2020]
 
-[Property Management](../../../category/Property+Management.html), [Technology](../../../category/Technology.html), [Guide](../../../category/Guide.html), [Recovery Community](../../../category/Recovery+Community.html)
+[Property Management](/sober-living-app-blog/category/Property+Management), [Technology](/sober-living-app-blog/category/Technology), [Guide](/sober-living-app-blog/category/Guide), [Recovery Community](/sober-living-app-blog/category/Recovery+Community)
 
-#  [What if Your Sober Living Home Manager Gets Coronavirus? A Contingency Plan Review](what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review.html)
+#  [What if Your Sober Living Home Manager Gets Coronavirus? A Contingency Plan Review]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[June 2, 2020](what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review.html)
+[June 2, 2020]
 
-[Property Management](../../../category/Property+Management.html), [Technology](../../../category/Technology.html), [Guide](../../../category/Guide.html), [Recovery Community](../../../category/Recovery+Community.html)
+[Property Management](/sober-living-app-blog/category/Property+Management), [Technology](/sober-living-app-blog/category/Technology), [Guide](/sober-living-app-blog/category/Guide), [Recovery Community](/sober-living-app-blog/category/Recovery+Community)
 
 ![Your sober living home manager is the VIP of your sober living home operation. What happens if they get sick?](/images/blog/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review/Screenshot_2020-05-28_at_2.43.19_PM.png)
 
@@ -78,14 +78,14 @@ Now that you have a plan, let residents know about it. Discussing the plan in ad
 
 ## We’re Here to Help 
 
-The team at the [Sober Living App](../../../../index.html) is dedicated to helping you and your residents through this exceptionally tricky time with software solutions designed to tame the most irritating and time consuming aspects of sober living home management. See why more sober living homes are making the switch to the Sober Living App and [claim your free trial now](https://signup.behavehealth.com/?product=sober_living_app). 
+The team at the [Sober Living App](/) is dedicated to helping you and your residents through this exceptionally tricky time with software solutions designed to tame the most irritating and time consuming aspects of sober living home management. See why more sober living homes are making the switch to the Sober Living App and [claim your free trial now](https://signup.behavehealth.com/?product=sober_living_app). 
 
-Tagged: [COVID 19](https://soberlivingapp.com/sober-living-app-blog/tag/COVID+19), [sober living home management](../../../tag/sober+living+home+management.html), [new resident applications](https://soberlivingapp.com/sober-living-app-blog/tag/new+resident+applications), [bed management](https://soberlivingapp.com/sober-living-app-blog/tag/bed+management), [residential portal](https://soberlivingapp.com/sober-living-app-blog/tag/residential+portal), [software](../../../tag/software.html)
+Tagged: [COVID 19](https://soberlivingapp.com/sober-living-app-blog/tag/COVID+19), [sober living home management](/sober-living-app-blog/tag/sober+living+home+management), [new resident applications](https://soberlivingapp.com/sober-living-app-blog/tag/new+resident+applications), [bed management](https://soberlivingapp.com/sober-living-app-blog/tag/bed+management), [residential portal](https://soberlivingapp.com/sober-living-app-blog/tag/residential+portal), [software](/sober-living-app-blog/tag/software)
 
 0 Likes
 
 Share
 
-Newer Post[How to Turn Alumni Recovery Success Into New Residents for Your Sober Living Home](https://soberlivingapp.com/sober-living-app-blog/2020/6/16/how-to-turn-alumni-recovery-success-into-new-residents-for-your-sober-living-home)
+Newer Post: How to Turn Alumni Recovery Success Into New Residents for Your Sober Living Home
 
-Older Post[Need Help? How to Get Small Business Relief for Your Sober Living Home During the Coronavirus Pandemic](https://soberlivingapp.com/sober-living-app-blog/2020/5/19/need-help-how-to-get-small-business-relief-for-your-sober-living-home-during-the-coronavirus-pandemic)
+Older Post: Need Help? How to Get Small Business Relief for Your Sober Living Home During the Coronavirus Pandemic

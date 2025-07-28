@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - NARR Affiliate Sober Living Regulations: MT, RI, DE, VT.'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 3, 2025](sober-living-home-regulations-for-narr-affiliate-operators-in-montana-rhode-island-delaware-and-vermont.html)
+[January 3, 2025]
 
-[Certification](../../../category/Certification.html), [Licensing](../../../category/Licensing.html), [NARR](../../../category/NARR.html), [News](../../../category/News.html), [Regulations](../../../category/Regulations.html)
+[Certification](/sober-living-app-blog/category/Certification), [Licensing](/sober-living-app-blog/category/Licensing), [NARR](/sober-living-app-blog/category/NARR), [News](/sober-living-app-blog/category/News), [Regulations](/sober-living-app-blog/category/Regulations)
 
-#  [Sober Living Home Regulations for NARR Affiliate Operators in Montana, Rhode Island, Delaware, and Vermont](sober-living-home-regulations-for-narr-affiliate-operators-in-montana-rhode-island-delaware-and-vermont.html)
+#  [Sober Living Home Regulations for NARR Affiliate Operators in Montana, Rhode Island, Delaware, and Vermont]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 3, 2025](sober-living-home-regulations-for-narr-affiliate-operators-in-montana-rhode-island-delaware-and-vermont.html)
+[January 3, 2025]
 
-[Certification](../../../category/Certification.html), [Licensing](../../../category/Licensing.html), [NARR](../../../category/NARR.html), [News](../../../category/News.html), [Regulations](../../../category/Regulations.html)
+[Certification](/sober-living-app-blog/category/Certification), [Licensing](/sober-living-app-blog/category/Licensing), [NARR](/sober-living-app-blog/category/NARR), [News](/sober-living-app-blog/category/News), [Regulations](/sober-living-app-blog/category/Regulations)
 
 ![NARR affiliate Montana Rhode Island Delaware Vermont sober living home recovery residence news certification regulation](/images/blog/sober-living-home-regulations-for-narr-affiliate-operators-in-montana-rhode-island-delaware-and-vermont/Screen_Shot_2024-12-29_at_6.32.26_PM.png)
 
@@ -102,7 +102,7 @@ If you’re active in the sober living home community in Vermont, you may also b
 
 ## Managing a sober living home in Montana, Rhode Island, Delaware, or Vermont? Let us help.
 
-[Sober Living App](../../../../index.html) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
@@ -112,12 +112,12 @@ Our all-in-one app handles rent collection, admissions, property management, res
 
 Discover if Behave Health’s new[ NARR Affiliate Management Platform (AMP)](https://behavehealth.com/narr-affiliate) is right for your organization.
 
-Tagged: [Montana](../../../tag/Montana.html), [Rhode Island](../../../tag/Rhode+Island.html), [Delaware](../../../tag/Delaware.html), [Vermont](../../../tag/Vermont.html)
+Tagged: [Montana](/sober-living-app-blog/tag/Montana), [Rhode Island](/sober-living-app-blog/tag/Rhode+Island), [Delaware](/sober-living-app-blog/tag/Delaware), [Vermont](/sober-living-app-blog/tag/Vermont)
 
 0 Likes
 
 Share
 
-Newer Post[Sober Living Home Regulations for NARR Affiliate Operators in South Dakota, North Dakota, Alaska, and Wyoming](../../../2025/1/13/sober-living-home-regulations-for-narr-affiliate-operators-in-south-dakota-north-dakota-alaska-and-wyoming.html)
+Newer Post: Sober Living Home Regulations for NARR Affiliate Operators in South Dakota, North Dakota, Alaska, and Wyoming
 
-Older Post[Sober Living Home and NARR Affiliate Updates for Recovery Residences in Hawaii, New Hampshire, and Maine](sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-hawaii-new-hampshire-and-maine.html)
+Older Post[Sober Living Home and NARR Affiliate Updates for Recovery Residences in Hawaii, New Hampshire, and Maine]

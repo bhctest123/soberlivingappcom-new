@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - 5 Things All of the Best Sober Living Home Managers Have in Common"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 3, 2020](5-things-all-of-the-best-sober-living-home-managers-have-in-common.html)
+[March 3, 2020]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [Property Management](../../../category/Property+Management.html), [Recovery Industry](../../../category/Recovery+Industry.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
-#  [5 Things All of the Best Sober Living Home Managers Have in Common](5-things-all-of-the-best-sober-living-home-managers-have-in-common.html)
+#  [5 Things All of the Best Sober Living Home Managers Have in Common]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 3, 2020](5-things-all-of-the-best-sober-living-home-managers-have-in-common.html)
+[March 3, 2020]
 
-[Clinical Operations](../../../category/Clinical+Operations.html), [Property Management](../../../category/Property+Management.html), [Recovery Industry](../../../category/Recovery+Industry.html)
+[Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
 ![Your sober living home is only as good as it’s manager.](/images/blog/5-things-all-of-the-best-sober-living-home-managers-have-in-common/life-862985_1280.jpg)
 
@@ -40,7 +40,7 @@ Ask any domestic engineer: running a home is a complicated matter. There are a t
 
 Add to that the dividing and assigning chores to residents, tracking resident payments, managing group activities, scheduling [drug testing](https://soberlivingapp.com/sober-living-app-blog/2019/12/17/how-to-streamline-drug-testing-at-your-sober-living-home), arranging for home maintenance work, maintaining residence vehicles, and everything else that goes into running a sober living home smoothly and you have quite the “to do” list to contend with.
 
-Good sober living home managers are organized. They have systems (like the [Sober Living App](../../../../index.html), perhaps?) to keep track of everything that needs to be done. Automated reminders and easy-to-use templates make the workflow easier to manage.  
+Good sober living home managers are organized. They have systems (like the [Sober Living App](/), perhaps?) to keep track of everything that needs to be done. Automated reminders and easy-to-use templates make the workflow easier to manage.  
 
 ## Good Sober Living Home Managers are Consistent
 
@@ -82,12 +82,12 @@ From bed management to resident records to maintenance tasks, the Sober Living A
 
 Why not [claim your free trial](https://behavehealth.com/get-started) of the Sober Living App today?
 
-Tagged: [software](../../../tag/software.html), [bed management](../../../tag/bed+management.html), [property management](https://soberlivingapp.com/sober-living-app-blog/tag/property+management), [leadership](https://soberlivingapp.com/sober-living-app-blog/tag/leadership), [staff training](../../../tag/staff+training.html), [hiring](../../../tag/hiring.html)
+Tagged: [software](/sober-living-app-blog/tag/software), [bed management](/sober-living-app-blog/tag/bed+management), [property management](https://soberlivingapp.com/sober-living-app-blog/tag/property+management), [leadership](https://soberlivingapp.com/sober-living-app-blog/tag/leadership), [staff training](/sober-living-app-blog/tag/staff+training), [hiring](/sober-living-app-blog/tag/hiring)
 
 0 Likes
 
 Share
 
-Newer Post[Mastering Admissions at Your Sober Living Home](../17/mastering-admissions-at-your-sober-living-home.html)
+Newer Post: Mastering Admissions at Your Sober Living Home
 
-Older Post[Find Your People: Defining Your Ideal Sober Living Home Resident](https://soberlivingapp.com/sober-living-app-blog/2020/2/18/find-your-people-defining-your-ideal-sober-living-home-resident)
+Older Post: Find Your People: Defining Your Ideal Sober Living Home Resident

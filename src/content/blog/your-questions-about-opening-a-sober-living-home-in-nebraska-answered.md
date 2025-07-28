@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Your Questions About Opening a Sober Living Home in Nebraska, Answered"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 17, 2023](your-questions-about-opening-a-sober-living-home-in-nebraska-answered.html)
+[January 17, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [News](../../../category/News.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [News](/sober-living-app-blog/category/News), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [Your Questions About Opening a Sober Living Home in Nebraska, Answered](your-questions-about-opening-a-sober-living-home-in-nebraska-answered.html)
+#  [Your Questions About Opening a Sober Living Home in Nebraska, Answered]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[January 17, 2023](your-questions-about-opening-a-sober-living-home-in-nebraska-answered.html)
+[January 17, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [News](../../../category/News.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [News](/sober-living-app-blog/category/News), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![sober living home recovery residence Nebraska how to open opening](/images/blog/your-questions-about-opening-a-sober-living-home-in-nebraska-answered/Screen_Shot_2023-01-10_at_4.00.50_PM.png)
 
@@ -76,18 +76,18 @@ No, there is no third party advocacy organization for the sober living home comm
 
 ## Considering Opening a Nebraska Sober Living Residence? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [sober living](../../../tag/sober+living.html), [Nebraska](../../../tag/Nebraska.html), [NIMBYism](../../../tag/NIMBYism.html), [rural](https://soberlivingapp.com/sober-living-app-blog/tag/rural), [regulation](../../../tag/regulation.html), [NARR](../../../tag/NARR.html)
+Tagged: [sober living](/sober-living-app-blog/tag/sober+living), [Nebraska](/sober-living-app-blog/tag/Nebraska), [NIMBYism](/sober-living-app-blog/tag/NIMBYism), [rural](https://soberlivingapp.com/sober-living-app-blog/tag/rural), [regulation](/sober-living-app-blog/tag/regulation), [NARR](/sober-living-app-blog/tag/NARR)
 
 0 Likes
 
 Share
 
-Newer Post[FAQ About How to Open an Sober Living Home in Maine](../19/faq-about-how-to-open-an-sober-living-home-in-maine.html)
+Newer Post: FAQ About How to Open an Sober Living Home in Maine
 
-Older Post[FAQ on Opening a Sober Living Home in New Mexico ](https://soberlivingapp.com/sober-living-app-blog/2023/1/12/faq-on-opening-a-sober-living-home-in-new-mexiconbsp)
+Older Post: FAQ on Opening a Sober Living Home in New Mexico 

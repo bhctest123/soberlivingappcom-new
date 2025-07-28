@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - 4 Ways a Trauma-Informed Approach Can Help Your Sober Living Residents Cope with Pandemic Stress"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 20, 2020](4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress.html)
+[October 20, 2020]
 
-[Admissions](../../../category/Admissions.html), [Recovery Community](../../../category/Recovery+Community.html), [Guide](../../../category/Guide.html), [Clinical Operations](../../../category/Clinical+Operations.html), [Epidemic](../../../category/Epidemic.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Guide](/sober-living-app-blog/category/Guide), [Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Epidemic](/sober-living-app-blog/category/Epidemic)
 
-#  [4 Ways a Trauma-Informed Approach Can Help Your Sober Living Residents Cope with Pandemic Stress](4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress.html)
+#  [4 Ways a Trauma-Informed Approach Can Help Your Sober Living Residents Cope with Pandemic Stress]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 20, 2020](4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress.html)
+[October 20, 2020]
 
-[Admissions](../../../category/Admissions.html), [Recovery Community](../../../category/Recovery+Community.html), [Guide](../../../category/Guide.html), [Clinical Operations](../../../category/Clinical+Operations.html), [Epidemic](../../../category/Epidemic.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Guide](/sober-living-app-blog/category/Guide), [Clinical Operations](/sober-living-app-blog/category/Clinical+Operations), [Epidemic](/sober-living-app-blog/category/Epidemic)
 
 ![Addiction and trauma go hand in hand. Learn about how you can help your sober living home residents cope with pandemic stress with a trauma-informed approach.](/images/blog/4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress/Screenshot_2020-10-15_at_10.07.58_PM.png)
 
@@ -74,18 +74,18 @@ Infusing a trauma-informed response into your sober living home’s COVID-19 pla
 
 ## We’re Here to Help Your Sober Living Home Thrive
 
-At [Sober Living App](../../../../index.html), we know sober living and we’re committed to helping your sober living home thrive. 
+At [Sober Living App](/), we know sober living and we’re committed to helping your sober living home thrive. 
 
 Our software solution is saving time, money and sanity for sober living home operators across the country. 
 
 We invite you to [claim your free trial today](https://info.behavehealth.com/en-us/start-free-trial).
 
-Tagged: [trauma](https://soberlivingapp.com/sober-living-app-blog/tag/trauma), [trauma-informed care](https://soberlivingapp.com/sober-living-app-blog/tag/trauma-informed+care), [new resident applications](../../../tag/new+resident+applications.html), [sober living home management](../../../tag/sober+living+home+management.html), [Sober Living App](../../../tag/Sober+Living+App.html), [resilience](https://soberlivingapp.com/sober-living-app-blog/tag/resilience), [problem behaviors](https://soberlivingapp.com/sober-living-app-blog/tag/problem+behaviors)
+Tagged: [trauma](https://soberlivingapp.com/sober-living-app-blog/tag/trauma), [trauma-informed care](https://soberlivingapp.com/sober-living-app-blog/tag/trauma-informed+care), [new resident applications](/sober-living-app-blog/tag/new+resident+applications), [sober living home management](/sober-living-app-blog/tag/sober+living+home+management), [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App), [resilience](https://soberlivingapp.com/sober-living-app-blog/tag/resilience), [problem behaviors](https://soberlivingapp.com/sober-living-app-blog/tag/problem+behaviors)
 
 0 Likes
 
 Share
 
-Newer Post[Chaotic Admissions and Billing? Check Out Sober Living Apps' Admissions 2.0 Update](../../9/22/chaotic-admissions-and-billing-check-out-sober-living-apps-admissions-20-update.html)
+Newer Post: Chaotic Admissions and Billing? Check Out Sober Living Apps' Admissions 2.0 Update
 
-Older Post[Sober Living App's New Billing Assistant Makes Getting Paid Even Easier](../6/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier.html)
+Older Post: Sober Living App's New Billing Assistant Makes Getting Paid Even Easier

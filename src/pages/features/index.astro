@@ -1,5 +1,5 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import BaseLayout from '@layouts/BaseLayout.astro';
 import { features } from '@/data/features';
 
 // Group features into logical categories
@@ -205,7 +205,7 @@ const categoryIcons = {
           const isEven = index % 2 === 0;
           
           return (
-            <div class={`mb-24 last:mb-0 ${isEven ? 'bg-gradient-to-br from-gray-50 to-white' : 'bg-white'} rounded-3xl p-8 lg:p-12`}>
+            <div class={`mb-24 last:mb-0 ${isEven ? 'bg-gradient-to-br from-gray-50/80 to-white' : 'bg-gradient-to-br from-white to-gray-50/60'} rounded-3xl p-8 lg:p-12 border border-gray-100/50 shadow-sm`}>
               <!-- Category Header -->
               <div class="text-center mb-16">
                 <div class="flex justify-center mb-8">
@@ -229,9 +229,9 @@ const categoryIcons = {
                 <!-- Benefits showcase -->
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto mb-12">
                   {groupData.benefits.map((benefit) => (
-                    <div class="bg-white rounded-xl p-4 shadow-md border border-gray-100">
+                    <div class="bg-white/90 backdrop-blur-sm rounded-xl p-4 shadow-md border border-gray-100/80 hover:shadow-lg transition-all duration-200">
                       <div class="flex items-center gap-3">
-                        <div class={`w-8 h-8 rounded-lg bg-gradient-to-br ${colorClass} flex items-center justify-center`}>
+                        <div class={`w-8 h-8 rounded-lg bg-gradient-to-br ${colorClass} flex items-center justify-center shadow-sm`}>
                           <img src="/images/icons/check.png" alt="Benefit" class="w-4 h-4 filter brightness-0 invert" />
                         </div>
                         <span class="font-medium text-gray-900">{benefit}</span>
@@ -246,7 +246,7 @@ const categoryIcons = {
                 {groupFeatures.map((feature) => (
                   <a 
                     href={`/features/${feature.id}`}
-                    class="group block bg-white rounded-2xl border border-gray-200 hover:border-blue-300 hover:shadow-xl transition-all duration-300 overflow-hidden transform hover:-translate-y-1"
+                    class="group block bg-white rounded-2xl border border-gray-200/80 hover:border-blue-300 hover:shadow-xl transition-all duration-300 overflow-hidden transform hover:-translate-y-1 shadow-md hover:shadow-2xl"
                   >
                     <!-- Feature card header -->
                     <div class={`bg-gradient-to-br ${colorClass} p-6 relative overflow-hidden`}>

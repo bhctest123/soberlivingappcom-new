@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - 3 Things to Look for in Your First Sober Living Home Real Estate Deal"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[May 28, 2019](3-things-to-look-for-in-your-first-sober-living-home-real-estate-deal.html)
+[May 28, 2019]
 
-[Recovery Industry](../../../category/Recovery+Industry.html), [Property Management](../../../category/Property+Management.html)
+[Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Property Management](/sober-living-app-blog/category/Property+Management)
 
-#  [3 Things to Look for in Your First Sober Living Home Real Estate Deal](3-things-to-look-for-in-your-first-sober-living-home-real-estate-deal.html)
+#  [3 Things to Look for in Your First Sober Living Home Real Estate Deal]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[May 28, 2019](3-things-to-look-for-in-your-first-sober-living-home-real-estate-deal.html)
+[May 28, 2019]
 
-[Recovery Industry](../../../category/Recovery+Industry.html), [Property Management](../../../category/Property+Management.html)
+[Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Property Management](/sober-living-app-blog/category/Property+Management)
 
 ![Buying your first sober living home is exciting! But, as with all things real estate, there’s a few pitfalls to look for in the deal.](/images/blog/3-things-to-look-for-in-your-first-sober-living-home-real-estate-deal/realestatedeal.png)
 
@@ -82,12 +82,12 @@ When you do, remember that we at [BehaveHealth](http://behavehealth.com) are her
 
 Or, better yet, test the app out for yourself. Why not [claim your free trial today](https://signup.soberlivingapp.com/#!/)? 
 
-Tagged: [real estate](../../../tag/real+estate.html), [bed management](../../../tag/bed+management.html), [cash flow](../../../tag/cash+flow.html), [property management](../../../tag/property+management.html), [community organizations](../../../tag/community+organizations.html), [NIMBYism](../../../tag/NIMBYism.html)
+Tagged: [real estate](/sober-living-app-blog/tag/real+estate), [bed management](/sober-living-app-blog/tag/bed+management), [cash flow](/sober-living-app-blog/tag/cash+flow), [property management](/sober-living-app-blog/tag/property+management), [community organizations](/sober-living-app-blog/tag/community+organizations), [NIMBYism](/sober-living-app-blog/tag/NIMBYism)
 
 1 Likes
 
 Share
 
-Newer Post[5 Best Apps and Software for Your Sober Living House ](../../6/12/5-best-apps-and-software-for-your-sober-living-house.html)
+Newer Post: 5 Best Apps and Software for Your Sober Living House 
 
-Older Post[You Opened a Sober Living Home—Now What?](../13/you-opened-a-sober-living-homenow-what.html)
+Older Post: You Opened a Sober Living Home—Now What?

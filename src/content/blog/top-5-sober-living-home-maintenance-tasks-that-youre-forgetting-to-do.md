@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - Top 5 Sober Living Home Maintenance Tasks that You''re Forgetting to Do'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[June 15, 2021](top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do.html)
+[June 15, 2021]
 
-[Sober Living Management](../../../category/Sober+Living+Management.html), [Property Management](../../../category/Property+Management.html)
+[Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Property Management](/sober-living-app-blog/category/Property+Management)
 
-#  [Top 5 Sober Living Home Maintenance Tasks that You're Forgetting to Do](top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do.html)
+#  [Top 5 Sober Living Home Maintenance Tasks that You're Forgetting to Do]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[June 15, 2021](top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do.html)
+[June 15, 2021]
 
-[Sober Living Management](../../../category/Sober+Living+Management.html), [Property Management](../../../category/Property+Management.html)
+[Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Property Management](/sober-living-app-blog/category/Property+Management)
 
 ![Maintenance is such an important part of running a successful sober living home - but it can also be the last item on your to-do list. Ignore maintenance tasks at your own risks!](/images/blog/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do/Screen_Shot_2021-06-09_at_8.46.20_PM.png)
 
@@ -90,7 +90,7 @@ Still, flushing the water heater is an easy way to extend the life of the unit. 
 
 Running a profitable sober living home business means staying responsive to your properties and the people living in them. While most sober living home operators don’t intend to neglect their properties, the truth is that the sheer number of details involved with running a sober living home can feel overwhelming, even to the most fastidious owner. 
 
-At [Sober Living App](../../../../index.html), we’ve designed a software solution for sober living home management overwhelm. Specifically created to “hack” your sober living home’s most tedious tasks - from HVAC filter changes to [bed management](../../../../housing.html) to new resident paperwork - Sober Living App saves you time, money and sanity. 
+At [Sober Living App](/), we’ve designed a software solution for sober living home management overwhelm. Specifically created to “hack” your sober living home’s most tedious tasks - from HVAC filter changes to [bed management](../../../../housing.html) to new resident paperwork - Sober Living App saves you time, money and sanity. 
 
 We’ve actually created a new feature specifically for this purpose called To-Do 2.0. This feature allows you to schedule recurring to-do items that can be shared with anyone in your system. Assign the tasks to residents, staff, or both. 
 
@@ -100,12 +100,12 @@ Never forget to clean the gutters again!
 
 Best of all? It’s free to try, with no strings attached or plans to cancel. [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [property management](../../../tag/property+management.html), [sober living home management](../../../tag/sober+living+home+management.html), [Sober Living App](../../../tag/Sober+Living+App.html), [sober living manager](../../../tag/sober+living+manager.html), [HVAC](../../../tag/HVAC.html), [gutters](../../../tag/gutters.html), [water heater](https://soberlivingapp.com/sober-living-app-blog/tag/water+heater), [To-Do 2.0](https://soberlivingapp.com/sober-living-app-blog/tag/To-Do+2.0)
+Tagged: [property management](/sober-living-app-blog/tag/property+management), [sober living home management](/sober-living-app-blog/tag/sober+living+home+management), [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App), [sober living manager](/sober-living-app-blog/tag/sober+living+manager), [HVAC](/sober-living-app-blog/tag/HVAC), [gutters](/sober-living-app-blog/tag/gutters), [water heater](https://soberlivingapp.com/sober-living-app-blog/tag/water+heater), [To-Do 2.0](https://soberlivingapp.com/sober-living-app-blog/tag/To-Do+2.0)
 
 0 Likes
 
 Share
 
-Newer Post[“Medical Cannabis Maintenance” and Your Sober Living Home: Friend or Foe?](../29/medical-cannabis-maintenance-and-your-sober-living-home-friend-or-foe.html)
+Newer Post: “Medical Cannabis Maintenance” and Your Sober Living Home: Friend or Foe?
 
-Older Post[Buprenorphine, Suboxone and Your Sober Living Home](../../5/31/buprenorphine-suboxone-and-your-sober-living-home.html)
+Older Post: Buprenorphine, Suboxone and Your Sober Living Home

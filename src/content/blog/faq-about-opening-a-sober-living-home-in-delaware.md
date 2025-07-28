@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - FAQ About Opening a Sober Living Home in Delaware"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 13, 2023](faq-about-opening-a-sober-living-home-in-delaware.html)
+[February 13, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Regulations](../../../category/Regulations.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Regulations](/sober-living-app-blog/category/Regulations)
 
-#  [FAQ About Opening a Sober Living Home in Delaware](faq-about-opening-a-sober-living-home-in-delaware.html)
+#  [FAQ About Opening a Sober Living Home in Delaware]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 13, 2023](faq-about-opening-a-sober-living-home-in-delaware.html)
+[February 13, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Regulations](../../../category/Regulations.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Regulations](/sober-living-app-blog/category/Regulations)
 
 ![sober living home Delaware how to open](/images/blog/faq-about-opening-a-sober-living-home-in-delaware/Screen_Shot_2023-02-07_at_11.14.53_AM.png)
 
@@ -86,18 +86,18 @@ Another possibility is that DHSMH may select a future NARR affiliate in Delaware
 
 ## Thinking of Opening a Sober Living Home in Delaware? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Delaware](../../../tag/Delaware.html), [NARR](../../../tag/NARR.html), [HB245](../../../tag/HB245.html), [HB412](../../../tag/HB412.html), [Housing and Community Affairs Committee](../../../tag/Housing+and+Community+Affairs+Committee.html), [Delaware Health and Social Services](../../../tag/Delaware+Health+and+Social+Services.html), [DHSS](../../../tag/DHSS.html), [DHSMH](../../../tag/DHSMH.html)
+Tagged: [Delaware](/sober-living-app-blog/tag/Delaware), [NARR](/sober-living-app-blog/tag/NARR), [HB245](/sober-living-app-blog/tag/HB245), [HB412](/sober-living-app-blog/tag/HB412), [Housing and Community Affairs Committee](/sober-living-app-blog/tag/Housing+and+Community+Affairs+Committee), [Delaware Health and Social Services](/sober-living-app-blog/tag/Delaware+Health+and+Social+Services), [DHSS](/sober-living-app-blog/tag/DHSS), [DHSMH](/sober-living-app-blog/tag/DHSMH)
 
 0 Likes
 
 Share
 
-Newer Post[What You Need to Know About Opening a Sober Living Home in South Dakota](../14/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota.html)
+Newer Post: What You Need to Know About Opening a Sober Living Home in South Dakota
 
-Older Post[Thinking of Opening a Sober Living Home in Rhode Island? ](../7/thinking-of-opening-a-sober-living-home-in-rhode-islandnbsp.html)
+Older Post: Thinking of Opening a Sober Living Home in Rhode Island? 

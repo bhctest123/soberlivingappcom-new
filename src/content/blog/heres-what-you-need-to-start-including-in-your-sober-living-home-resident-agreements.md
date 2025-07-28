@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - Here''s What You Need To Start Including in Your Sober Living Home Resident Agreements'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[June 30, 2020](heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements.html)
+[June 30, 2020]
 
-[Admissions](../../../category/Admissions.html), [Property Management](../../../category/Property+Management.html), [Technology](../../../category/Technology.html), [Epidemic](../../../category/Epidemic.html), [Guide](../../../category/Guide.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Property Management](/sober-living-app-blog/category/Property+Management), [Technology](/sober-living-app-blog/category/Technology), [Epidemic](/sober-living-app-blog/category/Epidemic), [Guide](/sober-living-app-blog/category/Guide)
 
-#  [Here's What You Need To Start Including in Your Sober Living Home Resident Agreements](heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements.html)
+#  [Here's What You Need To Start Including in Your Sober Living Home Resident Agreements]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[June 30, 2020](heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements.html)
+[June 30, 2020]
 
-[Admissions](../../../category/Admissions.html), [Property Management](../../../category/Property+Management.html), [Technology](../../../category/Technology.html), [Epidemic](../../../category/Epidemic.html), [Guide](../../../category/Guide.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Property Management](/sober-living-app-blog/category/Property+Management), [Technology](/sober-living-app-blog/category/Technology), [Epidemic](/sober-living-app-blog/category/Epidemic), [Guide](/sober-living-app-blog/category/Guide)
 
 ![New resident agreements are the first tool towards creating a harmonious, well-run sober living home.](/images/blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements/Screenshot_2020-06-25_at_8.24.17_AM.png)
 
@@ -104,18 +104,18 @@ In some cases, it may make sense to make brief mention of these provisions in yo
 
 ## We’re Here to Help 
 
-At [Sober Living App](../../../../index.html), we endeavor to make the hard work of running a sober living home easier, faster, and more enjoyable. 
+At [Sober Living App](/), we endeavor to make the hard work of running a sober living home easier, faster, and more enjoyable. 
 
 Our software solution is designed especially for sober living home management. Our app automatically generates new resident agreements, [resident applications](https://soberlivingapp.com/sober-living-app-blog/2020/4/28/introducing-our-new-resident-application-for-the-sober-living-home-app), electronic invoices, receipts, and more—from any device, anywhere. Our resident dashboard gives your residents access to everything—calendars, reminders, billing—all from the convenience of their phone. 
 
 Why not give the Sober Living App a try today? [Claim your free trial](https://behavehealth.com/get-started) now. 
 
-Tagged: [resident handbook](../../../tag/resident+handbook.html), [new resident applications](../../../tag/new+resident+applications.html), [residential portal](../../../tag/residential+portal.html), [resident record](https://soberlivingapp.com/sober-living-app-blog/tag/resident+record), [Sober Living App](../../../tag/Sober+Living+App.html), [sober living home management](../../../tag/sober+living+home+management.html), [resident agreement](../../../tag/resident+agreement.html), [handbook](https://soberlivingapp.com/sober-living-app-blog/tag/handbook)
+Tagged: [resident handbook](/sober-living-app-blog/tag/resident+handbook), [new resident applications](/sober-living-app-blog/tag/new+resident+applications), [residential portal](/sober-living-app-blog/tag/residential+portal), [resident record](https://soberlivingapp.com/sober-living-app-blog/tag/resident+record), [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App), [sober living home management](/sober-living-app-blog/tag/sober+living+home+management), [resident agreement](/sober-living-app-blog/tag/resident+agreement), [handbook](https://soberlivingapp.com/sober-living-app-blog/tag/handbook)
 
 0 Likes
 
 Share
 
-Newer Post[Is Your Sober Living Home Accidentally Violating HIPAA Laws?](https://soberlivingapp.com/sober-living-app-blog/2020/7/21/is-your-sober-living-home-accidentally-violating-hipaa-laws)
+Newer Post: Is Your Sober Living Home Accidentally Violating HIPAA Laws?
 
-Older Post[How to Turn Alumni Recovery Success Into New Residents for Your Sober Living Home](https://soberlivingapp.com/sober-living-app-blog/2020/6/16/how-to-turn-alumni-recovery-success-into-new-residents-for-your-sober-living-home)
+Older Post: How to Turn Alumni Recovery Success Into New Residents for Your Sober Living Home

@@ -68,7 +68,7 @@ There’s a lot of other great talks we’re looking forward to at this epic thr
 
 Interested in becoming a NARR affiliate? Looking for smart solutions to handle all the details at your existing NARR-affiliated organization? Discover if Behave Health’s new [NARR Affiliate Management Platform (AMP) ](<https://behavehealth.com/narr-affiliate>)is right for your organization.
 
-[Sober Living App](<../../../../index.html>) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](</>) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.
 

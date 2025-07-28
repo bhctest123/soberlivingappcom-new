@@ -10,23 +10,23 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Introducing Our New Resident Application for the Sober Living Home App"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[April 28, 2020](introducing-our-new-resident-application-for-the-sober-living-home-app.html)
+[April 28, 2020]
 
-[Admissions](../../../category/Admissions.html), [Property Management](../../../category/Property+Management.html), [Technology](../../../category/Technology.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Property Management](/sober-living-app-blog/category/Property+Management), [Technology](/sober-living-app-blog/category/Technology)
 
-#  [Introducing Our New Resident Application for the Sober Living Home App](introducing-our-new-resident-application-for-the-sober-living-home-app.html)
+#  [Introducing Our New Resident Application for the Sober Living Home App]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[April 28, 2020](introducing-our-new-resident-application-for-the-sober-living-home-app.html)
+[April 28, 2020]
 
-[Admissions](../../../category/Admissions.html), [Property Management](../../../category/Property+Management.html), [Technology](../../../category/Technology.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Property Management](/sober-living-app-blog/category/Property+Management), [Technology](/sober-living-app-blog/category/Technology)
 
 ![Our new master application for prospective sober living home residents makes marketing and admissions a snap!](/images/blog/introducing-our-new-resident-application-for-the-sober-living-home-app/Screenshot_2020-04-24_at_1.31.27_PM.png)
 
-Big news at [The Sober Living App](../../../../index.html)!
+Big news at [The Sober Living App](/)!
 
 We have been hard at work creating the most useful and easy-to-deploy new resident application ever made for the sober living home community. Now it’s ready to share. [Get your free trial now](https://signup.behavehealth.com/?product=sober_living_app) so you can see for yourself or read on to learn more!
 
@@ -120,12 +120,12 @@ When prospective residents begin their new application, they have four hours to 
 
 We’re happy to help. [Claim your free trial](https://behavehealth.com/get-started) of The Sober Living App and start building your new resident application today. 
 
-Tagged: [application](../../../tag/application.html), [new features](https://soberlivingapp.com/sober-living-app-blog/tag/new+features), [CRM](../../../tag/CRM.html), [COVID 19](../../../tag/COVID+19.html), [security](https://soberlivingapp.com/sober-living-app-blog/tag/security), [HIPAA](https://soberlivingapp.com/sober-living-app-blog/tag/HIPAA)
+Tagged: [application](/sober-living-app-blog/tag/application), [new features](https://soberlivingapp.com/sober-living-app-blog/tag/new+features), [CRM](/sober-living-app-blog/tag/CRM), [COVID 19](/sober-living-app-blog/tag/COVID+19), [security](https://soberlivingapp.com/sober-living-app-blog/tag/security), [HIPAA](https://soberlivingapp.com/sober-living-app-blog/tag/HIPAA)
 
 1 Likes
 
 Share
 
-Newer Post[Need Help? How to Get Small Business Relief for Your Sober Living Home During the Coronavirus Pandemic](../../5/19/need-help-how-to-get-small-business-relief-for-your-sober-living-home-during-the-coronavirus-pandemic.html)
+Newer Post: Need Help? How to Get Small Business Relief for Your Sober Living Home During the Coronavirus Pandemic
 
-Older Post[3 Coronavirus Changes Your Sober Living Home Needs to Make This Week](../21/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week.html)
+Older Post: 3 Coronavirus Changes Your Sober Living Home Needs to Make This Week

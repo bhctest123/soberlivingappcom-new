@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Everything You Need to Know About Opening a Sober Living Home in Vermont"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 27, 2023](everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp.html)
+[February 27, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [Everything You Need to Know About Opening a Sober Living Home in Vermont ](everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp.html)
+#  [Everything You Need to Know About Opening a Sober Living Home in Vermont ]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 27, 2023](everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp.html)
+[February 27, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![sober living home vermont how to open regulations certification laws rules recovery residence](/images/blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp/Screen_Shot_2023-02-26_at_7.20.45_PM.png)
 
@@ -78,18 +78,18 @@ Most sober living homes throughout the United States promptly evict residents wh
 
 ## Thinking of Opening a Sober Living Home in Vermont? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Vermont](../../../tag/Vermont.html), [Vermont Recovery Housing Action Plan](../../../tag/Vermont+Recovery+Housing+Action+Plan.html), [Department of Correction](../../../tag/Department+of+Correction.html), [Rutland City](../../../tag/Rutland+City.html), [St Albans](../../../tag/St+Albans.html), [Burlington](../../../tag/Burlington.html), [South Burlington](../../../tag/South+Burlington.html), [St. Johnsbury](../../../tag/St.+Johnsbury.html), [Vermont Alliance for Recovery Residences](../../../tag/Vermont+Alliance+for+Recovery+Residences.html), [Vermont Foundation for Recovery](../../../tag/Vermont+Foundation+for+Recovery.html), [Vermont Association for Mental Health and Recovery](../../../tag/Vermont+Association+for+Mental+Health+and+Recovery.html), [NARR](../../../tag/NARR.html), [H.783](../../../tag/H.783.html)
+Tagged: [Vermont](/sober-living-app-blog/tag/Vermont), [Vermont Recovery Housing Action Plan](/sober-living-app-blog/tag/Vermont+Recovery+Housing+Action+Plan), [Department of Correction](/sober-living-app-blog/tag/Department+of+Correction), [Rutland City](/sober-living-app-blog/tag/Rutland+City), [St Albans](/sober-living-app-blog/tag/St+Albans), [Burlington](/sober-living-app-blog/tag/Burlington), [South Burlington](/sober-living-app-blog/tag/South+Burlington), [St. Johnsbury](/sober-living-app-blog/tag/St.+Johnsbury), [Vermont Alliance for Recovery Residences](/sober-living-app-blog/tag/Vermont+Alliance+for+Recovery+Residences), [Vermont Foundation for Recovery](/sober-living-app-blog/tag/Vermont+Foundation+for+Recovery), [Vermont Association for Mental Health and Recovery](/sober-living-app-blog/tag/Vermont+Association+for+Mental+Health+and+Recovery), [NARR](/sober-living-app-blog/tag/NARR), [H.783](/sober-living-app-blog/tag/H.783)
 
 0 Likes
 
 Share
 
-Newer Post[5 Things to Consider When Opening a Sober Living Home in Wyoming](../../3/1/5-things-to-consider-when-opening-a-sober-living-home-in-wyoming.html)
+Newer Post: 5 Things to Consider When Opening a Sober Living Home in Wyoming
 
-Older Post[What They Don't Want You to Know About Opening a Sober Living Home in Alaska](../22/what-they-dont-want-you-to-know-about-opening-a-sober-living-home-in-alaska.html)
+Older Post: What They Don't Want You to Know About Opening a Sober Living Home in Alaska

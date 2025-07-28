@@ -40,7 +40,7 @@ Wondering what accounts for the large increase in money available to sober livin
 
 ## Need Extra Support For Your Ohio Sober Living Home? We’re Here for You.
 
-[Sober Living App](<../../../../index.html>) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](</>) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 

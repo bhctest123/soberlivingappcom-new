@@ -60,7 +60,7 @@ Maryland maintains a list of [all sober living homes in the state](<https://heal
 
 ## Need Help With Opening Your Sober Living Home or Recovery Residence in Maryland? 
 
-[Sober Living App](<../../../../index.html>) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](</>) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 

@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - How to Choose a Sober Living Home Startup Consultant"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[December 18, 2023](how-to-choose-a-sober-living-home-startup-consultant.html)
+[December 18, 2023]
 
-[Funding](../../../category/Funding.html), [Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Funding](/sober-living-app-blog/category/Funding), [Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [How to Choose a Sober Living Home Startup Consultant](how-to-choose-a-sober-living-home-startup-consultant.html)
+#  [How to Choose a Sober Living Home Startup Consultant]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[December 18, 2023](how-to-choose-a-sober-living-home-startup-consultant.html)
+[December 18, 2023]
 
-[Funding](../../../category/Funding.html), [Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Property Management](../../../category/Property+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Funding](/sober-living-app-blog/category/Funding), [Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Property Management](/sober-living-app-blog/category/Property+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![sober living startup consultant advisor business development behavioral health](/images/blog/how-to-choose-a-sober-living-home-startup-consultant/Screen_Shot_2023-12-12_at_11.38.03_AM.png)
 
@@ -158,12 +158,12 @@ Our all-in-one app puts clinical, administration, staff, admissions, alumni, res
 
 PS. Just getting started with behavioral health? Need help with certification, too? Behave Health can also help direct you to the right resources for help with Licensing or Accreditation by either The Joint Commission or CARF. Mention to your product specialist that you’re interested in this service after you start your free trial!
 
-Tagged: [Sober Living Consulting](../../../tag/Sober+Living+Consulting.html), [Sober Living Consultant](../../../tag/Sober+Living+Consultant.html), [Startup](../../../tag/Startup.html), [zoning](../../../tag/zoning.html), [NIMBYism](../../../tag/NIMBYism.html), [small business](../../../tag/small+business.html), [marketing](../../../tag/marketing.html), [hiring](../../../tag/hiring.html)
+Tagged: [Sober Living Consulting](/sober-living-app-blog/tag/Sober+Living+Consulting), [Sober Living Consultant](/sober-living-app-blog/tag/Sober+Living+Consultant), [Startup](/sober-living-app-blog/tag/Startup), [zoning](/sober-living-app-blog/tag/zoning), [NIMBYism](/sober-living-app-blog/tag/NIMBYism), [small business](/sober-living-app-blog/tag/small+business), [marketing](/sober-living-app-blog/tag/marketing), [hiring](/sober-living-app-blog/tag/hiring)
 
 0 Likes
 
 Share
 
-Newer Post[Are You a Good Candidate for Behave Health's Sober Living Startup Program?](../../../2024/2/27/are-you-a-good-candidate-for-behave-healths-sober-living-startup-program.html)
+Newer Post: Are You a Good Candidate for Behave Health's Sober Living Startup Program?
 
-Older Post[ASAM Collaborates with NARR to Include Standards for Sober Living in Latest ASAM Criteria Edition ](../../10/13/asam-collaborates-with-narr-to-include-standards-for-sober-living-in-latest-asam-criteria-editionnbsp.html)
+Older Post: ASAM Collaborates with NARR to Include Standards for Sober Living in Latest ASAM Criteria Edition 

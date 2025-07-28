@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 2)"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 16, 2021](the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-2.html)
+[March 16, 2021]
 
-[Recovery Community](../../../category/Recovery+Community.html), [Property Management](../../../category/Property+Management.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Technology](../../../category/Technology.html)
+[Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Property Management](/sober-living-app-blog/category/Property+Management), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Technology](/sober-living-app-blog/category/Technology)
 
-#  [The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 2)](the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-2.html)
+#  [The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 2)]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[March 16, 2021](the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-2.html)
+[March 16, 2021]
 
-[Recovery Community](../../../category/Recovery+Community.html), [Property Management](../../../category/Property+Management.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Technology](../../../category/Technology.html)
+[Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Property Management](/sober-living-app-blog/category/Property+Management), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Technology](/sober-living-app-blog/category/Technology)
 
 ![We’re back with more suggestions for optimizing and updating your sober living home in 2021.](/images/blog/the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-2/Screen_Shot_2021-03-16_at_11.21.42_AM.png)
 
@@ -108,16 +108,16 @@ Are you tired of working too hard at making your sober living home successful? A
 
 Looking to run your sober living home the smart way?  
 
-At [Sober Living App](../../../../index.html), we designed a solution just for your business. We don’t serve anyone but sober living operators just like you. We’ve tailored our all-in-one housing program solution to meet the specific needs of sober living home operators who want to work smarter, not harder. 
+At [Sober Living App](/), we designed a solution just for your business. We don’t serve anyone but sober living operators just like you. We’ve tailored our all-in-one housing program solution to meet the specific needs of sober living home operators who want to work smarter, not harder. 
 
 To get started with Sober Living App, [claim your free LITE account today](https://apps.behavehealth.com/signup). 
 
-Tagged: [landscaping](../../../tag/landscaping.html), [NIMBYism](../../../tag/NIMBYism.html), [sober living home management](../../../tag/sober+living+home+management.html), [software](https://soberlivingapp.com/sober-living-app-blog/tag/software), [refi](https://soberlivingapp.com/sober-living-app-blog/tag/refi), [web audit](https://soberlivingapp.com/sober-living-app-blog/tag/web+audit), [marketing](../../../tag/marketing.html), [digital marketing](https://soberlivingapp.com/sober-living-app-blog/tag/digital+marketing), [bed availability widget](https://soberlivingapp.com/sober-living-app-blog/tag/bed+availability+widget)
+Tagged: [landscaping](/sober-living-app-blog/tag/landscaping), [NIMBYism](/sober-living-app-blog/tag/NIMBYism), [sober living home management](/sober-living-app-blog/tag/sober+living+home+management), [software](https://soberlivingapp.com/sober-living-app-blog/tag/software), [refi](https://soberlivingapp.com/sober-living-app-blog/tag/refi), [web audit](https://soberlivingapp.com/sober-living-app-blog/tag/web+audit), [marketing](/sober-living-app-blog/tag/marketing), [digital marketing](https://soberlivingapp.com/sober-living-app-blog/tag/digital+marketing), [bed availability widget](https://soberlivingapp.com/sober-living-app-blog/tag/bed+availability+widget)
 
 0 Likes
 
 Share
 
-Newer Post[3 Types of Sober Living Home Residents You Need to Stop Admitting](https://soberlivingapp.com/sober-living-app-blog/2021/3/30/3-types-of-sober-living-home-residents-you-need-to-stop-admitting)
+Newer Post: 3 Types of Sober Living Home Residents You Need to Stop Admitting
 
-Older Post[Can Your Sober Living Home Require COVID-19 Vaccination? It Depends](https://soberlivingapp.com/sober-living-app-blog/2021/3/2/can-your-sober-living-home-require-covid-19-vaccination-it-depends)
+Older Post: Can Your Sober Living Home Require COVID-19 Vaccination? It Depends

@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - How to Turn Alumni Recovery Success Into New Residents for Your Sober Living Home"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[June 16, 2020](how-to-turn-alumni-recovery-success-into-new-residents-for-your-sober-living-home.html)
+[June 16, 2020]
 
-[Admissions](../../../category/Admissions.html), [Guide](../../../category/Guide.html), [Recovery Community](../../../category/Recovery+Community.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Guide](/sober-living-app-blog/category/Guide), [Recovery Community](/sober-living-app-blog/category/Recovery+Community)
 
-#  [How to Turn Alumni Recovery Success Into New Residents for Your Sober Living Home](how-to-turn-alumni-recovery-success-into-new-residents-for-your-sober-living-home.html)
+#  [How to Turn Alumni Recovery Success Into New Residents for Your Sober Living Home]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[June 16, 2020](how-to-turn-alumni-recovery-success-into-new-residents-for-your-sober-living-home.html)
+[June 16, 2020]
 
-[Admissions](../../../category/Admissions.html), [Guide](../../../category/Guide.html), [Recovery Community](../../../category/Recovery+Community.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Guide](/sober-living-app-blog/category/Guide), [Recovery Community](/sober-living-app-blog/category/Recovery+Community)
 
 ![Are your sober living alumni helping you get more residents for your sober living home? The answer to that question should be yes.](/images/blog/how-to-turn-alumni-recovery-success-into-new-residents-for-your-sober-living-home/Screenshot_2020-06-10_at_9.45.13_AM.png)
 
@@ -66,7 +66,7 @@ Consider:
 
   * **Frequent phone and/or video check-ins with alumni.** Once-a-year is the bare minimum. Consider having current residents do these calls as an act of service.
 
-  * **Make it easy to re-apply for residency.** Don’t make your alumni fill out all of their [intake paperwork](https://soberlivingapp.com/sober-living-app-blog/2020/4/28/introducing-our-new-resident-application-for-the-sober-living-home-app) again. Use a sober living home software like ours at the [Sober Living App](../../../../index.html) that gives residents and alumni 24/7 access to their resident portal, where they can view their discharge plan, treatment goals, and community contacts. With the Sober Living App,, alumni can [reach out to staff right from the portal](https://behavehealth.com/blog/2019/6/4/how-smart-patient-portals-improve-addiction-treatment-engagement-and-outcomes) and pick up where they left off during their last treatment episode.
+  * **Make it easy to re-apply for residency.** Don’t make your alumni fill out all of their [intake paperwork](https://soberlivingapp.com/sober-living-app-blog/2020/4/28/introducing-our-new-resident-application-for-the-sober-living-home-app) again. Use a sober living home software like ours at the [Sober Living App](/) that gives residents and alumni 24/7 access to their resident portal, where they can view their discharge plan, treatment goals, and community contacts. With the Sober Living App,, alumni can [reach out to staff right from the portal](https://behavehealth.com/blog/2019/6/4/how-smart-patient-portals-improve-addiction-treatment-engagement-and-outcomes) and pick up where they left off during their last treatment episode.
 
 ## Effective Addiction Treatment Outcomes Tracking 
 
@@ -94,15 +94,15 @@ Each of these celebration interactions gives your alumni another reason to talk 
 
 ## Choose a Software Solution that Serves Residents—and Alumni 
 
-At the [Sober Living App](../../../../index.html), we specialize in easy-to-use, comprehensive software for sober living home operators. We understand the power that alumni have in driving successful recovery communities like yours. Why not give our all-in-one solution a try today? [Claim your free trial now. ](https://signup.behavehealth.com/?product=sober_living_app)﻿  
+At the [Sober Living App](/), we specialize in easy-to-use, comprehensive software for sober living home operators. We understand the power that alumni have in driving successful recovery communities like yours. Why not give our all-in-one solution a try today? [Claim your free trial now. ](https://signup.behavehealth.com/?product=sober_living_app)﻿  
   
 
-Tagged: [alumni](../../../tag/alumni.html), [discharge planning](https://soberlivingapp.com/sober-living-app-blog/tag/discharge+planning), [recovery community](../../../tag/recovery+community.html), [reunions](../../../tag/reunions.html), [outcomes data](../../../tag/outcomes+data.html)
+Tagged: [alumni](/sober-living-app-blog/tag/alumni), [discharge planning](https://soberlivingapp.com/sober-living-app-blog/tag/discharge+planning), [recovery community](/sober-living-app-blog/tag/recovery+community), [reunions](/sober-living-app-blog/tag/reunions), [outcomes data](/sober-living-app-blog/tag/outcomes+data)
 
 0 Likes
 
 Share
 
-Newer Post[Here's What You Need To Start Including in Your Sober Living Home Resident Agreements](../30/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements.html)
+Newer Post: Here's What You Need To Start Including in Your Sober Living Home Resident Agreements
 
-Older Post[What if Your Sober Living Home Manager Gets Coronavirus? A Contingency Plan Review](../2/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review.html)
+Older Post: What if Your Sober Living Home Manager Gets Coronavirus? A Contingency Plan Review

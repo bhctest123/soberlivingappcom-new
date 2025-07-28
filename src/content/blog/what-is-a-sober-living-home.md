@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - What is a sober living home?"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[December 11, 2017](what-is-a-sober-living-home.html)
+[December 11, 2017]
 
-[Recovery Industry](../../../category/Recovery+Industry.html)
+[Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
-#  [What is a sober living home?](what-is-a-sober-living-home.html)
+#  [What is a sober living home?]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[December 11, 2017](what-is-a-sober-living-home.html)
+[December 11, 2017]
 
-[Recovery Industry](../../../category/Recovery+Industry.html)
+[Recovery Industry](/sober-living-app-blog/category/Recovery+Industry)
 
 There are many names for these types of organizations and programs:
 
@@ -52,6 +52,6 @@ There are many names for these types of organizations and programs:
 
 Share
 
-Newer Post[The Poison We Pick - New York Magazine](https://soberlivingapp.com/sober-living-app-blog/2018/2/22/the-poison-we-pick-new-york-magazine)
+Newer Post: The Poison We Pick - New York Magazine
 
-Older Post[Sober Living Home Startup Guide](https://soberlivingapp.com/sober-living-app-blog/2018/4/8/sober-living-home-startup-guide)
+Older Post: Sober Living Home Startup Guide

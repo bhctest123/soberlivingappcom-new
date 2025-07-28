@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - Nuisance Lawsuits: A Crash Course for Sober Living Home Operators'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[August 31, 2021](nuisance-lawsuits-a-crash-course-for-sober-living-home-operators.html)
+[August 31, 2021]
 
-[Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Licensing](../../../category/Licensing.html), [Guide](../../../category/Guide.html)
+[Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Licensing](/sober-living-app-blog/category/Licensing), [Guide](/sober-living-app-blog/category/Guide)
 
-#  [Nuisance Lawsuits: A Crash Course for Sober Living Home Operators](nuisance-lawsuits-a-crash-course-for-sober-living-home-operators.html)
+#  [Nuisance Lawsuits: A Crash Course for Sober Living Home Operators]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[August 31, 2021](nuisance-lawsuits-a-crash-course-for-sober-living-home-operators.html)
+[August 31, 2021]
 
-[Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Licensing](../../../category/Licensing.html), [Guide](../../../category/Guide.html)
+[Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Licensing](/sober-living-app-blog/category/Licensing), [Guide](/sober-living-app-blog/category/Guide)
 
 ![Nuisance lawsuits are becoming a major legal issue for sober living home owners and operators.](/images/blog/nuisance-lawsuits-a-crash-course-for-sober-living-home-operators/Screen_Shot_2021-08-26_at_2.26.17_PM.png)
 
@@ -86,18 +86,18 @@ Clearly, if these claims are true, then these safety conditions should be addres
 
 ## Looking for an Easier Way to Run Your Sober Living Home? We’re Here to Help 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [legal issues](../../../tag/legal+issues.html), [NIMBYism](../../../tag/NIMBYism.html), [lawsuits](../../../tag/lawsuits.html), [nuisance lawsuits](../../../tag/nuisance+lawsuits.html), [regulations](../../../tag/regulations.html), [zoning](../../../tag/zoning.html), [compliance](https://soberlivingapp.com/sober-living-app-blog/tag/compliance)
+Tagged: [legal issues](/sober-living-app-blog/tag/legal+issues), [NIMBYism](/sober-living-app-blog/tag/NIMBYism), [lawsuits](/sober-living-app-blog/tag/lawsuits), [nuisance lawsuits](/sober-living-app-blog/tag/nuisance+lawsuits), [regulations](/sober-living-app-blog/tag/regulations), [zoning](/sober-living-app-blog/tag/zoning), [compliance](https://soberlivingapp.com/sober-living-app-blog/tag/compliance)
 
 0 Likes
 
 Share
 
-Newer Post[How to Write an Awesome Good Neighbor Agreement for Your Sober Living Home](https://soberlivingapp.com/sober-living-app-blog/2021/9/21/how-to-write-an-awesome-good-neighbor-agreement-for-your-sober-living-home)
+Newer Post: How to Write an Awesome Good Neighbor Agreement for Your Sober Living Home
 
-Older Post[Understanding National Regulations on Sober Living Homes in the United States - Part 2](../17/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-2.html)
+Older Post: Understanding National Regulations on Sober Living Homes in the United States - Part 2

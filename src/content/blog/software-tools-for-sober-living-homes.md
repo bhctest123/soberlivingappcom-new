@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Software Tools for Sober Living Homes"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 18, 2017](software-tools-for-sober-living-homes.html)
+[October 18, 2017]
 
-[Technology](../../../category/Technology.html), [Regulations](../../../category/Regulations.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Guide](../../../category/Guide.html)
+[Technology](/sober-living-app-blog/category/Technology), [Regulations](/sober-living-app-blog/category/Regulations), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Guide](/sober-living-app-blog/category/Guide)
 
-#  [Software Tools for Sober Living Homes](software-tools-for-sober-living-homes.html)
+#  [Software Tools for Sober Living Homes]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[October 18, 2017](software-tools-for-sober-living-homes.html)
+[October 18, 2017]
 
-[Technology](../../../category/Technology.html), [Regulations](../../../category/Regulations.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Guide](../../../category/Guide.html)
+[Technology](/sober-living-app-blog/category/Technology), [Regulations](/sober-living-app-blog/category/Regulations), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Guide](/sober-living-app-blog/category/Guide)
 
 ![logo-1.png](/images/blog/software-tools-for-sober-living-homes/logo-1.png)
 
@@ -79,12 +79,12 @@ Microsoft has built a set of cloud based productivity tools that can be HIPAA co
 
 <https://www.microsoft.com/en-us/TrustCenter/Compliance/HIPAA>
 
-Tagged: [technology](https://soberlivingapp.com/sober-living-app-blog/tag/technology), [standards](../../../tag/standards.html), [regulations](../../../tag/regulations.html), [software](../../../tag/software.html)
+Tagged: [technology](https://soberlivingapp.com/sober-living-app-blog/tag/technology), [standards](/sober-living-app-blog/tag/standards), [regulations](/sober-living-app-blog/tag/regulations), [software](/sober-living-app-blog/tag/software)
 
 0 Likes
 
 Share
 
-Newer Post[Sober Living Home Startup Guide](sober-living-home-startup-guide.html)
+Newer Post[Sober Living Home Startup Guide]
 
-Older Post[National Alliance of Recovery Residences](https://soberlivingapp.com/sober-living-app-blog/narr)
+Older Post: National Alliance of Recovery Residences

@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - How to Open a Sober Living Home in Illinois"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[November 9, 2021](how-to-open-a-sober-living-home-in-illinois.html)
+[November 9, 2021]
 
-[Licensing](../../../category/Licensing.html), [Guide](../../../category/Guide.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html)
+[Licensing](/sober-living-app-blog/category/Licensing), [Guide](/sober-living-app-blog/category/Guide), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations)
 
-#  [How to Open a Sober Living Home in Illinois](how-to-open-a-sober-living-home-in-illinois.html)
+#  [How to Open a Sober Living Home in Illinois]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[November 9, 2021](how-to-open-a-sober-living-home-in-illinois.html)
+[November 9, 2021]
 
-[Licensing](../../../category/Licensing.html), [Guide](../../../category/Guide.html), [Sober Living Management](../../../category/Sober+Living+Management.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html)
+[Licensing](/sober-living-app-blog/category/Licensing), [Guide](/sober-living-app-blog/category/Guide), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations)
 
 ![](/images/blog/how-to-open-a-sober-living-home-in-illinois/Screen_Shot_2021-11-04_at_3.13.41_PM.png)
 
@@ -62,18 +62,18 @@ Finally, Illinois also provides a [short FAQ](https://www.dhs.state.il.us/page.a
 
 ## Need Help With Your Sober Living Home? We’re Here for You
 
-[Sober Living App](../../../../index.html) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) is dedicated to doing one thing: making it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone. 
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [Illinois](../../../tag/Illinois.html), [certification](../../../tag/certification.html), [recovery community](https://soberlivingapp.com/sober-living-app-blog/tag/recovery+community), [regulations](../../../tag/regulations.html), [NIMBYism](../../../tag/NIMBYism.html)
+Tagged: [Illinois](/sober-living-app-blog/tag/Illinois), [certification](/sober-living-app-blog/tag/certification), [recovery community](https://soberlivingapp.com/sober-living-app-blog/tag/recovery+community), [regulations](/sober-living-app-blog/tag/regulations), [NIMBYism](/sober-living-app-blog/tag/NIMBYism)
 
 1 Likes
 
 Share
 
-Newer Post[Opening an Sober Living Home in Georgia](https://soberlivingapp.com/sober-living-app-blog/2021/11/23/opening-an-sober-living-home-in-georgia)
+Newer Post: Opening an Sober Living Home in Georgia
 
-Older Post[How to Open a Sober Living Home Business in Pennsylvania](https://soberlivingapp.com/sober-living-app-blog/2021/10/26/how-to-open-a-sober-living-home-business-in-pennsylvania)
+Older Post: How to Open a Sober Living Home Business in Pennsylvania

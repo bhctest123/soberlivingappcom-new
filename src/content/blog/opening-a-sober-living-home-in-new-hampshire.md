@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: "Sober Living App - Opening a Sober Living Home in New Hampshire"
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 2, 2023](opening-a-sober-living-home-in-new-hampshire.html)
+[February 2, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
-#  [Opening a Sober Living Home in New Hampshire](opening-a-sober-living-home-in-new-hampshire.html)
+#  [Opening a Sober Living Home in New Hampshire]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 2, 2023](opening-a-sober-living-home-in-new-hampshire.html)
+[February 2, 2023]
 
-[Guide](../../../category/Guide.html), [Licensing](../../../category/Licensing.html), [Recovery Community](../../../category/Recovery+Community.html), [Regulations](../../../category/Regulations.html), [Sober Living Management](../../../category/Sober+Living+Management.html)
+[Guide](/sober-living-app-blog/category/Guide), [Licensing](/sober-living-app-blog/category/Licensing), [Recovery Community](/sober-living-app-blog/category/Recovery+Community), [Regulations](/sober-living-app-blog/category/Regulations), [Sober Living Management](/sober-living-app-blog/category/Sober+Living+Management)
 
 ![new hampshire sober living home how to open](/images/blog/opening-a-sober-living-home-in-new-hampshire/Screen_Shot_2023-01-24_at_5.31.23_PM.png)
 
@@ -94,18 +94,18 @@ New Hampshire’s certification costs, by way of NHCORR, are relatively low. For
 
 ## Considering Opening a New Hampshire Sober Living Residence? We Help Sober Living Succeed. 
 
-[Sober Living App](../../../../index.html) makes it easier - and more profitable - to operate sober living homes. 
+[Sober Living App](/) makes it easier - and more profitable - to operate sober living homes. 
 
 Our all-in-one app handles rent collection, admissions, property management, residents’ care coordination, community contacts, transportation details, calendars, staff, alumni and more - all from the convenience of your phone.  
 
 [Claim your free trial today](https://behavehealth.com/get-started) and see why more sober living homes prefer the Sober Living App.
 
-Tagged: [NARR](../../../tag/NARR.html), [NHCORR](../../../tag/NHCORR.html), [fees](../../../tag/fees.html), [certificaton](../../../tag/certificaton.html), [state funding](../../../tag/state+funding.html), [state certification](../../../tag/state+certification.html), [state licesning](../../../tag/state+licesning.html)
+Tagged: [NARR](/sober-living-app-blog/tag/NARR), [NHCORR](/sober-living-app-blog/tag/NHCORR), [fees](/sober-living-app-blog/tag/fees), [certificaton](/sober-living-app-blog/tag/certificaton), [state funding](/sober-living-app-blog/tag/state+funding), [state certification](/sober-living-app-blog/tag/state+certification), [state licesning](/sober-living-app-blog/tag/state+licesning)
 
 0 Likes
 
 Share
 
-Newer Post[Thinking of Opening a Sober Living Home in Rhode Island? ](https://soberlivingapp.com/sober-living-app-blog/2023/2/7/thinking-of-opening-a-sober-living-home-in-rhode-islandnbsp)
+Newer Post: Thinking of Opening a Sober Living Home in Rhode Island? 
 
-Older Post[Everything You Want to Know About Opening a Sober Living Home in Hawaii](../../1/26/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii.html)
+Older Post: Everything You Want to Know About Opening a Sober Living Home in Hawaii

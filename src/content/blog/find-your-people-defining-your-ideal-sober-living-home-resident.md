@@ -10,19 +10,19 @@ image: "/images/blog/placeholder.jpg"
 imageAlt: 'Sober Living App - Find Your People: Defining Your Ideal Sober Living Home Resident'
 ---
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 18, 2020](find-your-people-defining-your-ideal-sober-living-home-resident.html)
+[February 18, 2020]
 
-[Admissions](../../../category/Admissions.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Guide](../../../category/Guide.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Guide](/sober-living-app-blog/category/Guide)
 
-#  [Find Your People: Defining Your Ideal Sober Living Home Resident](find-your-people-defining-your-ideal-sober-living-home-resident.html)
+#  [Find Your People: Defining Your Ideal Sober Living Home Resident]
 
-[Ben Weiss](../../../../sober-living-app-blog%EF%B9%96author=5a811b27db7926c296af1851.html)
+Ben Weiss
 
-[February 18, 2020](find-your-people-defining-your-ideal-sober-living-home-resident.html)
+[February 18, 2020]
 
-[Admissions](../../../category/Admissions.html), [Recovery Industry](../../../category/Recovery+Industry.html), [Guide](../../../category/Guide.html)
+[Admissions](/sober-living-app-blog/category/Admissions), [Recovery Industry](/sober-living-app-blog/category/Recovery+Industry), [Guide](/sober-living-app-blog/category/Guide)
 
 ![Think every sober living home resident is the same? Think again.](/images/blog/find-your-people-defining-your-ideal-sober-living-home-resident/feet.png)
 
@@ -74,12 +74,12 @@ If you already have your sober living home open—even if it’s been in operati
 
 Whatever type of ideal resident you’re targeting, you’ll need powerful and intuitive tools to help keep your sober living home organized, efficient, and profitable. At Sober Living App, we’ve built the best all-in-one tool for managing every aspect of sober living housing. From bed management to rent collection to admissions paperwork and resident scheduling, everyone at your sober living home—including the residents!—can have instant access to everything they need from the convenience of their phone. Why not [give the Sober Living App a try today](https://behavehealth.com/get-started)? 
 
-Tagged: [Sober Living App](../../../tag/Sober+Living+App.html), [admissions](../../../tag/admissions.html), [marketing](../../../tag/marketing.html), [branding](../../../tag/branding.html), [market research](../../../tag/market+research.html)
+Tagged: [Sober Living App](/sober-living-app-blog/tag/Sober+Living+App), [admissions](/sober-living-app-blog/tag/admissions), [marketing](/sober-living-app-blog/tag/marketing), [branding](/sober-living-app-blog/tag/branding), [market research](/sober-living-app-blog/tag/market+research)
 
 0 Likes
 
 Share
 
-Newer Post[5 Things All of the Best Sober Living Home Managers Have in Common](../../3/3/5-things-all-of-the-best-sober-living-home-managers-have-in-common.html)
+Newer Post: 5 Things All of the Best Sober Living Home Managers Have in Common
 
-Older Post[How to Make Your Sober Living Home Stand Out from the Crowd](https://soberlivingapp.com/sober-living-app-blog/2020/2/4/how-to-make-your-sober-living-home-stand-out-from-the-crowd)
+Older Post: How to Make Your Sober Living Home Stand Out from the Crowd
