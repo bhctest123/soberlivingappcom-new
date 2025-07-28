@@ -16,7 +16,7 @@ export interface Props {
 
 const {
   title,
-  description = "Sober Living App - Your companion for a sober lifestyle",
+  description = "Sober Living App - Manage recovery residences, halfway houses, and transitional housing operations with our comprehensive software solution.",
   image = "/og-image.jpg",
   canonical,
   ogType = "website",
@@ -27,7 +27,7 @@ const {
 const siteTitle = "Sober Living App";
 const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
 const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site);
-const imageURL = new URL(image, Astro.site);
+const imageURL = new URL(image, Astro.site).href;
 ---
 
 <!DOCTYPE html>
@@ -52,14 +52,19 @@ const imageURL = new URL(image, Astro.site);
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={imageURL} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={`${fullTitle} - Social share preview`} />
     <meta property="og:site_name" content={siteTitle} />
+    <meta property="og:locale" content="en_US" />
     
     <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content={canonicalURL} />
-    <meta property="twitter:title" content={fullTitle} />
-    <meta property="twitter:description" content={description} />
-    <meta property="twitter:image" content={imageURL} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content={canonicalURL} />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={imageURL} />
+    <meta name="twitter:image:alt" content={`${fullTitle} - Social share preview`} />
     
     <!-- Structured Data -->
     {structuredData && (

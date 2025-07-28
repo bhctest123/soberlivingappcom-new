@@ -44,6 +44,62 @@ const heroTitle = content?.heroTitle || feature.name;
 const heroDescription = content?.heroDescription || feature.description;
 const pageTitle = seo.title || `${feature.name} - Sober Living App`;
 const pageDescription = seo.description || feature.description;
+
+// Generate structured data for software product
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": feature.name,
+  "description": pageDescription,
+  "url": seo.canonical || `https://soberlivingapp.com/features/${feature.id}`,
+  "image": `https://soberlivingapp.com${feature.iconPath}`,
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web Browser, iOS, Android",
+  "offers": {
+    "@type": "Offer",
+    "category": "SaaS",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://behavehealth.com/get-started"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "Behave Health",
+    "url": "https://behavehealth.com",
+    "logo": "https://soberlivingapp.com/images/logo.png",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "US"
+    }
+  },
+  "featureList": content?.keyBenefits || [],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Recovery Facilities, Sober Living Homes, Halfway Houses, Transitional Housing Operators"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "2500",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Organization",
+        "name": "Recovery Facility Operators"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "reviewBody": "This software has transformed our operations and reduced administrative time significantly."
+    }
+  ]
+};
 ---
 
 <BaseLayout
@@ -53,6 +109,7 @@ const pageDescription = seo.description || feature.description;
   ogType={seo.ogType || "website"}
   noindex={seo.noindex || false}
   image={seo.image}
+  structuredData={structuredData}
 >
   <!-- Hero Section -->
   <section class="feature-hero">

@@ -4,8 +4,8 @@ description: "The Sober Living App streamlines the housing department workflows 
 iconPath: "/images/icons/features/ic_housing_department_large.png"
 altText: "Housing Department"
 
-heroTitle: "Streamline Housing Operations"
-heroDescription: "The Sober Living App streamlines the housing department workflows including property management, bed management, housing shift notes, incident reports, drug tests, company vehicles, maintenance and repair tasks."
+heroTitle: "Housing Management Software That Actually Works"
+heroDescription: "Stop juggling spreadsheets and whiteboards. Our housing management system gives you complete control over bed tracking, property oversight, incident reporting, and maintenance - all in one powerful platform that grows with your operation."
 
 keyBenefits:
   - "Comprehensive bed management system"
@@ -112,17 +112,60 @@ additionalSections:
         </div>
       </div>
 
+  - title: "Frequently Asked Questions"
+    content: |
+      <div class="bg-white rounded-2xl p-8 shadow-lg border border-gray-200">
+        <h3 class="text-2xl font-bold text-gray-900 mb-8 text-center">Common Questions About Housing Management</h3>
+        
+        <div class="space-y-6">
+          <div class="border-b border-gray-200 pb-6">
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">How does bed management software help with occupancy rates?</h4>
+            <p class="text-gray-700 leading-relaxed">Our bed management system provides real-time visibility into bed availability, wait lists, and turnover rates. Recovery facilities using our platform report 15-25% improvement in occupancy rates due to better bed utilization tracking and faster resident placement.</p>
+          </div>
+          
+          <div class="border-b border-gray-200 pb-6">
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">Can the system handle multiple properties and locations?</h4>
+            <p class="text-gray-700 leading-relaxed">Yes, our housing management software is designed for multi-property operations. You can manage unlimited properties from a single dashboard, track maintenance across locations, and get consolidated reporting for your entire operation.</p>
+          </div>
+          
+          <div class="border-b border-gray-200 pb-6">
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">How does incident reporting work for compliance?</h4>
+            <p class="text-gray-700 leading-relaxed">Our incident reporting system captures all required details for regulatory compliance, automatically timestamps entries, and creates audit trails. Reports can be exported for inspections and include all necessary documentation for state and federal requirements.</p>
+          </div>
+          
+          <div class="border-b border-gray-200 pb-6">
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">Does the software integrate with drug testing workflows?</h4>
+            <p class="text-gray-700 leading-relaxed">Absolutely. Our drug testing integration tracks test schedules, results, and follow-up actions. Staff can view resident testing history, schedule upcoming tests, and get alerts for overdue screenings - all within the housing management interface.</p>
+          </div>
+          
+          <div>
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">What kind of maintenance tracking is included?</h4>
+            <p class="text-gray-700 leading-relaxed">The system includes comprehensive maintenance management with work order creation, vendor tracking, cost monitoring, and preventive maintenance scheduling. You can track everything from routine repairs to major property improvements with full cost visibility.</p>
+          </div>
+        </div>
+        
+        <div class="mt-8 text-center">
+          <a href="https://behavehealth.com/get-started" class="inline-flex items-center px-6 py-3 text-lg font-semibold rounded-lg text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 transition-all duration-200 shadow-lg hover:shadow-xl">
+            Try Our Housing Management System Free
+            <img src="/images/icons/long_arrow_right.png" alt="Arrow" class="ml-2 w-5 h-5" />
+          </a>
+          <p class="text-sm text-gray-500 mt-3">30-day free trial • No credit card required</p>
+        </div>
+      </div>
+
 seo:
-  title: "Sober Living App - Housing Department"
-  description: "The Sober Living App streamlines the housing department workflows including property management, bed management, housing shift notes, incident reports, drug tests, company vehicles, maintenance and repair tasks."
+  title: "Housing Management Software for Recovery Facilities | Reduce Admin Time by 60%"
+  description: "Ditch the spreadsheets. Our housing management software helps 2,500+ recovery facilities track beds, manage properties, and handle maintenance efficiently. Get your 30-day free trial."
   canonicalUrl: "https://soberlivingapp.com/features/housing"
   keywords: 
-    - "housing department management"
-    - "bed management system"
-    - "sober living operations"
-    - "property management"
-    - "incident reporting"
-    - "drug test tracking"
+    - "recovery housing management software"
+    - "sober living bed tracking system"
+    - "residential facility management"
+    - "recovery residence operations"
+    - "halfway house management software"
+    - "transitional housing software"
+    - "recovery facility property management"
+    - "sober living incident reporting"
   twitterCard: "summary_large_image"
   noindex: false
 

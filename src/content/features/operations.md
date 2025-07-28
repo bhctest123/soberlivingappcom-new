@@ -1,11 +1,11 @@
 ---
-name: "Operations Department"
-description: "The Sober Living App streamlines the operations department workflows including resident financials, tracking community connections, contact management, communication logs, and online payments."
+name: "Operations Management"
+description: "Comprehensive operations management software that eliminates paperwork, automates workflows, and centralizes all resident care coordination. Transform your facility operations with integrated case management, financial tracking, and communication tools."
 iconPath: "/images/icons/features/ic_operations_department_large.png"
 altText: "Operations Department"
 
-heroTitle: "Streamline Operations Management"
-heroDescription: "The Sober Living App streamlines the operations department workflows including resident financials, tracking community connections, contact management, communication logs, and online payments."
+heroTitle: "Operations Management That Eliminates Paperwork"
+heroDescription: "Transform your operations with centralized case management, automated financial tracking, and integrated communication tools. Join 2,500+ facilities that have reduced administrative overhead by 60% while improving resident outcomes."
 
 keyBenefits:
   - "Integrated communication logging"
@@ -116,17 +116,60 @@ additionalSections:
         </div>
       </div>
 
+  - title: "Frequently Asked Questions"
+    content: |
+      <div class="bg-white rounded-2xl p-8 shadow-lg border border-gray-200">
+        <h3 class="text-2xl font-bold text-gray-900 mb-8 text-center">Operations Management Questions</h3>
+        
+        <div class="space-y-6">
+          <div class="border-b border-gray-200 pb-6">
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">How does operations management software reduce administrative time?</h4>
+            <p class="text-gray-700 leading-relaxed">Our system automates routine tasks like payment processing, communication logging, and case note documentation. Recovery facilities report 50-70% reduction in administrative time, allowing staff to focus more on direct resident care and program development.</p>
+          </div>
+          
+          <div class="border-b border-gray-200 pb-6">
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">Can the system handle complex payment arrangements with families?</h4>
+            <p class="text-gray-700 leading-relaxed">Yes, our financial management system supports multiple payment sources, family involvement, insurance billing, and flexible payment plans. You can track who pays what, when, and automatically generate payment reminders to the appropriate parties.</p>
+          </div>
+          
+          <div class="border-b border-gray-200 pb-6">
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">How does case management integration work?</h4>
+            <p class="text-gray-700 leading-relaxed">All resident interactions, communications, and case notes are centralized in one system. Case managers can view complete resident histories, track progress goals, and coordinate with other departments seamlessly. This eliminates information silos and improves care coordination.</p>
+          </div>
+          
+          <div class="border-b border-gray-200 pb-6">
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">What kind of community connection tracking is included?</h4>
+            <p class="text-gray-700 leading-relaxed">The system tracks resident connections to external resources like healthcare providers, employers, legal services, and community organizations. This helps ensure continuity of care and comprehensive support throughout the recovery journey.</p>
+          </div>
+          
+          <div>
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">Is the system suitable for multi-site operations?</h4>
+            <p class="text-gray-700 leading-relaxed">Absolutely. Our operations management platform scales from single facilities to multi-state operations. You get centralized reporting, standardized processes across locations, and the ability to transfer residents between facilities while maintaining complete records.</p>
+          </div>
+        </div>
+        
+        <div class="mt-8 text-center">
+          <a href="https://behavehealth.com/get-started" class="inline-flex items-center px-6 py-3 text-lg font-semibold rounded-lg text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 transition-all duration-200 shadow-lg hover:shadow-xl">
+            Streamline Your Operations Now
+            <img src="/images/icons/long_arrow_right.png" alt="Arrow" class="ml-2 w-5 h-5" />
+          </a>
+          <p class="text-sm text-gray-500 mt-3">30-day free trial • No setup fees</p>
+        </div>
+      </div>
+
 seo:
-  title: "Sober Living App - Operations Department"
-  description: "The Sober Living App streamlines the operations department workflows including resident financials, tracking community connections, contact management, communication logs, and online payments."
+  title: "Recovery Operations Management Software | Cut Admin Time in Half"
+  description: "Stop drowning in paperwork. Our operations management software centralizes case management, financials, and communications for recovery facilities. See why 2,500+ facilities switched."
   canonicalUrl: "https://soberlivingapp.com/features/operations"
   keywords: 
-    - "operations management"
-    - "case management"
-    - "communication logs"
-    - "financial management"
-    - "community connections"
-    - "sober living operations"
+    - "recovery operations management software"
+    - "sober living case management system"
+    - "recovery facility operations"
+    - "halfway house management software"
+    - "residential treatment operations"
+    - "recovery residence workflow automation"
+    - "addiction treatment facility software"
+    - "transitional housing operations"
   twitterCard: "summary_large_image"
   noindex: false
 

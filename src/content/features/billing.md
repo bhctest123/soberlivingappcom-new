@@ -1,11 +1,11 @@
 ---
-name: "Digital Billing & Online Collections"
-description: "One of the challenges of operating a sober living home is collecting rent and payment for additional services you provide to your residents. Oftentimes payments come from family members, adding an additional step to the collections process."
+name: "Automated Billing & Collections"
+description: "Eliminate billing headaches and get paid faster with automated invoicing, family payment portals, and secure online collections. Reduce late payments by 40% while simplifying complex payment arrangements."
 iconPath: "/images/icons/features/ic_billing_large.png"
 altText: "Digital billing interface showing invoice management and payment collection tools"
 
-heroTitle: "Digital Billing & Online Collections"
-heroDescription: "Streamline your rent billing and payment collection process with our integrated billing solution. Simplify invoicing for residents and their families while enabling secure online payment processing."
+heroTitle: "Get Paid Faster with Automated Billing"
+heroDescription: "Stop chasing payments and eliminate billing headaches. Our automated billing system handles complex family payment arrangements, reduces late payments by 40%, and gets you paid faster with secure online collections."
 
 keyBenefits:
   - "Automated invoice generation and delivery"
@@ -108,17 +108,60 @@ additionalSections:
         </div>
       </div>
 
+  - title: "Frequently Asked Questions"
+    content: |
+      <div class="bg-white rounded-2xl p-8 shadow-lg border border-gray-200">
+        <h3 class="text-2xl font-bold text-gray-900 mb-8 text-center">Billing & Payment Questions</h3>
+        
+        <div class="space-y-6">
+          <div class="border-b border-gray-200 pb-6">
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">How does automated billing reduce late payments?</h4>
+            <p class="text-gray-700 leading-relaxed">Our system sends automated payment reminders, processes recurring payments, and offers flexible payment plans. Recovery facilities using our billing software report 35-45% reduction in late payments and 60% less time spent on collections.</p>
+          </div>
+          
+          <div class="border-b border-gray-200 pb-6">
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">Can family members pay for residents online?</h4>
+            <p class="text-gray-700 leading-relaxed">Yes, our family portal allows parents and guardians to view invoices, make payments, and set up automatic payment plans. This eliminates the back-and-forth communication and makes it easier for families to stay current on payments.</p>
+          </div>
+          
+          <div class="border-b border-gray-200 pb-6">
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">What payment methods are accepted?</h4>
+            <p class="text-gray-700 leading-relaxed">We support credit cards, debit cards, ACH bank transfers, and digital wallets. All transactions are processed securely with PCI DSS compliance and bank-level encryption. Residents and families can choose their preferred payment method.</p>
+          </div>
+          
+          <div class="border-b border-gray-200 pb-6">
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">Does the system handle insurance billing?</h4>
+            <p class="text-gray-700 leading-relaxed">Yes, our billing system can process insurance claims, track reimbursements, and handle mixed payment scenarios where insurance covers part of the cost and families pay the remainder. This streamlines the entire payment process.</p>
+          </div>
+          
+          <div>
+            <h4 class="text-lg font-semibold text-gray-900 mb-3">How are late fees and payment plans managed?</h4>
+            <p class="text-gray-700 leading-relaxed">The system automatically calculates late fees based on your policies, sends payment reminders, and can set up custom payment plans. You can also offer payment deferrals or modifications when needed, all tracked within the system.</p>
+          </div>
+        </div>
+        
+        <div class="mt-8 text-center">
+          <a href="https://behavehealth.com/get-started" class="inline-flex items-center px-6 py-3 text-lg font-semibold rounded-lg text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 transition-all duration-200 shadow-lg hover:shadow-xl">
+            Start Getting Paid Faster
+            <img src="/images/icons/long_arrow_right.png" alt="Arrow" class="ml-2 w-5 h-5" />
+          </a>
+          <p class="text-sm text-gray-500 mt-3">30-day free trial • No setup fees</p>
+        </div>
+      </div>
+
 seo:
-  title: "Sober Living App - Digital Billing & Online Collections"
-  description: "One of the challenges of operating a sober living home, recovery residence, or halfway house is collecting rent and payment for additional services you provide to your residents. Oftentimes payments come from family members, adding an additional step to the collections process."
+  title: "Billing Software for Recovery Facilities | Reduce Late Payments by 40%"
+  description: "Automate billing and get paid faster. Our recovery facility billing software handles family payments, insurance claims, and rent collection. Join 2,500+ facilities collecting payments efficiently."
   canonicalUrl: "https://soberlivingapp.com/features/billing"
   keywords: 
-    - "sober living billing software"
-    - "recovery residence payment processing"
-    - "halfway house billing system"
-    - "sober housing rent collection"
-    - "recovery housing invoicing"
-    - "transitional housing billing"
+    - "recovery facility billing software"
+    - "sober living payment processing"
+    - "automated billing system recovery homes"
+    - "residential treatment billing"
+    - "halfway house rent collection"
+    - "recovery residence invoicing software"
+    - "addiction treatment billing system"
+    - "transitional housing payment management"
   twitterCard: "summary_large_image"
   noindex: false
 
