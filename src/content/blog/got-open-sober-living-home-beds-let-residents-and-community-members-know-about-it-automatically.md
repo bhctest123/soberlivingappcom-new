@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/got-open-sober-living-home-beds-let-residents-and-community-members-know-about-it-automatically/Screen_Shot_2021-02-01_at_7.58.49_AM.png"
 imageAlt: 'Open sober living beds? Notify residents & community automatically!'
 ---
 

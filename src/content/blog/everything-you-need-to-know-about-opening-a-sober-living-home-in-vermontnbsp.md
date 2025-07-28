@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/everything-you-need-to-know-about-opening-a-sober-living-home-in-vermontnbsp/Screen_Shot_2023-02-20_at_5.52.10_PM.png"
 imageAlt: 'Everything You Need to Know About Opening a Sober Living Home in Vermont'
 ---
 

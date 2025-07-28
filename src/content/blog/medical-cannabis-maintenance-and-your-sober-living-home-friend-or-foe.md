@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/medical-cannabis-maintenance-and-your-sober-living-home-friend-or-foe/Screen_Shot_2021-06-29_at_9.25.27_AM.png"
 imageAlt: '“Medical Cannabis Maintenance” and Your Sober Living Home: Friend or Foe?'
 ---
 

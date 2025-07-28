@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/5-cool-ways-to-engage-your-sober-living-home-alumni/Screen_Shot_2021-07-14_at_1.48.19_PM.png"
 imageAlt: '5 Cool Ways to Engage Your Sober Living Home Alumni'
 ---
 

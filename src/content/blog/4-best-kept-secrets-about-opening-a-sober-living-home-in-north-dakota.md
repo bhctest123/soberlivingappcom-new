@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/4-best-kept-secrets-about-opening-a-sober-living-home-in-north-dakota/Screen_Shot_2023-02-12_at_1.56.24_PM.png"
 imageAlt: '4 Best Kept Secrets About Opening a Sober Living Home in North Dakota'
 ---
 

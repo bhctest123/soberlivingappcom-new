@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/the-absolute-best-updates-you-can-make-to-your-sober-living-home-in-2021-part-1/Screen_Shot_2021-02-15_at_3.51.02_PM.png"
 imageAlt: 'The Absolute Best Updates you Can Make to Your Sober Living Home in 2021 (Part 1)'
 ---
 

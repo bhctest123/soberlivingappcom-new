@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/what-if-your-sober-living-home-manager-gets-coronavirus-a-contingency-plan-review/Screenshot_2020-05-28_at_2.43.46_PM.png"
 imageAlt: 'What if Your Sober Living Home Manager Gets Coronavirus? A Contingency Plan Review'
 ---
 

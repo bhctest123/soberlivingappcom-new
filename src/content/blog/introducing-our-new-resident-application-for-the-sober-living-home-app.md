@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/introducing-our-new-resident-application-for-the-sober-living-home-app/Screenshot_2020-04-24_at_1.16.16_PM.png"
 imageAlt: 'Introducing Our New Resident Application for the Sober Living Home App'
 ---
 

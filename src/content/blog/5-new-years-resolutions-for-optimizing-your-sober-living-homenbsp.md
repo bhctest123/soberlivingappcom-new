@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/5-new-years-resolutions-for-optimizing-your-sober-living-homenbsp/fireworks.png"
 imageAlt: '5 New Year''s Resolutions for Optimizing Your Sober Living Home'
 ---
 

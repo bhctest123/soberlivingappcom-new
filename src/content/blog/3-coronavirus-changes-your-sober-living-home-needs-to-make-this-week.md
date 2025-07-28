@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/3-coronavirus-changes-your-sober-living-home-needs-to-make-this-week/Screenshot_2020-04-16_at_10.30.58_AM.png"
 imageAlt: '3 Coronavirus Changes Your Sober Living Home Needs to Make This Week'
 ---
 

@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/5-things-to-consider-when-opening-a-sober-living-home-in-wyoming/Screen_Shot_2023-02-26_at_12.28.15_PM.png"
 imageAlt: '5 Things to Consider When Opening a Sober Living Home in Wyoming'
 ---
 

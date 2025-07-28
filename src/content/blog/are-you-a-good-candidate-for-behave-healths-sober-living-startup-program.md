@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/are-you-a-good-candidate-for-behave-healths-sober-living-startup-program/Screen_Shot_2024-02-25_at_3.20.25_PM.png"
 imageAlt: 'Are You a Good Candidate for Behave Health''s Sober Living Startup Program?'
 ---
 

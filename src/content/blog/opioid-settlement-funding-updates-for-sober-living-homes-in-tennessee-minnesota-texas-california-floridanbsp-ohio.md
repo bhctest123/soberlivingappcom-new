@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-tennessee-minnesota-texas-california-floridanbsp-ohio/Screen_Shot_2024-03-10_at_6.22.23_PM.png"
 imageAlt: 'Sober Living Opioid Fund Updates: TN, MN, TX, CA, FL, OH.'
 ---
 

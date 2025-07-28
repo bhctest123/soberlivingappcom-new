@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/sober-living-home-regulations-for-narr-affiliate-operators-in-montana-rhode-island-delaware-and-vermont/Screen_Shot_2024-12-29_at_6.32.45_PM.png"
 imageAlt: 'NARR Affiliate Sober Living Regulations: MT, RI, DE, VT.'
 ---
 

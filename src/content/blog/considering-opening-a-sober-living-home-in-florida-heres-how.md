@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/considering-opening-a-sober-living-home-in-florida-heres-how/Screen_Shot_2021-05-18_at_2.51.38_PM.png"
 imageAlt: 'Considering Opening a Sober Living Home in Florida? Here''s How.'
 ---
 

@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/nuisance-lawsuits-a-crash-course-for-sober-living-home-operators/Screen_Shot_2021-08-26_at_2.25.35_PM.png"
 imageAlt: 'Nuisance Lawsuits: A Crash Course for Sober Living Home Operators'
 ---
 

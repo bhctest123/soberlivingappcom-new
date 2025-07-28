@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/how-to-choose-a-sober-living-home-startup-consultant/Screen_Shot_2023-12-12_at_11.38.03_AM.png"
 imageAlt: 'How to Choose a Sober Living Home Startup Consultant'
 ---
 

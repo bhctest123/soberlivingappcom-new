@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-hawaii-new-hampshire-and-maine/Screen_Shot_2024-12-29_at_6.18.00_PM.png"
 imageAlt: 'Sober Living & NARR Updates for Recovery Residences in HI, NH, ME'
 ---
 

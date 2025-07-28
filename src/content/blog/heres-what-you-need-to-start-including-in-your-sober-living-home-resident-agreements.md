@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/heres-what-you-need-to-start-including-in-your-sober-living-home-resident-agreements/Screenshot_2020-06-25_at_8.31.56_AM.png"
 imageAlt: 'Here''s What You Need To Start Including in Your Sober Living Home Resident Agreements'
 ---
 

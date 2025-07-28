@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/mastering-admissions-at-your-sober-living-home/wallet.png"
 imageAlt: 'Mastering Admissions at Your Sober Living Home'
 ---
 

@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/3-things-to-look-for-in-your-first-sober-living-home-real-estate-deal/paintingahouse.png"
 imageAlt: '3 Things to Look for in Your First Sober Living Home Real Estate Deal'
 ---
 

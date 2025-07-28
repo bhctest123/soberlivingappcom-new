@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/your-questions-about-opening-a-sober-living-home-in-nebraska-answered/Screen_Shot_2023-01-10_at_6.05.36_PM.png"
 imageAlt: 'Your Questions About Opening a Sober Living Home in Nebraska, Answered'
 ---
 

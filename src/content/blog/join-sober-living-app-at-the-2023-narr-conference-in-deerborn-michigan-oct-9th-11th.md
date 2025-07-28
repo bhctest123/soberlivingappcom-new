@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/join-sober-living-app-at-the-2023-narr-conference-in-deerborn-michigan-oct-9th-11th/Screen_Shot_2023-10-05_at_8.52.35_PM.png"
 imageAlt: 'Join Sober Living App at the 2023 NARR Conference in Dearborn Michigan Oct 9th - 11th'
 ---
 

@@ -1,0 +1,232 @@
+/* Feature Pages Global Styles */
+
+/* Hero Section Components */
+.feature-hero {
+  @apply relative bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-20 lg:py-28 overflow-hidden;
+}
+
+.feature-hero-blobs {
+  @apply absolute inset-0 opacity-15;
+}
+
+.feature-hero-blob {
+  @apply rounded-full mix-blend-multiply filter blur-2xl animate-blob;
+}
+
+.feature-hero-icon-wrapper {
+  @apply relative;
+}
+
+.feature-hero-icon-glow-primary {
+  @apply absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-3xl blur-3xl opacity-40 animate-pulse;
+}
+
+.feature-hero-icon-glow-secondary {
+  @apply absolute inset-0 bg-gradient-to-r from-purple-500 to-pink-500 rounded-3xl blur-2xl opacity-30 animate-pulse animation-delay-1000;
+}
+
+.feature-hero-icon-container {
+  @apply relative w-28 h-28 bg-white rounded-3xl shadow-xl flex items-center justify-center border border-gray-100;
+}
+
+.feature-hero-icon {
+  @apply w-20 h-20 object-contain;
+}
+
+/* Feature Cards */
+.feature-card {
+  @apply bg-gradient-to-br from-white to-gray-50 rounded-2xl shadow-lg shadow-blue-100/30 hover:shadow-2xl hover:shadow-blue-200/40 transition-all duration-300 p-8 border border-gray-100 hover:border-blue-200 relative overflow-hidden;
+}
+
+.feature-card-decoration {
+  @apply absolute -top-10 -right-10 w-32 h-32 bg-gradient-to-br from-blue-100 to-indigo-100 rounded-full opacity-20 transition-transform duration-500;
+}
+.group:hover .feature-card-decoration {
+  @apply scale-150;
+}
+
+.feature-icon-box {
+  @apply w-16 h-16 bg-gradient-to-br from-blue-100 to-indigo-100 rounded-xl flex items-center justify-center flex-shrink-0 transition-transform duration-300 p-3 shadow-lg shadow-blue-200/50;
+}
+.group:hover .feature-icon-box {
+  @apply scale-125;
+}
+
+.feature-icon {
+  @apply w-full h-full object-contain;
+}
+
+.feature-card-title {
+  @apply text-2xl font-semibold text-gray-900 mb-3 transition-colors duration-300;
+}
+.group:hover .feature-card-title {
+  @apply text-blue-600;
+}
+
+.feature-card-description {
+  @apply text-gray-600 leading-relaxed text-lg;
+}
+
+/* Buttons */
+.btn-primary {
+  @apply inline-flex items-center px-8 py-4 text-lg font-medium rounded-xl text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5;
+}
+
+.btn-secondary {
+  @apply inline-flex items-center px-8 py-4 text-lg font-medium rounded-xl text-gray-700 bg-white hover:bg-gray-50 transition-all duration-200 shadow-md hover:shadow-lg border border-gray-200;
+}
+
+.btn-arrow-white {
+  @apply ml-2 w-5 h-5 transition-transform filter brightness-0 invert;
+}
+.btn-primary:hover .btn-arrow-white,
+.btn-secondary:hover .btn-arrow-white {
+  @apply translate-x-1;
+}
+
+.btn-arrow-dark {
+  @apply ml-2 w-5 h-5 transition-transform;
+}
+.btn-primary:hover .btn-arrow-dark,
+.btn-secondary:hover .btn-arrow-dark {
+  @apply translate-x-1;
+}
+
+/* Typography */
+.feature-hero-title {
+  @apply text-4xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight;
+}
+
+.feature-hero-title-gradient {
+  @apply bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent;
+}
+
+.feature-section-title {
+  @apply text-4xl lg:text-5xl font-bold text-gray-900 mb-4;
+}
+
+.feature-section-subtitle {
+  @apply text-xl text-gray-600 max-w-3xl mx-auto;
+}
+
+/* Animations */
+@keyframes blob {
+  0% { transform: translate(0px, 0px) scale(1); }
+  25% { transform: translate(60px, -80px) scale(1.2); }
+  50% { transform: translate(-40px, -30px) scale(0.8); }
+  75% { transform: translate(-60px, 60px) scale(1.1); }
+  100% { transform: translate(0px, 0px) scale(1); }
+}
+
+.animate-blob {
+  animation: blob 5s infinite;
+}
+
+.animation-delay-1000 {
+  animation-delay: 1s;
+}
+
+.animation-delay-2000 {
+  animation-delay: 2s;
+}
+
+.animation-delay-4000 {
+  animation-delay: 4s;
+}
+
+/* Benefit Cards */
+.benefit-card {
+  @apply relative bg-white rounded-2xl p-8 shadow-md hover:shadow-xl transition-all duration-300 border border-gray-100 hover:border-blue-200;
+}
+
+.benefit-card-accent {
+  @apply absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-t-2xl opacity-0 transition-opacity duration-300;
+}
+.benefit-card:hover .benefit-card-accent {
+  @apply opacity-100;
+}
+
+.benefit-icon-box {
+  @apply w-14 h-14 bg-gradient-to-br from-blue-100 to-indigo-100 rounded-xl flex items-center justify-center mb-6 transition-transform duration-300;
+}
+.benefit-card:hover .benefit-icon-box {
+  @apply scale-125;
+}
+
+/* Main features page specific */
+.feature-group-section {
+  @apply mb-24 last:mb-0 rounded-3xl p-8 lg:p-12 border border-gray-100/50 shadow-sm;
+}
+
+/* Feature Tour Navigation */
+.feature-tour-nav {
+  @apply relative py-16 bg-gradient-to-b from-gray-50 to-white border-t border-gray-200;
+}
+
+.feature-tour-progress {
+  @apply bg-gray-200 rounded-full h-2;
+}
+
+.feature-tour-progress-bar {
+  @apply bg-gradient-to-r from-blue-600 to-indigo-600 h-2 rounded-full transition-all duration-300;
+}
+
+.feature-tour-nav-btn {
+  @apply flex items-center px-4 py-2 text-sm font-medium rounded-lg transition-all duration-200;
+}
+
+.feature-tour-nav-btn-prev {
+  @apply text-gray-700 bg-white hover:bg-gray-50 shadow-sm hover:shadow-md border border-gray-200;
+}
+
+.feature-tour-nav-btn-next {
+  @apply text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 shadow-sm hover:shadow-md;
+}
+
+.feature-tour-category-item {
+  @apply block px-3 py-1.5 text-xs rounded-md transition-all duration-200;
+}
+
+.feature-tour-category-item-active {
+  @apply bg-gradient-to-r from-blue-600 to-indigo-600 text-white font-medium shadow-sm;
+}
+
+.feature-tour-category-item-passed {
+  @apply bg-white text-gray-600 hover:bg-gray-100 hover:text-gray-900 border border-gray-200;
+}
+
+.feature-tour-category-item-upcoming {
+  @apply bg-white text-gray-500 hover:bg-gray-100 hover:text-gray-700 border border-gray-100;
+}
+
+.feature-group-section-even {
+  @apply bg-gradient-to-br from-gray-50/80 to-white;
+}
+
+.feature-group-section-odd {
+  @apply bg-gradient-to-br from-white to-gray-50/60;
+}
+
+.feature-category-icon {
+  @apply w-20 h-20 rounded-2xl p-4 flex items-center justify-center shadow-lg;
+}
+
+.feature-category-icon-img {
+  @apply w-12 h-12 filter brightness-0 invert;
+}
+
+.feature-list-card {
+  @apply block bg-white rounded-2xl border border-gray-200/80 hover:border-blue-300 hover:shadow-xl transition-all duration-300 overflow-hidden transform hover:-translate-y-1 shadow-md hover:shadow-2xl;
+}
+
+.feature-list-card-header {
+  @apply p-6 relative overflow-hidden opacity-60;
+}
+
+.feature-list-card-icon-container {
+  @apply w-14 h-14 bg-white/90 backdrop-blur-sm rounded-xl flex items-center justify-center shadow-inner p-1;
+}
+
+.feature-list-card-icon {
+  @apply w-full h-full object-contain;
+}

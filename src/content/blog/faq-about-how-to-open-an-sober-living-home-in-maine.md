@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/faq-about-how-to-open-an-sober-living-home-in-maine/Screen_Shot_2023-01-15_at_5.04.52_PM.png"
 imageAlt: 'FAQ About How to Open an Sober Living Home in Maine'
 ---
 

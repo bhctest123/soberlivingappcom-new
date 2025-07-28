@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/how-to-streamline-drug-testing-at-your-sober-living-home/drug_testing.png"
 imageAlt: 'How to Streamline Drug Testing at Your Sober Living Home'
 ---
 

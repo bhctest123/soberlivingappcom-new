@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/the-asam-criteria-4th-edition-what-recovery-residences-need-to-know/image-asset.jpeg"
 imageAlt: 'The ASAM Criteria 4th Edition: What Recovery Residences Need to Know'
 ---
 

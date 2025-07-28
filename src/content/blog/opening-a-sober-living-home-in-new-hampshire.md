@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/opening-a-sober-living-home-in-new-hampshire/Screen_Shot_2023-01-24_at_5.31.23_PM.png"
 imageAlt: 'Opening a Sober Living Home in New Hampshire'
 ---
 

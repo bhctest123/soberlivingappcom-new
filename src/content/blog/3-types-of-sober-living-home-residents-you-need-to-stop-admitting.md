@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/3-types-of-sober-living-home-residents-you-need-to-stop-admitting/Screen_Shot_2021-03-29_at_9.09.25_AM.png"
 imageAlt: '3 Types of Sober Living Home Residents You Need to Stop Admitting'
 ---
 

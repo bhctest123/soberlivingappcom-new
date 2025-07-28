@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/top-3-ways-to-support-a-healthy-organizational-culture-at-your-sober-living-home/Screenshot_2020-10-29_at_12.40.02_PM.png"
 imageAlt: 'Top 3 Ways to Support a Healthy Organizational Culture at Your Sober Living Home'
 ---
 

@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/5-ways-coronavirus-is-changing-the-sober-living-industrynbsp/Screenshot_2020-03-26_at_9.39.10_AM.png"
 imageAlt: '5 Ways Coronavirus is Changing the Sober Living Industry'
 ---
 

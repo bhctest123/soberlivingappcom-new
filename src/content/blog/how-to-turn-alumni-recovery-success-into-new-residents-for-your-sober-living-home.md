@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/how-to-turn-alumni-recovery-success-into-new-residents-for-your-sober-living-home/Screenshot_2020-06-10_at_9.48.14_AM.png"
 imageAlt: 'How to Turn Alumni Recovery Success Into New Residents for Your Sober Living Home'
 ---
 

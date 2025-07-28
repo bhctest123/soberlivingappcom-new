@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/what-they-dont-want-you-to-know-about-opening-a-sober-living-home-in-alaska/Screen_Shot_2023-02-12_at_4.14.33_PM.png"
 imageAlt: 'What They Don''t Want You to Know About Opening a Sober Living Home in Alaska'
 ---
 

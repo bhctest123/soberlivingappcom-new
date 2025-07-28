@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/5-best-apps-and-software-for-your-sober-living-house/computer_keyboard.png"
 imageAlt: '5 Best Apps and Software for Your Sober Living House'
 ---
 

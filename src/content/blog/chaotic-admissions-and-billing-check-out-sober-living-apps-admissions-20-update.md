@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/chaotic-admissions-and-billing-check-out-sober-living-apps-admissions-20-update/Screenshot_2020-09-16_at_11.31.15_AM.png"
 imageAlt: 'Chaotic Admissions and Billing? Check Out Sober Living Apps'' Admissions 2.0 Update'
 ---
 

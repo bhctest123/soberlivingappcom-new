@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/5-things-all-of-the-best-sober-living-home-managers-have-in-common/life-862985_1280.jpg"
 imageAlt: '5 Things All of the Best Sober Living Home Managers Have in Common'
 ---
 

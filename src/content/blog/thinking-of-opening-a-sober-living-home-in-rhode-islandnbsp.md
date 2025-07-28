@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/thinking-of-opening-a-sober-living-home-in-rhode-islandnbsp/Screen_Shot_2023-02-01_at_9.12.48_AM.png"
 imageAlt: 'Thinking of Opening a Sober Living Home in Rhode Island?'
 ---
 

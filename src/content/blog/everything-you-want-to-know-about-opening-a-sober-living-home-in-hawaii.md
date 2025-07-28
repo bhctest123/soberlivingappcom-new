@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/everything-you-want-to-know-about-opening-a-sober-living-home-in-hawaii/Screen_Shot_2023-01-22_at_6.37.22_PM.png"
 imageAlt: 'Everything You Want to Know About Opening a Sober Living Home in Hawaii'
 ---
 

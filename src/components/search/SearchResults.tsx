@@ -54,11 +54,11 @@ export default function SearchResults({ results, currentPage, totalPages, onPage
           >
             {/* Featured Image */}
             {post.image && (
-              <div className="aspect-w-16 aspect-h-9">
+              <div className="relative h-48 overflow-hidden">
                 <img
                   src={post.image}
                   alt={post.imageAlt || post.title}
-                  className="w-full h-48 object-cover"
+                  className="w-full h-full object-cover"
                   loading="lazy"
                 />
               </div>

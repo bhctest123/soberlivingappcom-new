@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/5-things-your-sober-living-home-manager-is-afraid-to-tell-you/Screenshot_2020-07-30_at_9.26.19_AM.png"
 imageAlt: '5 Things Your Sober Living Home Manager is Afraid to Tell You'
 ---
 

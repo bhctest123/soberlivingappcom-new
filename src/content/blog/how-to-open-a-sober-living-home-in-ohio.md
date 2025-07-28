@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/how-to-open-a-sober-living-home-in-ohio/Screen_Shot_2021-10-07_at_6.53.31_PM.png"
 imageAlt: 'How to Open a Sober Living Home in Ohio'
 ---
 

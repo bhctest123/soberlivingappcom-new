@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/what-is-a-sober-living-home/image-asset.jpeg"
 imageAlt: "What is a sober living home?"
 ---
 

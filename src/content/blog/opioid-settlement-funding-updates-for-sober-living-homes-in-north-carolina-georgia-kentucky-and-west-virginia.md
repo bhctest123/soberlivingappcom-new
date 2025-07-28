@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-north-carolina-georgia-kentucky-and-west-virginia/Screen_Shot_2024-03-26_at_3.08.02_PM.png"
 imageAlt: 'Opioid Settlement Funding Updates for Sober Living Homes in NC, GA, KY, WV'
 ---
 

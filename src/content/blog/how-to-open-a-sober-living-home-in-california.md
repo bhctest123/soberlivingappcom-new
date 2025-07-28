@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/how-to-open-a-sober-living-home-in-california/Screen_Shot_2021-05-11_at_9.45.51_AM.png"
 imageAlt: 'How to Open a Sober Living Home in California'
 ---
 

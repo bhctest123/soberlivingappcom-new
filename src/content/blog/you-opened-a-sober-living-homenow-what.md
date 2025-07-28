@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/you-opened-a-sober-living-homenow-what/manopeningdoor.png"
 imageAlt: 'You Opened a Sober Living Home—Now What?'
 ---
 

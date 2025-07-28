@@ -1,0 +1,275 @@
+---
+import { features } from '@/data/features';
+
+export interface Props {
+  currentFeatureId: string;
+}
+
+const { currentFeatureId } = Astro.props;
+
+// Feature categories and their features
+const featureGroups = {
+  "Resident Management": [
+    "admissions",
+    "residents", 
+    "alumni",
+    "contacts",
+    "general-info",
+    "portal"
+  ],
+  "Housing & Operations": [
+    "bed-management",
+    "properties",
+    "housing",
+    "housing-notes",
+    "operations",
+    "scheduling"
+  ],
+  "Financial & Billing": [
+    "billing",
+    "invoices",
+    "leads"
+  ],
+  "Compliance & Security": [
+    "drug-test",
+    "test-results",
+    "security",
+    "permissions",
+    "file-storage"
+  ],
+  "Communication & Tasks": [
+    "communication-logs",
+    "tasks",
+    "connections"
+  ],
+  "Organizations & External": [
+    "organizations",
+    "organizations-providers",
+    "organizations-resources", 
+    "organizations-vendors"
+  ],
+  "Management & Analytics": [
+    "dashboard",
+    "employees",
+    "mobile"
+  ]
+};
+
+// Create a flat array of all feature IDs in order
+const allFeatureIds = Object.values(featureGroups).flat();
+
+// Find current feature index and calculate next/previous
+const currentIndex = allFeatureIds.indexOf(currentFeatureId);
+const previousFeatureId = currentIndex > 0 ? allFeatureIds[currentIndex - 1] : null;
+const nextFeatureId = currentIndex < allFeatureIds.length - 1 ? allFeatureIds[currentIndex + 1] : null;
+
+// Get feature details
+const previousFeature = previousFeatureId ? features.find(f => f.id === previousFeatureId) : null;
+const nextFeature = nextFeatureId ? features.find(f => f.id === nextFeatureId) : null;
+const currentFeature = features.find(f => f.id === currentFeatureId);
+
+// Find which category the current feature belongs to
+let currentCategory = '';
+for (const [category, featureIds] of Object.entries(featureGroups)) {
+  if (featureIds.includes(currentFeatureId)) {
+    currentCategory = category;
+    break;
+  }
+}
+
+// Category icons (matching the ones from features index page)
+const categoryIcons = {
+  "Resident Management": "/images/icons/features/ic_residents_large.png",
+  "Housing & Operations": "/images/icons/features/ic_housing_department_large.png", 
+  "Financial & Billing": "/images/icons/features/ic_billing_large.png",
+  "Compliance & Security": "/images/icons/features/ic_permissions_large.png",
+  "Communication & Tasks": "/images/icons/features/ic_communication_logs.png",
+  "Organizations & External": "/images/icons/features/ic_organizations_large.png",
+  "Management & Analytics": "/images/icons/features/ic_dashboard_large.png"
+};
+---
+
+<section class="relative py-16 bg-gradient-to-b from-gray-50 to-white border-t border-gray-200">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <!-- Navigation Header -->
+    <div class="flex items-center justify-between mb-8">
+      <div class="flex items-center space-x-4">
+        <h3 class="text-lg font-semibold text-gray-900">Feature Tour</h3>
+        <span class="text-sm text-gray-500">
+          {currentIndex + 1} of {allFeatureIds.length} features
+        </span>
+      </div>
+      
+      <!-- Progress Bar -->
+      <div class="hidden sm:block flex-1 max-w-xs mx-8">
+        <div class="bg-gray-200 rounded-full h-2">
+          <div 
+            class="bg-gradient-to-r from-blue-600 to-indigo-600 h-2 rounded-full transition-all duration-300"
+            style={`width: ${((currentIndex + 1) / allFeatureIds.length) * 100}%`}
+          ></div>
+        </div>
+      </div>
+      
+      <!-- Next/Previous Navigation -->
+      <div class="flex items-center space-x-2">
+        {previousFeature ? (
+          <a 
+            href={`/features/${previousFeatureId}`}
+            class="group flex items-center px-4 py-2 text-sm font-medium rounded-lg text-gray-700 bg-white hover:bg-gray-50 transition-all duration-200 shadow-sm hover:shadow-md border border-gray-200"
+            aria-label="Previous feature"
+          >
+            <img src="/images/icons/chevron_left.png" alt="Previous" class="w-4 h-4 mr-1 group-hover:-translate-x-1 transition-transform" />
+            <span class="hidden sm:inline">Previous</span>
+          </a>
+        ) : (
+          <span class="px-4 py-2 text-sm font-medium rounded-lg text-gray-400 bg-gray-100 border border-gray-200 cursor-not-allowed">
+            <img src="/images/icons/chevron_left.png" alt="Previous" class="w-4 h-4 inline mr-1 opacity-50" />
+            <span class="hidden sm:inline">Previous</span>
+          </span>
+        )}
+        
+        {nextFeature ? (
+          <a 
+            href={`/features/${nextFeatureId}`}
+            class="group flex items-center px-4 py-2 text-sm font-medium rounded-lg text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 transition-all duration-200 shadow-sm hover:shadow-md"
+            aria-label="Next feature"
+          >
+            <span class="hidden sm:inline">Next</span>
+            <img src="/images/icons/chevron_right.png" alt="Next" class="w-4 h-4 ml-1 filter brightness-0 invert group-hover:translate-x-1 transition-transform" />
+          </a>
+        ) : (
+          <a 
+            href="/features"
+            class="group flex items-center px-4 py-2 text-sm font-medium rounded-lg text-white bg-gradient-to-r from-green-600 to-emerald-600 hover:from-green-700 hover:to-emerald-700 transition-all duration-200 shadow-sm hover:shadow-md"
+          >
+            <span>Complete Tour</span>
+            <img src="/images/icons/check.png" alt="Complete" class="w-4 h-4 ml-1 filter brightness-0 invert" />
+          </a>
+        )}
+      </div>
+    </div>
+
+    <!-- Current Feature Context -->
+    <div class="bg-white rounded-xl p-4 shadow-sm border border-gray-100 mb-6">
+      <div class="flex items-center justify-between">
+        <div class="flex items-center space-x-3">
+          <div class="w-10 h-10 bg-gradient-to-br from-blue-100 to-indigo-100 rounded-lg flex items-center justify-center">
+            <img 
+              src={currentFeature?.iconPath} 
+              alt=""
+              class="w-6 h-6 object-contain"
+            />
+          </div>
+          <div class="flex items-center space-x-3">
+            <span class="text-xs font-medium text-gray-500 uppercase tracking-wider">{currentCategory}</span>
+            <span class="text-gray-300">•</span>
+            <h4 class="text-base font-semibold text-gray-900">{currentFeature?.name}</h4>
+          </div>
+        </div>
+        {nextFeature && (
+          <div class="flex items-center gap-3">
+            <div class="text-right">
+              <p class="text-xs text-gray-500 mb-1">Next up:</p>
+              <p class="text-sm font-medium text-blue-600">{nextFeature.name}</p>
+            </div>
+            <div class="w-8 h-8 bg-gray-100 rounded-lg flex items-center justify-center">
+              <img 
+                src={nextFeature.iconPath} 
+                alt=""
+                class="w-5 h-5 object-contain opacity-60"
+              />
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+
+    <!-- Compact Category Grid -->
+    <div class="bg-gray-50 rounded-xl p-6 border border-gray-200">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+        {Object.entries(featureGroups).map(([categoryName, featureIds]) => (
+          <div class="space-y-2">
+            <div class="flex items-center gap-2 mb-2">
+              <div class="w-6 h-6 bg-gray-100 rounded flex items-center justify-center">
+                <img 
+                  src={categoryIcons[categoryName as keyof typeof categoryIcons]} 
+                  alt=""
+                  class="w-4 h-4 object-contain opacity-60"
+                />
+              </div>
+              <h4 class="text-xs font-semibold text-gray-900 uppercase tracking-wider">
+                {categoryName}
+              </h4>
+            </div>
+            <div class="space-y-1">
+              {featureIds.map(featureId => {
+                const feature = features.find(f => f.id === featureId);
+                const isActive = featureId === currentFeatureId;
+                const isPassed = allFeatureIds.indexOf(featureId) < currentIndex;
+                
+                return feature ? (
+                  <a 
+                    href={`/features/${featureId}`}
+                    class={`
+                      group block px-2 py-1.5 text-xs rounded-md transition-all duration-200
+                      ${isActive 
+                        ? 'bg-gradient-to-r from-blue-600 to-indigo-600 text-white font-medium shadow-sm' 
+                        : isPassed
+                          ? 'bg-white text-gray-600 hover:bg-gray-100 hover:text-gray-900 border border-gray-200'
+                          : 'bg-white text-gray-500 hover:bg-gray-100 hover:text-gray-700 border border-gray-100'
+                      }
+                    `}
+                  >
+                    <div class="flex items-center gap-2">
+                      <div class={`
+                        w-5 h-5 rounded flex items-center justify-center flex-shrink-0 transition-all duration-200
+                        ${isActive 
+                          ? 'bg-white/20' 
+                          : 'bg-gray-100 group-hover:bg-gray-200'
+                        }
+                      `}>
+                        <img 
+                          src={feature.iconPath} 
+                          alt=""
+                          class={`
+                            w-3 h-3 object-contain
+                            ${isActive ? 'filter brightness-0 invert' : ''}
+                          `}
+                        />
+                      </div>
+                      <span class="truncate flex-1">{feature.name}</span>
+                      {isPassed && !isActive && (
+                        <img src="/images/icons/check.png" alt="Completed" class="w-3 h-3 ml-1 opacity-50 flex-shrink-0" />
+                      )}
+                    </div>
+                  </a>
+                ) : null;
+              })}
+            </div>
+          </div>
+        ))}
+      </div>
+      
+      <!-- Tour Summary -->
+      <div class="mt-6 pt-6 border-t border-gray-200 text-center">
+        <p class="text-sm text-gray-600">
+          Exploring all {allFeatureIds.length} features of Sober Living App
+          {currentIndex > 0 && (
+            <span class="ml-2 text-green-600 font-medium">
+              • {currentIndex} completed
+            </span>
+          )}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  /* Add smooth scroll behavior for category sections */
+  .truncate {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+</style>

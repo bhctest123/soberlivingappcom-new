@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/asam-collaborates-with-narr-to-include-standards-for-sober-living-in-latest-asam-criteria-editionnbsp/Screen_Shot_2023-10-13_at_3.14.23_PM.png"
 imageAlt: 'ASAM Collaborates with NARR to Include Standards for Sober Living in Latest ASAM Criteria Edition'
 ---
 

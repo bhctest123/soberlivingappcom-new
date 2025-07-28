@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/faq-about-opening-a-sober-living-home-in-delaware/Screen_Shot_2023-02-07_at_11.12.44_AM.png"
 imageAlt: 'FAQ About Opening a Sober Living Home in Delaware'
 ---
 

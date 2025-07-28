@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/find-your-people-defining-your-ideal-sober-living-home-resident/wallet.png"
 imageAlt: 'Find Your People: Defining Your Ideal Sober Living Home Resident'
 ---
 

@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/how-to-write-an-awesome-good-neighbor-agreement-for-your-sober-living-home/Screen_Shot_2021-09-21_at_2.31.05_PM.png"
 imageAlt: 'How to Write an Awesome Good Neighbor Agreement for Your Sober Living Home'
 ---
 

@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/4-ways-a-trauma-informed-approach-can-help-your-sober-living-residents-cope-with-pandemic-stress/Screenshot_2020-10-15_at_10.12.44_PM.png"
 imageAlt: '4 Ways a Trauma-Informed Approach Can Help Your Sober Living Residents Cope with Pandemic Stress'
 ---
 

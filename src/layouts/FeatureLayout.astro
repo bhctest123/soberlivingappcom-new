@@ -1,5 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import FeatureTourNav from '@/components/features/FeatureTourNav.astro';
+import '../styles/features.css';
 
 export interface Props {
   feature: {
@@ -53,25 +55,27 @@ const pageDescription = seo.description || feature.description;
   image={seo.image}
 >
   <!-- Hero Section -->
-  <section class="relative bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-20 lg:py-28 overflow-hidden">
+  <section class="feature-hero">
     <!-- Background decoration -->
-    <div class="absolute inset-0 opacity-10">
-      <div class="absolute top-0 -left-4 w-72 h-72 bg-purple-300 rounded-full mix-blend-multiply filter blur-xl animate-blob"></div>
-      <div class="absolute top-0 -right-4 w-72 h-72 bg-yellow-300 rounded-full mix-blend-multiply filter blur-xl animate-blob animation-delay-2000"></div>
-      <div class="absolute -bottom-8 left-20 w-72 h-72 bg-pink-300 rounded-full mix-blend-multiply filter blur-xl animate-blob animation-delay-4000"></div>
+    <div class="feature-hero-blobs">
+      <div class="feature-hero-blob absolute top-0 -left-4 w-96 h-96 bg-purple-400"></div>
+      <div class="feature-hero-blob absolute top-0 -right-4 w-96 h-96 bg-yellow-400 animation-delay-2000"></div>
+      <div class="feature-hero-blob absolute -bottom-8 left-20 w-96 h-96 bg-pink-400 animation-delay-4000"></div>
+      <div class="feature-hero-blob absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-80 h-80 bg-blue-300 animation-delay-1000"></div>
     </div>
     
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
       <div class="text-center">
         <!-- Feature Icon -->
         <div class="flex justify-center mb-10">
-          <div class="relative">
-            <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-3xl blur-2xl opacity-20 animate-pulse"></div>
-            <div class="relative w-28 h-28 bg-white rounded-3xl shadow-xl flex items-center justify-center border border-gray-100">
+          <div class="feature-hero-icon-wrapper">
+            <div class="feature-hero-icon-glow-primary"></div>
+            <div class="feature-hero-icon-glow-secondary"></div>
+            <div class="feature-hero-icon-container">
               <img 
                 src={feature.iconPath} 
                 alt={feature.altText}
-                class="w-20 h-20 object-contain"
+                class="feature-hero-icon"
                 loading="eager"
               />
             </div>
@@ -79,8 +83,8 @@ const pageDescription = seo.description || feature.description;
         </div>
         
         <!-- Hero Title -->
-        <h1 class="text-4xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
-          <span class="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+        <h1 class="feature-hero-title">
+          <span class="feature-hero-title-gradient">
             {heroTitle}
           </span>
         </h1>
@@ -94,17 +98,17 @@ const pageDescription = seo.description || feature.description;
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
           <a 
             href="https://behavehealth.com/get-started" 
-            class="group inline-flex items-center px-8 py-4 text-lg font-medium rounded-xl text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
+            class="btn-primary"
           >
             Get Started
-            <img src="/images/icons/long_arrow_right.png" alt="Arrow" class="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            <img src="/images/icons/long_arrow_right.png" alt="Arrow" class="btn-arrow-white" />
           </a>
           <a 
             href="/contact" 
-            class="group inline-flex items-center px-8 py-4 text-lg font-medium rounded-xl text-gray-700 bg-white hover:bg-gray-50 transition-all duration-200 shadow-md hover:shadow-lg border border-gray-200"
+            class="btn-secondary"
           >
             Learn More
-            <img src="/images/icons/chevron_right.png" alt="Arrow" class="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            <img src="/images/icons/chevron_right.png" alt="Arrow" class="btn-arrow-dark" />
           </a>
         </div>
       </div>
@@ -116,20 +120,20 @@ const pageDescription = seo.description || feature.description;
     <section class="py-20 bg-gradient-to-b from-white to-gray-50">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
-          <h2 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+          <h2 class="feature-section-title">
             Key Benefits
           </h2>
-          <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+          <p class="feature-section-subtitle">
             Discover how <span class="font-semibold text-blue-600">{feature.name}</span> can transform your sober living operations
           </p>
         </div>
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {content.keyBenefits.map((benefit, index) => (
-            <div class="group relative bg-white rounded-2xl p-8 shadow-md hover:shadow-xl transition-all duration-300 border border-gray-100 hover:border-blue-200">
-              <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-t-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+            <div class="benefit-card">
+              <div class="benefit-card-accent"></div>
               <div class="flex flex-col items-center text-center">
-                <div class="w-14 h-14 bg-gradient-to-br from-blue-100 to-indigo-100 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+                <div class="benefit-icon-box">
                   <span class="text-blue-600 font-bold text-xl">{index + 1}</span>
                 </div>
                 <p class="text-gray-700 leading-relaxed text-lg">{benefit}</p>
@@ -146,27 +150,27 @@ const pageDescription = seo.description || feature.description;
     <section class="py-20 bg-white">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
-          <h2 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+          <h2 class="feature-section-title">
             Features & Capabilities
           </h2>
-          <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+          <p class="feature-section-subtitle">
             Explore the comprehensive features that make <span class="font-semibold text-blue-600">{feature.name}</span> essential for your operations
           </p>
         </div>
         
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
           {content.features.map((feat) => (
-            <div class="group bg-gradient-to-br from-white to-gray-50 rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 p-8 border border-gray-100 hover:border-blue-200 relative overflow-hidden">
-              <div class="absolute -top-10 -right-10 w-32 h-32 bg-gradient-to-br from-blue-100 to-indigo-100 rounded-full opacity-20 group-hover:scale-150 transition-transform duration-500"></div>
+            <div class="feature-card">
+              <div class="feature-card-decoration"></div>
               <div class="relative flex items-start space-x-5">
                 {feat.icon && (
-                  <div class="w-16 h-16 bg-gradient-to-br from-blue-100 to-indigo-100 rounded-xl flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform duration-300">
-                    <img src={feat.icon} alt="" class="w-8 h-8" />
+                  <div class="feature-icon-box">
+                    <img src={feat.icon} alt="" class="feature-icon" />
                   </div>
                 )}
                 <div class="flex-1">
-                  <h3 class="text-2xl font-semibold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors duration-300">{feat.title}</h3>
-                  <p class="text-gray-600 leading-relaxed text-lg">{feat.description}</p>
+                  <h3 class="feature-card-title">{feat.title}</h3>
+                  <p class="feature-card-description">{feat.description}</p>
                 </div>
               </div>
             </div>
@@ -182,8 +186,8 @@ const pageDescription = seo.description || feature.description;
       <section class={`py-20 ${index % 2 === 0 ? 'bg-gradient-to-b from-gray-50 to-white' : 'bg-gradient-to-b from-white to-gray-50'}`}>
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div class="max-w-5xl mx-auto">
-            <h2 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-12 text-center">
-              <span class="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+            <h2 class="feature-section-title mb-12 text-center">
+              <span class="feature-hero-title-gradient">
                 {section.title}
               </span>
             </h2>
@@ -196,6 +200,9 @@ const pageDescription = seo.description || feature.description;
 
   <!-- Slot for additional custom content -->
   <slot />
+
+  <!-- Feature Tour Navigation -->
+  <FeatureTourNav currentFeatureId={feature.id} />
 
   <!-- Call to Action Section -->
   <section class="relative py-24 overflow-hidden">
@@ -266,33 +273,5 @@ const pageDescription = seo.description || feature.description;
   
   .prose strong {
     @apply text-gray-900 font-semibold;
-  }
-  
-  /* Animations */
-  @keyframes blob {
-    0% {
-      transform: translate(0px, 0px) scale(1);
-    }
-    33% {
-      transform: translate(30px, -50px) scale(1.1);
-    }
-    66% {
-      transform: translate(-20px, 20px) scale(0.9);
-    }
-    100% {
-      transform: translate(0px, 0px) scale(1);
-    }
-  }
-  
-  .animate-blob {
-    animation: blob 7s infinite;
-  }
-  
-  .animation-delay-2000 {
-    animation-delay: 2s;
-  }
-  
-  .animation-delay-4000 {
-    animation-delay: 4s;
   }
 </style>

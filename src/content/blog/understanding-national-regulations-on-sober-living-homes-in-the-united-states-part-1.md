@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/understanding-national-regulations-on-sober-living-homes-in-the-united-states-part-1/Screen_Shot_2021-07-29_at_5.15.42_PM.png"
 imageAlt: 'Understanding National Regulations on Sober Living Homes in the United States - Part 1'
 ---
 

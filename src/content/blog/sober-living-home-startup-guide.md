@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/sober-living-home-startup-guide/recovery_residence_levels_of_support.png"
 imageAlt: 'Sober Living Home Startup Guide'
 ---
 

@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/what-you-need-to-know-about-opening-a-sober-living-home-in-south-dakota/Screen_Shot_2023-02-08_at_7.16.42_PM.png"
 imageAlt: 'What You Need to Know About Opening a Sober Living Home in South Dakota'
 ---
 

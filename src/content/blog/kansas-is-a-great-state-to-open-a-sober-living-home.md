@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/kansas-is-a-great-state-to-open-a-sober-living-home/Screen_Shot_2023-01-03_at_5.17.10_PM.png"
 imageAlt: 'Kansas is a Great State to Open a Sober Living Home'
 ---
 

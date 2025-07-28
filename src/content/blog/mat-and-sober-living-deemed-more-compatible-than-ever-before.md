@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/mat-and-sober-living-deemed-more-compatible-than-ever-before/keep_out_sign.png"
 imageAlt: 'MAT and Sober Living Deemed More Compatible Than Ever Before'
 ---
 

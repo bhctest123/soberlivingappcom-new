@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/sober-living-home-and-narr-affiliate-updates-for-recovery-residences-in-nebraska-idaho-and-west-virginia/Screen_Shot_2024-12-09_at_8.47.59_AM.png"
 imageAlt: 'NE, ID, WV Sober Living & NARR Affiliate Updates'
 ---
 

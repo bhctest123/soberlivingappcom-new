@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/top-5-sober-living-home-maintenance-tasks-that-youre-forgetting-to-do/Screenshot_2021-06-10_18-56-24.png"
 imageAlt: 'Top 5 Sober Living Home Maintenance Tasks that You''re Forgetting to Do'
 ---
 

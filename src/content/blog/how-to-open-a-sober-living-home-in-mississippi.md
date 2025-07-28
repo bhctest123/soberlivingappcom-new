@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/how-to-open-a-sober-living-home-in-mississippi/Screen_Shot_2023-01-03_at_5.07.28_PM.png"
 imageAlt: 'How to Open a Sober Living Home in Mississippi'
 ---
 

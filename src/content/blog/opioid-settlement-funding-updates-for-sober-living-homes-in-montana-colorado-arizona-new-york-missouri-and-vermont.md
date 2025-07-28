@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-montana-colorado-arizona-new-york-missouri-and-vermont/Screen_Shot_2024-02-25_at_3.17.54_PM.png"
 imageAlt: 'Sober Living Opioid Fund Updates: MT, CO, AZ, NY, MO, VT.'
 ---
 

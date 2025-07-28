@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/3-mistakes-you-might-be-making-with-mat-patients-at-your-sober-living-home/Screenshot_2020-12-31_at_12.55.28_PM.png"
 imageAlt: '3 Mistakes You Might be Making with MAT Patients at Your Sober Living Home'
 ---
 

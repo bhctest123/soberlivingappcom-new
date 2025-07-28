@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/sober-living-home-regulation-and-certification-updates-for-narr-affiliates-in-kansas-mississippi-and-new-mexico/Screen_Shot_2024-12-04_at_7.40.48_PM.png"
 imageAlt: 'Sober Living Reg/Cert Updates for NARR Affiliates in KS, MS, NM'
 ---
 

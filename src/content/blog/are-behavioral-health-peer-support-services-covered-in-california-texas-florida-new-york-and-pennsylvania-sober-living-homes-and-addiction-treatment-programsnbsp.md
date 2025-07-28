@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/are-behavioral-health-peer-support-services-covered-in-california-texas-florida-new-york-and-pennsylvania-sober-living-homes-and-addiction-treatment-programsnbsp/Screen_Shot_2024-05-29_at_9.02.51_PM.png"
 imageAlt: 'Is Peer Support Covered in CA, TX, FL, NY, PA SLHs & Treatment Programs?'
 ---
 

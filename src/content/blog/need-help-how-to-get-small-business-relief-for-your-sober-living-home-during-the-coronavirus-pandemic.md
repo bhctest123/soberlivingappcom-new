@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/need-help-how-to-get-small-business-relief-for-your-sober-living-home-during-the-coronavirus-pandemic/Screenshot_2020-05-14_at_9.54.43_AM.png"
 imageAlt: 'COVID Small Business Relief Guide for Sober Living Homes'
 ---
 

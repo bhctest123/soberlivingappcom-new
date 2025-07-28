@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/how-to-make-your-sober-living-home-stand-out-from-the-crowd/runners_in_a_race.png"
 imageAlt: 'How to Make Your Sober Living Home Stand Out from the Crowd'
 ---
 

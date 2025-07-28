@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/faq-on-opening-a-sober-living-home-in-new-mexiconbsp/Screen_Shot_2023-01-10_at_3.58.46_PM.png"
 imageAlt: 'FAQ on Opening a Sober Living Home in New Mexico'
 ---
 

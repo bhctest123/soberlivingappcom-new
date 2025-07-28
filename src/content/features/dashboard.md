@@ -18,27 +18,27 @@ keyBenefits:
 features:
   - title: "Business Overview"
     description: "Get a comprehensive view of your sober living operations with real-time data and key performance indicators at a glance."
-    icon: "/images/icons/features/ic_dashboard_large.png"
+    icon: "/images/icons/ic_dashboard.png"
   
   - title: "Operational Status"
     description: "Monitor the current status of all your housing programs, from occupancy rates to operational metrics."
-    icon: "/images/icons/features/dashboard.png"
+    icon: "/images/icons/ic_management_department.png"
   
   - title: "High-Level Analytics"
     description: "Access important data and analytics to make informed decisions about your sober living business."
-    icon: "/images/icons/features/dashboard.png"
+    icon: "/images/icons/ic_optimization.png"
   
   - title: "Financial Metrics"
     description: "Track revenue, expenses, and profitability across all properties with visual charts and trend analysis."
-    icon: "/images/icons/features/dashboard.png"
+    icon: "/images/icons/ic_financials.png"
   
   - title: "Occupancy Tracking"
     description: "Monitor bed utilization, vacancy rates, and admission pipelines across all your properties."
-    icon: "/images/icons/features/bed-management.png"
+    icon: "/images/icons/ic_bed_management_board.png"
   
   - title: "Alert Management"
     description: "Stay informed with customizable alerts for critical events, compliance deadlines, and operational issues."
-    icon: "/images/icons/features/dashboard.png"
+    icon: "/images/icons/ic_app_messages.png"
 
 additionalSections:
   - title: "Data-Driven Decision Making"

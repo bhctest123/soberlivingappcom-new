@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/sober-living-apps-new-billing-assistant-makes-getting-paid-even-easier/Screenshot_2020-10-01_at_11.59.57_AM.jpg"
 imageAlt: 'Sober Living App''s New Billing Assistant Makes Getting Paid Even Easier'
 ---
 

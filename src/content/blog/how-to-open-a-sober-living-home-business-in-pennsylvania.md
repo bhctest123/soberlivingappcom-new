@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/how-to-open-a-sober-living-home-business-in-pennsylvania/Screen_Shot_2021-10-21_at_3.44.49_PM.png"
 imageAlt: 'How to Open a Sober Living Home Business in Pennsylvania'
 ---
 

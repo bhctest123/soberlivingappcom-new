@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/limited-time-offer-get-our-software-solution-for-sober-living-homes-for-free/Screenshot_2021-01-21_at_8.58.18_PM.png"
 imageAlt: 'Limited Time Offer: Get Our Software Solution for Sober Living Homes for Free'
 ---
 

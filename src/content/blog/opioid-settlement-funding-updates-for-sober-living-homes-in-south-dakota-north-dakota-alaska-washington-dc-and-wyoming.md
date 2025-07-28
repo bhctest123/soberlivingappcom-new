@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/2024/04/opioid-settlement-funding-updates-for-sober-living-homes-in-south-dakota-north-dakota-alaska-washington-dc-and-wyoming/featured.jpg"
 imageAlt: 'Opioid Settlement Funding Updates for Sober Living in SD, ND, AK, DC, WY'
 ---
 

@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/dealing-with-nimbys-at-your-sober-living-housenbsp/fist.png"
 imageAlt: 'Dealing with NIMBYs at Your Sober Living House'
 ---
 

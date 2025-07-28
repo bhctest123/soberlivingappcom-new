@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/buprenorphine-suboxone-and-your-sober-living-home/Screen_Shot_2021-05-31_at_12.05.57_PM.png"
 imageAlt: 'Buprenorphine, Suboxone and Your Sober Living Home'
 ---
 

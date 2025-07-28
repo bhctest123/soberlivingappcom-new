@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/opening-an-sober-living-home-in-georgia/Screen_Shot_2021-11-23_at_9.47.57_AM.png"
 imageAlt: 'Opening an Sober Living Home in Georgia'
 ---
 

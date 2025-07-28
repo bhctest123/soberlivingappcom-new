@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/software-tools-for-sober-living-homes/xero-logo.png"
 imageAlt: 'Software Tools for Sober Living Homes'
 ---
 

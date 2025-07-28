@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/the-fastest-way-to-open-a-sober-living-home-in-arkansas/Screen_Shot_2022-12-28_at_6.35.46_PM.png"
 imageAlt: 'The Fastest Way to Open a Sober Living Home in Arkansas'
 ---
 

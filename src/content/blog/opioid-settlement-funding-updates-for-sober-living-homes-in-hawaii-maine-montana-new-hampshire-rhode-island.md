@@ -6,7 +6,7 @@ author: "Ben Weiss"
 category: ["Sober Living Management"]
 tags: ["Recovery", "Sober Living"]
 featured: false
-image: "/images/blog/placeholder.jpg"
+image: "/images/blog/opioid-settlement-funding-updates-for-sober-living-homes-in-hawaii-maine-montana-new-hampshire-rhode-island/Screen_Shot_2024-04-10_at_8.15.10_PM.png"
 imageAlt: 'Opioid Settlement Funding for Sober Living: HI, ME, MT, NH, RI Updates.'
 ---
 

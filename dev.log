@@ -1,0 +1,50 @@
+
+> soberlivingappcom-new@1.0.0 dev
+> astro dev
+
+21:27:26 [types] Generated 1ms
+21:27:26 [content] Syncing content
+21:27:26 [content] Synced content
+
+ astro  v5.12.3 ready in 657 ms
+
+┃ Local    http://localhost:4321/
+┃ Network  use --host to expose
+
+21:27:26 watching for file changes...
+21:27:30 [ERROR] [postcss] /Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/styles/features.css:223:3: The `opacity-62` class does not exist. If `opacity-62` is a custom class, make sure it is defined within a `@layer` directive.
+  Stack trace:
+    at /Users/benweiss/Code/soberlivingappcom/soberlivingappcom-new/src/styles/features.css:223:2
+    [...] See full stack trace in the browser, or rerun with --verbose.
+21:28:08 [200] /features/housing 633ms
+21:28:08 [404] /images/icons/features/ic_vehicles_large.png 1ms
+21:28:09 [404] /images/icons/features/ic_vehicles_large.png 0ms
+21:28:20 [200] HEAD /features/housing 13ms
+21:29:20 [watch] src/components/features/FeatureTourNav.astro
+21:29:21 [200] /features/housing 42ms
+21:29:21 [404] /images/icons/features/ic_vehicles_large.png 1ms
+21:29:21 [404] /images/icons/features/ic_vehicles_large.png 1ms
+21:29:36 [watch] src/components/features/FeatureTourNav.astro
+21:29:36 [200] /features/housing 67ms
+21:29:37 [404] /images/icons/features/ic_vehicles_large.png 2ms
+21:29:37 [404] /images/icons/features/ic_vehicles_large.png 1ms
+21:30:04 [watch] src/components/features/FeatureTourNav.astro
+21:30:04 [200] /features/housing 39ms
+21:30:04 [404] /images/icons/features/ic_vehicles_large.png 2ms
+21:30:04 [404] /images/icons/features/ic_vehicles_large.png 0ms
+21:30:14 [watch] src/components/features/FeatureTourNav.astro
+21:30:14 [200] /features/housing 37ms
+21:30:14 [404] /images/icons/features/ic_vehicles_large.png 1ms
+21:30:15 [404] /images/icons/features/ic_vehicles_large.png 1ms
+21:30:25 [200] /features/housing-notes 4ms
+21:30:25 [404] /images/icons/features/housing-notes.png 0ms
+21:30:25 [404] /images/icons/features/dashboard.png 0ms
+21:30:25 [404] /images/icons/features/security.png 0ms
+21:30:25 [404] /images/icons/features/housing-notes.png 0ms
+21:30:25 [404] /images/icons/features/housing-notes.png 0ms
+21:30:25 [404] /images/icons/features/housing-notes.png 0ms
+21:30:25 [404] /images/icons/features/housing-notes.png 0ms
+21:30:25 [404] /images/icons/features/dashboard.png 0ms
+21:30:25 [404] /images/icons/features/security.png 0ms
+21:30:35 [200] /features/security 4ms
+21:32:06 [200] /features 7ms

@@ -89,13 +89,13 @@ const groupDescriptions: Record<string, {title: string, description: string, ben
 };
 
 const categoryColors = [
-  "from-blue-500 to-cyan-500",
-  "from-green-500 to-emerald-500", 
-  "from-purple-500 to-violet-500",
-  "from-orange-500 to-red-500",
-  "from-pink-500 to-rose-500",
-  "from-indigo-500 to-blue-500",
-  "from-teal-500 to-green-500"
+  "from-blue-600 to-cyan-700",
+  "from-green-600 to-emerald-700", 
+  "from-purple-600 to-violet-700",
+  "from-orange-600 to-red-700",
+  "from-pink-600 to-rose-700",
+  "from-indigo-600 to-blue-700",
+  "from-teal-600 to-green-700"
 ];
 
 const categoryIcons = {
@@ -205,15 +205,15 @@ const categoryIcons = {
           const isEven = index % 2 === 0;
           
           return (
-            <div class={`mb-24 last:mb-0 ${isEven ? 'bg-gradient-to-br from-gray-50/80 to-white' : 'bg-gradient-to-br from-white to-gray-50/60'} rounded-3xl p-8 lg:p-12 border border-gray-100/50 shadow-sm`}>
+            <div class={`feature-group-section ${isEven ? 'feature-group-section-even' : 'feature-group-section-odd'}`}>
               <!-- Category Header -->
               <div class="text-center mb-16">
                 <div class="flex justify-center mb-8">
-                  <div class={`w-20 h-20 rounded-2xl bg-gradient-to-br ${colorClass} p-4 flex items-center justify-center shadow-lg`}>
+                  <div class={`feature-category-icon bg-gradient-to-br ${colorClass}`}>
                     <img 
                       src={categoryIcons[groupName as keyof typeof categoryIcons]} 
                       alt={groupName}
-                      class="w-12 h-12 filter brightness-0 invert"
+                      class="feature-category-icon-img"
                     />
                   </div>
                 </div>
@@ -246,18 +246,18 @@ const categoryIcons = {
                 {groupFeatures.map((feature) => (
                   <a 
                     href={`/features/${feature.id}`}
-                    class="group block bg-white rounded-2xl border border-gray-200/80 hover:border-blue-300 hover:shadow-xl transition-all duration-300 overflow-hidden transform hover:-translate-y-1 shadow-md hover:shadow-2xl"
+                    class="feature-list-card"
                   >
                     <!-- Feature card header -->
-                    <div class={`bg-gradient-to-br ${colorClass} p-6 relative overflow-hidden`}>
+                    <div class={`feature-list-card-header bg-gradient-to-br ${colorClass}`}>
                       <div class="absolute -top-4 -right-4 w-20 h-20 bg-white/20 rounded-full"></div>
                       <div class="absolute -bottom-4 -left-4 w-16 h-16 bg-white/10 rounded-full"></div>
                       <div class="relative flex items-center justify-between">
-                        <div class="w-14 h-14 bg-white/20 backdrop-blur-sm rounded-xl flex items-center justify-center">
+                        <div class="feature-list-card-icon-container">
                           <img 
                             src={feature.iconPath} 
                             alt={feature.altText}
-                            class="w-8 h-8 filter brightness-0 invert"
+                            class="feature-list-card-icon"
                           />
                         </div>
                         <div class="opacity-0 group-hover:opacity-100 transition-opacity">
