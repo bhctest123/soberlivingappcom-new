@@ -226,7 +226,7 @@ export function Navigation({ className }: NavigationProps = {}) {
                 <span className="sr-only">Toggle Menu</span>
               </Button>
             </SheetTrigger>
-            <SheetContent side="right" className="w-[300px] sm:w-[400px]">
+            <SheetContent side="right" className="w-[300px] sm:w-[400px] flex flex-col">
               <SheetHeader>
                 <SheetTitle className="text-left">
                   <div className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent font-bold">
@@ -234,24 +234,26 @@ export function Navigation({ className }: NavigationProps = {}) {
                   </div>
                 </SheetTitle>
               </SheetHeader>
-              <nav className="mt-6 flex flex-col space-y-4">
-                {mobileNavigationItems.map((item) => (
-                  <MobileNavItem key={item.title} item={item} setIsOpen={setIsOpen} />
-                ))}
-                <div className="pt-4 space-y-2">
-                  <Button variant="outline" className="w-full" asChild>
-                    <a href="/login" onClick={() => setIsOpen(false)}>
-                      Log In
-                    </a>
-                  </Button>
-                  <Button 
-                    className="w-full bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white" 
-                    asChild
-                  >
-                    <a href="/signup" onClick={() => setIsOpen(false)}>
-                      Get Started
-                    </a>
-                  </Button>
+              <nav className="mt-6 flex-1 overflow-y-auto">
+                <div className="flex flex-col space-y-4 pb-6">
+                  {mobileNavigationItems.map((item) => (
+                    <MobileNavItem key={item.title} item={item} setIsOpen={setIsOpen} />
+                  ))}
+                  <div className="pt-4 space-y-2">
+                    <Button variant="outline" className="w-full" asChild>
+                      <a href="/login" onClick={() => setIsOpen(false)}>
+                        Log In
+                      </a>
+                    </Button>
+                    <Button 
+                      className="w-full bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white" 
+                      asChild
+                    >
+                      <a href="/signup" onClick={() => setIsOpen(false)}>
+                        Get Started
+                      </a>
+                    </Button>
+                  </div>
                 </div>
               </nav>
             </SheetContent>
@@ -289,7 +291,7 @@ function MobileNavItem({
           />
         </button>
         {isExpanded && (
-          <div className="ml-4 mt-2 space-y-2">
+          <div className="ml-4 mt-2 space-y-2 max-h-[60vh] overflow-y-auto pr-2">
             {item.children.map((child) => (
               <div key={child.title}>
                 <div className="text-sm font-medium text-gray-900 mb-1">
@@ -300,16 +302,24 @@ function MobileNavItem({
                 </div>
                 {child.children && (
                   <div className="ml-2 space-y-1">
-                    {child.children.map((subChild) => (
-                      <a
-                        key={subChild.title}
-                        href={subChild.href || "#"}
-                        onClick={() => setIsOpen(false)}
-                        className="block py-1 text-sm text-muted-foreground transition-colors hover:text-primary"
-                      >
-                        {subChild.title}
-                      </a>
-                    ))}
+                    {child.children.map((subChild) => {
+                      // Find matching feature icon - match by href path
+                      const featureId = subChild.href?.split('/').pop(); // Extract feature id from href
+                      const feature = features.find(f => f.id === featureId || f.name === subChild.title);
+                      const featureIcon = feature?.iconPath || "/images/icons/ic_sober_living_app.png";
+                      
+                      return (
+                        <a
+                          key={subChild.title}
+                          href={subChild.href || "#"}
+                          onClick={() => setIsOpen(false)}
+                          className="flex items-center gap-2 py-1.5 text-sm text-muted-foreground transition-colors hover:text-primary"
+                        >
+                          <img src={featureIcon} alt={subChild.title} className="w-5 h-5 flex-shrink-0" />
+                          <span>{subChild.title}</span>
+                        </a>
+                      );
+                    })}
                   </div>
                 )}
               </div>

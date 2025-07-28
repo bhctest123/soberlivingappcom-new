@@ -86,16 +86,6 @@ const Footer = () => {
                   Guides
                 </a>
               </li>
-              <li>
-                <a href="/webinars" className="text-sm text-gray-400 hover:text-white transition-colors">
-                  Webinars
-                </a>
-              </li>
-              <li>
-                <a href="/support" className="text-sm text-gray-400 hover:text-white transition-colors">
-                  Support Center
-                </a>
-              </li>
             </ul>
           </div>
 
@@ -113,16 +103,6 @@ const Footer = () => {
                   Contact
                 </a>
               </li>
-              <li>
-                <a href="/careers" className="text-sm text-gray-400 hover:text-white transition-colors">
-                  Careers
-                </a>
-              </li>
-              <li>
-                <a href="/partners" className="text-sm text-gray-400 hover:text-white transition-colors">
-                  Partners
-                </a>
-              </li>
             </ul>
           </div>
 
@@ -138,16 +118,6 @@ const Footer = () => {
               <li>
                 <a href="https://behavehealth.com/privacy" className="text-sm text-gray-400 hover:text-white transition-colors">
                   Privacy Policy
-                </a>
-              </li>
-              <li>
-                <a href="/compliance" className="text-sm text-gray-400 hover:text-white transition-colors">
-                  Compliance
-                </a>
-              </li>
-              <li>
-                <a href="/hipaa" className="text-sm text-gray-400 hover:text-white transition-colors">
-                  HIPAA Notice
                 </a>
               </li>
             </ul>

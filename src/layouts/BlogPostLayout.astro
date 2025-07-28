@@ -1,6 +1,6 @@
 ---
 import BaseLayout from './BaseLayout.astro';
-import type { CollectionEntry } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 
 export interface Props {
   post: CollectionEntry<'blog'>;
@@ -9,6 +9,32 @@ export interface Props {
 const { post } = Astro.props;
 const { data, slug } = post;
 const { Content } = await post.render();
+
+// Get all blog posts for navigation
+const allPosts = await getCollection('blog', ({ data }: CollectionEntry<'blog'>) => {
+  return data.draft !== true;
+});
+
+// Sort posts by date (oldest to newest)
+const sortedPosts = allPosts.sort((a: CollectionEntry<'blog'>, b: CollectionEntry<'blog'>) => {
+  return a.data.date.getTime() - b.data.date.getTime();
+});
+
+// Find current post index
+const currentIndex = sortedPosts.findIndex((p: CollectionEntry<'blog'>) => p.slug === slug);
+
+// Get previous and next posts
+const prevPost = currentIndex > 0 ? sortedPosts[currentIndex - 1] : null;
+const nextPost = currentIndex < sortedPosts.length - 1 ? sortedPosts[currentIndex + 1] : null;
+
+// Helper function to generate post URL
+const getPostUrl = (post: CollectionEntry<'blog'>) => {
+  const date = post.data.date;
+  const year = date.getUTCFullYear();
+  const month = date.getUTCMonth() + 1;
+  const day = date.getUTCDate();
+  return `/sober-living-app-blog/${year}/${month}/${day}/${post.slug}`;
+};
 
 // Generate the live site URL for QA - use UTC to match build process
 const date = data.date;
@@ -215,15 +241,52 @@ const formattedDate = date.toLocaleDateString('en-US', {
           </div>
 
           <!-- Navigation to other posts -->
+          <div class={`grid gap-4 mb-8 ${prevPost && nextPost ? 'grid-cols-1 md:grid-cols-2' : 'grid-cols-1'}`}>
+            {prevPost && (
+              <a 
+                href={getPostUrl(prevPost)}
+                class={`group flex items-center gap-4 p-6 bg-gray-50 rounded-lg hover:bg-gray-100 transition-all duration-200 border border-gray-200 hover:border-gray-300 ${!nextPost ? 'md:max-w-xl md:mx-auto' : ''}`}
+              >
+                <svg class="w-5 h-5 text-gray-400 group-hover:text-blue-600 transition-colors flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+                </svg>
+                <div class="text-left flex-1">
+                  <div class="text-sm text-gray-500 mb-1">Previous Post</div>
+                  <div class="font-medium text-gray-900 group-hover:text-blue-600 transition-colors line-clamp-2">
+                    {prevPost.data.title}
+                  </div>
+                </div>
+              </a>
+            )}
+            
+            {nextPost && (
+              <a 
+                href={getPostUrl(nextPost)}
+                class={`group flex items-center gap-4 p-6 bg-gray-50 rounded-lg hover:bg-gray-100 transition-all duration-200 border border-gray-200 hover:border-gray-300 md:flex-row-reverse md:text-right ${!prevPost ? 'md:max-w-xl md:mx-auto' : ''}`}
+              >
+                <svg class="w-5 h-5 text-gray-400 group-hover:text-blue-600 transition-colors flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                </svg>
+                <div class="flex-1">
+                  <div class="text-sm text-gray-500 mb-1">Next Post</div>
+                  <div class="font-medium text-gray-900 group-hover:text-blue-600 transition-colors line-clamp-2">
+                    {nextPost.data.title}
+                  </div>
+                </div>
+              </a>
+            )}
+          </div>
+          
+          <!-- Back to Blog -->
           <div class="text-center">
             <a 
               href="/blog" 
-              class="inline-flex items-center px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium"
+              class="inline-flex items-center px-4 py-2 text-gray-600 hover:text-gray-900 transition-colors font-medium"
             >
               <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z" />
               </svg>
-              Back to Blog
+              View All Blog Posts
             </a>
           </div>
         </footer>

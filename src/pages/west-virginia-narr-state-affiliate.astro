@@ -1,0 +1,543 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import { Button } from '../components/ui/button'
+import { Card, CardContent, CardHeader, CardTitle } from '../components/ui/card'
+
+const tableOfContents = [
+  { id: 'overview', title: 'West Virginia NARR State Affiliate Overview' },
+  { id: 'requirements', title: 'Components and Requirements' },
+  { id: 'impact', title: 'Impact on Healthcare Delivery' },
+  { id: 'best-practices', title: 'Best Practices for Affiliates' },
+  { id: 'compliance', title: 'Compliance and Regulation' },
+  { id: 'future', title: 'Future Trends and Updates' }
+]
+
+const quickFacts = [
+  { label: 'Established', value: '2018' },
+  { label: 'Certification Levels', value: 'Four levels based on intensity of support' },
+  { label: 'Key Values', value: 'Safety, support, community integration' },
+  { label: 'Affiliation', value: 'National Alliance for Recovery Residences (NARR)' }
+]
+
+const complianceChecklist = [
+  'Ensure all staff are trained on HIPAA compliance',
+  'Post emergency procedures prominently throughout the residence',
+  'Verify that naloxone is available at each location',
+  'Maintain up-to-date liability insurance',
+  'Conduct annual inspections as required by WVARR',
+  'Ensure appliances are safe and functional',
+  'Provide residents with written agreements outlining fees',
+  'Adhere strictly to nondiscriminatory practices',
+  'Document all resident financial transactions accurately',
+  'Attend mandatory training sessions provided by WVARR'
+]
+---
+
+<BaseLayout 
+  title="West Virginia NARR State Affiliate - Sober Living App"
+  description="A comprehensive guide to the West Virginia NARR State affiliate (WVARR) for entrepreneurs, healthcare providers, and administrators in recovery housing."
+>
+  <!-- Hero Section -->
+  <section class="relative bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-20 lg:py-28 overflow-hidden">
+    <div class="absolute inset-0 opacity-15">
+      <div class="absolute left-10 top-20 w-96 h-96 bg-purple-400 rounded-full mix-blend-multiply filter blur-2xl animate-blob"></div>
+      <div class="absolute right-10 bottom-20 w-96 h-96 bg-yellow-400 rounded-full mix-blend-multiply filter blur-2xl animate-blob animation-delay-2000"></div>
+      <div class="absolute left-1/2 top-1/2 w-96 h-96 bg-pink-400 rounded-full mix-blend-multiply filter blur-2xl animate-blob animation-delay-4000"></div>
+    </div>
+    
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center max-w-4xl mx-auto">
+        <h1 class="text-4xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
+          West Virginia NARR State Affiliate: <span class="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">A Comprehensive Guide</span>
+        </h1>
+        
+        <p class="text-xl text-gray-600 mb-10 leading-relaxed">
+          For Entrepreneurs, Healthcare Providers, and Administrators
+        </p>
+
+        <div class="bg-white/80 backdrop-blur-sm rounded-2xl shadow-xl p-8 mb-8">
+          <p class="text-lg text-gray-700 leading-relaxed">
+            West Virginia has been at the forefront of the opioid crisis, with one of the highest overdose death rates in the United States. 
+            In 2021 alone, West Virginia reported over 1,500 drug overdose deaths, with opioids being a significant contributor. 
+            The West Virginia Alliance of Recovery Residences (WVARR) plays a pivotal role in certifying recovery residences that meet national standards.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Table of Contents -->
+  <section class="py-12 bg-white sticky top-0 z-40 shadow-md">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <nav class="flex flex-wrap justify-center gap-4">
+        {tableOfContents.map((item) => (
+          <a 
+            href={`#${item.id}`} 
+            class="text-sm font-medium text-gray-700 hover:text-blue-600 transition-colors px-4 py-2 rounded-lg hover:bg-blue-50"
+          >
+            {item.title}
+          </a>
+        ))}
+      </nav>
+    </div>
+  </section>
+
+  <!-- Overview Section -->
+  <section id="overview" class="py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-8">
+          West Virginia NARR State Affiliate Overview
+        </h2>
+        
+        <div class="prose prose-lg max-w-none mb-12">
+          <h3 class="text-2xl font-semibold text-gray-900 mb-4">Definition and Significance in 2023</h3>
+          <p class="text-gray-700 leading-relaxed mb-6">
+            The West Virginia Alliance of Recovery Residences (WVARR) is the state's official affiliate of the National Alliance for Recovery Residences (NARR). 
+            WVARR is responsible for certifying recovery residences across West Virginia to ensure they meet national standards of safety, support, and accountability. 
+            By promoting quality recovery housing through training and resources, WVARR helps individuals seeking long-term sobriety find structured environments that support their recovery journey.
+          </p>
+          
+          <p class="text-gray-700 leading-relaxed mb-8">
+            In 2023, WVARR has become increasingly important as West Virginia continues to combat the opioid epidemic. 
+            Certified sober homes play a crucial role in reducing relapse rates by providing residents with safe housing options that adhere to best practices in addiction recovery.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
+          {quickFacts.map((fact) => (
+            <Card>
+              <CardHeader className="pb-3">
+                <CardTitle className="text-lg font-medium text-gray-700">{fact.label}</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p class="text-xl font-semibold text-gray-900">{fact.value}</p>
+              </CardContent>
+            </Card>
+          ))}
+        </div>
+
+        <div class="bg-blue-50 rounded-2xl p-8">
+          <h3 class="text-2xl font-semibold text-gray-900 mb-4">Purpose and Impact on Healthcare Delivery</h3>
+          <p class="text-gray-700 leading-relaxed">
+            WVARR-certified homes are essential components of West Virginia's healthcare system because they provide a bridge between clinical addiction treatment and independent living. 
+            These homes offer peer support, accountability, and structure—key factors in preventing relapse and promoting sustained recovery.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Requirements Section -->
+  <section id="requirements" class="py-20 bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-8">
+          Components and Requirements
+        </h2>
+
+        <div class="bg-white rounded-2xl shadow-xl p-8 mb-8">
+          <h3 class="text-2xl font-semibold text-gray-900 mb-6">Certification Process</h3>
+          <ol class="space-y-4">
+            <li class="flex items-start">
+              <span class="flex-shrink-0 w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center font-semibold mr-4">1</span>
+              <div>
+                <h4 class="font-semibold text-gray-900 mb-1">Application Submission</h4>
+                <p class="text-gray-700">Operators must submit detailed documentation outlining their policies, governance structure, resident rights information, and more.</p>
+              </div>
+            </li>
+            <li class="flex items-start">
+              <span class="flex-shrink-0 w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center font-semibold mr-4">2</span>
+              <div>
+                <h4 class="font-semibold text-gray-900 mb-1">On-Site Inspection</h4>
+                <p class="text-gray-700">WVARR conducts regular on-site inspections to verify compliance with safety standards.</p>
+              </div>
+            </li>
+            <li class="flex items-start">
+              <span class="flex-shrink-0 w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center font-semibold mr-4">3</span>
+              <div>
+                <h4 class="font-semibold text-gray-900 mb-1">Annual Renewal</h4>
+                <p class="text-gray-700">Certified homes must undergo yearly inspections to maintain their certification status.</p>
+              </div>
+            </li>
+            <li class="flex items-start">
+              <span class="flex-shrink-0 w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center font-semibold mr-4">4</span>
+              <div>
+                <h4 class="font-semibold text-gray-900 mb-1">Training & Support</h4>
+                <p class="text-gray-700">Operators are required to attend regular training sessions provided by WVARR.</p>
+              </div>
+            </li>
+          </ol>
+        </div>
+
+        <Card className="border-orange-200 bg-orange-50">
+          <CardHeader>
+            <CardTitle className="text-xl text-orange-900">Common Pitfalls and How to Avoid Them</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <ul class="space-y-3">
+              <li class="flex items-start">
+                <img src="/images/icons/warning.png" alt="Warning" class="w-6 h-6 mt-0.5 mr-3 flex-shrink-0" />
+                <div>
+                  <span class="font-semibold text-gray-900">Incomplete Documentation:</span>
+                  <span class="text-gray-700"> Ensure all required documents are submitted accurately.</span>
+                </div>
+              </li>
+              <li class="flex items-start">
+                <img src="/images/icons/warning.png" alt="Warning" class="w-6 h-6 mt-0.5 mr-3 flex-shrink-0" />
+                <div>
+                  <span class="font-semibold text-gray-900">Failure to Maintain Standards:</span>
+                  <span class="text-gray-700"> Homes must continuously meet safety standards; failure to do so can result in decertification.</span>
+                </div>
+              </li>
+              <li class="flex items-start">
+                <img src="/images/icons/warning.png" alt="Warning" class="w-6 h-6 mt-0.5 mr-3 flex-shrink-0" />
+                <div>
+                  <span class="font-semibold text-gray-900">Lack of Resident Engagement:</span>
+                  <span class="text-gray-700"> Homes should foster a supportive community where residents actively participate in their recovery process.</span>
+                </div>
+              </li>
+            </ul>
+          </CardContent>
+        </Card>
+
+        <div class="mt-8 p-6 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-2xl text-white">
+          <h4 class="text-xl font-semibold mb-3">Pro Tip</h4>
+          <p class="leading-relaxed">
+            Utilize software solutions like BehaveHealth's all-in-one platform to streamline documentation management and ensure compliance with certification requirements.
+          </p>
+          <Button size="lg" variant="secondary" className="mt-4" asChild>
+            <a href="/" class="inline-flex items-center">
+              Learn More About Our Platform
+              <img src="/images/icons/arrow_forward.png" alt="Arrow" class="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            </a>
+          </Button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Impact Section -->
+  <section id="impact" class="py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-8">
+          Impact on Healthcare Delivery
+        </h2>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+          <Card>
+            <CardHeader>
+              <CardTitle className="flex items-center">
+                <img src="/images/icons/residents.png" alt="Patients" class="w-8 h-8 mr-3" />
+                Effects on Patients
+              </CardTitle>
+            </CardHeader>
+            <CardContent>
+              <p class="text-gray-700">
+                For individuals recovering from SUDs, access to certified sober homes can be life-changing. 
+                These residences provide a structured environment where residents can focus on their recovery while receiving peer support. 
+                Studies show higher rates of sustained sobriety in certified recovery residences.
+              </p>
+            </CardContent>
+          </Card>
+
+          <Card>
+            <CardHeader>
+              <CardTitle className="flex items-center">
+                <img src="/images/icons/organizations-providers.png" alt="Providers" class="w-8 h-8 mr-3" />
+                Effects on Providers
+              </CardTitle>
+            </CardHeader>
+            <CardContent>
+              <p class="text-gray-700">
+                Healthcare providers benefit from referring patients to WVARR-certified homes because these facilities adhere to national standards that promote patient safety and well-being. 
+                Providers can be confident that patients will receive continued support post-treatment.
+              </p>
+            </CardContent>
+          </Card>
+
+          <Card>
+            <CardHeader>
+              <CardTitle className="flex items-center">
+                <img src="/images/icons/billing.png" alt="Payers" class="w-8 h-8 mr-3" />
+                Effects on Payers
+              </CardTitle>
+            </CardHeader>
+            <CardContent>
+              <p class="text-gray-700">
+                Insurance companies often prefer referring clients to certified sober homes because these facilities are more likely to provide positive outcomes at lower costs compared to repeated inpatient treatments.
+              </p>
+            </CardContent>
+          </Card>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Best Practices Section -->
+  <section id="best-practices" class="py-20 bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-8">
+          Best Practices for Affiliates
+        </h2>
+
+        <div class="bg-white rounded-2xl shadow-xl p-8 mb-8">
+          <h3 class="text-2xl font-semibold text-gray-900 mb-6">Step-by-Step Guide for Affiliates</h3>
+          <div class="space-y-4">
+            {[
+              'Understand NARR Standards: Familiarize yourself with the national standards set by NARR.',
+              'Prepare Documentation: Ensure all legal documents (e.g., business licenses) are up-to-date.',
+              'Engage Residents: Foster a community-focused environment where residents actively participate in their recovery.',
+              'Schedule Regular Inspections: Stay ahead by scheduling internal audits before your annual inspection.',
+              'Leverage Technology: Use software like BehaveHealth\'s platform to manage billing, documentation, and compliance efficiently.'
+            ].map((step, index) => (
+              <div class="flex items-start">
+                <span class="flex-shrink-0 w-8 h-8 bg-green-600 text-white rounded-full flex items-center justify-center font-semibold mr-4">
+                  {index + 1}
+                </span>
+                <p class="text-gray-700 pt-1">{step}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <Card className="border-blue-200 bg-blue-50">
+          <CardHeader>
+            <CardTitle className="text-xl text-blue-900">Expert Tips for Success</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <ol class="space-y-3">
+              <li class="flex items-start">
+                <span class="font-semibold text-blue-900 mr-2">1.</span>
+                <span class="text-gray-700">Stay Informed About Policy Changes: Keep up with changes in state regulations affecting sober homes.</span>
+              </li>
+              <li class="flex items-start">
+                <span class="font-semibold text-blue-900 mr-2">2.</span>
+                <span class="text-gray-700">Invest in Staff Training: Regularly train staff on best practices in addiction recovery support.</span>
+              </li>
+              <li class="flex items-start">
+                <span class="font-semibold text-blue-900 mr-2">3.</span>
+                <span class="text-gray-700">Create a Safe Environment: Ensure all appliances are functional and emergency procedures are posted.</span>
+              </li>
+              <li class="flex items-start">
+                <span class="font-semibold text-blue-900 mr-2">4.</span>
+                <span class="text-gray-700">Promote Peer Support Programs: Encourage residents to participate in peer-led meetings.</span>
+              </li>
+              <li class="flex items-start">
+                <span class="font-semibold text-blue-900 mr-2">5.</span>
+                <span class="text-gray-700">Utilize Data Analytics: Track resident outcomes using data-driven methods available through platforms like BehaveHealth's EMR system.</span>
+              </li>
+            </ol>
+          </CardContent>
+        </Card>
+      </div>
+    </div>
+  </section>
+
+  <!-- Compliance Section -->
+  <section id="compliance" class="py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-8">
+          Compliance and Regulation
+        </h2>
+
+        <div class="mb-12">
+          <h3 class="text-2xl font-semibold text-gray-900 mb-6">Key Laws Governing Recovery Housing</h3>
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <Card>
+              <CardHeader>
+                <CardTitle className="text-lg">Fair Housing Act (FHA)</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p class="text-gray-700">Protects individuals recovering from SUDs from discrimination when seeking housing.</p>
+              </CardContent>
+            </Card>
+            <Card>
+              <CardHeader>
+                <CardTitle className="text-lg">Americans with Disabilities Act (ADA)</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p class="text-gray-700">Ensures that sober homes accommodate individuals with disabilities.</p>
+              </CardContent>
+            </Card>
+            <Card>
+              <CardHeader>
+                <CardTitle className="text-lg">HIPAA Compliance</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p class="text-gray-700">If your facility handles patient health information (PHI), it must comply with HIPAA regulations.</p>
+              </CardContent>
+            </Card>
+          </div>
+        </div>
+
+        <div class="bg-red-50 border border-red-200 rounded-2xl p-8 mb-12">
+          <h3 class="text-2xl font-semibold text-red-900 mb-4">Legal Risks</h3>
+          <ul class="space-y-3">
+            <li class="flex items-start">
+              <img src="/images/icons/error.png" alt="Risk" class="w-6 h-6 mt-0.5 mr-3 flex-shrink-0" />
+              <span class="text-gray-700">Non-compliance with FHA or ADA could lead to lawsuits.</span>
+            </li>
+            <li class="flex items-start">
+              <img src="/images/icons/error.png" alt="Risk" class="w-6 h-6 mt-0.5 mr-3 flex-shrink-0" />
+              <span class="text-gray-700">Failure to maintain safety standards could result in decertification by WVARR.</span>
+            </li>
+          </ul>
+        </div>
+
+        <Card>
+          <CardHeader>
+            <CardTitle className="text-2xl">10-Point Compliance Checklist</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              {complianceChecklist.map((item, index) => (
+                <div class="flex items-start">
+                  <img src="/images/icons/circle_tick.png" alt="Check" class="w-6 h-6 mt-0.5 mr-3 flex-shrink-0" />
+                  <span class="text-gray-700">
+                    <span class="font-semibold">{index + 1}.</span> {item}
+                  </span>
+                </div>
+              ))}
+            </div>
+          </CardContent>
+        </Card>
+      </div>
+    </div>
+  </section>
+
+  <!-- Future Trends Section -->
+  <section id="future" class="py-20 bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-8">
+          Future Trends and Updates
+        </h2>
+
+        <p class="text-lg text-gray-700 mb-8 leading-relaxed">
+          As demand for recovery housing continues to grow due to rising addiction rates across West Virginia—particularly related to opioids—several trends are likely to shape the future of WVARR-certified homes:
+        </p>
+
+        <div class="space-y-6 mb-12">
+          <Card>
+            <CardHeader>
+              <CardTitle className="flex items-center">
+                <span class="text-3xl font-bold text-blue-600 mr-4">1.</span>
+                Increased Integration with Healthcare Systems
+              </CardTitle>
+            </CardHeader>
+            <CardContent>
+              <p class="text-gray-700">
+                Expect more partnerships between healthcare providers and certified sober homes as part of integrated care models.
+              </p>
+            </CardContent>
+          </Card>
+
+          <Card>
+            <CardHeader>
+              <CardTitle className="flex items-center">
+                <span class="text-3xl font-bold text-blue-600 mr-4">2.</span>
+                Technology Adoption
+              </CardTitle>
+            </CardHeader>
+            <CardContent>
+              <p class="text-gray-700">
+                More operators will adopt software solutions like BehaveHealth's platform to streamline operations—especially billing management—as Medicaid expands coverage for addiction treatment services.
+              </p>
+            </CardContent>
+          </Card>
+
+          <Card>
+            <CardHeader>
+              <CardTitle className="flex items-center">
+                <span class="text-3xl font-bold text-blue-600 mr-4">3.</span>
+                Policy Changes
+              </CardTitle>
+            </CardHeader>
+            <CardContent>
+              <p class="text-gray-700">
+                New legislation may further formalize certification processes or expand funding opportunities for certified homes.
+              </p>
+            </CardContent>
+          </Card>
+        </div>
+
+        <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl p-8">
+          <p class="text-lg text-gray-700 leading-relaxed">
+            BehaveHealth.com stays current with industry changes by attending conferences like the annual NARR conference where experts discuss best practices in recovery housing.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Conclusion Section -->
+  <section class="py-20">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="bg-gradient-to-br from-blue-600 to-indigo-600 rounded-3xl p-12 text-white text-center">
+        <h2 class="text-3xl lg:text-4xl font-bold mb-6">
+          Conclusion
+        </h2>
+        
+        <p class="text-xl mb-8 leading-relaxed opacity-90 max-w-3xl mx-auto">
+          The West Virginia NARR State affiliate plays an indispensable role in supporting individuals recovering from substance use disorders by ensuring access to high-quality sober living environments across the state.
+        </p>
+
+        <p class="text-lg mb-10 opacity-90 max-w-3xl mx-auto">
+          By adhering to national standards set by NARR through organizations like WVARR, operators can create safe spaces that foster long-term recovery while avoiding common pitfalls related to compliance or operational inefficiencies.
+        </p>
+        
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <Button size="lg" variant="secondary" className="group" asChild>
+            <a href="/" class="inline-flex items-center">
+              Explore BehaveHealth Solutions
+              <img src="/images/icons/arrow_forward.png" alt="Arrow" class="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            </a>
+          </Button>
+          <Button size="lg" variant="outline" className="bg-transparent text-white border-white hover:bg-white hover:text-blue-600 group" asChild>
+            <a href="/contact" class="inline-flex items-center">
+              Contact Us
+              <img src="/images/icons/arrow_forward.png" alt="Arrow" class="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            </a>
+          </Button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Disclaimer -->
+  <section class="py-8 bg-gray-100">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <p class="text-sm text-gray-600 italic">
+        <strong>Disclaimer:</strong> This article is for educational purposes only and does not constitute legal or financial advice. Always consult with a professional before making business decisions.
+      </p>
+      <p class="text-sm text-gray-600 mt-2">
+        <em>Last Updated: November 6th, 2024</em>
+      </p>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  @keyframes blob {
+    0% { transform: translate(0px, 0px) scale(1); }
+    33% { transform: translate(30px, -50px) scale(1.1); }
+    66% { transform: translate(-20px, 20px) scale(0.9); }
+    100% { transform: translate(0px, 0px) scale(1); }
+  }
+  
+  .animate-blob {
+    animation: blob 7s infinite;
+  }
+  
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+  
+  .animation-delay-4000 {
+    animation-delay: 4s;
+  }
+</style>

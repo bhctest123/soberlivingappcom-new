@@ -1,0 +1,296 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import { Button } from '../components/ui/button'
+
+const downloadFeatures = [
+  {
+    title: 'iOS App',
+    description: 'Download our native iOS app for iPhone and iPad from the App Store',
+    icon: '/images/icons/mobile_rounded.png',
+    link: '#ios'
+  },
+  {
+    title: 'Android App',
+    description: 'Get our Android app from Google Play Store for all Android devices',
+    icon: '/images/icons/android.png',
+    link: '#android'
+  },
+  {
+    title: 'Desktop Software',
+    description: 'Access the full-featured web application from any modern browser',
+    icon: '/images/icons/laptop.png',
+    link: '#desktop'
+  }
+]
+---
+
+<BaseLayout 
+  title="Downloads - Sober Living App"
+  description="Download Sober Living App for iOS, Android, or access our web application. Manage your sober living facility from any device."
+>
+  <!-- Hero Section -->
+  <section class="relative bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-20 lg:py-28 overflow-hidden">
+    <div class="absolute inset-0 opacity-15">
+      <div class="absolute left-10 top-20 w-96 h-96 bg-purple-400 rounded-full mix-blend-multiply filter blur-2xl animate-blob"></div>
+      <div class="absolute right-10 bottom-20 w-96 h-96 bg-yellow-400 rounded-full mix-blend-multiply filter blur-2xl animate-blob animation-delay-2000"></div>
+      <div class="absolute left-1/2 top-1/2 w-96 h-96 bg-pink-400 rounded-full mix-blend-multiply filter blur-2xl animate-blob animation-delay-4000"></div>
+    </div>
+    
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center max-w-3xl mx-auto">
+        <div class="flex justify-center mb-8">
+          <div class="relative">
+            <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-3xl blur-3xl opacity-40 animate-pulse"></div>
+            <div class="relative w-28 h-28 bg-white rounded-3xl shadow-xl flex items-center justify-center border border-gray-100">
+              <img src="/images/icons/download.png" alt="Download" class="w-20 h-20 object-contain" />
+            </div>
+          </div>
+        </div>
+        
+        <h1 class="text-4xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
+          Download <span class="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Sober Living App</span>
+        </h1>
+        
+        <p class="text-xl text-gray-600 mb-10 leading-relaxed">
+          Access your sober living management platform from any device. Available on iOS, Android, and web browsers.
+        </p>
+        
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <Button size="lg" className="group" asChild>
+            <a href="#ios" class="inline-flex items-center">
+              Download for iOS
+              <img src="/images/icons/arrow_forward.png" alt="Arrow" class="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform filter brightness-0 invert" />
+            </a>
+          </Button>
+          <Button size="lg" variant="outline" className="group" asChild>
+            <a href="#android" class="inline-flex items-center">
+              Download for Android
+              <img src="/images/icons/arrow_forward.png" alt="Arrow" class="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            </a>
+          </Button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Download Options -->
+  <section class="py-20 bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-16">
+        <h2 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+          Choose Your Platform
+        </h2>
+        <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+          Get started with Sober Living App on your preferred device
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        {downloadFeatures.map(feature => (
+          <div class="group bg-gradient-to-br from-white to-gray-50 rounded-2xl shadow-lg shadow-blue-100/30 hover:shadow-2xl hover:shadow-blue-200/40 transition-all duration-300 p-8 border border-gray-100 hover:border-blue-200 relative overflow-hidden">
+            <div class="absolute -top-10 -right-10 w-32 h-32 bg-gradient-to-br from-blue-100 to-indigo-100 rounded-full opacity-20 group-hover:scale-150 transition-transform duration-500"></div>
+            <a href={feature.link} class="relative block">
+              <div class="flex items-start gap-6">
+                <div class="w-16 h-16 bg-gradient-to-br from-blue-100 to-indigo-100 rounded-xl flex items-center justify-center flex-shrink-0 group-hover:scale-125 transition-transform duration-300 p-3 shadow-lg shadow-blue-200/50">
+                  <img src={feature.icon} alt={feature.title} class="w-full h-full object-contain" />
+                </div>
+                <div>
+                  <h3 class="text-2xl font-semibold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors duration-300">
+                    {feature.title}
+                  </h3>
+                  <p class="text-gray-600 leading-relaxed text-lg">
+                    {feature.description}
+                  </p>
+                </div>
+              </div>
+            </a>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- iOS Section -->
+  <section id="ios" class="py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h3 class="text-3xl lg:text-4xl font-bold text-gray-900 mb-6">
+            iOS App for iPhone & iPad
+          </h3>
+          <p class="text-lg text-gray-600 mb-6 leading-relaxed">
+            Our native iOS app provides the full Sober Living App experience optimized for your Apple devices. 
+            Access all features including resident management, billing, scheduling, and real-time notifications.
+          </p>
+          <ul class="space-y-3 mb-8">
+            <li class="flex items-start">
+              <img src="/images/icons/circle_tick.png" alt="Check" class="w-6 h-6 mt-0.5 mr-3 flex-shrink-0" />
+              <span class="text-gray-700">Native iOS performance and design</span>
+            </li>
+            <li class="flex items-start">
+              <img src="/images/icons/circle_tick.png" alt="Check" class="w-6 h-6 mt-0.5 mr-3 flex-shrink-0" />
+              <span class="text-gray-700">Push notifications for important updates</span>
+            </li>
+            <li class="flex items-start">
+              <img src="/images/icons/circle_tick.png" alt="Check" class="w-6 h-6 mt-0.5 mr-3 flex-shrink-0" />
+              <span class="text-gray-700">Offline access to critical data</span>
+            </li>
+            <li class="flex items-start">
+              <img src="/images/icons/circle_tick.png" alt="Check" class="w-6 h-6 mt-0.5 mr-3 flex-shrink-0" />
+              <span class="text-gray-700">Face ID and Touch ID support</span>
+            </li>
+          </ul>
+          <Button size="lg" className="group" asChild>
+            <a href="https://apps.apple.com" target="_blank" rel="noopener noreferrer" class="inline-flex items-center">
+              Download on App Store
+              <img src="/images/icons/arrow_forward.png" alt="Arrow" class="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform filter brightness-0 invert" />
+            </a>
+          </Button>
+        </div>
+        <div class="relative">
+          <div class="absolute inset-0 bg-gradient-to-r from-blue-100 to-indigo-100 rounded-3xl transform rotate-3"></div>
+          <div class="relative bg-white rounded-3xl shadow-2xl p-8">
+            <img src="/images/icons/mobile_rounded.png" alt="iOS App" class="w-full h-auto max-w-sm mx-auto" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Android Section -->
+  <section id="android" class="py-20 bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+        <div class="order-2 lg:order-1 relative">
+          <div class="absolute inset-0 bg-gradient-to-r from-green-100 to-emerald-100 rounded-3xl transform -rotate-3"></div>
+          <div class="relative bg-white rounded-3xl shadow-2xl p-8">
+            <img src="/images/icons/android.png" alt="Android App" class="w-full h-auto max-w-sm mx-auto" />
+          </div>
+        </div>
+        <div class="order-1 lg:order-2">
+          <h3 class="text-3xl lg:text-4xl font-bold text-gray-900 mb-6">
+            Android App for All Devices
+          </h3>
+          <p class="text-lg text-gray-600 mb-6 leading-relaxed">
+            Our Android app brings the power of Sober Living App to all Android devices. 
+            Enjoy seamless integration with your facility management workflow.
+          </p>
+          <ul class="space-y-3 mb-8">
+            <li class="flex items-start">
+              <img src="/images/icons/circle_tick.png" alt="Check" class="w-6 h-6 mt-0.5 mr-3 flex-shrink-0" />
+              <span class="text-gray-700">Material Design interface</span>
+            </li>
+            <li class="flex items-start">
+              <img src="/images/icons/circle_tick.png" alt="Check" class="w-6 h-6 mt-0.5 mr-3 flex-shrink-0" />
+              <span class="text-gray-700">Real-time sync across devices</span>
+            </li>
+            <li class="flex items-start">
+              <img src="/images/icons/circle_tick.png" alt="Check" class="w-6 h-6 mt-0.5 mr-3 flex-shrink-0" />
+              <span class="text-gray-700">Biometric authentication</span>
+            </li>
+            <li class="flex items-start">
+              <img src="/images/icons/circle_tick.png" alt="Check" class="w-6 h-6 mt-0.5 mr-3 flex-shrink-0" />
+              <span class="text-gray-700">Works on phones and tablets</span>
+            </li>
+          </ul>
+          <Button size="lg" className="group" asChild>
+            <a href="https://play.google.com" target="_blank" rel="noopener noreferrer" class="inline-flex items-center">
+              Get it on Google Play
+              <img src="/images/icons/arrow_forward.png" alt="Arrow" class="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform filter brightness-0 invert" />
+            </a>
+          </Button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Web App Section -->
+  <section id="desktop" class="py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center max-w-3xl mx-auto">
+        <h3 class="text-3xl lg:text-4xl font-bold text-gray-900 mb-6">
+          Web Application
+        </h3>
+        <p class="text-lg text-gray-600 mb-8 leading-relaxed">
+          Access the full-featured Sober Living App from any modern web browser. 
+          No downloads required - just sign in and start managing your facility.
+        </p>
+        <div class="bg-gradient-to-br from-white to-gray-50 rounded-2xl shadow-xl p-8 mb-8">
+          <img src="/images/icons/laptop.png" alt="Web App" class="w-32 h-32 mx-auto mb-6" />
+          <h4 class="text-xl font-semibold text-gray-900 mb-4">Browser Requirements</h4>
+          <div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
+            <div>
+              <p class="font-medium text-gray-900">Chrome</p>
+              <p class="text-sm text-gray-600">Version 90+</p>
+            </div>
+            <div>
+              <p class="font-medium text-gray-900">Safari</p>
+              <p class="text-sm text-gray-600">Version 14+</p>
+            </div>
+            <div>
+              <p class="font-medium text-gray-900">Firefox</p>
+              <p class="text-sm text-gray-600">Version 88+</p>
+            </div>
+            <div>
+              <p class="font-medium text-gray-900">Edge</p>
+              <p class="text-sm text-gray-600">Version 90+</p>
+            </div>
+          </div>
+        </div>
+        <Button size="lg" className="group" asChild>
+          <a href="/login" class="inline-flex items-center">
+            Access Web App
+            <img src="/images/icons/arrow_forward.png" alt="Arrow" class="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform filter brightness-0 invert" />
+          </a>
+        </Button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Support Section -->
+  <section class="py-20 bg-gradient-to-br from-blue-600 to-indigo-600 text-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <h2 class="text-3xl lg:text-4xl font-bold mb-6">
+        Need Help Getting Started?
+      </h2>
+      <p class="text-xl mb-8 opacity-90 max-w-2xl mx-auto">
+        Our support team is here to help you set up and get the most out of Sober Living App
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <Button size="lg" variant="secondary" className="group" asChild>
+          <a href="/contact" class="inline-flex items-center">
+            Contact Support
+            <img src="/images/icons/arrow_forward.png" alt="Arrow" class="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
+          </a>
+        </Button>
+        <Button size="lg" variant="outline" className="bg-transparent text-white border-white hover:bg-white hover:text-blue-600 group" asChild>
+          <a href="/features" class="inline-flex items-center">
+            View Features
+            <img src="/images/icons/arrow_forward.png" alt="Arrow" class="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
+          </a>
+        </Button>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  @keyframes blob {
+    0% { transform: translate(0px, 0px) scale(1); }
+    33% { transform: translate(30px, -50px) scale(1.1); }
+    66% { transform: translate(-20px, 20px) scale(0.9); }
+    100% { transform: translate(0px, 0px) scale(1); }
+  }
+  
+  .animate-blob {
+    animation: blob 7s infinite;
+  }
+  
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+  
+  .animation-delay-4000 {
+    animation-delay: 4s;
+  }
+</style>

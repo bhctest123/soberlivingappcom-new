@@ -1,6 +1,7 @@
 ---
 import Navigation from '@/components/layout/Navigation.astro';
 import Footer from '@/components/layout/Footer.astro';
+import PostHog from '@/components/analytics/PostHog.astro';
 import '@/styles/global.css';
 import '@/styles/features.css';
 
@@ -84,6 +85,7 @@ const imageURL = new URL(image, Astro.site);
       </main>
       <Footer />
     </div>
+    <PostHog />
   </body>
 </html>
 
